@@ -11,11 +11,11 @@
 
   <!-- Alternate language links for SEO -->
   {% if page.lang == 'es' %}
-  <link rel="alternate" hreflang="en" href="{{ site.url }}{{ page.url | replace: '/es/', '/' }}">
-  <link rel="alternate" hreflang="es" href="{{ site.url }}{{ page.url }}">
+  <link rel="alternate" hreflang="en" href="{{ site.url }}{{ site.baseurl }}{{ page.url | replace: '/es/', '/' }}">
+  <link rel="alternate" hreflang="es" href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
   {% else %}
-  <link rel="alternate" hreflang="en" href="{{ site.url }}{{ page.url }}">
-  <link rel="alternate" hreflang="es" href="{{ site.url }}/es{{ page.url }}">
+  <link rel="alternate" hreflang="en" href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
+  <link rel="alternate" hreflang="es" href="{{ site.url }}{{ site.baseurl }}/es{{ page.url }}">
   {% endif %}
 
   <!-- Favicon -->
