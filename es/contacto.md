@@ -3,6 +3,7 @@ layout: page
 title: Contacto
 lang: es
 permalink: /es/contacto/
+ref: contact
 ---
 
 ## Contáctanos

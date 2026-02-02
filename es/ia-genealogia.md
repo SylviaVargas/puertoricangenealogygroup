@@ -3,6 +3,7 @@ layout: page
 title: IA Responsable en Genealogía
 lang: es
 permalink: /es/ia-genealogia/
+ref: ai-genealogy
 ---
 
 ## Uso Responsable de la IA en la Investigación Genealógica

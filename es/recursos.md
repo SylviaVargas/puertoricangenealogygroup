@@ -3,6 +3,7 @@ layout: page
 title: Recursos
 lang: es
 permalink: /es/recursos/
+ref: resources
 ---
 
 ## Recursos de Genealogía Puertorriqueña

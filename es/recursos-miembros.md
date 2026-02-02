@@ -3,6 +3,7 @@ layout: page
 title: Recursos para Miembros
 lang: es
 permalink: /es/recursos-miembros/
+ref: member-resources
 ---
 
 ## Recursos para Miembros

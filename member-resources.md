@@ -3,6 +3,7 @@ layout: page
 title: Member Resources
 lang: en
 permalink: /member-resources/
+ref: member-resources
 ---
 
 ## Member Resources

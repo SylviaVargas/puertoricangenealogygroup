@@ -3,6 +3,7 @@ layout: page
 title: Meetings
 lang: en
 permalink: /meetings/
+ref: meetings
 ---
 
 ## Join Our Virtual Meetings

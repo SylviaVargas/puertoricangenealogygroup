@@ -3,6 +3,7 @@ layout: page
 title: Contact Us
 lang: en
 permalink: /contact/
+ref: contact
 ---
 
 ## Get in Touch

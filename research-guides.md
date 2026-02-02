@@ -3,6 +3,7 @@ layout: page
 title: Research Guides
 lang: en
 permalink: /research-guides/
+ref: research-guides
 ---
 
 ## Puerto Rican Genealogy Research Guides

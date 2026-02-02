@@ -3,6 +3,7 @@ layout: page
 title: Guías de Investigación
 lang: es
 permalink: /es/guias-investigacion/
+ref: research-guides
 ---
 
 ## Guías de Investigación Genealógica Puertorriqueña

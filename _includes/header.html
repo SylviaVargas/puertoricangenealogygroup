@@ -25,11 +25,31 @@
 
     <div class="language-switcher">
       {% if page.lang == 'es' %}
-      <a href="{{ page.url | replace: '/es/', '/' | relative_url }}" title="Switch to English">EN</a>
-      <span class="active">ES</span>
+        {% assign defined_target = false %}
+        {% for p in site.pages %}
+          {% if p.ref == page.ref and p.lang == 'en' %}
+            <a href="{{ p.url | relative_url }}" title="Switch to English">EN</a>
+            {% assign defined_target = true %}
+            {% break %}
+          {% endif %}
+        {% endfor %}
+        {% unless defined_target %}
+          <a href="{{ '/' | relative_url }}" title="Switch to English">EN</a>
+        {% endunless %}
+        <span class="active">ES</span>
       {% else %}
-      <span class="active">EN</span>
-      <a href="{{ '/es' | append: page.url | relative_url }}" title="Cambiar a Español">ES</a>
+        <span class="active">EN</span>
+        {% assign defined_target = false %}
+        {% for p in site.pages %}
+          {% if p.ref == page.ref and p.lang == 'es' %}
+            <a href="{{ p.url | relative_url }}" title="Cambiar a Español">ES</a>
+            {% assign defined_target = true %}
+            {% break %}
+          {% endif %}
+        {% endfor %}
+        {% unless defined_target %}
+          <a href="{{ '/es/' | relative_url }}" title="Cambiar a Español">ES</a>
+        {% endunless %}
       {% endif %}
     </div>
   </div>

@@ -2,6 +2,7 @@
 layout: default
 title: Inicio
 lang: es
+ref: home
 ---
 
 <section class="hero">

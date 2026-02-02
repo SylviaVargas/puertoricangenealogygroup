@@ -3,6 +3,7 @@ layout: page
 title: Responsible AI in Genealogy
 lang: en
 permalink: /ai-genealogy/
+ref: ai-genealogy
 ---
 
 ## Using AI Responsibly in Genealogical Research
