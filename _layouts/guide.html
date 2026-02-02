@@ -1,0 +1,46 @@
+---
+layout: default
+---
+<article class="guide">
+  <header class="guide-header">
+    <nav class="breadcrumb">
+      <a href="{% if page.lang == 'es' %}/es/guias-investigacion/{% else %}/research-guides/{% endif %}">
+        {% if page.lang == 'es' %}Guías de Investigación{% else %}Research Guides{% endif %}
+      </a>
+      <span>/</span>
+      <span>{{ page.title }}</span>
+    </nav>
+    <h1>{{ page.title }}</h1>
+    {% if page.description %}
+    <p class="guide-description">{{ page.description }}</p>
+    {% endif %}
+    {% if page.difficulty %}
+    <span class="difficulty-badge {{ page.difficulty }}">
+      {% if page.lang == 'es' %}
+        {% case page.difficulty %}
+          {% when 'beginner' %}Principiante
+          {% when 'intermediate' %}Intermedio
+          {% when 'advanced' %}Avanzado
+        {% endcase %}
+      {% else %}
+        {{ page.difficulty | capitalize }}
+      {% endif %}
+    </span>
+    {% endif %}
+  </header>
+
+  <div class="guide-content">
+    {{ content }}
+  </div>
+
+  {% if page.related_guides %}
+  <aside class="related-guides">
+    <h3>{% if page.lang == 'es' %}Guías Relacionadas{% else %}Related Guides{% endif %}</h3>
+    <ul>
+      {% for guide_url in page.related_guides %}
+      <li><a href="{{ guide_url | relative_url }}">{{ guide_url }}</a></li>
+      {% endfor %}
+    </ul>
+  </aside>
+  {% endif %}
+</article>

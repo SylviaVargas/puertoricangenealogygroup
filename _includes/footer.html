@@ -1,0 +1,58 @@
+<footer class="site-footer">
+  <div class="footer-container">
+    <div class="footer-brand">
+      <img src="{{ '/assets/images/logo-square.png' | relative_url }}" alt="Puerto Rican Genealogy Group" class="footer-logo">
+      <p class="tagline">{{ site.tagline }}</p>
+    </div>
+
+    <div class="footer-links">
+      <h4>{% if page.lang == 'es' %}Enlaces{% else %}Quick Links{% endif %}</h4>
+      <ul>
+        {% assign nav = site.navigation[page.lang] | default: site.navigation.en %}
+        {% for item in nav limit: 4 %}
+        <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+
+    <div class="footer-connect">
+      <h4>{% if page.lang == 'es' %}Conéctate{% else %}Connect{% endif %}</h4>
+      <ul>
+        <li>
+          <a href="mailto:{{ site.email }}">
+            {{ site.email }}
+          </a>
+        </li>
+        <li>
+          <a href="{{ site.wordpress_site }}" target="_blank" rel="noopener">
+            Looking4MyRoots Blog
+          </a>
+        </li>
+        {% if site.social.facebook %}
+        <li>
+          <a href="https://facebook.com/{{ site.social.facebook }}" target="_blank" rel="noopener">
+            Facebook
+          </a>
+        </li>
+        {% endif %}
+      </ul>
+    </div>
+
+    <div class="footer-about">
+      <h4>{% if page.lang == 'es' %}Nuestra Misión{% else %}Our Mission{% endif %}</h4>
+      <p>
+        {% if page.lang == 'es' %}
+        Una comunidad dedicada a ayudar a las personas a explorar su ascendencia puertorriqueña.
+        {% else %}
+        A grassroots community dedicated to helping individuals explore their Puerto Rican ancestry.
+        {% endif %}
+      </p>
+    </div>
+  </div>
+
+  <div class="footer-bottom">
+    <p>&copy; {{ site.time | date: '%Y' }} Puerto Rican Genealogy Group.
+      {% if page.lang == 'es' %}Todos los derechos reservados.{% else %}All rights reserved.{% endif %}
+    </p>
+  </div>
+</footer>

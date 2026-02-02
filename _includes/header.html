@@ -1,0 +1,36 @@
+<header class="site-header">
+  <div class="header-container">
+    <a href="{% if page.lang == 'es' %}/es/{% else %}/{% endif %}" class="logo-link">
+      <img src="{{ '/assets/images/logo-primary.png' | relative_url }}" alt="Puerto Rican Genealogy Group" class="site-logo">
+    </a>
+
+    <nav class="main-nav">
+      <button class="nav-toggle" aria-label="Toggle navigation">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+
+      <ul class="nav-menu">
+        {% assign nav = site.navigation[page.lang] | default: site.navigation.en %}
+        {% for item in nav %}
+        <li class="nav-item">
+          <a href="{{ item.url | relative_url }}" {% if page.url == item.url %}class="active"{% endif %}>
+            {{ item.title }}
+          </a>
+        </li>
+        {% endfor %}
+      </ul>
+    </nav>
+
+    <div class="language-switcher">
+      {% if page.lang == 'es' %}
+      <a href="{{ page.url | replace: '/es/', '/' }}" title="Switch to English">EN</a>
+      <span class="active">ES</span>
+      {% else %}
+      <span class="active">EN</span>
+      <a href="/es{{ page.url }}" title="Cambiar a Español">ES</a>
+      {% endif %}
+    </div>
+  </div>
+</header>

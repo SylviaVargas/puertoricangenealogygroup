@@ -1,0 +1,112 @@
+# Puerto Rican Genealogy Group
+# Jekyll configuration for bilingual site
+
+title: Puerto Rican Genealogy Group
+tagline: "Conectando Raíces, Celebrando Herencia"
+description: "A grassroots community dedicated to helping individuals explore their Puerto Rican ancestry."
+url: "https://puertoricangenealogygroup.github.io"
+baseurl: ""
+
+# Contact
+email: puertoricangenealogygroup@gmail.com
+
+# Related sites
+wordpress_site: "https://looking4myroots.com"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Theme and styling
+remote_theme: pages-themes/minimal@v0.2.0
+
+# Plugins
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Language configuration
+default_lang: en
+languages:
+  - en
+  - es
+
+# Language names for display
+language_names:
+  en: "English"
+  es: "Español"
+
+# Collections
+collections:
+  research-guides:
+    output: true
+    permalink: /:collection/:name/
+  resources:
+    output: true
+    permalink: /:collection/:name/
+
+# Defaults for pages
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+      lang: en
+  - scope:
+      path: "es"
+    values:
+      lang: es
+  - scope:
+      path: "_research-guides"
+    values:
+      layout: guide
+  - scope:
+      path: "_resources"
+    values:
+      layout: resource
+
+# Navigation structure (used by includes/nav.html)
+navigation:
+  en:
+    - title: Home
+      url: /
+    - title: Meetings
+      url: /meetings/
+    - title: Research Guides
+      url: /research-guides/
+    - title: Resources
+      url: /resources/
+    - title: AI in Genealogy
+      url: /ai-genealogy/
+    - title: Member Resources
+      url: /member-resources/
+    - title: Contact
+      url: /contact/
+  es:
+    - title: Inicio
+      url: /es/
+    - title: Reuniones
+      url: /es/reuniones/
+    - title: Guías de Investigación
+      url: /es/guias-investigacion/
+    - title: Recursos
+      url: /es/recursos/
+    - title: IA en Genealogía
+      url: /es/ia-genealogia/
+    - title: Recursos para Miembros
+      url: /es/recursos-miembros/
+    - title: Contacto
+      url: /es/contacto/
+
+# Social links
+social:
+  facebook: puertoricangenealogygroup
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+  - vendor
