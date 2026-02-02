@@ -151,6 +151,6 @@ Una colección curada de archivos, bases de datos y herramientas para investigar
 
 ### ¿Tienes un Recurso para Agregar?
 
-¿Conoces un recurso valioso que debería incluirse aquí? [¡Contáctanos](/es/contacto/) con tu sugerencia!
+¿Conoces un recurso valioso que debería incluirse aquí? <a href="{{ '/es/contacto/' | relative_url }}">¡Contáctanos</a> con tu sugerencia!
 
 *Nota: La inclusión de enlaces externos no constituye respaldo. Siempre verifica la información de múltiples fuentes.*

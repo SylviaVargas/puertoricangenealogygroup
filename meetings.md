@@ -37,7 +37,7 @@ Our meetings are held virtually to accommodate members across different time zon
 
 ### Suggest a Topic
 
-Have a topic you'd like us to cover? [Contact us](/contact/) with your suggestions!
+Have a topic you'd like us to cover? <a href="{{ '/contact/' | relative_url }}">Contact us</a> with your suggestions!
 
 ---
 

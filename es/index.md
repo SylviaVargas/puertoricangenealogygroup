@@ -11,8 +11,8 @@ ref: home
   <p class="subtitle">Descubrir. Conectar. Preservar.</p>
   <p>Una comunidad dedicada a ayudar a las personas a explorar su ascendencia puertorriqueña.</p>
   <div class="hero-cta">
-    <a href="/es/reuniones/" class="btn btn-primary">Únete a Nuestras Reuniones</a>
-    <a href="/es/guias-investigacion/" class="btn btn-secondary">Comienza a Investigar</a>
+    <a href="{{ '/es/reuniones/' | relative_url }}" class="btn btn-primary">Únete a Nuestras Reuniones</a>
+    <a href="{{ '/es/guias-investigacion/' | relative_url }}" class="btn btn-secondary">Comienza a Investigar</a>
   </div>
 </section>
 
@@ -96,7 +96,7 @@ ref: home
       </li>
     </ul>
     <p class="text-center mt-2">
-      <a href="/es/recursos/" class="btn btn-primary">Ver Todos los Recursos</a>
+      <a href="{{ '/es/recursos/' | relative_url }}" class="btn btn-primary">Ver Todos los Recursos</a>
     </p>
   </div>
 </section>
@@ -106,7 +106,7 @@ ref: home
     <h2>Bienvenidos a Nuestra Comunidad</h2>
     <p>Ya sea que tus antepasados permanecieron en Puerto Rico o migraron a los Estados Unidos continental, Hawái u otros lugares del mundo, eres bienvenido aquí. Estamos unidos por nuestro interés compartido en preservar y celebrar nuestra herencia puertorriqueña.</p>
     <p class="mt-2">
-      <a href="/es/contacto/" class="btn btn-primary">Contáctanos</a>
+      <a href="{{ '/es/contacto/' | relative_url }}" class="btn btn-primary">Contáctanos</a>
     </p>
   </div>
 </section>

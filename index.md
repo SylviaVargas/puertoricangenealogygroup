@@ -11,8 +11,8 @@ ref: home
   <p class="subtitle">Discover. Connect. Preserve.</p>
   <p>A grassroots community dedicated to helping individuals explore their Puerto Rican ancestry.</p>
   <div class="hero-cta">
-    <a href="/meetings/" class="btn btn-primary">Join Our Meetings</a>
-    <a href="/research-guides/" class="btn btn-secondary">Start Researching</a>
+    <a href="{{ '/meetings/' | relative_url }}" class="btn btn-primary">Join Our Meetings</a>
+    <a href="{{ '/research-guides/' | relative_url }}" class="btn btn-secondary">Start Researching</a>
   </div>
 </section>
 
@@ -96,7 +96,7 @@ ref: home
       </li>
     </ul>
     <p class="text-center mt-2">
-      <a href="/resources/" class="btn btn-primary">View All Resources</a>
+      <a href="{{ '/resources/' | relative_url }}" class="btn btn-primary">View All Resources</a>
     </p>
   </div>
 </section>
@@ -106,7 +106,7 @@ ref: home
     <h2>Welcome to Our Community</h2>
     <p>Whether your ancestors remained in Puerto Rico or migrated to the mainland United States, Hawaii, or elsewhere around the world, you are welcome here. We are united by our shared interest in preserving and celebrating our Puerto Rican heritage.</p>
     <p class="mt-2">
-      <a href="/contact/" class="btn btn-primary">Get in Touch</a>
+      <a href="{{ '/contact/' | relative_url }}" class="btn btn-primary">Get in Touch</a>
     </p>
   </div>
 </section>

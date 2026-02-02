@@ -123,7 +123,7 @@ We are actively developing additional guides on:
 - Land and Property Records
 - Immigration and Emigration
 
-**Want to contribute?** If you have expertise in a particular area of Puerto Rican genealogy, [contact us](/contact/) about writing a guide.
+**Want to contribute?** If you have expertise in a particular area of Puerto Rican genealogy, <a href="{{ '/contact/' | relative_url }}">contact us</a> about writing a guide.
 
 ---
 

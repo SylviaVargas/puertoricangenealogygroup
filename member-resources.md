@@ -156,7 +156,7 @@ We're building this resource library for our community. If you have:
 - **Guides** you've written on specific topics
 - **Tools** that could benefit other researchers
 
-Please [contact us](/contact/) to discuss contributing to our member resources.
+Please <a href="{{ '/contact/' | relative_url }}">contact us</a> to discuss contributing to our member resources.
 
 ---
 
@@ -164,7 +164,7 @@ Please [contact us](/contact/) to discuss contributing to our member resources.
 
 Is there a template, guide, or tool that would help your research? Let us know what you need, and we'll consider adding it to our collection.
 
-[Contact Us](/contact/) with your request.
+<a href="{{ '/contact/' | relative_url }}">Contact Us</a> with your request.
 
 ---
 

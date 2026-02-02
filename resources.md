@@ -151,6 +151,6 @@ A curated collection of archives, databases, and tools for researching Puerto Ri
 
 ### Have a Resource to Add?
 
-Know of a valuable resource that should be included here? [Contact us](/contact/) with your suggestion!
+Know of a valuable resource that should be included here? <a href="{{ '/contact/' | relative_url }}">Contact us</a> with your suggestion!
 
 *Note: Inclusion of external links does not constitute endorsement. Always verify information from multiple sources.*

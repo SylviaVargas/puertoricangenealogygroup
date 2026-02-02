@@ -156,7 +156,7 @@ Estamos construyendo esta biblioteca de recursos para nuestra comunidad. Si tien
 - **Guías** que has escrito sobre temas específicos
 - **Herramientas** que podrían beneficiar a otros investigadores
 
-Por favor [contáctanos](/es/contacto/) para discutir cómo contribuir a nuestros recursos para miembros.
+Por favor <a href="{{ '/es/contacto/' | relative_url }}">contáctanos</a> para discutir cómo contribuir a nuestros recursos para miembros.
 
 ---
 
@@ -164,7 +164,7 @@ Por favor [contáctanos](/es/contacto/) para discutir cómo contribuir a nuestro
 
 ¿Hay una plantilla, guía o herramienta que ayudaría tu investigación? Dinos lo que necesitas, y consideraremos agregarlo a nuestra colección.
 
-[Contáctanos](/es/contacto/) con tu solicitud.
+<a href="{{ '/es/contacto/' | relative_url }}">Contáctanos</a> con tu solicitud.
 
 ---
 

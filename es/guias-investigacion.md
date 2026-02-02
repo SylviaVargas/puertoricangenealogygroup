@@ -123,7 +123,7 @@ Estamos desarrollando activamente guías adicionales sobre:
 - Registros de Tierras y Propiedades
 - Inmigración y Emigración
 
-**¿Quieres contribuir?** Si tienes experiencia en un área particular de la genealogía puertorriqueña, [contáctanos](/es/contacto/) para escribir una guía.
+**¿Quieres contribuir?** Si tienes experiencia en un área particular de la genealogía puertorriqueña, <a href="{{ '/es/contacto/' | relative_url }}">contáctanos</a> para escribir una guía.
 
 ---
 

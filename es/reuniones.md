@@ -37,7 +37,7 @@ Nuestras reuniones se realizan virtualmente para acomodar a miembros en diferent
 
 ### Sugiere un Tema
 
-¿Tienes un tema que te gustaría que cubramos? [¡Contáctanos](/es/contacto/) con tus sugerencias!
+¿Tienes un tema que te gustaría que cubramos? <a href="{{ '/es/contacto/' | relative_url }}">¡Contáctanos</a> con tus sugerencias!
 
 ---
 
