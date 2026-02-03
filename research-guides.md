@@ -15,39 +15,43 @@ Explore our collection of guides designed to help you navigate the unique aspect
 <div class="card">
 <h3>Getting Started</h3>
 <p>New to Puerto Rican genealogy? Start here with the fundamentals.</p>
-
-- [Introduction to Puerto Rican Genealogy](#intro)
-- [Understanding Puerto Rican Names](#names)
-- [Key Record Types in Puerto Rico](#records)
+<ul>
+  <li><a href="#intro">Introduction to Puerto Rican Genealogy</a></li>
+  <li><a href="#names">Understanding Puerto Rican Names</a></li>
+  <li><a href="#records">Key Record Types in Puerto Rico</a></li>
+</ul>
 </div>
 
 <div class="card">
 <h3>Civil Records</h3>
 <p>Learn to navigate Puerto Rico's civil registry system.</p>
-
-- [Civil Registry Overview](#civil-registry)
-- [Birth Records (Nacimientos)](#births)
-- [Marriage Records (Matrimonios)](#marriages)
-- [Death Records (Defunciones)](#deaths)
+<ul>
+  <li><a href="#civil-registry">Civil Registry Overview</a></li>
+  <li><a href="#births">Birth Records (Nacimientos)</a></li>
+  <li><a href="#marriages">Marriage Records (Matrimonios)</a></li>
+  <li><a href="#deaths">Death Records (Defunciones)</a></li>
+</ul>
 </div>
 
 <div class="card">
 <h3>Church Records</h3>
 <p>Discover the wealth of information in Catholic parish records.</p>
-
-- [Understanding Parish Records](#parish)
-- [Baptismal Records](#baptisms)
-- [Marriage Records](#church-marriages)
-- [Burial Records](#burials)
+<ul>
+  <li><a href="#parish">Understanding Parish Records</a></li>
+  <li><a href="#baptisms">Baptismal Records</a></li>
+  <li><a href="#church-marriages">Marriage Records</a></li>
+  <li><a href="#burials">Burial Records</a></li>
+</ul>
 </div>
 
 <div class="card">
 <h3>Census Records</h3>
 <p>Find your ancestors in Puerto Rican census enumerations.</p>
-
-- [Spanish Colonial Census](#spanish-census)
-- [U.S. Federal Census in Puerto Rico](#us-census)
-- [Municipal Census Records](#municipal)
+<ul>
+  <li><a href="#spanish-census">Spanish Colonial Census</a></li>
+  <li><a href="#us-census">U.S. Federal Census in Puerto Rico</a></li>
+  <li><a href="#municipal">Municipal Census Records</a></li>
+</ul>
 </div>
 
 </div>

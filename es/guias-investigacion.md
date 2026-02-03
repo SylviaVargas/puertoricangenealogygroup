@@ -15,39 +15,43 @@ Explora nuestra colección de guías diseñadas para ayudarte a navegar los aspe
 <div class="card">
 <h3>Primeros Pasos</h3>
 <p>¿Nuevo en la genealogía puertorriqueña? Comienza aquí con los fundamentos.</p>
-
-- [Introducción a la Genealogía Puertorriqueña](#intro)
-- [Entendiendo los Nombres Puertorriqueños](#nombres)
-- [Tipos de Registros Clave en Puerto Rico](#registros)
+<ul>
+  <li><a href="#intro">Introducción a la Genealogía Puertorriqueña</a></li>
+  <li><a href="#nombres">Entendiendo los Nombres Puertorriqueños</a></li>
+  <li><a href="#registros">Tipos de Registros Clave en Puerto Rico</a></li>
+</ul>
 </div>
 
 <div class="card">
 <h3>Registros Civiles</h3>
 <p>Aprende a navegar el sistema de registro civil de Puerto Rico.</p>
-
-- [Resumen del Registro Civil](#registro-civil)
-- [Actas de Nacimiento](#nacimientos)
-- [Actas de Matrimonio](#matrimonios)
-- [Actas de Defunción](#defunciones)
+<ul>
+  <li><a href="#registro-civil">Resumen del Registro Civil</a></li>
+  <li><a href="#nacimientos">Actas de Nacimiento</a></li>
+  <li><a href="#matrimonios">Actas de Matrimonio</a></li>
+  <li><a href="#defunciones">Actas de Defunción</a></li>
+</ul>
 </div>
 
 <div class="card">
 <h3>Registros Eclesiásticos</h3>
 <p>Descubre la riqueza de información en los registros parroquiales católicos.</p>
-
-- [Entendiendo los Registros Parroquiales](#parroquia)
-- [Registros de Bautismo](#bautismos)
-- [Registros de Matrimonio Eclesiástico](#matrimonios-iglesia)
-- [Registros de Entierro](#entierros)
+<ul>
+  <li><a href="#parroquia">Entendiendo los Registros Parroquiales</a></li>
+  <li><a href="#bautismos">Registros de Bautismo</a></li>
+  <li><a href="#matrimonios-iglesia">Registros de Matrimonio Eclesiástico</a></li>
+  <li><a href="#entierros">Registros de Entierro</a></li>
+</ul>
 </div>
 
 <div class="card">
 <h3>Registros Censales</h3>
 <p>Encuentra a tus antepasados en las enumeraciones censales de Puerto Rico.</p>
-
-- [Censo Colonial Español](#censo-espanol)
-- [Censo Federal de EE.UU. en Puerto Rico](#censo-eeuu)
-- [Registros Censales Municipales](#municipal)
+<ul>
+  <li><a href="#censo-espanol">Censo Colonial Español</a></li>
+  <li><a href="#censo-eeuu">Censo Federal de EE.UU. en Puerto Rico</a></li>
+  <li><a href="#municipal">Registros Censales Municipales</a></li>
+</ul>
 </div>
 
 </div>
