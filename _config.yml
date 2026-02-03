@@ -108,5 +108,6 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
+  - TODO.md
   - LICENSE
   - vendor
