@@ -197,4 +197,30 @@
 
 ---
 
-*Last updated: February 2, 2026*
+## Site URLs & Deployment
+
+### Live Website
+- **English Homepage:** https://sylviavargas.github.io/puertoricangenealogygroup/
+- **Spanish Homepage:** https://sylviavargas.github.io/puertoricangenealogygroup/es/
+
+### GitHub Repository
+- **Repository:** https://github.com/sylviavargas/puertoricangenealogygroup
+
+### Deployment Status & Monitoring
+- **GitHub Actions (build status):** https://github.com/sylviavargas/puertoricangenealogygroup/actions
+- **GitHub Pages Settings:** https://github.com/sylviavargas/puertoricangenealogygroup/settings/pages
+
+### Deployment Process
+1. Make changes locally
+2. Commit changes: `git add . && git commit -m "Your message"`
+3. Push to GitHub: `git push origin main`
+4. Check build status at the GitHub Actions link above
+5. Once the build completes (usually 1-2 minutes), changes appear on the live site
+
+### Current Meeting Pages
+- **English:** https://sylviavargas.github.io/puertoricangenealogygroup/meeting-february-2026/
+- **Spanish:** https://sylviavargas.github.io/puertoricangenealogygroup/es/reunion-febrero-2026/
+
+---
+
+*Last updated: February 4, 2026*
