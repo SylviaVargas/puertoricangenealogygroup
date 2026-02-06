@@ -5,17 +5,6 @@ lang: es
 ref: home
 ---
 
-<section class="hero">
-  <h1>Puerto Rican Genealogy Group</h1>
-  <p class="tagline">Conectando Raíces, Celebrando Herencia</p>
-  <p class="subtitle">Descubrir. Conectar. Preservar.</p>
-  <p>Una comunidad dedicada a ayudar a las personas a explorar su ascendencia puertorriqueña.</p>
-  <div class="hero-cta">
-    <a href="{{ '/es/reuniones/' | relative_url }}" class="btn btn-primary">Únete a Nuestras Reuniones</a>
-    <a href="{{ '/es/guias-investigacion/' | relative_url }}" class="btn btn-secondary">Comienza a Investigar</a>
-  </div>
-</section>
-
 <section class="section bg-light">
   <div class="section-container">
     <div class="section-title">

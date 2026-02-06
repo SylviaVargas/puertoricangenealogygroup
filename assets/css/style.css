@@ -95,35 +95,35 @@ a:hover {
 .header-container {
   max-width: var(--max-width);
   margin: 0 auto;
-  padding: var(--spacing-md) var(--spacing-lg);
+  padding: var(--spacing-sm) var(--spacing-md);
   display: flex;
   flex-direction: column;
   align-items: center;
 }
 
-/* Logo Section - Centered at Top, Full Width */
-.header-logo-section {
-  text-align: center;
-  width: 100%;
-  padding: var(--spacing-lg) 0;
-  margin-bottom: var(--spacing-md);
-}
-
-.site-logo {
-  height: auto;
-  width: 100%;
-  max-width: 800px;
-  max-height: 300px;
-  object-fit: contain;
-}
-
-/* Navigation Section - Centered Below Logo */
+/* Navigation Section - Above Logo */
 .main-nav {
   width: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
   position: relative;
+  margin-bottom: var(--spacing-sm);
+}
+
+/* Logo Section - Below Navigation, Full Width */
+.header-logo-section {
+  text-align: center;
+  width: 100%;
+  padding: var(--spacing-sm) 0;
+}
+
+.site-logo {
+  height: auto;
+  width: 100%;
+  max-width: 1000px;
+  max-height: 400px;
+  object-fit: contain;
 }
 
 .nav-menu {
