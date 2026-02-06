@@ -95,27 +95,39 @@ a:hover {
 .header-container {
   max-width: var(--max-width);
   margin: 0 auto;
-  padding: var(--spacing-sm) var(--spacing-lg);
+  padding: var(--spacing-md) var(--spacing-lg);
   display: flex;
+  flex-direction: column;
   align-items: center;
-  justify-content: space-between;
+}
+
+/* Logo Section - Centered at Top */
+.header-logo-section {
+  text-align: center;
+  margin-bottom: var(--spacing-md);
 }
 
 .site-logo {
-  height: 60px;
+  height: 80px;
   width: auto;
+  max-width: 100%;
 }
 
+/* Navigation Section - Centered Below Logo */
 .main-nav {
-  flex-grow: 1;
+  width: 100%;
   display: flex;
   justify-content: center;
+  align-items: center;
+  position: relative;
 }
 
 .nav-menu {
   list-style: none;
   display: flex;
+  justify-content: center;
   gap: var(--spacing-lg);
+  flex-wrap: wrap;
 }
 
 .nav-item a {
@@ -132,11 +144,13 @@ a:hover {
   border-bottom-color: var(--color-red);
 }
 
+/* Language Switcher - Positioned to the right of nav */
 .language-switcher {
   display: flex;
   gap: var(--spacing-sm);
   font-size: 0.875rem;
   font-weight: 600;
+  margin-left: var(--spacing-lg);
 }
 
 .language-switcher span.active {
@@ -495,8 +509,25 @@ a:hover {
 
 /* ===== Responsive ===== */
 @media (max-width: 768px) {
+  .header-logo-section {
+    margin-bottom: var(--spacing-sm);
+  }
+
+  .site-logo {
+    height: 60px;
+  }
+
+  .main-nav {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
   .nav-toggle {
     display: flex;
+    position: absolute;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
   }
 
   .nav-menu {
@@ -509,10 +540,17 @@ a:hover {
     flex-direction: column;
     padding: var(--spacing-lg);
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    gap: var(--spacing-md);
   }
 
   .nav-menu.active {
     display: flex;
+  }
+
+  .language-switcher {
+    margin-left: 0;
+    margin-top: var(--spacing-sm);
   }
 
   .hero h1 {

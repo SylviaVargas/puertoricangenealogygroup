@@ -1,9 +1,13 @@
 <header class="site-header">
   <div class="header-container">
-    <a href="{% if page.lang == 'es' %}{{ '/es/' | relative_url }}{% else %}{{ '/' | relative_url }}{% endif %}" class="logo-link">
-      <img src="{{ '/assets/images/logo-primary.png' | relative_url }}" alt="Puerto Rican Genealogy Group" class="site-logo">
-    </a>
+    <!-- Centered Logo Section -->
+    <div class="header-logo-section">
+      <a href="{% if page.lang == 'es' %}{{ '/es/' | relative_url }}{% else %}{{ '/' | relative_url }}{% endif %}" class="logo-link">
+        <img src="{{ '/assets/images/logo-primary.png' | relative_url }}" alt="Puerto Rican Genealogy Group" class="site-logo">
+      </a>
+    </div>
 
+    <!-- Navigation Section -->
     <nav class="main-nav">
       <button class="nav-toggle" aria-label="Toggle navigation">
         <span></span>
@@ -21,36 +25,37 @@
         </li>
         {% endfor %}
       </ul>
-    </nav>
 
-    <div class="language-switcher">
-      {% if page.lang == 'es' %}
-        {% assign defined_target = false %}
-        {% for p in site.pages %}
-          {% if p.ref == page.ref and p.lang == 'en' %}
-            <a href="{{ p.url | relative_url }}" title="Switch to English">EN</a>
-            {% assign defined_target = true %}
-            {% break %}
-          {% endif %}
-        {% endfor %}
-        {% unless defined_target %}
-          <a href="{{ '/' | relative_url }}" title="Switch to English">EN</a>
-        {% endunless %}
-        <span class="active">ES</span>
-      {% else %}
-        <span class="active">EN</span>
-        {% assign defined_target = false %}
-        {% for p in site.pages %}
-          {% if p.ref == page.ref and p.lang == 'es' %}
-            <a href="{{ p.url | relative_url }}" title="Cambiar a Español">ES</a>
-            {% assign defined_target = true %}
-            {% break %}
-          {% endif %}
-        {% endfor %}
-        {% unless defined_target %}
-          <a href="{{ '/es/' | relative_url }}" title="Cambiar a Español">ES</a>
-        {% endunless %}
-      {% endif %}
-    </div>
+      <!-- Language Switcher (integrated into nav) -->
+      <div class="language-switcher">
+        {% if page.lang == 'es' %}
+          {% assign defined_target = false %}
+          {% for p in site.pages %}
+            {% if p.ref == page.ref and p.lang == 'en' %}
+              <a href="{{ p.url | relative_url }}" title="Switch to English">EN</a>
+              {% assign defined_target = true %}
+              {% break %}
+            {% endif %}
+          {% endfor %}
+          {% unless defined_target %}
+            <a href="{{ '/' | relative_url }}" title="Switch to English">EN</a>
+          {% endunless %}
+          <span class="active">ES</span>
+        {% else %}
+          <span class="active">EN</span>
+          {% assign defined_target = false %}
+          {% for p in site.pages %}
+            {% if p.ref == page.ref and p.lang == 'es' %}
+              <a href="{{ p.url | relative_url }}" title="Cambiar a Español">ES</a>
+              {% assign defined_target = true %}
+              {% break %}
+            {% endif %}
+          {% endfor %}
+          {% unless defined_target %}
+            <a href="{{ '/es/' | relative_url }}" title="Cambiar a Español">ES</a>
+          {% endunless %}
+        {% endif %}
+      </div>
+    </nav>
   </div>
 </header>
