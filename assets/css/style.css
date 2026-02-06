@@ -101,16 +101,20 @@ a:hover {
   align-items: center;
 }
 
-/* Logo Section - Centered at Top */
+/* Logo Section - Centered at Top, Full Width */
 .header-logo-section {
   text-align: center;
+  width: 100%;
+  padding: var(--spacing-lg) 0;
   margin-bottom: var(--spacing-md);
 }
 
 .site-logo {
-  height: 80px;
-  width: auto;
-  max-width: 100%;
+  height: auto;
+  width: 100%;
+  max-width: 500px;
+  max-height: 200px;
+  object-fit: contain;
 }
 
 /* Navigation Section - Centered Below Logo */
@@ -511,10 +515,12 @@ a:hover {
 @media (max-width: 768px) {
   .header-logo-section {
     margin-bottom: var(--spacing-sm);
+    padding: var(--spacing-md) 0;
   }
 
   .site-logo {
-    height: 60px;
+    max-width: 280px;
+    max-height: 120px;
   }
 
   .main-nav {
