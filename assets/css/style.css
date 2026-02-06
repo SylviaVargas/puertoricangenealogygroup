@@ -115,14 +115,14 @@ a:hover {
 .header-logo-section {
   text-align: center;
   width: 100%;
-  padding: var(--spacing-sm) 0;
+  padding: 0;
 }
 
 .site-logo {
   height: auto;
   width: 100%;
-  max-width: 1000px;
-  max-height: 400px;
+  max-width: 100%;
+  max-height: none;
   object-fit: contain;
 }
 
@@ -254,6 +254,11 @@ a:hover {
 /* ===== Sections ===== */
 .section {
   padding: var(--spacing-xl) var(--spacing-lg);
+}
+
+/* First section after header - reduce top padding */
+.site-content > .section:first-child {
+  padding-top: var(--spacing-md);
 }
 
 .section-container {
