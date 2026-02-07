@@ -56,7 +56,7 @@ eval "$(rbenv init -)"
 bundle exec jekyll serve
 ```
 
-Visit **http://127.0.0.1:4000/puertoricangenealogygroup/** to view the site.
+Visit **<http://127.0.0.1:4000/>** to view the site.
 
 The server will auto-regenerate when you make changes to files.
 

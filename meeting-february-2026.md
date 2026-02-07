@@ -64,7 +64,7 @@ After registering, you will receive a confirmation email with meeting details.
 
 ### Connect With Us
 
-- **Website:** [puertoricangenealogygroup](https://sites.google.com/view/puertoricangenealogygroup/home)
+- **Website:** [puertoricangenealogy.org](https://puertoricangenealogy.org)
 - **Email:** [puertoricangenealogygroup@gmail.com](mailto:puertoricangenealogygroup@gmail.com)
 
 ---

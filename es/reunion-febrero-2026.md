@@ -64,7 +64,7 @@ Después de registrarte, recibirás un correo electrónico de confirmación con 
 
 ### Conéctate Con Nosotros
 
-- **Sitio Web:** [puertoricangenealogygroup](https://sites.google.com/view/puertoricangenealogygroup/home)
+- **Sitio Web:** [puertoricangenealogy.org](https://puertoricangenealogy.org)
 - **Correo Electrónico:** [puertoricangenealogygroup@gmail.com](mailto:puertoricangenealogygroup@gmail.com)
 
 ---

@@ -112,6 +112,18 @@ A curated collection of archives, databases, and tools for researching Puerto Ri
 <a href="https://puertorikin.com/" target="_blank" rel="noopener">Puerto RiKin</a>
 <p class="description">Genealogy blog focusing on Puerto Rican kin and research strategies.</p>
 </li>
+<li>
+<a href="https://latinogenealogyandbeyond.com/" target="_blank" rel="noopener">Latino Genealogy and Beyond</a>
+<p class="description">Blog by Dr. Ellen Fernandez-Sacco exploring Caribbean genealogy with emphasis on Puerto Rico and the diaspora, integrating African, Indigenous, and colonial ancestry research with broader historical narratives.</p>
+</li>
+<li>
+<a href="https://boricuagenes.com/" target="_blank" rel="noopener">BoricuaGenes Blog</a>
+<p class="description">Blog by Luis Rivera documenting Puerto Rican genealogy and genetic ancestry research, exploring Taíno, African, and Spanish roots with practical guides and church record resources.</p>
+</li>
+<li>
+<a href="https://genus-meridiem-pr.blogspot.com/" target="_blank" rel="noopener">Genealogías e Historia del Suroeste de Puerto Rico</a>
+<p class="description">Blog by César A. Zapata Lozada dedicated to genealogical research and local history of southwestern Puerto Rico, featuring parish records, colonial documents, and family lineages from towns like San Germán, Cabo Rojo, and Lajas.</p>
+</li>
 </ul>
 
 ---
