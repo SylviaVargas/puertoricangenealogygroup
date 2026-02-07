@@ -76,7 +76,7 @@ ref: home
         <p class="description">Colecciones digitales de la Universidad de Puerto Rico.</p>
       </li>
       <li>
-        <a href="https://archivogeneral.pr.gov/" target="_blank" rel="noopener">Archivo General de Puerto Rico</a>
+        <a href="https://www.icp.pr.gov/archivo-general/" target="_blank" rel="noopener">Archivo General de Puerto Rico</a>
         <p class="description">Repositorio oficial de registros históricos puertorriqueños.</p>
       </li>
       <li>

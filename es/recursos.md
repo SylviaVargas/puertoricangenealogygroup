@@ -16,7 +16,7 @@ Una colección curada de archivos, bases de datos y herramientas para investigar
 
 <ul class="resource-list">
 <li>
-<a href="https://archivogeneral.pr.gov/" target="_blank" rel="noopener">Archivo General de Puerto Rico</a>
+<a href="https://www.icp.pr.gov/archivo-general/" target="_blank" rel="noopener">Archivo General de Puerto Rico</a>
 <p class="description">El repositorio oficial de registros históricos puertorriqueños, incluyendo documentos coloniales, registros censales y archivos gubernamentales.</p>
 </li>
 <li>
