@@ -90,6 +90,7 @@ a:hover {
   position: sticky;
   top: 0;
   z-index: 1000;
+  border-bottom: 2px solid var(--color-navy);
 }
 
 .header-container {
