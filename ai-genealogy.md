@@ -4,6 +4,7 @@ title: Responsible AI in Genealogy
 lang: en
 permalink: /ai-genealogy/
 ref: ai-genealogy
+last_modified_at: 2026-02-07
 ---
 
 ## Using AI Responsibly in Genealogical Research

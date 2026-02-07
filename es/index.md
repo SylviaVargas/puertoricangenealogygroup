@@ -3,6 +3,7 @@ layout: default
 title: Inicio
 lang: es
 ref: home
+last_modified_at: 2026-02-07
 ---
 
 <section class="section bg-light">

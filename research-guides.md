@@ -4,6 +4,7 @@ title: Research Guides
 lang: en
 permalink: /research-guides/
 ref: research-guides
+last_modified_at: 2026-02-07
 ---
 
 ## Puerto Rican Genealogy Research Guides

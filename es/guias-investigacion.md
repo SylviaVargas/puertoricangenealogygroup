@@ -4,6 +4,7 @@ title: Guías de Investigación
 lang: es
 permalink: /es/guias-investigacion/
 ref: research-guides
+last_modified_at: 2026-02-07
 ---
 
 ## Guías de Investigación Genealógica Puertorriqueña

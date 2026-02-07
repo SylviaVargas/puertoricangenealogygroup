@@ -4,6 +4,7 @@ title: Recursos
 lang: es
 permalink: /es/recursos/
 ref: resources
+last_modified_at: 2026-02-07
 ---
 
 ## Recursos de Genealogía Puertorriqueña

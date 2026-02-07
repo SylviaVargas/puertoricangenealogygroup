@@ -110,4 +110,6 @@ exclude:
   - README.md
   - TODO.md
   - LICENSE
+  - URL_INVENTORY.md
+  - url_report.md
   - vendor
