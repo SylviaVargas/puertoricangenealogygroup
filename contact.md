@@ -10,7 +10,7 @@ ref: contact
 
 We'd love to hear from you! Whether you have questions about Puerto Rican genealogy, want to join our community, or have suggestions for our group, please reach out.
 
-<div class="contact-info">
+<div class="contact-info" markdown="1">
 
 ### Email Us
 

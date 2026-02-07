@@ -23,24 +23,49 @@ The Puerto Rican Genealogy Group is a grassroots community dedicated to helping 
 
 ### Prerequisites
 
-- Ruby 3.0+
+- Ruby 3.0+ (managed via rbenv)
 - Bundler
 
-### Setup
+### Setup (First Time)
 
 ```bash
-# Clone the repository
-git clone https://github.com/YOUR_USERNAME/puertoricangenealogygroup.git
-cd puertoricangenealogygroup
+# Install rbenv if not already installed
+brew install rbenv ruby-build
+
+# Install Ruby 3.2.2
+rbenv install 3.2.2
+rbenv global 3.2.2
+
+# Restart your terminal, then navigate to the project
+cd /Users/sylviavargas/Documents/GitHub/Claude/puertoricangenealogygroup
 
 # Install dependencies
 bundle install
+```
 
-# Run locally
+### Running the Local Server
+
+```bash
+# Navigate to the project directory
+cd /Users/sylviavargas/Documents/GitHub/Claude/puertoricangenealogygroup
+
+# Initialize rbenv (may be needed if ruby version shows as system)
+eval "$(rbenv init -)"
+
+# Start the Jekyll server
 bundle exec jekyll serve
 ```
 
-Visit `http://localhost:4000` to view the site.
+Visit **http://127.0.0.1:4000/puertoricangenealogygroup/** to view the site.
+
+The server will auto-regenerate when you make changes to files.
+
+### Stopping the Server
+
+Press `Ctrl+C` in the terminal, or run:
+```bash
+pkill -f "jekyll serve"
+```
 
 ## Structure
 
