@@ -68,7 +68,7 @@ ref: home
     </div>
     <ul class="resource-list">
       <li>
-        <a href="https://www.congresogenealogia.com/" target="_blank" rel="noopener">Tercer Congreso de Genealogía Puertorriqueña</a>
+        <a href="https://www.congresogenealogia.com/" target="_blank" rel="noopener">Tercer Sociedad Puertorriqueña de Genealogía </a>
         <p class="description">Conferencia anual que reúne a genealogistas enfocados en la investigación puertorriqueña.</p>
       </li>
       <li>

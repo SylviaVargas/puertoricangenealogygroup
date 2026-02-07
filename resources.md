@@ -81,7 +81,7 @@ A curated collection of archives, databases, and tools for researching Puerto Ri
 
 <ul class="resource-list">
 <li>
-<a href="https://www.congresogenealogia.com/" target="_blank" rel="noopener">Congreso de Genealogía Puertorriqueña</a>
+<a href="https://www.congresogenealogia.com/" target="_blank" rel="noopener">Sociedad Puertorriqueña de Genealogía </a>
 <p class="description">Annual genealogy congress held in Puerto Rico, bringing together researchers and experts.</p>
 </li>
 <li>
