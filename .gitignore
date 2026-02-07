@@ -22,3 +22,5 @@ Thumbs.db
 
 # Logs
 *.log
+url_report.csv
+url_report.md

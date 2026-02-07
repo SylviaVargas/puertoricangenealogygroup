@@ -68,11 +68,11 @@ ref: home
     </div>
     <ul class="resource-list">
       <li>
-        <a href="https://www.congresogenealogia.com/" target="_blank" rel="noopener">Third Puerto Rican Genealogy Congress</a>
+        <a href="https://genealogiapr.com//" target="_blank" rel="noopener">Third Puerto Rican Genealogy Congress</a>
         <p class="description">Annual conference bringing together genealogists focused on Puerto Rican research.</p>
       </li>
       <li>
-        <a href="https://bibliotecadigital.uprrp.edu/" target="_blank" rel="noopener">Puerto Rican Digital Library</a>
+        <a href="https://www.upr.edu/biblioteca-rrp//" target="_blank" rel="noopener">Puerto Rican Digital Library</a>
         <p class="description">Digital collections from the University of Puerto Rico.</p>
       </li>
       <li>

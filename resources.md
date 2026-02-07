@@ -39,11 +39,11 @@ A curated collection of archives, databases, and tools for researching Puerto Ri
 <p class="description">Free access to digitized church records, civil registry, and other vital records from Puerto Rico.</p>
 </li>
 <li>
-<a href="https://bibliotecadigital.uprrp.edu/" target="_blank" rel="noopener">Biblioteca Digital Puertorriqueña</a>
+<a href="https://www.upr.edu/biblioteca-rrp//" target="_blank" rel="noopener">Biblioteca Digital Puertorriqueña</a>
 <p class="description">Digital library from the University of Puerto Rico with historical documents, photographs, and publications.</p>
 </li>
 <li>
-<a href="https://www.ancestry.com/search/categories/puerto-rico/" target="_blank" rel="noopener">Ancestry - Puerto Rico</a>
+<a href="https://www.familysearch.org/en/wiki/Puerto_Rico_Genealogy" target="_blank" rel="noopener">Ancestry - Puerto Rico</a>
 <p class="description">Subscription-based access to Puerto Rican records including census, vital records, and immigration documents.</p>
 </li>
 <li>
@@ -81,7 +81,7 @@ A curated collection of archives, databases, and tools for researching Puerto Ri
 
 <ul class="resource-list">
 <li>
-<a href="https://www.congresogenealogia.com/" target="_blank" rel="noopener">Sociedad Puertorriqueña de Genealogía </a>
+<a href="https://genealogiapr.com//" target="_blank" rel="noopener">Sociedad Puertorriqueña de Genealogía </a>
 <p class="description">Annual genealogy congress held in Puerto Rico, bringing together researchers and experts.</p>
 </li>
 <li>
