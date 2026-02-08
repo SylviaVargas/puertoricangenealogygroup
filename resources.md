@@ -60,12 +60,12 @@ A curated collection of archives, databases, and tools for researching Puerto Ri
 | Resource | Description |
 |----------|-------------|
 | <a href="https://looking4myroots.com" target="_blank" rel="noopener">Looking4MyRoots</a> | Our companion blog with research tips, case studies, and Puerto Rican genealogy articles. |
-| <a href="https://www.hijosdecoamopr.com/" target="_blank" rel="noopener">Hijos de Coamo</a> | Extensive resources focused on Coamo and Puerto Rican genealogy research. |
-| <a href="https://puertorikin.com/" target="_blank" rel="noopener">Puerto RiKin</a> | Genealogy blog focusing on Puerto Rican kin and research strategies. |
-| <a href="https://latinogenealogyandbeyond.com/" target="_blank" rel="noopener">Latino Genealogy and Beyond</a> | Blog by Dr. Ellen Fernandez-Sacco exploring Caribbean genealogy with emphasis on Puerto Rico and the diaspora, integrating African, Indigenous, and colonial ancestry research with broader historical narratives. |
 | <a href="https://boricuagenes.com/" target="_blank" rel="noopener">BoricuaGenes Blog</a> | Blog by Luis Rivera documenting Puerto Rican genealogy and genetic ancestry research, exploring Taíno, African, and Spanish roots with practical guides and church record resources. |
 | <a href="https://genus-meridiem-pr.blogspot.com/" target="_blank" rel="noopener">Genealogías e Historia del Suroeste de Puerto Rico</a> | Blog by César A. Zapata Lozada dedicated to genealogical research and local history of southwestern Puerto Rico, featuring parish records, colonial documents, and family lineages from towns like San Germán, Cabo Rojo, and Lajas. |
+| <a href="https://latinogenealogyandbeyond.com/" target="_blank" rel="noopener">Latino Genealogy and Beyond</a> | Blog by Dr. Ellen Fernandez-Sacco exploring Caribbean genealogy with emphasis on Puerto Rico and the diaspora, integrating African, Indigenous, and colonial ancestry research with broader historical narratives. |
+| <a href="https://puertorikin.com/" target="_blank" rel="noopener">Puerto RiKin</a> | Genealogy blog focusing on Puerto Rican kin and research strategies. |
 | <a href="https://familylocket.com/" target="_blank" rel="noopener">Family Locket</a> | Blog by Diana Elder (AG®) and Nicole Dyer, a mother-daughter team of professional genealogists. Features the "Research Like a Pro" methodology, DNA genealogy guides, record analysis tutorials, and practical tools for organizing and documenting family history research. |
+| <a href="https://www.hijosdecoamopr.com/" target="_blank" rel="noopener">Hijos de Coamo</a> | Extensive resources focused on Coamo and Puerto Rican genealogy research. |
 
 ---
 
