@@ -31,16 +31,6 @@ A curated collection of archives, databases, and tools for researching Puerto Ri
 | <a href="https://www.familysearch.org/search/collection/location/1927073" target="_blank" rel="noopener">FamilySearch - Puerto Rico Collections</a> | Free access to digitized church records, civil registry, and other vital records from Puerto Rico. |
 | <a href="https://www.familysearch.org/en/wiki/Puerto_Rico_Genealogy" target="_blank" rel="noopener">Family Search - Puerto Rico</a> | Free access to Puerto Rican records including census, vital records, and immigration documents. Create a free login at familysearch.org.|
 
----
-
-### DNA & Genetic Genealogy
-
-| Resource | Description |
-|----------|-------------|
-| <a href="https://www.ancestry.com/dna/" target="_blank" rel="noopener">AncestryDNA</a> | DNA testing with the largest database for matching relatives. |
-| <a href="https://www.23andme.com/" target="_blank" rel="noopener">23andMe</a> | DNA testing with health reports and ancestry composition. |
-| <a href="https://www.familytreedna.com/" target="_blank" rel="noopener">Family Tree DNA</a> | Specialized DNA testing including Y-DNA and mtDNA for deep ancestry. |
-| <a href="https://www.gedmatch.com/" target="_blank" rel="noopener">GEDmatch</a> | Free tools for comparing DNA results across different testing companies. |
 
 ---
 
@@ -50,7 +40,7 @@ A curated collection of archives, databases, and tools for researching Puerto Ri
 |----------|-------------|
 | <a href="https://genealogiapr.com/" target="_blank" rel="noopener">Sociedad Puertorriqueña de Genealogía (SPG)</a> | Genealogy society based in San Juan, Puerto Rico. SPG hosts monthly conferences, workshops, and cultural visits. Events are shared on their <a href="https://www.facebook.com/groups/spgpuertorico" target="_blank" rel="noopener">Facebook group</a> and <a href="https://www.youtube.com/@sociedadpr" target="_blank" rel="noopener">YouTube channel</a>. Members receive two annual editions of <em>Hereditas</em>, a journal featuring genealogical research articles, parish record compilations, and municipal archive transcriptions. |
 | <a href="https://groups.io/g/PRGENEALOGY-NW" target="_blank" rel="noopener">Puerto Rican Genealogy Northwest</a> | Groups.io mailing list for Puerto Rican genealogy researchers. |
-
+| <a href="https://www.ngsgenealogy.org/genealogy-courses/" target="_blank" rel="noopener">National Genealogical Society – Genealogy Courses</a> | Self-paced online genealogy courses for beginners through advanced researchers, covering research methods, documentation standards, DNA, land records, and specialized topics. |
 ---
 
 ### Blogs & Educational Resources
@@ -64,6 +54,18 @@ A curated collection of archives, databases, and tools for researching Puerto Ri
 | <a href="https://puertorikin.com/" target="_blank" rel="noopener">Puerto RiKin</a> | Genealogy blog focusing on Puerto Rican kin and research strategies. |
 | <a href="https://familylocket.com/" target="_blank" rel="noopener">Family Locket</a> | Blog by Diana Elder (AG®) and Nicole Dyer, a mother-daughter team of professional genealogists. Features the "Research Like a Pro" methodology, DNA genealogy guides, record analysis tutorials, and practical tools for organizing and documenting family history research. |
 | <a href="https://www.hijosdecoamopr.com/" target="_blank" rel="noopener">Hijos de Coamo</a> | Extensive resources focused on Coamo and Puerto Rican genealogy research. |
+
+---
+
+
+### DNA & Genetic Genealogy
+
+| Resource | Description |
+|----------|-------------|
+| <a href="https://www.ancestry.com/dna/" target="_blank" rel="noopener">AncestryDNA</a> | DNA testing with the largest database for matching relatives. |
+| <a href="https://www.23andme.com/" target="_blank" rel="noopener">23andMe</a> | DNA testing with health reports and ancestry composition. |
+| <a href="https://www.familytreedna.com/" target="_blank" rel="noopener">Family Tree DNA</a> | Specialized DNA testing including Y-DNA and mtDNA for deep ancestry. |
+| <a href="https://www.gedmatch.com/" target="_blank" rel="noopener">GEDmatch</a> | Free tools for comparing DNA results across different testing companies. |
 
 ---
 

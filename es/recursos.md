@@ -33,16 +33,7 @@ Una colección curada de archivos, bases de datos y herramientas para investigar
 
 ---
 
-### ADN y Genealogía Genética
 
-| Recurso | Descripción |
-|---------|-------------|
-| <a href="https://www.ancestry.com/dna/" target="_blank" rel="noopener">AncestryDNA</a> | Pruebas de ADN con la base de datos más grande para encontrar parientes. |
-| <a href="https://www.23andme.com/" target="_blank" rel="noopener">23andMe</a> | Pruebas de ADN con informes de salud y composición de ascendencia. |
-| <a href="https://www.familytreedna.com/" target="_blank" rel="noopener">Family Tree DNA</a> | Pruebas de ADN especializadas incluyendo Y-DNA y mtDNA para ascendencia profunda. |
-| <a href="https://www.gedmatch.com/" target="_blank" rel="noopener">GEDmatch</a> | Herramientas gratuitas para comparar resultados de ADN entre diferentes compañías. |
-
----
 
 ### Sociedades y Organizaciones Genealógicas
 
@@ -50,7 +41,7 @@ Una colección curada de archivos, bases de datos y herramientas para investigar
 |---------|-------------|
 | <a href="https://genealogiapr.com/" target="_blank" rel="noopener">Sociedad Puertorriqueña de Genealogía (SPG)</a> | Sociedad genealógica con sede en San Juan, Puerto Rico. La SPG ofrece conferencias mensuales, talleres y visitas culturales. Sus eventos se comparten en su <a href="https://www.facebook.com/groups/spgpuertorico" target="_blank" rel="noopener">grupo de Facebook</a> y su <a href="https://www.youtube.com/@sociedadpr" target="_blank" rel="noopener">canal de YouTube</a>. Los miembros reciben dos ediciones anuales de <em>Hereditas</em>, una revista que publica artículos de investigación genealógica, compilaciones de registros parroquiales y transcripciones de archivos municipales. |
 | <a href="https://groups.io/g/PRGENEALOGY-NW" target="_blank" rel="noopener">Puerto Rican Genealogy Northwest</a> | Lista de correo en Groups.io para investigadores de genealogía puertorriqueña. |
-
+| <a href="https://www.ngsgenealogy.org/genealogy-courses/" target="_blank" rel="noopener">National Genealogical Society – Cursos de Genealogía</a> | Cursos en línea autodidactas para genealogistas de todos los niveles, que cubren fundamentos de investigación, metodologías avanzadas, estándares de documentación, ADN, registros de tierras y otros temas especializados. |
 ---
 
 ### Blogs y Recursos Educativos
@@ -64,6 +55,18 @@ Una colección curada de archivos, bases de datos y herramientas para investigar
 | <a href="https://puertorikin.com/" target="_blank" rel="noopener">Puerto RiKin</a> | Blog de genealogía enfocado en parentesco puertorriqueño y estrategias de investigación. |
 | <a href="https://familylocket.com/" target="_blank" rel="noopener">Family Locket</a> | Blog de Diana Elder (AG®) y Nicole Dyer, un equipo profesional de genealogistas madre e hija. Presenta la metodología "Research Like a Pro", guías de genealogía genética, tutoriales de análisis de registros y herramientas prácticas para organizar y documentar la investigación de historia familiar. |
 | <a href="https://www.hijosdecoamopr.com/" target="_blank" rel="noopener">Hijos de Coamo</a> | Recursos extensos enfocados en Coamo y la investigación genealógica puertorriqueña. |
+
+---
+
+### ADN y Genealogía Genética
+
+| Recurso | Descripción |
+|---------|-------------|
+| <a href="https://www.ancestry.com/dna/" target="_blank" rel="noopener">AncestryDNA</a> | Pruebas de ADN con la base de datos más grande para encontrar parientes. |
+| <a href="https://www.23andme.com/" target="_blank" rel="noopener">23andMe</a> | Pruebas de ADN con informes de salud y composición de ascendencia. |
+| <a href="https://www.familytreedna.com/" target="_blank" rel="noopener">Family Tree DNA</a> | Pruebas de ADN especializadas incluyendo Y-DNA y mtDNA para ascendencia profunda. |
+| <a href="https://www.gedmatch.com/" target="_blank" rel="noopener">GEDmatch</a> | Herramientas gratuitas para comparar resultados de ADN entre diferentes compañías. |
+
 
 ---
 
