@@ -1,0 +1,19 @@
+{% unless page.hide_breadcrumb %}
+{% if page.lang == 'es' %}
+  {% assign home_label = "Inicio" %}
+  {% assign home_url = "/es/" %}
+{% else %}
+  {% assign home_label = "Home" %}
+  {% assign home_url = "/" %}
+{% endif %}
+
+<nav class="breadcrumb" aria-label="{% if page.lang == 'es' %}Navegación de migas de pan{% else %}Breadcrumb{% endif %}">
+  <a href="{{ home_url | relative_url }}">{{ home_label }}</a>
+  {% if page.parent_title and page.parent_url %}
+    <span>/</span>
+    <a href="{{ page.parent_url | relative_url }}">{{ page.parent_title }}</a>
+  {% endif %}
+  <span>/</span>
+  <span aria-current="page">{{ page.breadcrumb | default: page.title }}</span>
+</nav>
+{% endunless %}

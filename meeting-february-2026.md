@@ -5,6 +5,8 @@ lang: en
 permalink: /meeting-february-2026/
 ref: meeting-february-2026
 last_modified_at: 2026-02-07
+parent_title: Meetings
+parent_url: /meetings/
 ---
 
 ## Puerto Rican Genealogy Zoom Meeting

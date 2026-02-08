@@ -598,6 +598,14 @@ td:first-child {
   color: var(--color-navy);
 }
 
+.breadcrumb span {
+  margin: 0 var(--spacing-xs);
+}
+
+.breadcrumb span[aria-current="page"] {
+  margin-left: 0;
+}
+
 .guide-header {
   margin-bottom: var(--spacing-md);
   padding-bottom: var(--spacing-sm);
