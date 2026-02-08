@@ -82,8 +82,8 @@ Una colección curada de archivos, bases de datos y herramientas para investigar
 
 <ul class="resource-list">
 <li>
-<a href="https://genealogiapr.com//" target="_blank" rel="noopener">Sociedad Puertorriqueña de Genealogía </a>
-<p class="description">Congreso anual de genealogía celebrado en Puerto Rico, reuniendo investigadores y expertos.</p>
+<a href="https://genealogiapr.com/" target="_blank" rel="noopener">Sociedad Puertorriqueña de Genealogía (SPG)</a>
+<p class="description">Sociedad genealógica con sede en San Juan, Puerto Rico. La SPG ofrece conferencias mensuales, talleres y visitas culturales. Sus eventos se comparten en su <a href="https://www.facebook.com/groups/spgpuertorico" target="_blank" rel="noopener">grupo de Facebook</a> y su <a href="https://www.youtube.com/@sociedadpr" target="_blank" rel="noopener">canal de YouTube</a>. Los miembros reciben dos ediciones anuales de <em>Hereditas</em>, una revista que publica artículos de investigación genealógica, compilaciones de registros parroquiales y transcripciones de archivos municipales.</p>
 </li>
 <li>
 <a href="https://www.prgenealogy.com/" target="_blank" rel="noopener">Sociedad Genealógica de Puerto Rico</a>

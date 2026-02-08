@@ -69,8 +69,8 @@ last_modified_at: 2026-02-07
     </div>
     <ul class="resource-list">
       <li>
-        <a href="https://genealogiapr.com//" target="_blank" rel="noopener">Tercer Sociedad Puertorriqueña de Genealogía </a>
-        <p class="description">Conferencia anual que reúne a genealogistas enfocados en la investigación puertorriqueña.</p>
+        <a href="https://genealogiapr.com/" target="_blank" rel="noopener">Sociedad Puertorriqueña de Genealogía (SPG)</a>
+        <p class="description">Sociedad genealógica con sede en San Juan, Puerto Rico. La SPG ofrece conferencias mensuales, talleres y visitas culturales. Sus eventos se comparten en su <a href="https://www.facebook.com/groups/spgpuertorico" target="_blank" rel="noopener">grupo de Facebook</a> y su <a href="https://www.youtube.com/@sociedadpr" target="_blank" rel="noopener">canal de YouTube</a>. Los miembros reciben dos ediciones anuales de <em>Hereditas</em>, una revista que publica artículos de investigación genealógica, compilaciones de registros parroquiales y transcripciones de archivos municipales.</p>
       </li>
       <li>
         <a href="https://www.upr.edu/biblioteca-rrp//" target="_blank" rel="noopener">Biblioteca Digital Puertorriqueña</a>
