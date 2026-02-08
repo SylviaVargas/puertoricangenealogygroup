@@ -13,15 +13,16 @@ The Puerto Rican Genealogy Group hosts regular virtual meetings where members ca
 
 ---
 
-### Upcoming Meeting
-
-**[February 9, 2026: Brick Walls + Strategies]({{ '/meeting-february-2026/' | relative_url }})**
-
-Join us for an interactive round-table discussion on breaking through research challenges. **César Zapata-Lozada** will present on using municipal council records (Actas de Cabildo) as genealogical sources.
-
-- **Date:** Monday, February 9, 2026
-- **Time:** 7:00 PM EST / 8:00 PM Puerto Rico / 4:00 PM PST
-- **[Register Now](https://us06web.zoom.us/meeting/register/chSyaQqxRzSxOaeXxJmM0Q)**
+<div class="meeting-card">
+  <div class="meeting-card-label">Upcoming Meeting</div>
+  <h3><a href="{{ '/meeting-february-2026/' | relative_url }}">Brick Walls + Strategies</a></h3>
+  <p>Join us for an interactive round-table discussion on breaking through research challenges. <strong>César Zapata-Lozada</strong> will present on using municipal council records (Actas de Cabildo) as genealogical sources.</p>
+  <div class="meeting-card-details">
+    <span>Monday, February 9, 2026</span>
+    <span>7:00 PM EST / 8:00 PM PR / 4:00 PM PST</span>
+  </div>
+  <a href="https://us06web.zoom.us/meeting/register/chSyaQqxRzSxOaeXxJmM0Q" class="btn btn-primary" target="_blank" rel="noopener">Register Now</a>
+</div>
 
 ---
 

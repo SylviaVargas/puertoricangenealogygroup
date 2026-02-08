@@ -13,20 +13,16 @@ La Inteligencia Artificial está transformando muchos campos, incluyendo la gene
 
 ### Cómo Puede Ayudar la IA
 
-**Asistencia en Transcripción**
-- Reconocimiento de escritura manual en documentos antiguos
-- Reconocimiento Óptico de Caracteres (OCR) para materiales impresos
-- Procesamiento por lotes de grandes colecciones de documentos
-
-**Apoyo en Traducción**
-- Traducción de documentos coloniales españoles
-- Comprensión de términos y frases arcaicas
-- Referencias cruzadas en múltiples idiomas
-
-**Análisis de Investigación**
-- Reconocimiento de patrones en registros
-- Sugerencia de coincidencias potenciales
-- Organización de grandes cantidades de datos
+| Capacidad de IA | Qué Hace | Ejemplo de Uso |
+| --- | --- | --- |
+| Reconocimiento de Escritura | Lee documentos manuscritos antiguos | Registros eclesiásticos coloniales españoles |
+| OCR | Convierte texto impreso en texto buscable | Periódicos digitalizados, registros civiles |
+| Procesamiento por Lotes | Procesa muchos documentos a la vez | Grandes colecciones de registros parroquiales |
+| Traducción | Traduce documentos históricos | Documentos coloniales españoles, términos arcaicos |
+| Búsqueda Multilingüe | Encuentra referencias entre idiomas | Nombres en registros en español e inglés |
+| Reconocimiento de Patrones | Identifica datos recurrentes en registros | Grupos de apellidos, patrones migratorios |
+| Coincidencia de Registros | Sugiere posibles conexiones | Vincular bautismos con registros matrimoniales |
+| Organización de Datos | Estructura grandes conjuntos de datos | Ordenar cientos de nombres y fechas extraídos |
 
 ### Mejores Prácticas para la IA en Genealogía
 
@@ -51,20 +47,24 @@ Al usar herramientas asistidas por IA:
 
 #### Entiende las Limitaciones de la IA
 
-- La IA no puede verificar hechos—solo los humanos pueden evaluar evidencia
-- La IA puede "alucinar" o crear información plausible pero falsa
-- La IA carece de comprensión del contexto histórico
-- La IA no puede reemplazar el análisis genealógico apropiado
+| Limitación | Riesgo | Qué Debes Hacer |
+| --- | --- | --- |
+| No puede verificar hechos | Puede presentar información falsa como verdadera | Siempre verifica contra fuentes originales |
+| Alucinación | Crea detalles plausibles pero inventados | Verifica nombres, fechas y lugares independientemente |
+| Sin contexto histórico | Malinterpreta términos de la época | Consulta diccionarios de época e historias locales |
+| Sin análisis genealógico | No puede evaluar calidad de evidencia | Aplica el estándar GPS a todas las conclusiones |
 
 ### El Estándar GPS Aún Aplica
 
 La IA es una herramienta, no un reemplazo del Estándar de Prueba Genealógica (GPS). Cada conclusión debe cumplir con los cinco elementos del GPS:
 
-1. **Investigación razonablemente exhaustiva** — La IA puede ayudar a buscar, pero tú determinas la completitud
-2. **Citas completas** — Documenta el uso de IA como parte de tu metodología
-3. **Análisis de evidencia** — La IA no puede evaluar; solo los humanos pueden analizar
-4. **Resolución de conflictos** — La IA no puede sopesar evidencia conflictiva
-5. **Conclusión escrita** — Tu conclusión razonada, no la sugerencia de la IA
+| Elemento GPS | Rol de la IA | Tu Responsabilidad |
+| --- | --- | --- |
+| Investigación Exhaustiva | Ayuda a buscar y descubrir registros | Determinar cuándo la investigación está completa |
+| Citas Completas | Puede formatear citas | Documentar el uso de herramientas de IA en la metodología |
+| Análisis de Evidencia | No puede evaluar calidad | Evaluar tipos de fuente, información y evidencia |
+| Resolución de Conflictos | No puede sopesar conflictos | Aplicar preponderancia y razonamiento |
+| Conclusión Escrita | Puede redactar texto | Escribir tu propia conclusión razonada y basada en evidencia |
 
 ### Enfoque Recomendado
 
@@ -77,10 +77,13 @@ La IA es una herramienta, no un reemplazo del Estándar de Prueba Genealógica (
 ### Consideraciones de Privacidad
 
 Al usar herramientas de IA con datos genealógicos:
-- Ten cuidado al subir documentos que contengan información de personas vivas
-- Revisa las políticas de privacidad de los servicios de IA
-- Considera usar herramientas de IA locales/sin conexión para documentos sensibles
-- Nunca compartas datos de ADN con servicios de IA no confiables
+
+| Preocupación | Nivel de Riesgo | Recomendación |
+| --- | --- | --- |
+| Datos de personas vivas | Alto | Nunca subas documentos con información personal de personas vivas |
+| Políticas de privacidad de servicios de IA | Medio | Lee y comprende las políticas de retención de datos |
+| Documentos sensibles | Alto | Usa herramientas de IA locales/sin conexión cuando sea posible |
+| Datos de ADN | Alto | Nunca compartas con servicios de IA no confiables |
 
 ### Aprende Más
 

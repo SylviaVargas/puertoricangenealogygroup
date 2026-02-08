@@ -13,15 +13,16 @@ El Puerto Rican Genealogy Group organiza reuniones virtuales regulares donde los
 
 ---
 
-### Próxima Reunión
-
-**[9 de febrero de 2026: Muros de Ladrillos + Estrategias]({{ '/es/reunion-febrero-2026/' | relative_url }})**
-
-Únete a nosotros para una discusión interactiva de mesa redonda sobre cómo superar desafíos de investigación. **César Zapata-Lozada** presentará sobre el uso de registros de cabildos municipales (Actas de Cabildo) como fuentes genealógicas.
-
-- **Fecha:** Lunes, 9 de febrero de 2026
-- **Hora:** 7:00 PM EST / 8:00 PM Puerto Rico / 4:00 PM PST
-- **[Regístrate Ahora](https://us06web.zoom.us/meeting/register/chSyaQqxRzSxOaeXxJmM0Q)**
+<div class="meeting-card">
+  <div class="meeting-card-label">Próxima Reunión</div>
+  <h3><a href="{{ '/es/reunion-febrero-2026/' | relative_url }}">Muros de Ladrillos + Estrategias</a></h3>
+  <p>Únete a nosotros para una discusión interactiva de mesa redonda sobre cómo superar desafíos de investigación. <strong>César Zapata-Lozada</strong> presentará sobre el uso de registros de cabildos municipales (Actas de Cabildo) como fuentes genealógicas.</p>
+  <div class="meeting-card-details">
+    <span>Lunes, 9 de febrero de 2026</span>
+    <span>7:00 PM EST / 8:00 PM PR / 4:00 PM PST</span>
+  </div>
+  <a href="https://us06web.zoom.us/meeting/register/chSyaQqxRzSxOaeXxJmM0Q" class="btn btn-primary" target="_blank" rel="noopener">Regístrate Ahora</a>
+</div>
 
 ---
 

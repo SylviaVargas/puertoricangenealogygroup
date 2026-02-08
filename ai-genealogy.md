@@ -13,20 +13,16 @@ Artificial Intelligence is transforming many fields, including genealogy. While 
 
 ### How AI Can Help
 
-**Transcription Assistance**
-- Handwriting recognition for old documents
-- Optical Character Recognition (OCR) for printed materials
-- Batch processing of large document collections
-
-**Translation Support**
-- Translating Spanish colonial documents
-- Understanding archaic terms and phrases
-- Cross-referencing multiple languages
-
-**Research Analysis**
-- Pattern recognition in records
-- Suggesting potential matches
-- Organizing large amounts of data
+| AI Capability | What It Does | Example Use Case |
+| --- | --- | --- |
+| Handwriting Recognition | Reads old handwritten documents | Spanish colonial church records |
+| OCR | Converts printed text to searchable text | Digitized newspapers, civil registries |
+| Batch Processing | Processes many documents at once | Large collections of parish records |
+| Translation | Translates historical documents | Spanish colonial documents, archaic terms |
+| Cross-Language Search | Finds references across languages | Names appearing in both Spanish and English records |
+| Pattern Recognition | Identifies recurring data in records | Family name clusters, migration patterns |
+| Record Matching | Suggests possible connections | Linking baptism to marriage records |
+| Data Organization | Structures large datasets | Sorting hundreds of extracted names and dates |
 
 ### Best Practices for AI in Genealogy
 
@@ -51,20 +47,24 @@ When using AI-assisted tools:
 
 #### Understand AI Limitations
 
-- AI cannot verify facts—only humans can evaluate evidence
-- AI may "hallucinate" or create plausible but false information
-- AI lacks understanding of historical context
-- AI cannot replace proper genealogical analysis
+| Limitation | Risk | What You Should Do |
+| --- | --- | --- |
+| Cannot verify facts | May present false info as true | Always cross-check against original sources |
+| Hallucination | Creates plausible but invented details | Verify names, dates, and places independently |
+| No historical context | Misinterprets period-specific terms | Consult period dictionaries and local histories |
+| No genealogical analysis | Cannot weigh evidence quality | Apply GPS standard to all conclusions |
 
 ### The GPS Standard Still Applies
 
 AI is a tool, not a replacement for the Genealogical Proof Standard. Every conclusion must still meet the five GPS elements:
 
-1. **Reasonably exhaustive research** — AI can help search, but you determine completeness
-2. **Complete citations** — Document AI use as part of your methodology
-3. **Analysis of evidence** — AI cannot evaluate; only humans can analyze
-4. **Resolution of conflicts** — AI cannot weigh conflicting evidence
-5. **Written conclusion** — Your reasoned conclusion, not AI's suggestion
+| GPS Element | AI's Role | Your Responsibility |
+| --- | --- | --- |
+| Exhaustive Research | Helps search and discover records | Determine when research is complete |
+| Complete Citations | Can format citations | Document AI tool usage in methodology |
+| Analysis of Evidence | Cannot evaluate quality | Assess source, information, and evidence types |
+| Conflict Resolution | Cannot weigh conflicts | Apply preponderance and reasoning |
+| Written Conclusion | Can draft text | Write your own reasoned, evidence-based conclusion |
 
 ### Recommended Approach
 
@@ -77,10 +77,13 @@ AI is a tool, not a replacement for the Genealogical Proof Standard. Every concl
 ### Privacy Considerations
 
 When using AI tools with genealogical data:
-- Be cautious about uploading documents containing living persons' information
-- Review privacy policies of AI services
-- Consider using local/offline AI tools for sensitive documents
-- Never share DNA data with untrusted AI services
+
+| Concern | Risk Level | Recommendation |
+| --- | --- | --- |
+| Living persons' data | High | Never upload documents with living persons' PII |
+| AI service privacy policies | Medium | Read and understand data retention policies |
+| Sensitive documents | High | Use local/offline AI tools when possible |
+| DNA data | High | Never share with untrusted AI services |
 
 ### Learn More
 
