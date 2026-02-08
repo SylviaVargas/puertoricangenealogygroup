@@ -29,8 +29,7 @@ A curated collection of archives, databases, and tools for researching Puerto Ri
 |----------|-------------|
 | <a href="https://www.familysearch.org/search/collection/location/1927073" target="_blank" rel="noopener">FamilySearch - Puerto Rico Collections</a> | Free access to digitized church records, civil registry, and other vital records from Puerto Rico. |
 | <a href="https://www.upr.edu/biblioteca-rrp/" target="_blank" rel="noopener">Biblioteca Digital Puertorriqueña</a> | Digital library from the University of Puerto Rico with historical documents, photographs, and publications. |
-| <a href="https://www.familysearch.org/en/wiki/Puerto_Rico_Genealogy" target="_blank" rel="noopener">Ancestry - Puerto Rico</a> | Subscription-based access to Puerto Rican records including census, vital records, and immigration documents. |
-| <a href="https://www.findmypast.com/" target="_blank" rel="noopener">FindMyPast</a> | Additional Puerto Rican records including Catholic Church records and newspapers. |
+| <a href="https://www.familysearch.org/en/wiki/Puerto_Rico_Genealogy" target="_blank" rel="noopener">Family Search - Puerto Rico</a> | Free access to Puerto Rican records including census, vital records, and immigration documents. Create a free login at familysearch.org.|
 
 ---
 
