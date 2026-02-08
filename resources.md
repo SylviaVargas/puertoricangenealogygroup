@@ -15,150 +15,75 @@ A curated collection of archives, databases, and tools for researching Puerto Ri
 
 ### Archives & Official Repositories
 
-<ul class="resource-list">
-<li>
-<a href="https://www.icp.pr.gov/archivo-general/" target="_blank" rel="noopener">Archivo General de Puerto Rico</a>
-<p class="description">The official repository for Puerto Rican historical records, including colonial documents, census records, and government archives.</p>
-</li>
-<li>
-<a href="https://www.salud.pr.gov/CMS/18" target="_blank" rel="noopener">Registro Demográfico de Puerto Rico</a>
-<p class="description">Puerto Rico's vital records office for birth, marriage, and death certificates (1885-present).</p>
-</li>
-<li>
-<a href="https://www.archives.gov/" target="_blank" rel="noopener">U.S. National Archives (NARA)</a>
-<p class="description">Federal records relating to Puerto Rico, including census records, military records, and naturalization files.</p>
-</li>
-</ul>
+| Resource | Description |
+|----------|-------------|
+| <a href="https://www.icp.pr.gov/archivo-general/" target="_blank" rel="noopener">Archivo General de Puerto Rico</a> | The official repository for Puerto Rican historical records, including colonial documents, census records, and government archives. |
+| <a href="https://www.salud.pr.gov/CMS/18" target="_blank" rel="noopener">Registro Demográfico de Puerto Rico</a> | Puerto Rico's vital records office for birth, marriage, and death certificates (1885-present). |
+| <a href="https://www.archives.gov/" target="_blank" rel="noopener">U.S. National Archives (NARA)</a> | Federal records relating to Puerto Rico, including census records, military records, and naturalization files. |
 
 ---
 
 ### Digital Collections & Databases
 
-<ul class="resource-list">
-<li>
-<a href="https://www.familysearch.org/search/collection/location/1927073" target="_blank" rel="noopener">FamilySearch - Puerto Rico Collections</a>
-<p class="description">Free access to digitized church records, civil registry, and other vital records from Puerto Rico.</p>
-</li>
-<li>
-<a href="https://www.upr.edu/biblioteca-rrp//" target="_blank" rel="noopener">Biblioteca Digital Puertorriqueña</a>
-<p class="description">Digital library from the University of Puerto Rico with historical documents, photographs, and publications.</p>
-</li>
-<li>
-<a href="https://www.familysearch.org/en/wiki/Puerto_Rico_Genealogy" target="_blank" rel="noopener">Ancestry - Puerto Rico</a>
-<p class="description">Subscription-based access to Puerto Rican records including census, vital records, and immigration documents.</p>
-</li>
-<li>
-<a href="https://www.findmypast.com/" target="_blank" rel="noopener">FindMyPast</a>
-<p class="description">Additional Puerto Rican records including Catholic Church records and newspapers.</p>
-</li>
-</ul>
+| Resource | Description |
+|----------|-------------|
+| <a href="https://www.familysearch.org/search/collection/location/1927073" target="_blank" rel="noopener">FamilySearch - Puerto Rico Collections</a> | Free access to digitized church records, civil registry, and other vital records from Puerto Rico. |
+| <a href="https://www.upr.edu/biblioteca-rrp/" target="_blank" rel="noopener">Biblioteca Digital Puertorriqueña</a> | Digital library from the University of Puerto Rico with historical documents, photographs, and publications. |
+| <a href="https://www.familysearch.org/en/wiki/Puerto_Rico_Genealogy" target="_blank" rel="noopener">Ancestry - Puerto Rico</a> | Subscription-based access to Puerto Rican records including census, vital records, and immigration documents. |
+| <a href="https://www.findmypast.com/" target="_blank" rel="noopener">FindMyPast</a> | Additional Puerto Rican records including Catholic Church records and newspapers. |
 
 ---
 
 ### DNA & Genetic Genealogy
 
-<ul class="resource-list">
-<li>
-<a href="https://www.ancestry.com/dna/" target="_blank" rel="noopener">AncestryDNA</a>
-<p class="description">DNA testing with the largest database for matching relatives.</p>
-</li>
-<li>
-<a href="https://www.23andme.com/" target="_blank" rel="noopener">23andMe</a>
-<p class="description">DNA testing with health reports and ancestry composition.</p>
-</li>
-<li>
-<a href="https://www.familytreedna.com/" target="_blank" rel="noopener">Family Tree DNA</a>
-<p class="description">Specialized DNA testing including Y-DNA and mtDNA for deep ancestry.</p>
-</li>
-<li>
-<a href="https://www.gedmatch.com/" target="_blank" rel="noopener">GEDmatch</a>
-<p class="description">Free tools for comparing DNA results across different testing companies.</p>
-</li>
-</ul>
+| Resource | Description |
+|----------|-------------|
+| <a href="https://www.ancestry.com/dna/" target="_blank" rel="noopener">AncestryDNA</a> | DNA testing with the largest database for matching relatives. |
+| <a href="https://www.23andme.com/" target="_blank" rel="noopener">23andMe</a> | DNA testing with health reports and ancestry composition. |
+| <a href="https://www.familytreedna.com/" target="_blank" rel="noopener">Family Tree DNA</a> | Specialized DNA testing including Y-DNA and mtDNA for deep ancestry. |
+| <a href="https://www.gedmatch.com/" target="_blank" rel="noopener">GEDmatch</a> | Free tools for comparing DNA results across different testing companies. |
 
 ---
 
 ### Genealogical Societies & Organizations
 
-<ul class="resource-list">
-<li>
-<a href="https://genealogiapr.com/" target="_blank" rel="noopener">Sociedad Puertorriqueña de Genealogía (SPG)</a>
-<p class="description">Genealogy society based in San Juan, Puerto Rico. SPG hosts monthly conferences, workshops, and cultural visits. Events are shared on their <a href="https://www.facebook.com/groups/spgpuertorico" target="_blank" rel="noopener">Facebook group</a> and <a href="https://www.youtube.com/@sociedadpr" target="_blank" rel="noopener">YouTube channel</a>. Members receive two annual editions of <em>Hereditas</em>, a journal featuring genealogical research articles, parish record compilations, and municipal archive transcriptions.</p>
-</li>
-<li>
-<a href="https://www.prgenealogy.com/" target="_blank" rel="noopener">Puerto Rico Genealogical Society</a>
-<p class="description">Organization dedicated to Puerto Rican genealogical research and education.</p>
-</li>
-<li>
-<a href="https://groups.io/g/PRGENEALOGY-NW" target="_blank" rel="noopener">Puerto Rican Genealogy Northwest</a>
-<p class="description">Groups.io mailing list for Puerto Rican genealogy researchers.</p>
-</li>
-</ul>
+| Resource | Description |
+|----------|-------------|
+| <a href="https://genealogiapr.com/" target="_blank" rel="noopener">Sociedad Puertorriqueña de Genealogía (SPG)</a> | Genealogy society based in San Juan, Puerto Rico. SPG hosts monthly conferences, workshops, and cultural visits. Events are shared on their <a href="https://www.facebook.com/groups/spgpuertorico" target="_blank" rel="noopener">Facebook group</a> and <a href="https://www.youtube.com/@sociedadpr" target="_blank" rel="noopener">YouTube channel</a>. Members receive two annual editions of <em>Hereditas</em>, a journal featuring genealogical research articles, parish record compilations, and municipal archive transcriptions. |
+| <a href="https://www.prgenealogy.com/" target="_blank" rel="noopener">Puerto Rico Genealogical Society</a> | Organization dedicated to Puerto Rican genealogical research and education. |
+| <a href="https://groups.io/g/PRGENEALOGY-NW" target="_blank" rel="noopener">Puerto Rican Genealogy Northwest</a> | Groups.io mailing list for Puerto Rican genealogy researchers. |
 
 ---
 
 ### Blogs & Educational Resources
 
-<ul class="resource-list">
-<li>
-<a href="https://looking4myroots.com" target="_blank" rel="noopener">Looking4MyRoots</a>
-<p class="description">Our companion blog with research tips, case studies, and Puerto Rican genealogy articles.</p>
-</li>
-<li>
-<a href="https://www.hijosdecoamo.com/" target="_blank" rel="noopener">Hijos de Coamo</a>
-<p class="description">Extensive resources focused on Coamo and Puerto Rican genealogy research.</p>
-</li>
-<li>
-<a href="https://puertorikin.com/" target="_blank" rel="noopener">Puerto RiKin</a>
-<p class="description">Genealogy blog focusing on Puerto Rican kin and research strategies.</p>
-</li>
-<li>
-<a href="https://latinogenealogyandbeyond.com/" target="_blank" rel="noopener">Latino Genealogy and Beyond</a>
-<p class="description">Blog by Dr. Ellen Fernandez-Sacco exploring Caribbean genealogy with emphasis on Puerto Rico and the diaspora, integrating African, Indigenous, and colonial ancestry research with broader historical narratives.</p>
-</li>
-<li>
-<a href="https://boricuagenes.com/" target="_blank" rel="noopener">BoricuaGenes Blog</a>
-<p class="description">Blog by Luis Rivera documenting Puerto Rican genealogy and genetic ancestry research, exploring Taíno, African, and Spanish roots with practical guides and church record resources.</p>
-</li>
-<li>
-<a href="https://genus-meridiem-pr.blogspot.com/" target="_blank" rel="noopener">Genealogías e Historia del Suroeste de Puerto Rico</a>
-<p class="description">Blog by César A. Zapata Lozada dedicated to genealogical research and local history of southwestern Puerto Rico, featuring parish records, colonial documents, and family lineages from towns like San Germán, Cabo Rojo, and Lajas.</p>
-</li>
-</ul>
+| Resource | Description |
+|----------|-------------|
+| <a href="https://looking4myroots.com" target="_blank" rel="noopener">Looking4MyRoots</a> | Our companion blog with research tips, case studies, and Puerto Rican genealogy articles. |
+| <a href="https://www.hijosdecoamo.com/" target="_blank" rel="noopener">Hijos de Coamo</a> | Extensive resources focused on Coamo and Puerto Rican genealogy research. |
+| <a href="https://puertorikin.com/" target="_blank" rel="noopener">Puerto RiKin</a> | Genealogy blog focusing on Puerto Rican kin and research strategies. |
+| <a href="https://latinogenealogyandbeyond.com/" target="_blank" rel="noopener">Latino Genealogy and Beyond</a> | Blog by Dr. Ellen Fernandez-Sacco exploring Caribbean genealogy with emphasis on Puerto Rico and the diaspora, integrating African, Indigenous, and colonial ancestry research with broader historical narratives. |
+| <a href="https://boricuagenes.com/" target="_blank" rel="noopener">BoricuaGenes Blog</a> | Blog by Luis Rivera documenting Puerto Rican genealogy and genetic ancestry research, exploring Taíno, African, and Spanish roots with practical guides and church record resources. |
+| <a href="https://genus-meridiem-pr.blogspot.com/" target="_blank" rel="noopener">Genealogías e Historia del Suroeste de Puerto Rico</a> | Blog by César A. Zapata Lozada dedicated to genealogical research and local history of southwestern Puerto Rico, featuring parish records, colonial documents, and family lineages from towns like San Germán, Cabo Rojo, and Lajas. |
 
 ---
 
 ### Research Tools
 
-<ul class="resource-list">
-<li>
-<a href="https://www.wikitree.com/" target="_blank" rel="noopener">WikiTree</a>
-<p class="description">Free collaborative family tree with Puerto Rican ancestry projects.</p>
-</li>
-<li>
-<a href="https://www.geni.com/" target="_blank" rel="noopener">Geni</a>
-<p class="description">World Family Tree project for connecting with distant relatives.</p>
-</li>
-<li>
-<a href="https://stevemorse.org/" target="_blank" rel="noopener">Stephen P. Morse One-Step Tools</a>
-<p class="description">Search tools and utilities for genealogical research.</p>
-</li>
-</ul>
+| Resource | Description |
+|----------|-------------|
+| <a href="https://www.wikitree.com/" target="_blank" rel="noopener">WikiTree</a> | Free collaborative family tree with Puerto Rican ancestry projects. |
+| <a href="https://www.geni.com/" target="_blank" rel="noopener">Geni</a> | World Family Tree project for connecting with distant relatives. |
+| <a href="https://stevemorse.org/" target="_blank" rel="noopener">Stephen P. Morse One-Step Tools</a> | Search tools and utilities for genealogical research. |
 
 ---
 
 ### Historical Maps & Geography
 
-<ul class="resource-list">
-<li>
-<a href="https://www.davidrumsey.com/" target="_blank" rel="noopener">David Rumsey Map Collection</a>
-<p class="description">Historical maps including Puerto Rico through different time periods.</p>
-</li>
-<li>
-<a href="https://www.loc.gov/maps/" target="_blank" rel="noopener">Library of Congress Maps</a>
-<p class="description">Historical maps of Puerto Rico from the Library of Congress collection.</p>
-</li>
-</ul>
+| Resource | Description |
+|----------|-------------|
+| <a href="https://www.davidrumsey.com/" target="_blank" rel="noopener">David Rumsey Map Collection</a> | Historical maps including Puerto Rico through different time periods. |
+| <a href="https://www.loc.gov/maps/" target="_blank" rel="noopener">Library of Congress Maps</a> | Historical maps of Puerto Rico from the Library of Congress collection. |
 
 ---
 
