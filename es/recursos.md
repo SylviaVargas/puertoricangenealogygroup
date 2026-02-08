@@ -60,11 +60,12 @@ Una colección curada de archivos, bases de datos y herramientas para investigar
 | Recurso | Descripción |
 |---------|-------------|
 | <a href="https://looking4myroots.com" target="_blank" rel="noopener">Looking4MyRoots</a> | Nuestro blog complementario con consejos de investigación, estudios de casos y artículos de genealogía puertorriqueña. |
-| <a href="https://www.hijosdecoamo.com/" target="_blank" rel="noopener">Hijos de Coamo</a> | Recursos extensos enfocados en Coamo y la investigación genealógica puertorriqueña. |
+| <a href="https://www.hijosdecoamopr.com/" target="_blank" rel="noopener">Hijos de Coamo</a> | Recursos extensos enfocados en Coamo y la investigación genealógica puertorriqueña. |
 | <a href="https://puertorikin.com/" target="_blank" rel="noopener">Puerto RiKin</a> | Blog de genealogía enfocado en parentesco puertorriqueño y estrategias de investigación. |
 | <a href="https://latinogenealogyandbeyond.com/" target="_blank" rel="noopener">Latino Genealogy and Beyond</a> | Blog de la Dra. Ellen Fernandez-Sacco que explora la genealogía caribeña con énfasis en Puerto Rico y la diáspora, integrando investigación de ascendencia africana, indígena y colonial con narrativas históricas más amplias. |
 | <a href="https://boricuagenes.com/" target="_blank" rel="noopener">BoricuaGenes Blog</a> | Blog de Luis Rivera que documenta la genealogía puertorriqueña y la investigación de ascendencia genética, explorando raíces taínas, africanas y españolas con guías prácticas y recursos de registros parroquiales. |
 | <a href="https://genus-meridiem-pr.blogspot.com/" target="_blank" rel="noopener">Genealogías e Historia del Suroeste de Puerto Rico</a> | Blog de César A. Zapata Lozada dedicado a la investigación genealógica e historia local del suroeste de Puerto Rico, presentando registros parroquiales, documentos coloniales y linajes familiares de pueblos como San Germán, Cabo Rojo y Lajas. |
+| <a href="https://familylocket.com/" target="_blank" rel="noopener">Family Locket</a> | Blog de Diana Elder (AG®) y Nicole Dyer, un equipo profesional de genealogistas madre e hija. Presenta la metodología "Research Like a Pro", guías de genealogía genética, tutoriales de análisis de registros y herramientas prácticas para organizar y documentar la investigación de historia familiar. |
 
 ---
 
