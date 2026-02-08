@@ -6,6 +6,15 @@ ref: home
 last_modified_at: 2026-02-07
 ---
 
+<section class="section">
+  <div class="section-container text-center">
+    <h2>Welcome to Our Community</h2>
+    <p>Whether your ancestors remained in Puerto Rico or migrated to the mainland United States, Hawaii, or elsewhere around the world, you are welcome here. We are united by our shared interest in preserving and celebrating our Puerto Rican heritage.</p>
+    <p class="mt-2">
+      <a href="{{ '/contact/' | relative_url }}" class="btn btn-primary">Get in Touch</a>
+    </p>
+  </div>
+</section>
 <section class="section bg-light">
   <div class="section-container">
     <div class="section-title">
@@ -91,12 +100,4 @@ last_modified_at: 2026-02-07
   </div>
 </section>
 
-<section class="section">
-  <div class="section-container text-center">
-    <h2>Welcome to Our Community</h2>
-    <p>Whether your ancestors remained in Puerto Rico or migrated to the mainland United States, Hawaii, or elsewhere around the world, you are welcome here. We are united by our shared interest in preserving and celebrating our Puerto Rican heritage.</p>
-    <p class="mt-2">
-      <a href="{{ '/contact/' | relative_url }}" class="btn btn-primary">Get in Touch</a>
-    </p>
-  </div>
-</section>
+

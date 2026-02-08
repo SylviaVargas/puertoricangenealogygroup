@@ -6,6 +6,16 @@ ref: home
 last_modified_at: 2026-02-07
 ---
 
+<section class="section">
+  <div class="section-container text-center">
+    <h2>Bienvenidos a Nuestra Comunidad</h2>
+    <p>Ya sea que tus antepasados permanecieron en Puerto Rico o migraron a los Estados Unidos continental, Hawái u otros lugares del mundo, eres bienvenido aquí. Estamos unidos por nuestro interés compartido en preservar y celebrar nuestra herencia puertorriqueña.</p>
+    <p class="mt-2">
+      <a href="{{ '/es/contacto/' | relative_url }}" class="btn btn-primary">Contáctanos</a>
+    </p>
+  </div>
+</section>
+
 <section class="section bg-light">
   <div class="section-container">
     <div class="section-title">
@@ -91,12 +101,3 @@ last_modified_at: 2026-02-07
   </div>
 </section>
 
-<section class="section">
-  <div class="section-container text-center">
-    <h2>Bienvenidos a Nuestra Comunidad</h2>
-    <p>Ya sea que tus antepasados permanecieron en Puerto Rico o migraron a los Estados Unidos continental, Hawái u otros lugares del mundo, eres bienvenido aquí. Estamos unidos por nuestro interés compartido en preservar y celebrar nuestra herencia puertorriqueña.</p>
-    <p class="mt-2">
-      <a href="{{ '/es/contacto/' | relative_url }}" class="btn btn-primary">Contáctanos</a>
-    </p>
-  </div>
-</section>
