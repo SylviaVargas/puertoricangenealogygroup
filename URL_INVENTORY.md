@@ -36,13 +36,11 @@ Use this table to periodically review all external URLs in the site. Run `python
 | <https://www.familysearch.org/search/collection/location/1927073> | FamilySearch - Puerto Rico Collections | Digital Collections & Databases |
 | <https://www.upr.edu/biblioteca-rrp//> | Biblioteca Digital Puertorriqueña | Digital Collections & Databases |
 | <https://www.familysearch.org/en/wiki/Puerto_Rico_Genealogy> | Ancestry - Puerto Rico | Digital Collections & Databases |
-| <https://www.findmypast.com/> | FindMyPast | Digital Collections & Databases |
 | <https://www.ancestry.com/dna/> | AncestryDNA | DNA & Genetic Genealogy |
 | <https://www.23andme.com/> | 23andMe | DNA & Genetic Genealogy |
 | <https://www.familytreedna.com/> | Family Tree DNA | DNA & Genetic Genealogy |
 | <https://www.gedmatch.com/> | GEDmatch | DNA & Genetic Genealogy |
 | <https://genealogiapr.com//> | Sociedad Puertorriqueña de Genealogía | Genealogical Societies & Organizations |
-| <https://www.prgenealogy.com/> | Puerto Rico Genealogical Society | Genealogical Societies & Organizations |
 | <https://groups.io/g/PRGENEALOGY-NW> | Puerto Rican Genealogy Northwest | Genealogical Societies & Organizations |
 | <https://looking4myroots.com> | Looking4MyRoots | Blogs & Educational Resources |
 | <https://www.hijosdecoamo.com/> | Hijos de Coamo | Blogs & Educational Resources |

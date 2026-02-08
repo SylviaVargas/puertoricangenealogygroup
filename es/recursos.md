@@ -27,8 +27,8 @@ Una colección curada de archivos, bases de datos y herramientas para investigar
 
 | Recurso | Descripción |
 |---------|-------------|
-| <a href="https://www.familysearch.org/search/collection/location/1927073" target="_blank" rel="noopener">FamilySearch - Colecciones de Puerto Rico</a> | Acceso gratuito a registros eclesiásticos digitalizados, registro civil y otros registros vitales de Puerto Rico. |
 | <a href="https://www.upr.edu/biblioteca-rrp/" target="_blank" rel="noopener">Biblioteca Digital Puertorriqueña</a> | Biblioteca digital de la Universidad de Puerto Rico con documentos históricos, fotografías y publicaciones. |
+| <a href="https://www.familysearch.org/search/collection/location/1927073" target="_blank" rel="noopener">FamilySearch - Colecciones de Puerto Rico</a> | Acceso gratuito a registros eclesiásticos digitalizados, registro civil y otros registros vitales de Puerto Rico. |
 | <a href="https://www.familysearch.org/en/wiki/Puerto_Rico_Genealogy" target="_blank" rel="noopener">Family Search - Puerto Rico</a> | Acceso por sin suscripción a registros puertorriqueños incluyendo censos, registros vitales y documentos de inmigración. |
 
 ---

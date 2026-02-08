@@ -27,8 +27,8 @@ A curated collection of archives, databases, and tools for researching Puerto Ri
 
 | Resource | Description |
 |----------|-------------|
-| <a href="https://www.familysearch.org/search/collection/location/1927073" target="_blank" rel="noopener">FamilySearch - Puerto Rico Collections</a> | Free access to digitized church records, civil registry, and other vital records from Puerto Rico. |
 | <a href="https://www.upr.edu/biblioteca-rrp/" target="_blank" rel="noopener">Biblioteca Digital Puertorriqueña</a> | Digital library from the University of Puerto Rico with historical documents, photographs, and publications. |
+| <a href="https://www.familysearch.org/search/collection/location/1927073" target="_blank" rel="noopener">FamilySearch - Puerto Rico Collections</a> | Free access to digitized church records, civil registry, and other vital records from Puerto Rico. |
 | <a href="https://www.familysearch.org/en/wiki/Puerto_Rico_Genealogy" target="_blank" rel="noopener">Family Search - Puerto Rico</a> | Free access to Puerto Rican records including census, vital records, and immigration documents. Create a free login at familysearch.org.|
 
 ---
@@ -49,7 +49,6 @@ A curated collection of archives, databases, and tools for researching Puerto Ri
 | Resource | Description |
 |----------|-------------|
 | <a href="https://genealogiapr.com/" target="_blank" rel="noopener">Sociedad Puertorriqueña de Genealogía (SPG)</a> | Genealogy society based in San Juan, Puerto Rico. SPG hosts monthly conferences, workshops, and cultural visits. Events are shared on their <a href="https://www.facebook.com/groups/spgpuertorico" target="_blank" rel="noopener">Facebook group</a> and <a href="https://www.youtube.com/@sociedadpr" target="_blank" rel="noopener">YouTube channel</a>. Members receive two annual editions of <em>Hereditas</em>, a journal featuring genealogical research articles, parish record compilations, and municipal archive transcriptions. |
-| <a href="https://www.prgenealogy.com/" target="_blank" rel="noopener">Puerto Rico Genealogical Society</a> | Organization dedicated to Puerto Rican genealogical research and education. |
 | <a href="https://groups.io/g/PRGENEALOGY-NW" target="_blank" rel="noopener">Puerto Rican Genealogy Northwest</a> | Groups.io mailing list for Puerto Rican genealogy researchers. |
 
 ---
