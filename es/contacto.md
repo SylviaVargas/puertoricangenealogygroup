@@ -23,7 +23,9 @@ Normalmente respondemos dentro de 48-72 horas.
 
 ### Conéctate Con Nosotros
 
-- **Facebook**: Síguenos para actualizaciones, consejos y discusiones comunitarias
+- **Facebook**: Únete y sigue estos grupos para actualizaciones, consejos y discusiones comunitarias
+  - [Genealogía De Puerto Rico / Genealogy of Puerto Rico](https://www.facebook.com/groups/aidatorres)
+  - [Sociedad Puertorriqueña de Genealogía (SPG-Grupo/Group)](https://www.facebook.com/groups/264285187436/)
 - **Blog Looking4MyRoots**: Visita [looking4myroots.com](https://looking4myroots.com) para artículos e historias de investigación
 
 ### ¿Cómo Podemos Ayudarte?
