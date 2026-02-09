@@ -42,6 +42,7 @@ Una colección curada de archivos, bases de datos y herramientas para investigar
 | <a href="https://genealogiapr.com/" target="_blank" rel="noopener">Sociedad Puertorriqueña de Genealogía (SPG)</a> | Sociedad genealógica con sede en San Juan, Puerto Rico. La SPG ofrece conferencias mensuales, talleres y visitas culturales. Sus eventos se comparten en su <a href="https://www.facebook.com/groups/spgpuertorico" target="_blank" rel="noopener">grupo de Facebook</a> y su <a href="https://www.youtube.com/@sociedadpr" target="_blank" rel="noopener">canal de YouTube</a>. Los miembros reciben dos ediciones anuales de <em>Hereditas</em>, una revista que publica artículos de investigación genealógica, compilaciones de registros parroquiales y transcripciones de archivos municipales. |
 | <a href="https://groups.io/g/PRGENEALOGY-NW" target="_blank" rel="noopener">Puerto Rican Genealogy Northwest</a> | Lista de correo en Groups.io para investigadores de genealogía puertorriqueña. |
 | <a href="https://www.ngsgenealogy.org/genealogy-courses/" target="_blank" rel="noopener">National Genealogical Society – Cursos de Genealogía</a> | Cursos en línea autodidactas para genealogistas de todos los niveles, que cubren fundamentos de investigación, metodologías avanzadas, estándares de documentación, ADN, registros de tierras y otros temas especializados. |
+
 ---
 
 ### Blogs y Recursos Educativos
