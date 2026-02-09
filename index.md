@@ -6,14 +6,17 @@ ref: home
 last_modified_at: 2026-02-07
 ---
 
-<section class="section">
-  <div class="section-container text-center">
-    <h2>Welcome to Our Community</h2>
-    <p>Whether your ancestors remained in Puerto Rico or migrated to the mainland United States, Hawaii, or elsewhere around the world, you are welcome here.</p>
-    <p>We are united by our shared interest in preserving and celebrating our Puerto Rican heritage.</p>
-    <p class="mt-2">
-      <a href="{{ '/contact/' | relative_url }}" class="btn btn-primary">Get in Touch</a>
+<section class="hero">
+  <div class="hero-content">
+    <h1>Puerto Rican Genealogy — Connection, Research, Community</h1>
+    <p class="subtitle">
+      Tracing Puerto Rican roots should not be a solitary journey—or require a plane ticket.
+      We connect island and diaspora researchers to learn, share, and preserve our stories together.
     </p>
+    <div class="hero-cta">
+      <a href="{{ '/contact/' | relative_url }}" class="btn btn-primary">Join the Community</a>
+      <a href="{{ '/research-guides/' | relative_url }}" class="btn btn-secondary">Explore Research Guides</a>
+    </div>
   </div>
 </section>
 <section class="section bg-light">
