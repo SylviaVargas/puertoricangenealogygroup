@@ -24,6 +24,12 @@ El Puerto Rican Genealogy Group organiza reuniones virtuales regulares donde los
   <a href="https://us06web.zoom.us/meeting/register/chSyaQqxRzSxOaeXxJmM0Q" class="btn btn-primary" target="_blank" rel="noopener">Regístrate Ahora</a>
 </div>
 
+<div class="poll-callout">
+  <h3>Ayuda a Dar Forma a Nuestro Grupo</h3>
+  <p>¿Qué temas te interesan más? ¿Qué formatos funcionan mejor? Cuéntanos cómo podemos servir mejor a nuestra comunidad.</p>
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLSdfbrukgdx6v3fAxKiKS2ZwKb0d38DT12axvA3fXZXk_nN81g/viewform?usp=header" class="btn btn-primary" target="_blank" rel="noopener">Completa la Encuesta</a>
+</div>
+
 ---
 
 ### Qué Esperar

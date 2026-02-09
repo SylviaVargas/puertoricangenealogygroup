@@ -75,6 +75,16 @@ last_modified_at: 2026-02-07
   </div>
 </section>
 
+<section class="section">
+  <div class="section-container">
+    <div class="poll-callout">
+      <h3>Help Shape Our Group</h3>
+      <p>What topics interest you most? What formats work best? Tell us how we can better serve our community.</p>
+      <a href="https://docs.google.com/forms/d/e/1FAIpQLSdfbrukgdx6v3fAxKiKS2ZwKb0d38DT12axvA3fXZXk_nN81g/viewform?usp=header" class="btn btn-primary" target="_blank" rel="noopener">Take the Member Poll</a>
+    </div>
+  </div>
+</section>
+
 <section class="section bg-cream">
   <div class="section-container">
     <div class="section-title">

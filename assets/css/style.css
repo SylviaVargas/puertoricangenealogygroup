@@ -111,20 +111,21 @@ a:hover {
 }
 
 .header-container {
+  width: 100%;
   max-width: var(--max-width);
   margin: 0 auto;
   padding: var(--spacing-md) var(--spacing-md);
+  /* reduce horizontal padding */
   min-height: 96px;
   display: flex;
-  flex-direction: row;
   align-items: center;
-  gap: var(--spacing-md);
 }
 
 /* Logo Section - Left-aligned */
 .header-logo-section {
   flex-shrink: 0;
   display: flex;
+  margin-right: var(--spacing-md);
   align-items: center;
   padding-right: var(--spacing-md);
   border-right: 1px solid rgba(26, 58, 92, 0.15);
@@ -136,6 +137,7 @@ a:hover {
   object-fit: contain;
   display: block;
 }
+
 .logo-link {
   display: flex;
   align-items: center;
@@ -161,11 +163,12 @@ a:hover {
   letter-spacing: 0.04em;
   text-transform: uppercase;
 }
+
 /* Navigation Section - Right of Logo */
 .main-nav {
   flex: 1;
   display: flex;
-  justify-content: flex-end;
+  justify-content: flex-start;
   align-items: center;
   position: relative;
   gap: var(--spacing-md);
@@ -972,6 +975,40 @@ td:first-child {
 
 .bg-light {
   background-color: var(--color-light-gray);
+}
+
+/* ===== Poll Callout ===== */
+.poll-callout {
+  background: linear-gradient(135deg, var(--color-cream) 0%, #ede8da 100%);
+  border: 2px solid var(--color-gold);
+  border-radius: 8px;
+  padding: var(--spacing-lg);
+  text-align: center;
+  margin-bottom: var(--spacing-lg);
+  box-shadow: 0 3px 12px rgba(201, 169, 98, 0.15);
+}
+
+.poll-callout h3 {
+  color: var(--color-navy);
+  font-size: 1.3rem;
+  margin-bottom: var(--spacing-sm);
+}
+
+.poll-callout p {
+  color: var(--color-dark-gray);
+  font-size: 0.95rem;
+  max-width: 600px;
+  margin: 0 auto var(--spacing-md);
+}
+
+.poll-callout .btn-primary {
+  background: var(--color-navy);
+  color: var(--color-white);
+}
+
+.poll-callout .btn-primary:hover {
+  background: var(--color-red);
+  color: var(--color-white);
 }
 
 /* ===== Print Styles ===== */
