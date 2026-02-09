@@ -1,6 +1,20 @@
 <header class="site-header">
   <div class="header-container">
-    <!-- Navigation Section (Above Logo) -->
+    <!-- Logo Section (Left-aligned) -->
+<div class="header-logo-section">
+  <a href="{% if page.lang == 'es' %}{{ '/es/' | relative_url }}{% else %}{{ '/' | relative_url }}{% endif %}" class="logo-link">
+    <img src="{{ '/assets/images/logo-square.png' | relative_url }}" 
+         alt="Puerto Rican Genealogy Group" 
+         class="site-logo">
+
+    <span class="logo-wordmark">
+      <span class="logo-title">Puerto Rican Genealogy</span>
+      <span class="logo-tagline">Conectando Raíces · Celebrando Herencia</span>
+    </span>
+  </a>
+</div>
+
+    <!-- Navigation Section -->
     <nav class="main-nav">
       <button class="nav-toggle" aria-label="Toggle navigation">
         <span></span>
@@ -76,11 +90,5 @@
       </div>
     </nav>
 
-    <!-- Logo Section (Below Navigation) -->
-    <div class="header-logo-section">
-      <a href="{% if page.lang == 'es' %}{{ '/es/' | relative_url }}{% else %}{{ '/' | relative_url }}{% endif %}" class="logo-link">
-        <img src="{{ '/assets/images/prgg-website-banner-nobackground.svg' | relative_url }}" alt="Puerto Rican Genealogy Group" class="site-logo">
-      </a>
-    </div>
   </div>
 </header>

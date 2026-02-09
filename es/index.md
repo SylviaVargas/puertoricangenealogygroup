@@ -6,14 +6,17 @@ ref: home
 last_modified_at: 2026-02-07
 ---
 
-<section class="section">
-  <div class="section-container text-center">
-    <h2>Bienvenidos a Nuestra Comunidad</h2>
-    <p>Ya sea que tus antepasados permanecieron en Puerto Rico o migraron a los Estados Unidos continental, Hawái u otros lugares del mundo, eres bienvenido aquí. </p>
-    <p>Estamos unidos por nuestro interés compartido en preservar y celebrar nuestra herencia puertorriqueña.</p>
-    <p class="mt-2">
-      <a href="{{ '/es/contacto/' | relative_url }}" class="btn btn-primary">Contáctanos</a>
+<section class="hero">
+  <div class="hero-content">
+    <h1>Genealogía Puertorriqueña — Conexión, Investigación, Comunidad</h1>
+    <p class="subtitle">
+      Rastrear las raíces puertorriqueñas no debe ser un viaje solitario—ni requerir un boleto de avión.
+      Conectamos a investigadores de la isla y la diáspora para aprender, compartir y preservar nuestras historias juntos.
     </p>
+    <div class="hero-cta">
+      <a href="{{ '/es/contacto/' | relative_url }}" class="btn btn-primary">Únete a la Comunidad</a>
+      <a href="{{ '/es/guias-investigacion/' | relative_url }}" class="btn btn-secondary">Explora las Guías</a>
+    </div>
   </div>
 </section>
 
