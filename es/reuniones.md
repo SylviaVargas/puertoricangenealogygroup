@@ -4,7 +4,7 @@ title: Reuniones
 lang: es
 permalink: /es/reuniones/
 ref: meetings
-last_modified_at: 2026-02-07
+last_modified_at: 2026-02-09
 ---
 
 ## Únete a Nuestras Reuniones Virtuales
@@ -15,10 +15,10 @@ El Puerto Rican Genealogy Group organiza reuniones virtuales regulares donde los
 
 <div class="meeting-card">
   <div class="meeting-card-label">Próxima Reunión</div>
-  <h3><a href="{{ '/es/reunion-febrero-2026/' | relative_url }}">Muros de Ladrillos + Estrategias</a></h3>
-  <p>Únete a nosotros para una discusión interactiva de mesa redonda sobre cómo superar desafíos de investigación. <strong>César Zapata-Lozada</strong> presentará sobre el uso de registros de cabildos municipales (Actas de Cabildo) como fuentes genealógicas.</p>
+  <h3><a href="{{ '/es/reunion-marzo-2026/' | relative_url }}">Reunión de Marzo 2026</a></h3>
+  <p>Tema por anunciar. ¡Mantente atento para más detalles!</p>
   <div class="meeting-card-details">
-    <span>Lunes, 9 de febrero de 2026</span>
+    <span>Lunes, 9 de marzo de 2026</span>
     <span>7:00 PM EST / 8:00 PM PR / 4:00 PM PST</span>
   </div>
   <a href="https://us06web.zoom.us/meeting/register/chSyaQqxRzSxOaeXxJmM0Q" class="btn btn-primary" target="_blank" rel="noopener">Regístrate Ahora</a>

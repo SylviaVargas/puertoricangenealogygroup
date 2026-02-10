@@ -4,7 +4,7 @@ title: Meetings
 lang: en
 permalink: /meetings/
 ref: meetings
-last_modified_at: 2026-02-07
+last_modified_at: 2026-02-09
 ---
 
 ## Join Our Virtual Meetings
@@ -15,10 +15,10 @@ The Puerto Rican Genealogy Group hosts regular virtual meetings where members ca
 
 <div class="meeting-card">
   <div class="meeting-card-label">Upcoming Meeting</div>
-  <h3><a href="{{ '/meeting-february-2026/' | relative_url }}">Brick Walls + Strategies</a></h3>
-  <p>Join us for an interactive round-table discussion on breaking through research challenges. <strong>César Zapata-Lozada</strong> will present on using municipal council records (Actas de Cabildo) as genealogical sources.</p>
+  <h3><a href="{{ '/meeting-march-2026/' | relative_url }}">March 2026 Meeting</a></h3>
+  <p>Topic to be announced. Stay tuned for details!</p>
   <div class="meeting-card-details">
-    <span>Monday, February 9, 2026</span>
+    <span>Monday, March 9, 2026</span>
     <span>7:00 PM EST / 8:00 PM PR / 4:00 PM PST</span>
   </div>
   <a href="https://us06web.zoom.us/meeting/register/chSyaQqxRzSxOaeXxJmM0Q" class="btn btn-primary" target="_blank" rel="noopener">Register Now</a>
