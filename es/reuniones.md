@@ -43,11 +43,34 @@ El Puerto Rican Genealogy Group organiza reuniones virtuales regulares donde los
 
 Nuestras reuniones se realizan virtualmente para acomodar a miembros en diferentes zonas horarias. Consulta aquí las próximas fechas y temas de reuniones.
 
-### Cómo Unirse
+### Cómo Registrarse
 
-1. **Suscríbete** a nuestra lista de correo para recibir anuncios de reuniones
-2. **Regístrate** para la reunión usando el enlace proporcionado en el anuncio
-3. **Únete** vía Zoom o la plataforma designada a la hora programada
+Nuestras reuniones se realizan a través de Zoom. Sigue estos pasos para registrarte y recibir tu enlace de reunión.
+
+#### Paso 1: Completa el Formulario de Registro
+
+En la página de registro de Zoom, completa los tres campos requeridos:
+
+- **Nombre** (First Name)
+- **Apellido** (Last Name)
+- **Correo Electrónico** (Email Address) — asegúrate de que sea correcto, ya que tu enlace de reunión se enviará aquí
+
+Luego haz clic en el botón **Register** en la parte inferior del formulario.
+
+#### Paso 2: Obtén Tu Enlace de Reunión
+
+Después de hacer clic en Register, el proceso es automático:
+
+- **Confirmación Inmediata**: Serás redirigido a una página de "Registration Successful" que contiene el enlace de la reunión de inmediato.
+- **Correo de Confirmación**: Zoom también enviará un correo electrónico de confirmación a la dirección que proporcionaste.
+- **El Enlace de Conexión**: Dentro de ese correo, busca un botón o enlace que diga **"Join Meeting."** Este es un enlace único vinculado a tu registro.
+- **Integración con Calendario**: El correo incluye enlaces para agregar el evento a tu calendario de Google, Outlook o Yahoo, lo cual también guardará el enlace de conexión para acceso fácil.
+
+<div class="tip-callout" markdown="1">
+
+**Consejo:** Si no ves el correo de confirmación dentro de unos minutos después de registrarte, revisa tu carpeta de **Spam** o **Correo no deseado** — los correos automáticos de registro a veces se filtran allí.
+
+</div>
 
 ### Temas de Reuniones Anteriores
 

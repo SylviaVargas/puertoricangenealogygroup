@@ -60,6 +60,21 @@ Aprende cómo los registros de cabildos municipales (Actas de Cabildo) pueden se
 
 Después de registrarte, recibirás un correo electrónico de confirmación con los detalles de la reunión.
 
+<details class="registration-help">
+<summary><strong>¿Necesitas ayuda para registrarte? Haz clic aquí para instrucciones paso a paso</strong></summary>
+
+<ol>
+<li><strong>Completa el Formulario de Registro</strong> — Ingresa tu Nombre (First Name), Apellido (Last Name) y Correo Electrónico (Email Address) en la página de registro de Zoom, luego haz clic en <strong>Register</strong>.</li>
+<li><strong>Confirmación Inmediata</strong> — Serás redirigido a una página de "Registration Successful" que contiene el enlace de la reunión de inmediato.</li>
+<li><strong>Revisa Tu Correo</strong> — Zoom también enviará un correo de confirmación con un botón <strong>"Join Meeting"</strong>. El correo incluye enlaces para agregar el evento a tu calendario de Google, Outlook o Yahoo.</li>
+</ol>
+
+<div class="tip-callout">
+<strong>Consejo:</strong> Si no ves el correo dentro de unos minutos, revisa tu carpeta de <strong>Spam</strong> o <strong>Correo no deseado</strong>.
+</div>
+
+</details>
+
 **Nota:** Esta reunión no será grabada.
 
 ---

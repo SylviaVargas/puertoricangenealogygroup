@@ -43,11 +43,34 @@ The Puerto Rican Genealogy Group hosts regular virtual meetings where members ca
 
 Our meetings are held virtually to accommodate members across different time zones. Check back for upcoming meeting dates and topics.
 
-### How to Join
+### How to Register
 
-1. **Subscribe** to our mailing list to receive meeting announcements
-2. **Register** for the meeting using the link provided in the announcement
-3. **Join** via Zoom or the designated platform at the scheduled time
+Our meetings are hosted on Zoom. Follow these steps to register and receive your meeting link.
+
+#### Step 1: Complete the Registration Form
+
+On the Zoom registration page, fill out the three required fields:
+
+- **First Name**
+- **Last Name**
+- **Email Address** (make sure this is accurate — your meeting link will be sent here)
+
+Then click the **Register** button at the bottom of the form.
+
+#### Step 2: Get Your Meeting Link
+
+After clicking Register, the process is automated:
+
+- **Instant Confirmation**: You will be redirected to a "Registration Successful" page that contains the meeting link immediately.
+- **Email Delivery**: Zoom will also send a confirmation email to the address you provided.
+- **The Connection Link**: Inside that email, look for a button or link labeled **"Join Meeting."** This is a unique link tied to your registration.
+- **Calendar Integration**: The email includes links to add the event to your Google, Outlook, or Yahoo calendar, which will also save the connection link for easy access later.
+
+<div class="tip-callout" markdown="1">
+
+**Tip:** If you don't see the confirmation email within a few minutes of registering, check your **Spam** or **Junk** folder — automated registration emails are sometimes filtered there.
+
+</div>
 
 ### Past Meeting Topics
 

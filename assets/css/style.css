@@ -1011,6 +1011,75 @@ td:first-child {
   color: var(--color-white);
 }
 
+/* ===== Registration Help (Collapsible) ===== */
+.registration-help {
+  border: 1px solid var(--color-gold);
+  border-radius: 8px;
+  margin: var(--spacing-md) 0 var(--spacing-lg);
+  background: var(--color-cream);
+}
+
+.registration-help summary {
+  cursor: pointer;
+  padding: var(--spacing-md) var(--spacing-lg);
+  color: var(--color-navy);
+  font-size: 0.95rem;
+  list-style: none;
+}
+
+.registration-help summary::-webkit-details-marker {
+  display: none;
+}
+
+.registration-help summary::before {
+  content: "\25B6\00a0";
+  font-size: 0.75rem;
+  display: inline-block;
+  transition: transform 0.2s ease;
+}
+
+.registration-help[open] summary::before {
+  transform: rotate(90deg);
+}
+
+.registration-help summary:hover {
+  color: var(--color-red);
+}
+
+.registration-help[open] summary {
+  border-bottom: 1px solid var(--color-gold);
+}
+
+.registration-help ol {
+  padding: var(--spacing-md) var(--spacing-lg) 0 var(--spacing-xl);
+  margin: 0;
+}
+
+.registration-help ol li {
+  margin-bottom: var(--spacing-sm);
+  font-size: 0.95rem;
+  color: var(--color-dark-gray);
+}
+
+.registration-help .tip-callout {
+  margin: var(--spacing-md) var(--spacing-lg) var(--spacing-md);
+}
+
+/* ===== Tip Callout ===== */
+.tip-callout {
+  background: linear-gradient(135deg, var(--color-cream) 0%, #ede8da 100%);
+  border-left: 4px solid var(--color-gold);
+  border-radius: 4px;
+  padding: var(--spacing-md) var(--spacing-lg);
+  margin: var(--spacing-md) 0;
+  font-size: 0.9rem;
+  color: var(--color-dark-gray);
+}
+
+.tip-callout strong:first-child {
+  color: var(--color-navy);
+}
+
 /* ===== Print Styles ===== */
 @media print {
 

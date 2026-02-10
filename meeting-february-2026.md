@@ -60,6 +60,21 @@ Learn how municipal council records (Actas de Cabildo) can serve as powerful—a
 
 After registering, you will receive a confirmation email with meeting details.
 
+<details class="registration-help">
+<summary><strong>Need help registering? Click here for step-by-step instructions</strong></summary>
+
+<ol>
+<li><strong>Complete the Registration Form</strong> — Fill out your First Name, Last Name, and Email Address on the Zoom registration page, then click <strong>Register</strong>.</li>
+<li><strong>Instant Confirmation</strong> — You will be redirected to a "Registration Successful" page that contains the meeting link immediately.</li>
+<li><strong>Check Your Email</strong> — Zoom will also send a confirmation email with a <strong>"Join Meeting"</strong> button. The email includes links to add the event to your Google, Outlook, or Yahoo calendar.</li>
+</ol>
+
+<div class="tip-callout">
+<strong>Tip:</strong> If you don't see the email within a few minutes, check your <strong>Spam</strong> or <strong>Junk</strong> folder.
+</div>
+
+</details>
+
 **Note:** This meeting will not be recorded.
 
 ---
