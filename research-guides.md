@@ -18,6 +18,7 @@ Explore our collection of guides designed to help you navigate the unique aspect
 <p>New to Puerto Rican genealogy? Start here with the fundamentals.</p>
 <ul>
   <li><a href="#intro">Introduction to Puerto Rican Genealogy</a></li>
+  <li><a href="#intro-video">Video: Getting Started with Puerto Rican Genealogy</a></li>
   <li><a href="#names">Understanding Puerto Rican Names</a></li>
   <li><a href="#records">Key Record Types in Puerto Rico</a></li>
 </ul>
@@ -56,6 +57,14 @@ Explore our collection of guides designed to help you navigate the unique aspect
 </div>
 
 </div>
+
+---
+
+## Video: Getting Started with Puerto Rican Genealogy {#intro-video}
+
+▶ **Getting Started with Puerto Rican Genealogy** — An introduction to researching Puerto Rican records and resources, presented by Luis Ariel Rivera.
+
+<a href="https://www.youtube.com/watch?v=9zQCT7bmsUQ" class="btn btn-primary" target="_blank" rel="noopener">Watch on YouTube</a>
 
 ---
 

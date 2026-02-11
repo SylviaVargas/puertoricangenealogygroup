@@ -55,6 +55,7 @@ A curated collection of archives, databases, and tools for researching Puerto Ri
 | <a href="https://puertorikin.com/" target="_blank" rel="noopener">Puerto RiKin</a> | Genealogy blog focusing on Puerto Rican kin and research strategies. |
 | <a href="https://familylocket.com/" target="_blank" rel="noopener">Family Locket</a> | Blog by Diana Elder (AG®) and Nicole Dyer, a mother-daughter team of professional genealogists. Features the "Research Like a Pro" methodology, DNA genealogy guides, record analysis tutorials, and practical tools for organizing and documenting family history research. |
 | <a href="https://www.hijosdecoamopr.com/" target="_blank" rel="noopener">Hijos de Coamo</a> | Extensive resources focused on Coamo and Puerto Rican genealogy research. |
+| ▶ <a href="https://www.youtube.com/watch?v=9zQCT7bmsUQ" target="_blank" rel="noopener">Getting Started with Puerto Rican Genealogy</a> | Video presentation by Luis Ariel Rivera — an introduction to researching Puerto Rican records and resources. <a href="https://www.youtube.com/watch?v=9zQCT7bmsUQ" class="btn btn-primary" target="_blank" rel="noopener">Watch on YouTube</a> |
 
 ---
 

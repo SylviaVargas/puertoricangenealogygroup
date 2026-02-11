@@ -56,6 +56,7 @@ Una colección curada de archivos, bases de datos y herramientas para investigar
 | <a href="https://puertorikin.com/" target="_blank" rel="noopener">Puerto RiKin</a> | Blog de genealogía enfocado en parentesco puertorriqueño y estrategias de investigación. |
 | <a href="https://familylocket.com/" target="_blank" rel="noopener">Family Locket</a> | Blog de Diana Elder (AG®) y Nicole Dyer, un equipo profesional de genealogistas madre e hija. Presenta la metodología "Research Like a Pro", guías de genealogía genética, tutoriales de análisis de registros y herramientas prácticas para organizar y documentar la investigación de historia familiar. |
 | <a href="https://www.hijosdecoamopr.com/" target="_blank" rel="noopener">Hijos de Coamo</a> | Recursos extensos enfocados en Coamo y la investigación genealógica puertorriqueña. |
+| ▶ <a href="https://www.youtube.com/watch?v=9zQCT7bmsUQ" target="_blank" rel="noopener">Getting Started with Puerto Rican Genealogy</a> | Presentación en video por Luis Ariel Rivera — una introducción a la investigación de registros y recursos puertorriqueños. <a href="https://www.youtube.com/watch?v=9zQCT7bmsUQ" class="btn btn-primary" target="_blank" rel="noopener">Ver en YouTube</a> |
 
 ---
 

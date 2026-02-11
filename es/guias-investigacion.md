@@ -18,6 +18,7 @@ Explora nuestra colección de guías diseñadas para ayudarte a navegar los aspe
 <p>¿Nuevo en la genealogía puertorriqueña? Comienza aquí con los fundamentos.</p>
 <ul>
   <li><a href="#intro">Introducción a la Genealogía Puertorriqueña</a></li>
+  <li><a href="#video-intro">Video: Primeros Pasos en la Genealogía Puertorriqueña</a></li>
   <li><a href="#nombres">Entendiendo los Nombres Puertorriqueños</a></li>
   <li><a href="#registros">Tipos de Registros Clave en Puerto Rico</a></li>
 </ul>
@@ -56,6 +57,14 @@ Explora nuestra colección de guías diseñadas para ayudarte a navegar los aspe
 </div>
 
 </div>
+
+---
+
+## Video: Primeros Pasos en la Genealogía Puertorriqueña {#video-intro}
+
+▶ **Getting Started with Puerto Rican Genealogy** — Una introducción a la investigación de registros y recursos puertorriqueños, presentado por Luis Ariel Rivera.
+
+<a href="https://www.youtube.com/watch?v=9zQCT7bmsUQ" class="btn btn-primary" target="_blank" rel="noopener">Ver en YouTube</a>
 
 ---
 
