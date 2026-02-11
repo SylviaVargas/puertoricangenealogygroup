@@ -32,6 +32,7 @@ Explore our collection of guides designed to help you navigate the unique aspect
   <li><a href="#births">Birth Records (Nacimientos)</a></li>
   <li><a href="#marriages">Marriage Records (Matrimonios)</a></li>
   <li><a href="#deaths">Death Records (Defunciones)</a></li>
+  <li><a href="https://www.familysearch.org/en/search/collection/1682798" target="_blank" rel="noopener">Browse: Civil Registration, 1805–2002</a></li>
 </ul>
 </div>
 
@@ -41,8 +42,9 @@ Explore our collection of guides designed to help you navigate the unique aspect
 <ul>
   <li><a href="#parish">Understanding Parish Records</a></li>
   <li><a href="#baptisms">Baptismal Records</a></li>
-  <li><a href="#church-marriages">Marriage Records</a></li>
+  <li><a href="#church-marriages">Marriage Records</a> · <a href="https://www.familysearch.org/en/search/collection/1807092" target="_blank" rel="noopener">Browse on FamilySearch</a></li>
   <li><a href="#burials">Burial Records</a></li>
+  <li><a href="https://www.familysearch.org/en/search/collection/1807092" target="_blank" rel="noopener">Browse: Catholic Church Records, 1645–2021</a></li>
 </ul>
 </div>
 
@@ -116,8 +118,8 @@ Puerto Rican naming conventions follow Spanish tradition:
 
 | Record Type | Time Period | Where to Find |
 |-------------|-------------|---------------|
-| Church Records | 1600s-present | Parish archives, FamilySearch |
-| Civil Registry | 1885-present | Registro Demográfico, local offices |
+| Church Records | 1645-present | Parish archives, <a href="https://www.familysearch.org/en/search/collection/1807092" target="_blank" rel="noopener">FamilySearch (191,500+ images)</a> |
+| Civil Registry | 1805-present | Registro Demográfico, local offices, <a href="https://www.familysearch.org/en/search/collection/1682798" target="_blank" rel="noopener">FamilySearch (4.5M+ images)</a> |
 | Spanish Census | 1765-1897 | Archivo General de Puerto Rico |
 | U.S. Census | 1910-1950 | NARA, Ancestry, FamilySearch |
 | Military Records | Various | NARA, Spanish archives |

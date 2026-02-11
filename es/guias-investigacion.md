@@ -32,6 +32,7 @@ Explora nuestra colección de guías diseñadas para ayudarte a navegar los aspe
   <li><a href="#nacimientos">Actas de Nacimiento</a></li>
   <li><a href="#matrimonios">Actas de Matrimonio</a></li>
   <li><a href="#defunciones">Actas de Defunción</a></li>
+  <li><a href="https://www.familysearch.org/en/search/collection/1682798" target="_blank" rel="noopener">Explorar: Registro Civil, 1805–2002</a></li>
 </ul>
 </div>
 
@@ -41,8 +42,9 @@ Explora nuestra colección de guías diseñadas para ayudarte a navegar los aspe
 <ul>
   <li><a href="#parroquia">Entendiendo los Registros Parroquiales</a></li>
   <li><a href="#bautismos">Registros de Bautismo</a></li>
-  <li><a href="#matrimonios-iglesia">Registros de Matrimonio Eclesiástico</a></li>
+  <li><a href="#matrimonios-iglesia">Registros de Matrimonio Eclesiástico</a> · <a href="https://www.familysearch.org/en/search/collection/1807092" target="_blank" rel="noopener">Explorar en FamilySearch</a></li>
   <li><a href="#entierros">Registros de Entierro</a></li>
+  <li><a href="https://www.familysearch.org/en/search/collection/1807092" target="_blank" rel="noopener">Explorar: Registros de la Iglesia Católica, 1645–2021</a></li>
 </ul>
 </div>
 
@@ -116,8 +118,8 @@ Las convenciones de nombres puertorriqueños siguen la tradición española:
 
 | Tipo de Registro | Período | Dónde Encontrar |
 |------------------|---------|-----------------|
-| Registros Eclesiásticos | 1600s-presente | Archivos parroquiales, FamilySearch |
-| Registro Civil | 1885-presente | Registro Demográfico, oficinas locales |
+| Registros Eclesiásticos | 1645-presente | Archivos parroquiales, <a href="https://www.familysearch.org/en/search/collection/1807092" target="_blank" rel="noopener">FamilySearch (191,500+ imágenes)</a> |
+| Registro Civil | 1805-presente | Registro Demográfico, oficinas locales, <a href="https://www.familysearch.org/en/search/collection/1682798" target="_blank" rel="noopener">FamilySearch (4.5M+ imágenes)</a> |
 | Censo Español | 1765-1897 | Archivo General de Puerto Rico |
 | Censo de EE.UU. | 1910-1950 | NARA, Ancestry, FamilySearch |
 | Registros Militares | Varios | NARA, archivos españoles |
