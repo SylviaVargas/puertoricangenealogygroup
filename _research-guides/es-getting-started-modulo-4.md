@@ -10,7 +10,7 @@ last_modified_at: 2026-02-18
 ---
 
 *Parte del curso gratuito [Empezando en Genealogía](/es/guias-investigacion/empezar/).*
-[⬇ Descargar este módulo en PDF (en inglés)](/assets/pdfs/getting-started/Module_4_Keep_a_Research_Log.pdf){:target="_blank"}
+[⬇ Descargar este módulo en PDF](/assets/pdfs/getting-started/ES_Modulo_4_Lleva_un_Registro_de_Investigacion.pdf){:target="_blank"}
 
 ---
 
@@ -130,8 +130,8 @@ Ahora tienes:
 
 ### Sigue Adelante
 
-- [Descargar la Tarjeta de Referencia Rápida (en inglés)](/assets/pdfs/getting-started/Quick_Reference_Card.pdf){:target="_blank"} — un resumen imprimible de todo lo que aprendiste
-- [Configurar tus plantillas de Google Sheets (en inglés)](/assets/pdfs/getting-started/Google_Sheets_Templates.pdf){:target="_blank"}
+- [Descargar la Tarjeta de Referencia Rápida (PDF)](/assets/pdfs/getting-started/ES_Tarjeta_de_Referencia_Rapida.pdf){:target="_blank"} — un resumen imprimible de todo lo que aprendiste
+- [Configurar tus plantillas de Google Sheets (PDF)](/assets/pdfs/getting-started/ES_Plantillas_de_Google_Sheets.pdf){:target="_blank"}
 - Explora las [Guías de Investigación Genealógica Puertorriqueña](/es/guias-investigacion/) para profundizar en registros civiles, eclesiásticos y censales
 - Conéctate con la comunidad del Puerto Rican Genealogy Group para compartir tu progreso
 

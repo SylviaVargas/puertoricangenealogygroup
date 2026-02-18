@@ -26,6 +26,19 @@ If you've ever wondered where your family came from in Puerto Rico, what your gr
 
 ---
 
+## Before You Begin: Create Your Free FamilySearch Account
+
+Take 2 minutes right now to create your free account at FamilySearch.org. You will need it in Module 3, and having it ready means you can start searching the moment you get there.
+
+1. Go to [FamilySearch.org](https://www.familysearch.org){:target="_blank"}
+2. Click **Sign In** → **Create Account**
+3. Enter your name, email, and a password
+4. Check your email and click the verification link
+
+> FamilySearch is run by a nonprofit organization. It does not sell your data or share your personal information. No credit card required. No subscription fee. Your account is private by default.
+
+---
+
 ## What You'll Walk Away With
 
 - A written record of what you already know about your family

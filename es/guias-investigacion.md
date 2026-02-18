@@ -33,7 +33,7 @@ Explora nuestra colección de guías diseñadas para ayudarte a navegar los aspe
   <li><a href="/es/guias-investigacion/modulo-2/">Módulo 2 — Habla con Parientes Vivos</a></li>
   <li><a href="/es/guias-investigacion/modulo-3/">Módulo 3 — Reúne Documentos Básicos</a></li>
   <li><a href="/es/guias-investigacion/modulo-4/">Módulo 4 — Lleva un Registro de Investigación</a></li>
-  <li><a href="/assets/pdfs/getting-started/Quick_Reference_Card.pdf" target="_blank">⬇ Tarjeta de Referencia Rápida (PDF, en inglés)</a></li>
+  <li><a href="/assets/pdfs/getting-started/ES_Tarjeta_de_Referencia_Rapida.pdf" target="_blank">⬇ Tarjeta de Referencia Rápida (PDF)</a></li>
 </ul>
 </div>
 
@@ -148,11 +148,11 @@ Las convenciones de nombres puertorriqueños siguen la tradición española:
 
 | Módulo | Contenido | PDF |
 |--------|-----------|-----|
-| [Módulo 1 — Comienza Contigo Mismo](/es/guias-investigacion/modulo-1/) | Las cinco preguntas clave, convenciones de nombres puertorriqueños | [⬇ PDF (en inglés)](/assets/pdfs/getting-started/Module_1_Start_With_Yourself.pdf){:target="_blank"} |
-| [Módulo 2 — Habla con Parientes Vivos](/es/guias-investigacion/modulo-2/) | Preparar entrevistas, banco de preguntas, migración | [⬇ PDF (en inglés)](/assets/pdfs/getting-started/Module_2_Talk_to_Living_Relatives.pdf){:target="_blank"} |
-| [Módulo 3 — Reúne Documentos Básicos](/es/guias-investigacion/modulo-3/) | Registros civiles y eclesiásticos, FamilySearch, glosario en español | [⬇ PDF (en inglés)](/assets/pdfs/getting-started/Module_3_Collect_Basic_Documents.pdf){:target="_blank"} |
-| [Módulo 4 — Lleva un Registro de Investigación](/es/guias-investigacion/modulo-4/) | Formato del registro, evidencia negativa, Google Sheets | [⬇ PDF (en inglés)](/assets/pdfs/getting-started/Module_4_Keep_a_Research_Log.pdf){:target="_blank"} |
-| [Tarjeta de Referencia Rápida](/assets/pdfs/getting-started/Quick_Reference_Card.pdf){:target="_blank"} | Resumen imprimible de una página | [⬇ PDF (en inglés)](/assets/pdfs/getting-started/Quick_Reference_Card.pdf){:target="_blank"} |
+| [Módulo 1 — Comienza Contigo Mismo](/es/guias-investigacion/modulo-1/) | Las cinco preguntas clave, convenciones de nombres puertorriqueños | [⬇ PDF](/assets/pdfs/getting-started/ES_Modulo_1_Comienza_Contigo_Mismo.pdf){:target="_blank"} |
+| [Módulo 2 — Habla con Parientes Vivos](/es/guias-investigacion/modulo-2/) | Preparar entrevistas, banco de preguntas, migración | [⬇ PDF](/assets/pdfs/getting-started/ES_Modulo_2_Habla_con_Parientes_Vivos.pdf){:target="_blank"} |
+| [Módulo 3 — Reúne Documentos Básicos](/es/guias-investigacion/modulo-3/) | Registros civiles y eclesiásticos, FamilySearch, glosario en español | [⬇ PDF](/assets/pdfs/getting-started/ES_Modulo_3_Reune_Documentos_Basicos.pdf){:target="_blank"} |
+| [Módulo 4 — Lleva un Registro de Investigación](/es/guias-investigacion/modulo-4/) | Formato del registro, evidencia negativa, Google Sheets | [⬇ PDF](/assets/pdfs/getting-started/ES_Modulo_4_Lleva_un_Registro_de_Investigacion.pdf){:target="_blank"} |
+| [Tarjeta de Referencia Rápida](/assets/pdfs/getting-started/ES_Tarjeta_de_Referencia_Rapida.pdf){:target="_blank"} | Resumen imprimible de una página | [⬇ PDF](/assets/pdfs/getting-started/ES_Tarjeta_de_Referencia_Rapida.pdf){:target="_blank"} |
 
 ### Recursos Gratuitos Clave en FamilySearch
 

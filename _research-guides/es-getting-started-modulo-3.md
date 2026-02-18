@@ -10,7 +10,7 @@ last_modified_at: 2026-02-18
 ---
 
 *Parte del curso gratuito [Empezando en Genealogía](/es/guias-investigacion/empezar/).*
-[⬇ Descargar este módulo en PDF (en inglés)](/assets/pdfs/getting-started/Module_3_Collect_Basic_Documents.pdf){:target="_blank"}
+[⬇ Descargar este módulo en PDF](/assets/pdfs/getting-started/ES_Modulo_3_Reune_Documentos_Basicos.pdf){:target="_blank"}
 
 ---
 
@@ -66,7 +66,21 @@ Al terminar este módulo, podrás:
 
 FamilySearch es el recurso gratuito más importante para la genealogía puertorriqueña. Contiene millones de registros puertorriqueños digitalizados.
 
-**Colecciones clave de Puerto Rico en FamilySearch:**
+#### Paso 1: Crea Tu Cuenta Gratuita
+
+Sin una cuenta de FamilySearch, puedes explorar los nombres de las colecciones pero no puedes ver las imágenes de los registros. El registro tarda unos 2 minutos y es completamente gratuito — sin tarjeta de crédito, sin suscripción.
+
+> FamilySearch es administrado por una organización sin fines de lucro. No vende tus datos ni comparte tu información personal. Tu cuenta es privada por defecto.
+
+1. Ve a [FamilySearch.org](https://www.familysearch.org){:target="_blank"}
+2. Haz clic en **Iniciar sesión** → **Crear cuenta**
+3. Ingresa tu nombre, correo electrónico y una contraseña
+4. Revisa tu correo electrónico y haz clic en el enlace de verificación
+5. Vuelve a iniciar sesión — ahora tienes acceso completo a millones de registros puertorriqueños
+
+#### Paso 2: Ve Directamente a los Registros de Puerto Rico
+
+Una vez registrado, ve directamente a las colecciones más importantes:
 
 | Colección | Qué Incluye | Enlace |
 |-----------|-------------|--------|
@@ -74,14 +88,25 @@ FamilySearch es el recurso gratuito más importante para la genealogía puertorr
 | Registros de la Iglesia Católica, 1645–2021 | Bautismos, matrimonios, entierros de registros parroquiales | [Explorar](https://www.familysearch.org/en/search/collection/1807092){:target="_blank"} |
 | Todas las Colecciones de Puerto Rico | Buscar en todos los tipos de registros disponibles | [Buscar](https://www.familysearch.org/search/place/results?placeId=11543&view=records&access=all){:target="_blank"} |
 
-**Cómo empezar:**
+#### Paso 3: Busca por Pueblo
 
-1. Crea una cuenta gratuita en [FamilySearch.org](https://www.familysearch.org){:target="_blank"}
-2. Ve a **Buscar** > **Registros**
-3. En el campo de Lugar, escribe el nombre del *pueblo* (por ejemplo, "Ponce, Puerto Rico" o "Rincón, Puerto Rico")
-4. Explora las colecciones disponibles
+1. Ve a **Buscar** > **Registros**
+2. En el campo de Lugar, escribe el nombre del *pueblo* (por ejemplo, "Ponce, Puerto Rico" o "Rincón, Puerto Rico")
+3. Explora las colecciones disponibles para ese *pueblo*
+4. Haz clic en una colección para abrirla, luego busca por nombre o navega por año
 
 > **Nota:** Algunos registros solo son visibles en un Centro de Historia Familiar o biblioteca afiliada. Si ves un ícono de candado, visita [Centros de Historia Familiar de FamilySearch](https://www.familysearch.org/library/fhc){:target="_blank"} para encontrar un centro cerca de ti.
+
+#### Tu Primera Búsqueda
+
+Inténtalo ahora mismo:
+
+1. Abre la [colección del Registro Civil](https://www.familysearch.org/en/search/collection/1682798){:target="_blank"}
+2. Ingresa el nombre del antepasado que más deseas encontrar (de tu hoja de trabajo del Módulo 1)
+3. Filtra por el nombre del *pueblo* que identificaste en el Módulo 2
+4. Registra el resultado en tu registro de investigación ya sea que encuentres algo o no (consulta el Módulo 4 para el formato del registro)
+
+> Un resultado de "no encontrado" sigue siendo valioso. Te indica que debes probar la colección de registros eclesiásticos, revisar *pueblos* vecinos o buscar con una ortografía diferente del nombre.
 
 ### Otros Recursos Gratuitos
 

@@ -26,6 +26,19 @@ Si alguna vez te has preguntado de dónde vino tu familia en Puerto Rico, cuále
 
 ---
 
+## Antes de Comenzar: Crea Tu Cuenta Gratuita en FamilySearch
+
+Tómate 2 minutos ahora para crear tu cuenta gratuita en FamilySearch.org. La necesitarás en el Módulo 3, y tenerla lista significa que puedes comenzar a buscar en el momento en que llegues allí.
+
+1. Ve a [FamilySearch.org](https://www.familysearch.org){:target="_blank"}
+2. Haz clic en **Iniciar sesión** → **Crear cuenta**
+3. Ingresa tu nombre, correo electrónico y una contraseña
+4. Revisa tu correo electrónico y haz clic en el enlace de verificación
+
+> FamilySearch es administrado por una organización sin fines de lucro. No vende tus datos ni comparte tu información personal. No se requiere tarjeta de crédito. Sin cuota de suscripción. Tu cuenta es privada por defecto.
+
+---
+
 ## Lo Que Aprenderás
 
 - Un registro escrito de lo que ya sabes sobre tu familia
@@ -43,25 +56,25 @@ Si alguna vez te has preguntado de dónde vino tu familia en Puerto Rico, cuále
 <div class="card">
 <h3><a href="/es/guias-investigacion/modulo-1/">Módulo 1 — Comienza Contigo Mismo</a></h3>
 <p>Escribe lo que ya sabes. Tu nombre, tus padres, tus abuelos. Trabaja hacia atrás una generación a la vez usando las cinco preguntas clave que hace todo genealogista.</p>
-<p><a href="/assets/pdfs/getting-started/Module_1_Start_With_Yourself.pdf" target="_blank">⬇ Descargar PDF (en inglés)</a></p>
+<p><a href="/assets/pdfs/getting-started/ES_Modulo_1_Comienza_Contigo_Mismo.pdf" target="_blank">⬇ Descargar PDF</a></p>
 </div>
 
 <div class="card">
 <h3><a href="/es/guias-investigacion/modulo-2/">Módulo 2 — Habla con Parientes Vivos</a></h3>
 <p>Tus mejores fuentes de información son las personas que todavía están vivas. Aprende cómo entrevistar a familiares, qué preguntas hacer y cómo registrar lo que te dicen.</p>
-<p><a href="/assets/pdfs/getting-started/Module_2_Talk_to_Living_Relatives.pdf" target="_blank">⬇ Descargar PDF (en inglés)</a></p>
+<p><a href="/assets/pdfs/getting-started/ES_Modulo_2_Habla_con_Parientes_Vivos.pdf" target="_blank">⬇ Descargar PDF</a></p>
 </div>
 
 <div class="card">
 <h3><a href="/es/guias-investigacion/modulo-3/">Módulo 3 — Reúne Documentos Básicos</a></h3>
 <p>Aprende qué documentos buscar y dónde encontrar registros puertorriqueños en línea de forma gratuita, incluyendo FamilySearch. Incluye un glosario de términos comunes en registros en español.</p>
-<p><a href="/assets/pdfs/getting-started/Module_3_Collect_Basic_Documents.pdf" target="_blank">⬇ Descargar PDF (en inglés)</a></p>
+<p><a href="/assets/pdfs/getting-started/ES_Modulo_3_Reune_Documentos_Basicos.pdf" target="_blank">⬇ Descargar PDF</a></p>
 </div>
 
 <div class="card">
 <h3><a href="/es/guias-investigacion/modulo-4/">Módulo 4 — Lleva un Registro de Investigación</a></h3>
 <p>Una buena investigación significa registrar lo que buscaste, lo que encontraste y lo que no encontraste. Aprende a usar un registro de investigación sencillo en Google Sheets.</p>
-<p><a href="/assets/pdfs/getting-started/Module_4_Keep_a_Research_Log.pdf" target="_blank">⬇ Descargar PDF (en inglés)</a></p>
+<p><a href="/assets/pdfs/getting-started/ES_Modulo_4_Lleva_un_Registro_de_Investigacion.pdf" target="_blank">⬇ Descargar PDF</a></p>
 </div>
 
 </div>
@@ -70,8 +83,8 @@ Si alguna vez te has preguntado de dónde vino tu familia en Puerto Rico, cuále
 
 ## Materiales Complementarios
 
-- [Tarjeta de Referencia Rápida (PDF, en inglés)](/assets/pdfs/getting-started/Quick_Reference_Card.pdf) — Resumen imprimible de una página de los 4 módulos y las 5 preguntas básicas de investigación
-- [Plantillas de Google Sheets (PDF, en inglés)](/assets/pdfs/getting-started/Google_Sheets_Templates.pdf) — Especificaciones para tres hojas de cálculo listas para usar: Rastreador de Información Familiar, Registro de Investigación y Lista de Verificación de Documentos
+- [Tarjeta de Referencia Rápida (PDF)](/assets/pdfs/getting-started/ES_Tarjeta_de_Referencia_Rapida.pdf) — Resumen imprimible de una página de los 4 módulos y las 5 preguntas básicas de investigación
+- [Plantillas de Google Sheets (PDF)](/assets/pdfs/getting-started/ES_Plantillas_de_Google_Sheets.pdf) — Especificaciones para tres hojas de cálculo listas para usar: Rastreador de Información Familiar, Registro de Investigación y Lista de Verificación de Documentos
 
 ---
 

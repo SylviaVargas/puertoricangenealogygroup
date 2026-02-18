@@ -10,7 +10,7 @@ last_modified_at: 2026-02-18
 ---
 
 *Parte del curso gratuito [Empezando en Genealogía](/es/guias-investigacion/empezar/).*
-[⬇ Descargar este módulo en PDF (en inglés)](/assets/pdfs/getting-started/Module_2_Talk_to_Living_Relatives.pdf){:target="_blank"}
+[⬇ Descargar este módulo en PDF](/assets/pdfs/getting-started/ES_Modulo_2_Habla_con_Parientes_Vivos.pdf){:target="_blank"}
 
 ---
 

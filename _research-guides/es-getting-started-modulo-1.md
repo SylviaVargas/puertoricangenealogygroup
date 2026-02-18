@@ -10,7 +10,7 @@ last_modified_at: 2026-02-18
 ---
 
 *Parte del curso gratuito [Empezando en Genealogía](/es/guias-investigacion/empezar/).*
-[⬇ Descargar este módulo en PDF (en inglés)](/assets/pdfs/getting-started/Module_1_Start_With_Yourself.pdf){:target="_blank"}
+[⬇ Descargar este módulo en PDF](/assets/pdfs/getting-started/ES_Modulo_1_Comienza_Contigo_Mismo.pdf){:target="_blank"}
 
 ---
 
@@ -66,7 +66,7 @@ Las tradiciones de nombres puertorriqueños siguen las costumbres españolas. En
 
 ## Descarga la Hoja de Trabajo
 
-[⬇ Descargar este módulo en PDF (en inglés)](/assets/pdfs/getting-started/Module_1_Start_With_Yourself.pdf){:target="_blank"} — incluye hojas de trabajo con campos para completar sobre ti mismo, tus padres y tus abuelos.
+[⬇ Descargar este módulo en PDF](/assets/pdfs/getting-started/ES_Modulo_1_Comienza_Contigo_Mismo.pdf){:target="_blank"} — incluye hojas de trabajo con campos para completar sobre ti mismo, tus padres y tus abuelos.
 
 ---
 

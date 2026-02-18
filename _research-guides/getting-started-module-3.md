@@ -66,7 +66,21 @@ By the end of this module, you will:
 
 FamilySearch is the single most important free resource for Puerto Rican genealogy. It holds millions of digitized Puerto Rican records.
 
-**Key Puerto Rico collections on FamilySearch:**
+#### Step 1: Create Your Free Account
+
+Without a FamilySearch account, you can browse collection names but cannot view record images. Registration takes about 2 minutes and is completely free — no credit card, no subscription.
+
+> FamilySearch is run by a nonprofit organization. It does not sell your data or share your personal information. Your account is private by default.
+
+1. Go to [FamilySearch.org](https://www.familysearch.org){:target="_blank"}
+2. Click **Sign In** → **Create Account**
+3. Enter your name, email, and a password
+4. Check your email and click the verification link
+5. Sign back in — you now have full access to millions of Puerto Rican records
+
+#### Step 2: Go Directly to Puerto Rico Records
+
+Once registered, go straight to the collections that matter most:
 
 | Collection | What's Included | Link |
 |------------|----------------|------|
@@ -74,14 +88,25 @@ FamilySearch is the single most important free resource for Puerto Rican genealo
 | Catholic Church Records, 1645–2021 | Baptisms, marriages, burials from parish registers | [Browse](https://www.familysearch.org/en/search/collection/1807092){:target="_blank"} |
 | All Puerto Rico Collections | Search across all available record types | [Search](https://www.familysearch.org/search/place/results?placeId=11543&view=records&access=all){:target="_blank"} |
 
-**How to start:**
+#### Step 3: Search by Pueblo
 
-1. Create a free account at [FamilySearch.org](https://www.familysearch.org){:target="_blank"}
-2. Go to **Search** > **Records**
-3. In the Place field, type the *pueblo* name (e.g., "Ponce, Puerto Rico" or "Rincon, Puerto Rico")
-4. Browse the available collections
+1. Go to **Search** > **Records**
+2. In the Place field, type the *pueblo* name (e.g., "Ponce, Puerto Rico" or "Rincon, Puerto Rico")
+3. Browse the available collections for that *pueblo*
+4. Click a collection to open it, then search by name or browse by year
 
 > **Note:** Some records are only viewable at a Family History Center or affiliated library. If you see a lock icon, visit [FamilySearch Family History Centers](https://www.familysearch.org/library/fhc){:target="_blank"} to find a center near you.
+
+#### Your First Search
+
+Try this right now:
+
+1. Open the [Civil Registration collection](https://www.familysearch.org/en/search/collection/1682798){:target="_blank"}
+2. Enter the name of the ancestor you most want to find (from your Module 1 worksheet)
+3. Filter by the *pueblo* name you identified in Module 2
+4. Log the result in your research log whether you find something or not (see Module 4 for the log format)
+
+> A "not found" result is still valuable. It tells you to try the church records collection, check neighboring *pueblos*, or search under a different spelling of the name.
 
 ### Other Free Resources
 
