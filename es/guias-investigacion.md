@@ -25,6 +25,19 @@ Explora nuestra colección de guías diseñadas para ayudarte a navegar los aspe
 </div>
 
 <div class="card">
+<h3>Curso Gratuito para Principiantes</h3>
+<p>¿Nuevo en genealogía? Trabaja a tu propio ritmo con este curso de cuatro módulos diseñado para investigadores puertorriqueños que comienzan desde cero.</p>
+<ul>
+  <li><a href="/es/guias-investigacion/empezar/">Resumen del Curso</a></li>
+  <li><a href="/es/guias-investigacion/modulo-1/">Módulo 1 — Comienza Contigo Mismo</a></li>
+  <li><a href="/es/guias-investigacion/modulo-2/">Módulo 2 — Habla con Parientes Vivos</a></li>
+  <li><a href="/es/guias-investigacion/modulo-3/">Módulo 3 — Reúne Documentos Básicos</a></li>
+  <li><a href="/es/guias-investigacion/modulo-4/">Módulo 4 — Lleva un Registro de Investigación</a></li>
+  <li><a href="/assets/pdfs/getting-started/Quick_Reference_Card.pdf" target="_blank">⬇ Tarjeta de Referencia Rápida (PDF, en inglés)</a></li>
+</ul>
+</div>
+
+<div class="card">
 <h3>Registros Civiles</h3>
 <p>Aprende a navegar el sistema de registro civil de Puerto Rico.</p>
 <ul>
@@ -124,6 +137,30 @@ Las convenciones de nombres puertorriqueños siguen la tradición española:
 | Censo de EE.UU. | 1910-1950 | NARA, Ancestry, FamilySearch |
 | Registros Militares | Varios | NARA, archivos españoles |
 | Registros de Tierras | Colonial-presente | Registros de propiedad |
+
+---
+
+## Curso Gratuito para Principiantes {#curso-principiantes}
+
+¿Nuevo en la genealogía puertorriqueña? Este curso gratuito de cuatro módulos a tu propio ritmo está diseñado para investigadores que comienzan desde cero. No se necesita experiencia previa.
+
+[→ Ver el Resumen Completo del Curso](/es/guias-investigacion/empezar/)
+
+| Módulo | Contenido | PDF |
+|--------|-----------|-----|
+| [Módulo 1 — Comienza Contigo Mismo](/es/guias-investigacion/modulo-1/) | Las cinco preguntas clave, convenciones de nombres puertorriqueños | [⬇ PDF (en inglés)](/assets/pdfs/getting-started/Module_1_Start_With_Yourself.pdf){:target="_blank"} |
+| [Módulo 2 — Habla con Parientes Vivos](/es/guias-investigacion/modulo-2/) | Preparar entrevistas, banco de preguntas, migración | [⬇ PDF (en inglés)](/assets/pdfs/getting-started/Module_2_Talk_to_Living_Relatives.pdf){:target="_blank"} |
+| [Módulo 3 — Reúne Documentos Básicos](/es/guias-investigacion/modulo-3/) | Registros civiles y eclesiásticos, FamilySearch, glosario en español | [⬇ PDF (en inglés)](/assets/pdfs/getting-started/Module_3_Collect_Basic_Documents.pdf){:target="_blank"} |
+| [Módulo 4 — Lleva un Registro de Investigación](/es/guias-investigacion/modulo-4/) | Formato del registro, evidencia negativa, Google Sheets | [⬇ PDF (en inglés)](/assets/pdfs/getting-started/Module_4_Keep_a_Research_Log.pdf){:target="_blank"} |
+| [Tarjeta de Referencia Rápida](/assets/pdfs/getting-started/Quick_Reference_Card.pdf){:target="_blank"} | Resumen imprimible de una página | [⬇ PDF (en inglés)](/assets/pdfs/getting-started/Quick_Reference_Card.pdf){:target="_blank"} |
+
+### Recursos Gratuitos Clave en FamilySearch
+
+| Colección | Lo Que Ofrece |
+|-----------|---------------|
+| <a href="https://www.familysearch.org/en/search/collection/1682798" target="_blank" rel="noopener">Registro Civil de Puerto Rico, 1885–2001</a> | Más de 4.5 millones de imágenes de actas de nacimiento, matrimonio y defunción |
+| <a href="https://www.familysearch.org/en/search/collection/1807092" target="_blank" rel="noopener">Registros de la Iglesia Católica de Puerto Rico, 1645–2021</a> | Bautismos, matrimonios y entierros de registros parroquiales |
+| <a href="https://www.familysearch.org/search/place/results?placeId=11543&view=records&access=all" target="_blank" rel="noopener">Todos los Registros de Puerto Rico en FamilySearch</a> | Explorar todas las colecciones disponibles |
 
 ---
 

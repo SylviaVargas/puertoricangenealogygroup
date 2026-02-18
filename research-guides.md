@@ -25,6 +25,19 @@ Explore our collection of guides designed to help you navigate the unique aspect
 </div>
 
 <div class="card">
+<h3>Free Beginner Course</h3>
+<p>New to genealogy? Work through this self-paced, four-module course designed for Puerto Rican researchers starting from scratch.</p>
+<ul>
+  <li><a href="/research-guides/getting-started/">Course Overview</a></li>
+  <li><a href="/research-guides/getting-started-module-1/">Module 1 — Start With Yourself</a></li>
+  <li><a href="/research-guides/getting-started-module-2/">Module 2 — Talk to Living Relatives</a></li>
+  <li><a href="/research-guides/getting-started-module-3/">Module 3 — Collect Basic Documents</a></li>
+  <li><a href="/research-guides/getting-started-module-4/">Module 4 — Keep a Research Log</a></li>
+  <li><a href="/assets/pdfs/getting-started/Quick_Reference_Card.pdf" target="_blank">⬇ Quick Reference Card (PDF)</a></li>
+</ul>
+</div>
+
+<div class="card">
 <h3>Civil Records</h3>
 <p>Learn to navigate Puerto Rico's civil registry system.</p>
 <ul>
@@ -124,6 +137,33 @@ Puerto Rican naming conventions follow Spanish tradition:
 | U.S. Census | 1910-1950 | NARA, Ancestry, FamilySearch |
 | Military Records | Various | NARA, Spanish archives |
 | Land Records | Colonial-present | Property registries |
+
+---
+
+## Free Beginner Course: Getting Started in Genealogy {#beginner-course}
+
+A free, self-paced course for Puerto Ricans new to family history research. No prior experience needed. Four modules, 30–45 minutes each.
+
+### What You'll Learn
+
+| Module | Topic | Download |
+|--------|-------|----------|
+| [Module 1 — Start With Yourself](/research-guides/getting-started-module-1/) | The five key questions, working backward from what you know, Puerto Rican naming conventions | [PDF](/assets/pdfs/getting-started/Module_1_Start_With_Yourself.pdf){:target="_blank"} |
+| [Module 2 — Talk to Living Relatives](/research-guides/getting-started-module-2/) | How to interview family members, questions tailored for Puerto Rican families, recording what you learn | [PDF](/assets/pdfs/getting-started/Module_2_Talk_to_Living_Relatives.pdf){:target="_blank"} |
+| [Module 3 — Collect Basic Documents](/research-guides/getting-started-module-3/) | Civil vs. church records, FamilySearch collections, Spanish record terminology glossary | [PDF](/assets/pdfs/getting-started/Module_3_Collect_Basic_Documents.pdf){:target="_blank"} |
+| [Module 4 — Keep a Research Log](/research-guides/getting-started-module-4/) | Tracking searches, recording negative results, simple citation format, Google Sheets templates | [PDF](/assets/pdfs/getting-started/Module_4_Keep_a_Research_Log.pdf){:target="_blank"} |
+
+### Key Free Resources for Puerto Rican Research
+
+| Resource | What It Offers |
+|----------|---------------|
+| [FamilySearch — Civil Registration, 1885–2001](https://www.familysearch.org/en/search/collection/1682798){:target="_blank"} | 4.5 million+ images of birth, marriage, and death records |
+| [FamilySearch — Catholic Church Records, 1645–2021](https://www.familysearch.org/en/search/collection/1807092){:target="_blank"} | Baptisms, marriages, and burials from parish registers |
+| [FamilySearch — All Puerto Rico Collections](https://www.familysearch.org/search/place/results?placeId=11543&view=records&access=all){:target="_blank"} | Browse all available Puerto Rico record types |
+| [Find A Grave](https://www.findagrave.com){:target="_blank"} | Cemetery and burial records |
+| [National Archives (NARA)](https://www.archives.gov){:target="_blank"} | Military, immigration, and census records |
+
+<a href="/research-guides/getting-started/" class="btn btn-primary">Start the Course →</a>
 
 ---
 
