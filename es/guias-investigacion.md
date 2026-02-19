@@ -146,12 +146,20 @@ Las convenciones de nombres puertorriqueños siguen la tradición española:
 
 [→ Ver el Resumen Completo del Curso](/es/guias-investigacion/empezar/)
 
+### Consejos de Investigadores con Experiencia
+
+> **Anota a todos.** Documenta a todos los familiares: hijos adoptados, hijos fuera del matrimonio, hijastros y parientes extendidos. Sus antepasados pueden conectar directamente con los tuyos.
+>
+> **Revisa los hogares de la familia extendida.** Las casas de los abuelos, bisabuelos, tíos y tías a menudo guardan documentos irremplazables: libretas con datos, esquelas, recuerdos de bodas y bautizos, y fotografías.
+>
+> **Verifica antes de copiar.** Los árboles genealógicos en línea no son evidencia. Muchos contienen errores copiados de un árbol a otro sin documentación. Siempre busca los registros originales para respaldar cada dato.
+
 | Módulo | Contenido | PDF |
 |--------|-----------|-----|
-| [Módulo 1 — Comienza Contigo Mismo](/es/guias-investigacion/modulo-1/) | Las cinco preguntas clave, convenciones de nombres puertorriqueños | [⬇ PDF](/assets/pdfs/getting-started/ES_Modulo_1_Comienza_Contigo_Mismo.pdf){:target="_blank"} |
-| [Módulo 2 — Habla con Parientes Vivos](/es/guias-investigacion/modulo-2/) | Preparar entrevistas, banco de preguntas, migración | [⬇ PDF](/assets/pdfs/getting-started/ES_Modulo_2_Habla_con_Parientes_Vivos.pdf){:target="_blank"} |
-| [Módulo 3 — Reúne Documentos Básicos](/es/guias-investigacion/modulo-3/) | Registros civiles y eclesiásticos, FamilySearch, glosario en español | [⬇ PDF](/assets/pdfs/getting-started/ES_Modulo_3_Reune_Documentos_Basicos.pdf){:target="_blank"} |
-| [Módulo 4 — Lleva un Registro de Investigación](/es/guias-investigacion/modulo-4/) | Formato del registro, evidencia negativa, Google Sheets | [⬇ PDF](/assets/pdfs/getting-started/ES_Modulo_4_Lleva_un_Registro_de_Investigacion.pdf){:target="_blank"} |
+| [Módulo 1 — Comienza Contigo Mismo](/es/guias-investigacion/modulo-1/) | Las cinco preguntas clave, convenciones de nombres puertorriqueños — incluyendo estructuras familiares no tradicionales | [⬇ PDF](/assets/pdfs/getting-started/ES_Modulo_1_Comienza_Contigo_Mismo.pdf){:target="_blank"} |
+| [Módulo 2 — Habla con Parientes Vivos](/es/guias-investigacion/modulo-2/) | Preparar entrevistas, banco de preguntas, migración, identificar familiares y hogares extendidos que puedan tener documentos y fotos | [⬇ PDF](/assets/pdfs/getting-started/ES_Modulo_2_Habla_con_Parientes_Vivos.pdf){:target="_blank"} |
+| [Módulo 3 — Reúne Documentos Básicos](/es/guias-investigacion/modulo-3/) | Registros civiles y eclesiásticos, FamilySearch, documentos familiares (fotos, libretas, esquelas), glosario en español | [⬇ PDF](/assets/pdfs/getting-started/ES_Modulo_3_Reune_Documentos_Basicos.pdf){:target="_blank"} |
+| [Módulo 4 — Lleva un Registro de Investigación](/es/guias-investigacion/modulo-4/) | Formato del registro, evidencia negativa, cómo evaluar árboles genealógicos en línea, Google Sheets | [⬇ PDF](/assets/pdfs/getting-started/ES_Modulo_4_Lleva_un_Registro_de_Investigacion.pdf){:target="_blank"} |
 | [Tarjeta de Referencia Rápida](/assets/pdfs/getting-started/ES_Tarjeta_de_Referencia_Rapida.pdf){:target="_blank"} | Resumen imprimible de una página | [⬇ PDF](/assets/pdfs/getting-started/ES_Tarjeta_de_Referencia_Rapida.pdf){:target="_blank"} |
 
 ### Recursos Gratuitos Clave en FamilySearch

@@ -144,14 +144,22 @@ Puerto Rican naming conventions follow Spanish tradition:
 
 A free, self-paced course for Puerto Ricans new to family history research. No prior experience needed. Four modules, 30–45 minutes each.
 
+### Tips from Experienced Researchers
+
+> **Include everyone.** Document all family members — adopted children, children born outside marriage, stepchildren, and extended kin. Their ancestors may connect directly to yours.
+>
+> **Check extended family homes.** Grandparents', great-grandparents', aunts', and uncles' homes often hold irreplaceable family records: notebooks with dates, obituaries (*esquelas*), wedding and baptism mementos, and photographs.
+>
+> **Verify before copying.** Online family trees are not evidence. Many contain errors passed from one tree to the next without documentation. Always seek original records to support every fact.
+
 ### What You'll Learn
 
 | Module | Topic | Download |
 |--------|-------|----------|
-| [Module 1 — Start With Yourself](/research-guides/getting-started-module-1/) | The five key questions, working backward from what you know, Puerto Rican naming conventions | [PDF](/assets/pdfs/getting-started/Module_1_Start_With_Yourself.pdf){:target="_blank"} |
-| [Module 2 — Talk to Living Relatives](/research-guides/getting-started-module-2/) | How to interview family members, questions tailored for Puerto Rican families, recording what you learn | [PDF](/assets/pdfs/getting-started/Module_2_Talk_to_Living_Relatives.pdf){:target="_blank"} |
-| [Module 3 — Collect Basic Documents](/research-guides/getting-started-module-3/) | Civil vs. church records, FamilySearch collections, Spanish record terminology glossary | [PDF](/assets/pdfs/getting-started/Module_3_Collect_Basic_Documents.pdf){:target="_blank"} |
-| [Module 4 — Keep a Research Log](/research-guides/getting-started-module-4/) | Tracking searches, recording negative results, simple citation format, Google Sheets templates | [PDF](/assets/pdfs/getting-started/Module_4_Keep_a_Research_Log.pdf){:target="_blank"} |
+| [Module 1 — Start With Yourself](/research-guides/getting-started-module-1/) | The five key questions, working backward from what you know, Puerto Rican naming conventions — including non-traditional family structures | [PDF](/assets/pdfs/getting-started/Module_1_Start_With_Yourself.pdf){:target="_blank"} |
+| [Module 2 — Talk to Living Relatives](/research-guides/getting-started-module-2/) | How to interview family members, questions tailored for Puerto Rican families, identifying relatives and extended-family homes that may hold documents and photographs | [PDF](/assets/pdfs/getting-started/Module_2_Talk_to_Living_Relatives.pdf){:target="_blank"} |
+| [Module 3 — Collect Basic Documents](/research-guides/getting-started-module-3/) | Civil vs. church records, FamilySearch collections, family-held documents (photos, notebooks, obituaries), Spanish record terminology glossary | [PDF](/assets/pdfs/getting-started/Module_3_Collect_Basic_Documents.pdf){:target="_blank"} |
+| [Module 4 — Keep a Research Log](/research-guides/getting-started-module-4/) | Tracking searches, recording negative results, evaluating online family trees, simple citation format, Google Sheets templates | [PDF](/assets/pdfs/getting-started/Module_4_Keep_a_Research_Log.pdf){:target="_blank"} |
 
 ### Key Free Resources for Puerto Rican Research
 
