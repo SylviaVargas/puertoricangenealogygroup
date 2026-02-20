@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Recursos para Miembros
+title: Herramientas
 lang: es
-permalink: /es/recursos-miembros/
-ref: member-resources
+permalink: /es/herramientas/
+ref: tools
 last_modified_at: 2026-02-07
 ---
 
-## Recursos para Miembros
+## Herramientas
 
 Herramientas, plantillas y guías para ayudarte a organizar y documentar tu investigación genealógica puertorriqueña.
 
@@ -157,7 +157,7 @@ Estamos construyendo esta biblioteca de recursos para nuestra comunidad. Si tien
 - **Guías** que has escrito sobre temas específicos
 - **Herramientas** que podrían beneficiar a otros investigadores
 
-Por favor <a href="{{ '/es/contacto/' | relative_url }}">contáctanos</a> para discutir cómo contribuir a nuestros recursos para miembros.
+Por favor <a href="{{ '/es/contacto/' | relative_url }}">contáctanos</a> para discutir cómo contribuir a nuestras herramientas.
 
 ---
 

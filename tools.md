@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Member Resources
+title: Tools
 lang: en
-permalink: /member-resources/
-ref: member-resources
+permalink: /tools/
+ref: tools
 last_modified_at: 2026-02-07
 ---
 
-## Member Resources
+## Tools
 
 Tools, templates, and guides to help you organize and document your Puerto Rican genealogy research.
 
@@ -157,7 +157,7 @@ We're building this resource library for our community. If you have:
 - **Guides** you've written on specific topics
 - **Tools** that could benefit other researchers
 
-Please <a href="{{ '/contact/' | relative_url }}">contact us</a> to discuss contributing to our member resources.
+Please <a href="{{ '/contact/' | relative_url }}">contact us</a> to discuss contributing to our tools collection.
 
 ---
 

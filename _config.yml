@@ -79,8 +79,8 @@ navigation:
       url: /resources/
     - title: AI in Genealogy
       url: /ai-genealogy/
-    - title: Member Resources
-      url: /member-resources/
+    - title: Tools
+      url: /tools/
     - title: Contact
       url: /contact/
   es:
@@ -94,8 +94,8 @@ navigation:
       url: /es/recursos/
     - title: IA en Genealogía
       url: /es/ia-genealogia/
-    - title: Recursos para Miembros
-      url: /es/recursos-miembros/
+    - title: Herramientas
+      url: /es/herramientas/
     - title: Contacto
       url: /es/contacto/
 
