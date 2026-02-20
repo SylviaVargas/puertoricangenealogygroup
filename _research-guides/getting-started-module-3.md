@@ -112,6 +112,7 @@ Try this right now:
 
 | Resource | What It Offers | Link |
 |----------|---------------|------|
+| BYU Family History Library — Puerto Rico Research Guide | Comprehensive guide to Puerto Rico record types, repositories, and research strategies | [View PDF](https://familyhistory.lib.byu.edu/00000192-b134-da0b-af97-f9f5bd4c0001/puertoricoresearchguide-pdf){:target="_blank"} |
 | Ancestry (via public libraries) | Census, immigration, military records — free with a library card | Check your local library |
 | Find A Grave | Cemetery records and burial information | [FindAGrave.com](https://www.findagrave.com){:target="_blank"} |
 | Newspapers.com (via libraries) | Historical obituaries and news | Check your local library |

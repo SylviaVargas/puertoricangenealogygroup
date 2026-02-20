@@ -112,6 +112,7 @@ Inténtalo ahora mismo:
 
 | Recurso | Lo Que Ofrece | Enlace |
 |---------|---------------|--------|
+| BYU Family History Library — Guía de Investigación de Puerto Rico | Guía completa sobre tipos de registros, repositorios y estrategias de investigación | [Ver PDF](https://familyhistory.lib.byu.edu/00000192-b134-da0b-af97-f9f5bd4c0001/puertoricoresearchguide-pdf){:target="_blank"} |
 | Ancestry (a través de bibliotecas públicas) | Registros censales, de inmigración y militares — gratuito con tarjeta de biblioteca | Consulta tu biblioteca local |
 | Find A Grave | Registros de cementerios e información de entierros | [FindAGrave.com](https://www.findagrave.com){:target="_blank"} |
 | Newspapers.com (a través de bibliotecas) | Obituarios históricos y noticias | Consulta tu biblioteca local |

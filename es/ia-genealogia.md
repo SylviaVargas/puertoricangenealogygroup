@@ -15,7 +15,7 @@ La Inteligencia Artificial está transformando muchos campos, incluyendo la gene
 
 | Capacidad de IA | Qué Hace | Ejemplo de Uso |
 | --- | --- | --- |
-| Reconocimiento de Escritura | Lee documentos manuscritos antiguos | Registros eclesiásticos coloniales españoles |
+| Reconocimiento de Escritura | Lee documentos manuscritos antiguos | Registros eclesiásticos coloniales españoles — [Cómo Transcribir Registros Antiguos en Español con Confianza](https://looking4myroots.com/es/2025/12/31/como-transcribir-registros-antiguos-en-espanol-con-confianza/) |
 | OCR | Convierte texto impreso en texto buscable | Periódicos digitalizados, registros civiles |
 | Procesamiento por Lotes | Procesa muchos documentos a la vez | Grandes colecciones de registros parroquiales |
 | Traducción | Traduce documentos históricos | Documentos coloniales españoles, términos arcaicos |
