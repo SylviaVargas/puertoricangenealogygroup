@@ -31,7 +31,7 @@ Topic to be announced. Stay tuned for details!
 
 ### Register Here
 
-**[Click here to register](https://us06web.zoom.us/meeting/register/chSyaQqxRzSxOaeXxJmM0Q)**
+**<a href="https://us06web.zoom.us/meeting/register/chSyaQqxRzSxOaeXxJmM0Q" target="_blank" rel="noopener noreferrer"><em>Click here to register</em></a>**
 
 After registering, you will receive a confirmation email with meeting details.
 
@@ -56,7 +56,7 @@ After registering, you will receive a confirmation email with meeting details.
 
 ### Connect With Us
 
-- **Website:** [puertoricangenealogy.org](https://puertoricangenealogy.org)
+- **Website:** <a href="https://puertoricangenealogy.org" target="_blank" rel="noopener noreferrer"><em>puertoricangenealogy.org</em></a>
 - **Email:** [puertoricangenealogygroup@gmail.com](mailto:puertoricangenealogygroup@gmail.com)
 
 ---

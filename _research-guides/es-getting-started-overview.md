@@ -30,7 +30,7 @@ Si alguna vez te has preguntado de dónde vino tu familia en Puerto Rico, cuále
 
 Tómate 2 minutos ahora para crear tu cuenta gratuita en FamilySearch.org. La necesitarás en el Módulo 3, y tenerla lista significa que puedes comenzar a buscar en el momento en que llegues allí.
 
-1. Ve a [FamilySearch.org](https://www.familysearch.org){:target="_blank"}
+1. Ve a <a href="https://www.familysearch.org" target="_blank" rel="noopener noreferrer"><em>FamilySearch.org</em></a>
 2. Haz clic en **Iniciar sesión** → **Crear cuenta**
 3. Ingresa tu nombre, correo electrónico y una contraseña
 4. Revisa tu correo electrónico y haz clic en el enlace de verificación
@@ -92,11 +92,11 @@ Tómate 2 minutos ahora para crear tu cuenta gratuita en FamilySearch.org. La ne
 
 | Recurso | Lo Que Ofrece |
 |---------|---------------|
-| [FamilySearch — Registro Civil de Puerto Rico, 1885–2001](https://www.familysearch.org/en/search/collection/1682798){:target="_blank"} | Más de 4.5 millones de imágenes de actas de nacimiento, matrimonio y defunción |
-| [FamilySearch — Registros de la Iglesia Católica de Puerto Rico, 1645–2021](https://www.familysearch.org/en/search/collection/1807092){:target="_blank"} | Bautismos, matrimonios y entierros de los registros parroquiales |
-| [FamilySearch — Buscar Registros de Puerto Rico](https://www.familysearch.org/search/place/results?placeId=11543&view=records&access=all){:target="_blank"} | Explorar todas las colecciones disponibles de Puerto Rico |
-| [Find A Grave](https://www.findagrave.com){:target="_blank"} | Registros de cementerios y entierros |
-| [Archivos Nacionales (NARA)](https://www.archives.gov){:target="_blank"} | Registros militares, de inmigración y censales |
+| <a href="https://www.familysearch.org/en/search/collection/1682798" target="_blank" rel="noopener noreferrer"><em>FamilySearch — Registro Civil de Puerto Rico, 1885–2001</em></a> | Más de 4.5 millones de imágenes de actas de nacimiento, matrimonio y defunción |
+| <a href="https://www.familysearch.org/en/search/collection/1807092" target="_blank" rel="noopener noreferrer"><em>FamilySearch — Registros de la Iglesia Católica de Puerto Rico, 1645–2021</em></a> | Bautismos, matrimonios y entierros de los registros parroquiales |
+| <a href="https://www.familysearch.org/search/place/results?placeId=11543&view=records&access=all" target="_blank" rel="noopener noreferrer"><em>FamilySearch — Buscar Registros de Puerto Rico</em></a> | Explorar todas las colecciones disponibles de Puerto Rico |
+| <a href="https://www.findagrave.com" target="_blank" rel="noopener noreferrer"><em>Find A Grave</em></a> | Registros de cementerios y entierros |
+| <a href="https://www.archives.gov" target="_blank" rel="noopener noreferrer"><em>Archivos Nacionales (NARA)</em></a> | Registros militares, de inmigración y censales |
 
 ---
 

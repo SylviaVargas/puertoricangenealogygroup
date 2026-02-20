@@ -165,12 +165,12 @@ A free, self-paced course for Puerto Ricans new to family history research. No p
 
 | Resource | What It Offers |
 |----------|---------------|
-| [FamilySearch — Civil Registration, 1885–2001](https://www.familysearch.org/en/search/collection/1682798){:target="_blank"} | 4.5 million+ images of birth, marriage, and death records |
-| [FamilySearch — Catholic Church Records, 1645–2021](https://www.familysearch.org/en/search/collection/1807092){:target="_blank"} | Baptisms, marriages, and burials from parish registers |
-| [FamilySearch — All Puerto Rico Collections](https://www.familysearch.org/search/place/results?placeId=11543&view=records&access=all){:target="_blank"} | Browse all available Puerto Rico record types |
-| [BYU Family History Library — Puerto Rico Research Guide](https://familyhistory.lib.byu.edu/00000192-b134-da0b-af97-f9f5bd4c0001/puertoricoresearchguide-pdf){:target="_blank"} | Comprehensive guide to Puerto Rico record types, repositories, and research strategies (PDF) |
-| [Find A Grave](https://www.findagrave.com){:target="_blank"} | Cemetery and burial records |
-| [National Archives (NARA)](https://www.archives.gov){:target="_blank"} | Military, immigration, and census records |
+| <a href="https://www.familysearch.org/en/search/collection/1682798" target="_blank" rel="noopener noreferrer"><em>FamilySearch — Civil Registration, 1885–2001</em></a> | 4.5 million+ images of birth, marriage, and death records |
+| <a href="https://www.familysearch.org/en/search/collection/1807092" target="_blank" rel="noopener noreferrer"><em>FamilySearch — Catholic Church Records, 1645–2021</em></a> | Baptisms, marriages, and burials from parish registers |
+| <a href="https://www.familysearch.org/search/place/results?placeId=11543&view=records&access=all" target="_blank" rel="noopener noreferrer"><em>FamilySearch — All Puerto Rico Collections</em></a> | Browse all available Puerto Rico record types |
+| <a href="https://familyhistory.lib.byu.edu/00000192-b134-da0b-af97-f9f5bd4c0001/puertoricoresearchguide-pdf" target="_blank" rel="noopener noreferrer"><em>BYU Family History Library — Puerto Rico Research Guide</em></a> | Comprehensive guide to Puerto Rico record types, repositories, and research strategies (PDF) |
+| <a href="https://www.findagrave.com" target="_blank" rel="noopener noreferrer"><em>Find A Grave</em></a> | Cemetery and burial records |
+| <a href="https://www.archives.gov" target="_blank" rel="noopener noreferrer"><em>National Archives (NARA)</em></a> | Military, immigration, and census records |
 
 <a href="/research-guides/getting-started/" class="btn btn-primary">Start the Course →</a>
 

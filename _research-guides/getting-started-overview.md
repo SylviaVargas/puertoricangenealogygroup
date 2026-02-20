@@ -30,7 +30,7 @@ If you've ever wondered where your family came from in Puerto Rico, what your gr
 
 Take 2 minutes right now to create your free account at FamilySearch.org. You will need it in Module 3, and having it ready means you can start searching the moment you get there.
 
-1. Go to [FamilySearch.org](https://www.familysearch.org){:target="_blank"}
+1. Go to <a href="https://www.familysearch.org" target="_blank" rel="noopener noreferrer"><em>FamilySearch.org</em></a>
 2. Click **Sign In** → **Create Account**
 3. Enter your name, email, and a password
 4. Check your email and click the verification link
@@ -92,11 +92,11 @@ Take 2 minutes right now to create your free account at FamilySearch.org. You wi
 
 | Resource | What It Offers |
 |----------|---------------|
-| [FamilySearch — Puerto Rico Civil Registration, 1885–2001](https://www.familysearch.org/en/search/collection/1682798){:target="_blank"} | 4.5 million+ images of birth, marriage, and death records |
-| [FamilySearch — Puerto Rico Catholic Church Records, 1645–2021](https://www.familysearch.org/en/search/collection/1807092){:target="_blank"} | Baptisms, marriages, and burials from parish registers |
-| [FamilySearch — Search Puerto Rico Records](https://www.familysearch.org/search/place/results?placeId=11543&view=records&access=all){:target="_blank"} | Browse all Puerto Rico collections |
-| [Find A Grave](https://www.findagrave.com){:target="_blank"} | Cemetery and burial records |
-| [National Archives (NARA)](https://www.archives.gov){:target="_blank"} | Military, immigration, and census records |
+| <a href="https://www.familysearch.org/en/search/collection/1682798" target="_blank" rel="noopener noreferrer"><em>FamilySearch — Puerto Rico Civil Registration, 1885–2001</em></a> | 4.5 million+ images of birth, marriage, and death records |
+| <a href="https://www.familysearch.org/en/search/collection/1807092" target="_blank" rel="noopener noreferrer"><em>FamilySearch — Puerto Rico Catholic Church Records, 1645–2021</em></a> | Baptisms, marriages, and burials from parish registers |
+| <a href="https://www.familysearch.org/search/place/results?placeId=11543&view=records&access=all" target="_blank" rel="noopener noreferrer"><em>FamilySearch — Search Puerto Rico Records</em></a> | Browse all Puerto Rico collections |
+| <a href="https://www.findagrave.com" target="_blank" rel="noopener noreferrer"><em>Find A Grave</em></a> | Cemetery and burial records |
+| <a href="https://www.archives.gov" target="_blank" rel="noopener noreferrer"><em>National Archives (NARA)</em></a> | Military, immigration, and census records |
 
 ---
 

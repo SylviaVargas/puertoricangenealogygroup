@@ -75,7 +75,7 @@ Escribe suficiente información para que tú — o cualquier persona — pueda e
 > *Quién lo creó*, "Título de la colección," *ubicación específica* (volumen, página, entrada); *dónde lo accediste*; *fecha de acceso*.
 
 **Ejemplo:**
-> Puerto Rico, Registro Demográfico, "Rincón, Nacimientos, 1905," entrada 47, página 24; imagen digital, [FamilySearch](https://www.familysearch.org){:target="_blank"}; consultado el 17 de febrero de 2026.
+> Puerto Rico, Registro Demográfico, "Rincón, Nacimientos, 1905," entrada 47, página 24; imagen digital, <a href="https://www.familysearch.org" target="_blank" rel="noopener noreferrer"><em>FamilySearch</em></a>; consultado el 17 de febrero de 2026.
 
 ---
 
@@ -90,7 +90,7 @@ Escribe suficiente información para que tú — o cualquier persona — pueda e
 
 ## Comenzar con Google Sheets
 
-1. Abre [sheets.google.com](https://sheets.google.com){:target="_blank"}
+1. Abre <a href="https://sheets.google.com" target="_blank" rel="noopener noreferrer"><em>sheets.google.com</em></a>
 2. Haz clic en **Hoja de cálculo en blanco**
 3. Nómbrala: "Mi Registro de Investigación Familiar"
 4. Crea los encabezados de columna: Fecha, Antepasado, Meta de Búsqueda, Dónde Busqué, Qué Encontré, Fuente/Cita, Próximo Paso

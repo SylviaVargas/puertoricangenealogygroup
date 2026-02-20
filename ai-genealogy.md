@@ -15,7 +15,7 @@ Artificial Intelligence is transforming many fields, including genealogy. While 
 
 | AI Capability | What It Does | Example Use Case |
 | --- | --- | --- |
-| Handwriting Recognition | Reads old handwritten documents | Spanish colonial church records — [How to Transcribe Old Spanish Records with Confidence](https://looking4myroots.com/2025/12/31/how-to-transcribe-old-spanish-records-with-confidence/) |
+| Handwriting Recognition | Reads old handwritten documents | Spanish colonial church records — <a href="https://looking4myroots.com/2025/12/31/how-to-transcribe-old-spanish-records-with-confidence/" target="_blank" rel="noopener noreferrer"><em>How to Transcribe Old Spanish Records with Confidence</em></a> |
 | OCR | Converts printed text to searchable text | Digitized newspapers, civil registries |
 | Batch Processing | Processes many documents at once | Large collections of parish records |
 | Translation | Translates historical documents | Spanish colonial documents, archaic terms |

@@ -56,7 +56,7 @@ Aprende cómo los registros de cabildos municipales (Actas de Cabildo) pueden se
 
 ### Regístrate Aquí
 
-**[Haz clic aquí para registrarte](https://us06web.zoom.us/meeting/register/chSyaQqxRzSxOaeXxJmM0Q)**
+**<a href="https://us06web.zoom.us/meeting/register/chSyaQqxRzSxOaeXxJmM0Q" target="_blank" rel="noopener noreferrer"><em>Haz clic aquí para registrarte</em></a>**
 
 Después de registrarte, recibirás un correo electrónico de confirmación con los detalles de la reunión.
 
@@ -81,7 +81,7 @@ Después de registrarte, recibirás un correo electrónico de confirmación con 
 
 ### Conéctate Con Nosotros
 
-- **Sitio Web:** [puertoricangenealogy.org](https://puertoricangenealogy.org)
+- **Sitio Web:** <a href="https://puertoricangenealogy.org" target="_blank" rel="noopener noreferrer"><em>puertoricangenealogy.org</em></a>
 - **Correo Electrónico:** [puertoricangenealogygroup@gmail.com](mailto:puertoricangenealogygroup@gmail.com)
 
 ---

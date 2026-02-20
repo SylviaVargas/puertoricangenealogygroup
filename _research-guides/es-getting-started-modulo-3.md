@@ -46,7 +46,7 @@ Al terminar este módulo, podrás:
 - **Inicio:** 1885 (requerido por la ley colonial española)
 - **Qué cubren:** Nacimientos, matrimonios y defunciones registrados ante el gobierno
 - **Dónde están:** Originalmente guardados a nivel municipal (*pueblo*). Muchos están ahora digitalizados en FamilySearch.
-- **Acceso en línea:** [Explorar Registro Civil de Puerto Rico, 1885–2001 en FamilySearch](https://www.familysearch.org/en/search/collection/1682798){:target="_blank"}
+- **Acceso en línea:** <a href="https://www.familysearch.org/en/search/collection/1682798" target="_blank" rel="noopener noreferrer"><em>Explorar Registro Civil de Puerto Rico, 1885–2001 en FamilySearch</em></a>
 
 ### Registros Eclesiásticos (*Registros Parroquiales*)
 
@@ -54,7 +54,7 @@ Al terminar este módulo, podrás:
 - **Qué cubren:** Bautismos, matrimonios y entierros
 - **Dónde están:** Iglesias parroquiales, archivos diocesanos y muchos digitalizados en FamilySearch
 - **Por qué importan:** Los registros eclesiásticos frecuentemente son anteriores a los registros civiles. Antes de 1885, pueden ser el único registro de un nacimiento, matrimonio o defunción.
-- **Acceso en línea:** [Explorar Registros de la Iglesia Católica de Puerto Rico, 1645–2021 en FamilySearch](https://www.familysearch.org/en/search/collection/1807092){:target="_blank"}
+- **Acceso en línea:** <a href="https://www.familysearch.org/en/search/collection/1807092" target="_blank" rel="noopener noreferrer"><em>Explorar Registros de la Iglesia Católica de Puerto Rico, 1645–2021 en FamilySearch</em></a>
 
 > **Consejo:** Siempre revisa ambos sistemas. Una persona bautizada en 1890 debería tener tanto un registro de bautismo eclesiástico como un registro de nacimiento civil. Cada uno puede contener detalles diferentes.
 
@@ -72,7 +72,7 @@ Sin una cuenta de FamilySearch, puedes explorar los nombres de las colecciones p
 
 > FamilySearch es administrado por una organización sin fines de lucro. No vende tus datos ni comparte tu información personal. Tu cuenta es privada por defecto.
 
-1. Ve a [FamilySearch.org](https://www.familysearch.org){:target="_blank"}
+1. Ve a <a href="https://www.familysearch.org" target="_blank" rel="noopener noreferrer"><em>FamilySearch.org</em></a>
 2. Haz clic en **Iniciar sesión** → **Crear cuenta**
 3. Ingresa tu nombre, correo electrónico y una contraseña
 4. Revisa tu correo electrónico y haz clic en el enlace de verificación
@@ -84,9 +84,9 @@ Una vez registrado, ve directamente a las colecciones más importantes:
 
 | Colección | Qué Incluye | Enlace |
 |-----------|-------------|--------|
-| Registro Civil, 1885–2001 | Actas de nacimiento, matrimonio y defunción para la mayoría de los *pueblos* | [Explorar](https://www.familysearch.org/en/search/collection/1682798){:target="_blank"} |
-| Registros de la Iglesia Católica, 1645–2021 | Bautismos, matrimonios, entierros de registros parroquiales | [Explorar](https://www.familysearch.org/en/search/collection/1807092){:target="_blank"} |
-| Todas las Colecciones de Puerto Rico | Buscar en todos los tipos de registros disponibles | [Buscar](https://www.familysearch.org/search/place/results?placeId=11543&view=records&access=all){:target="_blank"} |
+| Registro Civil, 1885–2001 | Actas de nacimiento, matrimonio y defunción para la mayoría de los *pueblos* | <a href="https://www.familysearch.org/en/search/collection/1682798" target="_blank" rel="noopener noreferrer"><em>Explorar</em></a> |
+| Registros de la Iglesia Católica, 1645–2021 | Bautismos, matrimonios, entierros de registros parroquiales | <a href="https://www.familysearch.org/en/search/collection/1807092" target="_blank" rel="noopener noreferrer"><em>Explorar</em></a> |
+| Todas las Colecciones de Puerto Rico | Buscar en todos los tipos de registros disponibles | <a href="https://www.familysearch.org/search/place/results?placeId=11543&view=records&access=all" target="_blank" rel="noopener noreferrer"><em>Buscar</em></a> |
 
 #### Paso 3: Busca por Pueblo
 
@@ -95,13 +95,13 @@ Una vez registrado, ve directamente a las colecciones más importantes:
 3. Explora las colecciones disponibles para ese *pueblo*
 4. Haz clic en una colección para abrirla, luego busca por nombre o navega por año
 
-> **Nota:** Algunos registros solo son visibles en un Centro de Historia Familiar o biblioteca afiliada. Si ves un ícono de candado, visita [Centros de Historia Familiar de FamilySearch](https://www.familysearch.org/library/fhc){:target="_blank"} para encontrar un centro cerca de ti.
+> **Nota:** Algunos registros solo son visibles en un Centro de Historia Familiar o biblioteca afiliada. Si ves un ícono de candado, visita <a href="https://www.familysearch.org/library/fhc" target="_blank" rel="noopener noreferrer"><em>Centros de Historia Familiar de FamilySearch</em></a> para encontrar un centro cerca de ti.
 
 #### Tu Primera Búsqueda
 
 Inténtalo ahora mismo:
 
-1. Abre la [colección del Registro Civil](https://www.familysearch.org/en/search/collection/1682798){:target="_blank"}
+1. Abre la <a href="https://www.familysearch.org/en/search/collection/1682798" target="_blank" rel="noopener noreferrer"><em>colección del Registro Civil</em></a>
 2. Ingresa el nombre del antepasado que más deseas encontrar (de tu hoja de trabajo del Módulo 1)
 3. Filtra por el nombre del *pueblo* que identificaste en el Módulo 2
 4. Registra el resultado en tu registro de investigación ya sea que encuentres algo o no (consulta el Módulo 4 para el formato del registro)
@@ -112,11 +112,11 @@ Inténtalo ahora mismo:
 
 | Recurso | Lo Que Ofrece | Enlace |
 |---------|---------------|--------|
-| BYU Family History Library — Guía de Investigación de Puerto Rico | Guía completa sobre tipos de registros, repositorios y estrategias de investigación | [Ver PDF](https://familyhistory.lib.byu.edu/00000192-b134-da0b-af97-f9f5bd4c0001/puertoricoresearchguide-pdf){:target="_blank"} |
+| BYU Family History Library — Guía de Investigación de Puerto Rico | Guía completa sobre tipos de registros, repositorios y estrategias de investigación | <a href="https://familyhistory.lib.byu.edu/00000192-b134-da0b-af97-f9f5bd4c0001/puertoricoresearchguide-pdf" target="_blank" rel="noopener noreferrer"><em>Ver PDF</em></a> |
 | Ancestry (a través de bibliotecas públicas) | Registros censales, de inmigración y militares — gratuito con tarjeta de biblioteca | Consulta tu biblioteca local |
-| Find A Grave | Registros de cementerios e información de entierros | [FindAGrave.com](https://www.findagrave.com){:target="_blank"} |
+| Find A Grave | Registros de cementerios e información de entierros | <a href="https://www.findagrave.com" target="_blank" rel="noopener noreferrer"><em>FindAGrave.com</em></a> |
 | Newspapers.com (a través de bibliotecas) | Obituarios históricos y noticias | Consulta tu biblioteca local |
-| Archivos Nacionales (NARA) | Registros militares, de inmigración y censales | [Archives.gov](https://www.archives.gov){:target="_blank"} |
+| Archivos Nacionales (NARA) | Registros militares, de inmigración y censales | <a href="https://www.archives.gov" target="_blank" rel="noopener noreferrer"><em>Archives.gov</em></a> |
 
 ---
 

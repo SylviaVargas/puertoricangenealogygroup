@@ -75,7 +75,7 @@ Write down enough information so you — or anyone — could find that exact rec
 > *Who created it*, "Title of collection," *specific location* (volume, page, entry); *where you accessed it*; *date accessed*.
 
 **Example:**
-> Puerto Rico, Registro Demográfico, "Rincón, Nacimientos, 1905," entry 47, page 24; digital image, [FamilySearch](https://www.familysearch.org){:target="_blank"}; accessed 17 February 2026.
+> Puerto Rico, Registro Demográfico, "Rincón, Nacimientos, 1905," entry 47, page 24; digital image, <a href="https://www.familysearch.org" target="_blank" rel="noopener noreferrer"><em>FamilySearch</em></a>; accessed 17 February 2026.
 
 ---
 
@@ -90,7 +90,7 @@ Write down enough information so you — or anyone — could find that exact rec
 
 ## Getting Started With Google Sheets
 
-1. Open [sheets.google.com](https://sheets.google.com){:target="_blank"}
+1. Open <a href="https://sheets.google.com" target="_blank" rel="noopener noreferrer"><em>sheets.google.com</em></a>
 2. Click **Blank spreadsheet**
 3. Name it: "My Family Research Log"
 4. Create the column headers: Date, Ancestor, Search Goal, Where I Searched, What I Found, Source/Citation, Next Step
