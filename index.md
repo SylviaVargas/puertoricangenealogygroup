@@ -10,12 +10,13 @@ last_modified_at: 2026-02-07
   <div class="hero-content">
     <h1>Puerto Rican Genealogy — Connection, Research, Community</h1>
     <p class="subtitle">
-      Tracing Puerto Rican roots should not be a solitary journey—or require a plane ticket.
+      Tracing Puerto Rican roots should not be a solitary journey—or require a plane ticket.<br>
       We connect island and diaspora researchers to learn, share, and preserve our stories together.
     </p>
     <div class="hero-cta">
       <a href="{{ '/contact/' | relative_url }}" class="btn btn-primary">Join the Community</a>
       <a href="{{ '/research-guides/' | relative_url }}" class="btn btn-secondary">Explore Research Guides</a>
+      <a href="{{ '/meetings/' | relative_url }}" class="btn btn-secondary">Join our next meeting</a>
     </div>
   </div>
 </section>

@@ -10,12 +10,13 @@ last_modified_at: 2026-02-07
   <div class="hero-content">
     <h1>Genealogía Puertorriqueña — Conexión, Investigación, Comunidad</h1>
     <p class="subtitle">
-      Rastrear las raíces puertorriqueñas no debe ser un viaje solitario—ni requerir un boleto de avión.
+      Rastrear las raíces puertorriqueñas no debe ser un viaje solitario—ni requerir un boleto de avión.<br>
       Conectamos a investigadores de la isla y la diáspora para aprender, compartir y preservar nuestras historias juntos.
     </p>
     <div class="hero-cta">
       <a href="{{ '/es/contacto/' | relative_url }}" class="btn btn-primary">Únete a la Comunidad</a>
       <a href="{{ '/es/guias-investigacion/' | relative_url }}" class="btn btn-secondary">Explora las Guías</a>
+      <a href="{{ '/es/reuniones/' | relative_url }}" class="btn btn-secondary">Únete a la próxima reunión</a>
     </div>
   </div>
 </section>
