@@ -34,6 +34,7 @@ Explora nuestra colección de guías diseñadas para ayudarte a navegar los aspe
   <li><a href="/es/guias-investigacion/modulo-3/">Módulo 3 — Reúne Documentos Básicos</a></li>
   <li><a href="/es/guias-investigacion/modulo-4/">Módulo 4 — Lleva un Registro de Investigación</a></li>
   <li><a href="/assets/pdfs/getting-started/ES_Tarjeta_de_Referencia_Rapida.pdf" target="_blank">⬇ Tarjeta de Referencia Rápida (PDF)</a></li>
+  <li><a href="/assets/pdfs/getting-started/ES_Plantillas_de_Google_Sheets.pdf" target="_blank">⬇ Plantillas de Google Sheets (PDF)</a></li>
 </ul>
 </div>
 
@@ -100,7 +101,7 @@ Puerto Rico ofrece un rico patrimonio documental para la investigación genealó
 **Consideraciones del Idioma**
 - La mayoría de los registros históricos están en español
 - La familiaridad con términos en español es esencial
-- [Glosario de términos genealógicos próximamente]
+- [Glosario de términos genealógicos en español](/es/guias-investigacion/modulo-3/#glosario-de-terminos-comunes-en-registros-en-espanol)
 
 ---
 

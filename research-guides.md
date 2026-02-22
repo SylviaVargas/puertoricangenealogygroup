@@ -34,6 +34,7 @@ Explore our collection of guides designed to help you navigate the unique aspect
   <li><a href="/research-guides/getting-started-module-3/">Module 3 — Collect Basic Documents</a></li>
   <li><a href="/research-guides/getting-started-module-4/">Module 4 — Keep a Research Log</a></li>
   <li><a href="/assets/pdfs/getting-started/Quick_Reference_Card.pdf" target="_blank">⬇ Quick Reference Card (PDF)</a></li>
+  <li><a href="/assets/pdfs/getting-started/Google_Sheets_Templates.pdf" target="_blank">⬇ Google Sheets Research Log (PDF)</a></li>
 </ul>
 </div>
 
@@ -100,7 +101,7 @@ Puerto Rico offers a rich documentary heritage for genealogical research. Key po
 **Language Considerations**
 - Most historical records are in Spanish
 - Familiarity with Spanish terms is essential
-- [Common genealogical terms glossary coming soon]
+- [Common Spanish genealogical terms glossary](/research-guides/getting-started-module-3/#glossary-of-common-spanish-record-terms)
 
 ---
 
