@@ -68,7 +68,7 @@ La genealogía puertorriqueña presenta desafíos únicos: documentos en españo
 
 <div class="card">
 <h3>Registros Censales</h3>
-<span class="badge badge-coming-soon">🔜 Próximamente</span>
+<span class="badge badge-partial">📋 Orientación Disponible</span>
 <p>Encuentra a tus antepasados en las enumeraciones censales de Puerto Rico.</p>
 <ul>
   <li><a href="#censo-espanol">Censo Colonial Español</a></li>
@@ -176,6 +176,29 @@ Las convenciones de nombres puertorriqueños siguen la tradición española:
 | <a href="https://www.familysearch.org/en/search/collection/1807092" target="_blank" rel="noopener">Registros de la Iglesia Católica de Puerto Rico, 1645–2021</a> | Bautismos, matrimonios y entierros de registros parroquiales |
 | <a href="https://www.familysearch.org/search/place/results?placeId=11543&view=records&access=all" target="_blank" rel="noopener">Todos los Registros de Puerto Rico en FamilySearch</a> | Explorar todas las colecciones disponibles |
 | <a href="https://familyhistory.lib.byu.edu/00000192-b134-da0b-af97-f9f5bd4c0001/puertoricoresearchguide-pdf" target="_blank" rel="noopener">BYU Family History Library — Guía de Investigación de Puerto Rico</a> | Guía completa sobre tipos de registros, repositorios y estrategias de investigación (PDF) |
+
+---
+
+## Censo Colonial Español {#censo-espanol}
+
+Puerto Rico estuvo bajo el dominio colonial español desde el siglo XVI hasta 1898. Durante este período, las autoridades españolas realizaron recuentos de población llamados *padrones* — registros anuales con nombres, edad, sexo y estado social de los residentes. Estos documentos son anteriores al registro civil y constituyen algunas de las fuentes documentales más antiguas para la historia familiar puertorriqueña.
+
+El principal repositorio de registros coloniales españoles es el **Archivo General de Puerto Rico (AGPR)**, que conserva materiales desde el siglo XVIII hasta 1898. No todo el acervo está digitalizado; los investigadores pueden necesitar contactar directamente al AGPR para acceder a los registros físicos.
+
+### Recursos Clave
+
+| Recurso | Lo Que Ofrece |
+|---------|---------------|
+| <a href="https://censo.estadisticas.pr/sites/default/files/Decenal/INE_CensodePoblacionyVivienda_1887.pdf" target="_blank" rel="noopener noreferrer"><em>Censo de la Isla de Puerto-Rico de 1887 (PDF)</em></a> | Último censo oficial de toda la isla durante la era española; PDF completo del portal oficial de estadísticas de Puerto Rico |
+| <a href="https://www.researchgate.net/publication/236819831_Puerto_Rico%27s_Population_Padrones_1779-1802" target="_blank" rel="noopener noreferrer"><em>Padrones de Población de Puerto Rico, 1779–1802</em></a> | Análisis académico de los padrones coloniales anuales — nombres, edad, sexo, estado social. Puede requerirse una cuenta gratuita en ResearchGate. |
+| <a href="https://hijosdecoamopr.com/puerto-rico-census-records-from-the-early-1800s/" target="_blank" rel="noopener noreferrer"><em>Registros Censales de Principios y Mediados del Siglo XIX</em></a> | Datos censales y de propiedad por municipio del siglo XIX. Recurso comunitario, no es un archivo oficial. |
+| <a href="https://www.familysearch.org/en/wiki/Puerto_Rico_Colonial_Records" target="_blank" rel="noopener noreferrer"><em>FamilySearch: Wiki de Registros Coloniales de Puerto Rico</em></a> | Resumen de los registros de la época española y orientación para localizar censos y padrones coloniales |
+
+### Censo de Transición de 1899
+
+El censo de 1899 fue el primero realizado después de que Puerto Rico pasó a ser territorio de los Estados Unidos. Sirve de puente entre el período colonial español y el federal estadounidense, y puede ayudar a los investigadores a rastrear familias a través de esa transición.
+
+<a href="https://censo.estadisticas.pr/censo-decenal/Puerto-Rico/1899" target="_blank" rel="noopener noreferrer"><em>Resumen del Censo de Puerto Rico de 1899</em></a> — Disponible en el portal oficial de estadísticas censales de Puerto Rico.
 
 ---
 

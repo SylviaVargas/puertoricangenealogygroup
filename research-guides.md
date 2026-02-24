@@ -68,7 +68,7 @@ Puerto Rican genealogy comes with unique challenges — Spanish-language records
 
 <div class="card">
 <h3>Census Records</h3>
-<span class="badge badge-coming-soon">🔜 Coming Soon</span>
+<span class="badge badge-partial">📋 Overview Available</span>
 <p>Find your ancestors in Puerto Rican census enumerations.</p>
 <ul>
   <li><a href="#spanish-census">Spanish Colonial Census</a></li>
@@ -179,6 +179,29 @@ A free, self-paced course for Puerto Ricans new to family history research. No p
 | <a href="https://www.archives.gov" target="_blank" rel="noopener noreferrer"><em>National Archives (NARA)</em></a> | Military, immigration, and census records |
 
 <a href="/research-guides/getting-started/" class="btn btn-primary">Start the Course →</a>
+
+---
+
+## Spanish Colonial Census {#spanish-census}
+
+Puerto Rico was under Spanish colonial rule from the 1500s until 1898. During this period, Spanish authorities conducted population counts called *padrones* — annual registers recording residents by name, age, sex, and social status. These records predate civil registration and are among the earliest documentary sources for Puerto Rican family history.
+
+The primary repository for Spanish colonial government records is the **Archivo General de Puerto Rico (AGPR)**, which holds materials from the 1700s through 1898. Holdings are not fully digitized; researchers may need to contact the AGPR directly to access physical records.
+
+### Key Resources
+
+| Resource | What It Offers |
+|----------|----------------|
+| <a href="https://censo.estadisticas.pr/sites/default/files/Decenal/INE_CensodePoblacionyVivienda_1887.pdf" target="_blank" rel="noopener noreferrer"><em>1887 Censo de la Isla de Puerto-Rico (PDF)</em></a> | Last official Spanish-era island-wide census; full PDF from Puerto Rico's official statistics agency |
+| <a href="https://www.researchgate.net/publication/236819831_Puerto_Rico%27s_Population_Padrones_1779-1802" target="_blank" rel="noopener noreferrer"><em>Puerto Rico's Population Padrones, 1779–1802</em></a> | Scholarly analysis of annual colonial padrones — names, age, sex, status. A free ResearchGate account may be required. |
+| <a href="https://hijosdecoamopr.com/puerto-rico-census-records-from-the-early-1800s/" target="_blank" rel="noopener noreferrer"><em>Census Records from the Early- to Mid-1800s</em></a> | Town-level census and property data from the early 19th century. A community resource, not an official archive. |
+| <a href="https://www.familysearch.org/en/wiki/Puerto_Rico_Colonial_Records" target="_blank" rel="noopener noreferrer"><em>FamilySearch: Puerto Rico Colonial Records Wiki</em></a> | Overview of Spanish-era records and guidance on locating colonial censuses and padrones |
+
+### 1899 Transitional Census
+
+The 1899 census was the first conducted after Puerto Rico became a U.S. territory. It bridges the Spanish colonial and U.S. federal periods and can help researchers trace families across that transition.
+
+<a href="https://censo.estadisticas.pr/censo-decenal/Puerto-Rico/1899" target="_blank" rel="noopener noreferrer"><em>1899 Puerto Rico Census Overview</em></a> — Available through Puerto Rico's official census statistics portal.
 
 ---
 
