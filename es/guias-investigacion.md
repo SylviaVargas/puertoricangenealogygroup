@@ -15,6 +15,7 @@ La genealogía puertorriqueña presenta desafíos únicos: documentos en españo
 
 <div class="card">
 <h3>Primeros Pasos</h3>
+<span class="badge badge-available">✓ Disponible</span>
 <p>¿Nuevo en la genealogía puertorriqueña? Comienza aquí con los fundamentos.</p>
 <ul>
   <li><a href="#intro">Introducción a la Genealogía Puertorriqueña</a></li>
@@ -26,6 +27,7 @@ La genealogía puertorriqueña presenta desafíos únicos: documentos en españo
 
 <div class="card">
 <h3>Curso Gratuito para Principiantes</h3>
+<span class="badge badge-available">✓ Curso Completo Disponible</span>
 <p>¿Nuevo en genealogía? Trabaja a tu propio ritmo con este curso de cuatro módulos diseñado para investigadores puertorriqueños que comienzan desde cero.</p>
 <ul>
   <li><a href="/es/guias-investigacion/empezar/">Resumen del Curso</a></li>
@@ -40,6 +42,7 @@ La genealogía puertorriqueña presenta desafíos únicos: documentos en españo
 
 <div class="card">
 <h3>Registros Civiles</h3>
+<span class="badge badge-coming-soon">🔜 Próximamente</span>
 <p>Aprende a navegar el sistema de registro civil de Puerto Rico.</p>
 <ul>
   <li><a href="#registro-civil">Resumen del Registro Civil</a></li>
@@ -52,6 +55,7 @@ La genealogía puertorriqueña presenta desafíos únicos: documentos en españo
 
 <div class="card">
 <h3>Registros Eclesiásticos</h3>
+<span class="badge badge-coming-soon">🔜 Próximamente</span>
 <p>Descubre la riqueza de información en los registros parroquiales católicos.</p>
 <ul>
   <li><a href="#parroquia">Entendiendo los Registros Parroquiales</a></li>
@@ -64,10 +68,11 @@ La genealogía puertorriqueña presenta desafíos únicos: documentos en españo
 
 <div class="card">
 <h3>Registros Censales</h3>
+<span class="badge badge-coming-soon">🔜 Próximamente</span>
 <p>Encuentra a tus antepasados en las enumeraciones censales de Puerto Rico.</p>
 <ul>
   <li><a href="#censo-espanol">Censo Colonial Español</a></li>
-  <li><a href="#censo-eeuu">Censo Federal de EE.UU. en Puerto Rico</a></li>
+  <li><a href="https://www.familysearch.org/en/wiki/Puerto_Rico_Census" target="_blank" rel="noopener noreferrer"><em>Censo Federal de EE.UU. en Puerto Rico</em></a></li>
   <li><a href="#municipal">Registros Censales Municipales</a></li>
 </ul>
 </div>

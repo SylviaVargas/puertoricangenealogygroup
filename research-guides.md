@@ -15,6 +15,7 @@ Puerto Rican genealogy comes with unique challenges — Spanish-language records
 
 <div class="card">
 <h3>Getting Started</h3>
+<span class="badge badge-available">✓ Available</span>
 <p>New to Puerto Rican genealogy? Start here with the fundamentals.</p>
 <ul>
   <li><a href="#intro">Introduction to Puerto Rican Genealogy</a></li>
@@ -26,6 +27,7 @@ Puerto Rican genealogy comes with unique challenges — Spanish-language records
 
 <div class="card">
 <h3>Free Beginner Course</h3>
+<span class="badge badge-available">✓ Full Course Available</span>
 <p>New to genealogy? Work through this self-paced, four-module course designed for Puerto Rican researchers starting from scratch.</p>
 <ul>
   <li><a href="/research-guides/getting-started/">Course Overview</a></li>
@@ -40,6 +42,7 @@ Puerto Rican genealogy comes with unique challenges — Spanish-language records
 
 <div class="card">
 <h3>Civil Records</h3>
+<span class="badge badge-coming-soon">🔜 Coming Soon</span>
 <p>Learn to navigate Puerto Rico's civil registry system.</p>
 <ul>
   <li><a href="#civil-registry">Civil Registry Overview</a></li>
@@ -52,6 +55,7 @@ Puerto Rican genealogy comes with unique challenges — Spanish-language records
 
 <div class="card">
 <h3>Church Records</h3>
+<span class="badge badge-coming-soon">🔜 Coming Soon</span>
 <p>Discover the wealth of information in Catholic parish records.</p>
 <ul>
   <li><a href="#parish">Understanding Parish Records</a></li>
@@ -64,10 +68,11 @@ Puerto Rican genealogy comes with unique challenges — Spanish-language records
 
 <div class="card">
 <h3>Census Records</h3>
+<span class="badge badge-coming-soon">🔜 Coming Soon</span>
 <p>Find your ancestors in Puerto Rican census enumerations.</p>
 <ul>
   <li><a href="#spanish-census">Spanish Colonial Census</a></li>
-  <li><a href="#us-census">U.S. Federal Census in Puerto Rico</a></li>
+  <li><a href="https://www.familysearch.org/en/wiki/Puerto_Rico_Census" target="_blank" rel="noopener noreferrer"><em>U.S. Federal Census in Puerto Rico</em></a></li>
   <li><a href="#municipal">Municipal Census Records</a></li>
 </ul>
 </div>

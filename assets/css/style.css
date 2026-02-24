@@ -520,6 +520,27 @@ a:hover {
   margin-bottom: 0;
 }
 
+/* ===== Card Status Badges ===== */
+.badge {
+  display: inline-block;
+  font-size: 0.7rem;
+  font-weight: 600;
+  padding: 2px 8px;
+  border-radius: 12px;
+  margin-bottom: var(--spacing-xs);
+  letter-spacing: 0.02em;
+}
+
+.badge-available {
+  background: #d4edda;
+  color: #155724;
+}
+
+.badge-coming-soon {
+  background: #e2e3e5;
+  color: #383d41;
+}
+
 /* ===== Meeting Card ===== */
 .meeting-card {
   background: linear-gradient(135deg, var(--color-navy) 0%, #2c5282 100%);
