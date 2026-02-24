@@ -6,7 +6,7 @@
     </div>
 
     <div class="footer-links">
-      <h4>{% if page.lang == 'es' %}Enlaces{% else %}Quick Links{% endif %}</h4>
+      <h2>{% if page.lang == 'es' %}Enlaces{% else %}Quick Links{% endif %}</h2>
       <ul>
         {% assign nav = site.navigation[page.lang] | default: site.navigation.en %}
         {% for item in nav limit: 4 %}
@@ -16,7 +16,7 @@
     </div>
 
     <div class="footer-connect">
-      <h4>{% if page.lang == 'es' %}Conéctate{% else %}Connect{% endif %}</h4>
+      <h2>{% if page.lang == 'es' %}Conéctate{% else %}Connect{% endif %}</h2>
       <ul>
         <li>
           <a href="mailto:{{ site.email }}">
@@ -42,7 +42,7 @@
     </div>
 
     <div class="footer-about">
-      <h4>{% if page.lang == 'es' %}Nuestra Misión{% else %}Our Mission{% endif %}</h4>
+      <h2>{% if page.lang == 'es' %}Nuestra Misión{% else %}Our Mission{% endif %}</h2>
       <p>
         {% if page.lang == 'es' %}
         Una comunidad dedicada a ayudar a las personas a explorar su ascendencia puertorriqueña.

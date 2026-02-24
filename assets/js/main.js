@@ -7,6 +7,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
   if (navToggle && navMenu) {
     navToggle.addEventListener('click', function() {
+      const expanded = navToggle.getAttribute('aria-expanded') === 'true';
+      navToggle.setAttribute('aria-expanded', !expanded);
       navMenu.classList.toggle('active');
       navToggle.classList.toggle('active');
     });
@@ -14,6 +16,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // Close menu when clicking outside
     document.addEventListener('click', function(e) {
       if (!navToggle.contains(e.target) && !navMenu.contains(e.target)) {
+        navToggle.setAttribute('aria-expanded', 'false');
         navMenu.classList.remove('active');
         navToggle.classList.remove('active');
       }

@@ -1,3 +1,7 @@
+<a href="#main-content" class="sr-only sr-only-focusable">
+  {% if page.lang == 'es' %}Saltar al contenido principal{% else %}Skip to main content{% endif %}
+</a>
+
 <header class="site-header">
   <div class="header-container">
     <!-- Logo Section (Left-aligned) -->
@@ -16,13 +20,13 @@
 
     <!-- Navigation Section -->
     <nav class="main-nav">
-      <button class="nav-toggle" aria-label="Toggle navigation">
+      <button class="nav-toggle" aria-label="Toggle navigation" aria-expanded="false" aria-controls="nav-menu">
         <span></span>
         <span></span>
         <span></span>
       </button>
 
-      <ul class="nav-menu">
+      <ul class="nav-menu" id="nav-menu">
         {% assign nav = site.navigation[page.lang] | default: site.navigation.en %}
         {% for item in nav %}
         <li class="nav-item">
