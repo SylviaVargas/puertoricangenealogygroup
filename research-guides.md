@@ -9,7 +9,7 @@ last_modified_at: 2026-02-07
 
 ## Puerto Rican Genealogy Research Guides
 
-Explore our collection of guides designed to help you navigate the unique aspects of Puerto Rican genealogical research.
+Puerto Rican genealogy comes with unique challenges — Spanish-language records, a complex colonial history, and records scattered across archives in Puerto Rico, Spain, and the United States. These guides are built specifically for that journey.
 
 <div class="card-grid">
 

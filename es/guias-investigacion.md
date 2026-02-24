@@ -9,7 +9,7 @@ last_modified_at: 2026-02-07
 
 ## Guías de Investigación Genealógica Puertorriqueña
 
-Explora nuestra colección de guías diseñadas para ayudarte a navegar los aspectos únicos de la investigación genealógica puertorriqueña.
+La genealogía puertorriqueña presenta desafíos únicos: documentos en español, una historia colonial compleja y registros dispersos en archivos de Puerto Rico, España y los Estados Unidos. Estas guías están diseñadas específicamente para ese camino.
 
 <div class="card-grid">
 
