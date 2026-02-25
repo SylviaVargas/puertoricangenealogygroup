@@ -152,18 +152,9 @@ last_modified_at: 2026-02-25
     font-style: italic;
   }
 
-  /* Strategy Guide */
-  .rl-guide-grid {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 2rem;
-    margin-bottom: 2rem;
-  }
-  @media (max-width: 640px) { .rl-guide-grid { grid-template-columns: 1fr; } }
-  .rl-guide-card { border-left: 3px solid var(--color-gold); padding-left: 1rem; }
-  .rl-guide-card h3 { font-size: 1.1rem; margin-bottom: 0.5rem; }
-  .rl-guide-card ul { padding-left: 1.25rem; color: var(--color-dark-gray); }
-  .rl-guide-card li { margin-bottom: 0.35rem; }
+  /* Strategy Guide — uses site .card-grid / .card */
+  #panel-guide .card ul { padding-left: 1.25rem; margin-top: 0.5rem; }
+  #panel-guide .card li { font-size: 0.9rem; color: var(--color-gray); margin-bottom: 0.3rem; }
 
   /* Quick Links */
   .rl-links-grid {
@@ -304,16 +295,16 @@ last_modified_at: 2026-02-25
 <div id="panel-guide" class="rl-panel">
   <h2>Systematic Planning Strategy</h2>
 
-  <div class="rl-guide-grid">
-    <div class="rl-guide-card">
+  <div class="card-grid">
+    <div class="card">
       <h3>The 1885 Divide</h3>
-      <p>Puerto Rican research is divided by the implementation of the Civil Registry on <strong>January 1, 1885</strong>.</p>
+      <p>Puerto Rican research is divided by the Civil Registry implemented on <strong>January 1, 1885</strong>.</p>
       <ul>
-        <li><strong>Post-1885:</strong> <em>Registro Civil</em> is the priority. Records are detailed, often listing grandparents and places of origin.</li>
-        <li><strong>Pre-1885:</strong> <em>Registros Parroquiales</em> (Catholic Church) are the priority. Search for <em>Bautismos</em>, <em>Matrimonios</em>, and <em>Entierros</em>.</li>
+        <li><strong>Post-1885:</strong> <em>Registro Civil</em> is the priority. Records list grandparents and places of origin.</li>
+        <li><strong>Pre-1885:</strong> <em>Registros Parroquiales</em> (Catholic Church). Search <em>Bautismos</em>, <em>Matrimonios</em>, and <em>Entierros</em>.</li>
       </ul>
     </div>
-    <div class="rl-guide-card">
+    <div class="card">
       <h3>Naming Conventions</h3>
       <p>Always record the double surname: <strong>[First] [Paternal] [Maternal]</strong>.</p>
       <ul>
@@ -321,7 +312,7 @@ last_modified_at: 2026-02-25
         <li>The maternal surname is your greatest asset for tracking female lineages across centuries.</li>
       </ul>
     </div>
-    <div class="rl-guide-card">
+    <div class="card">
       <h3>FAN Club Strategy</h3>
       <p>Research <strong>Family, Associates, and Neighbors</strong> &mdash; not just direct ancestors.</p>
       <ul>
@@ -330,7 +321,7 @@ last_modified_at: 2026-02-25
         <li>Compadrazgo ties can reveal kinship when surnames differ.</li>
       </ul>
     </div>
-    <div class="rl-guide-card">
+    <div class="card">
       <h3>Negative Evidence</h3>
       <p>Documenting what you <em>did not</em> find is as important as what you found.</p>
       <ul>

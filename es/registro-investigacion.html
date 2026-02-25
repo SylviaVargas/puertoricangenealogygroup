@@ -152,18 +152,9 @@ last_modified_at: 2026-02-25
     font-style: italic;
   }
 
-  /* Strategy Guide */
-  .rl-guide-grid {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 2rem;
-    margin-bottom: 2rem;
-  }
-  @media (max-width: 640px) { .rl-guide-grid { grid-template-columns: 1fr; } }
-  .rl-guide-card { border-left: 3px solid var(--color-gold); padding-left: 1rem; }
-  .rl-guide-card h3 { font-size: 1.1rem; margin-bottom: 0.5rem; }
-  .rl-guide-card ul { padding-left: 1.25rem; color: var(--color-dark-gray); }
-  .rl-guide-card li { margin-bottom: 0.35rem; }
+  /* Strategy Guide — uses site .card-grid / .card */
+  #panel-guide .card ul { padding-left: 1.25rem; margin-top: 0.5rem; }
+  #panel-guide .card li { font-size: 0.9rem; color: var(--color-gray); margin-bottom: 0.3rem; }
 
   /* Quick Links */
   .rl-links-grid {
@@ -304,16 +295,16 @@ last_modified_at: 2026-02-25
 <div id="panel-guide" class="rl-panel">
   <h2>Estrategia de Planificación Sistemática</h2>
 
-  <div class="rl-guide-grid">
-    <div class="rl-guide-card">
+  <div class="card-grid">
+    <div class="card">
       <h3>La División de 1885</h3>
-      <p>La investigación en Puerto Rico está dividida por la implementación del Registro Civil el <strong>1 de enero de 1885</strong>.</p>
+      <p>La investigación en Puerto Rico está dividida por el Registro Civil implementado el <strong>1 de enero de 1885</strong>.</p>
       <ul>
-        <li><strong>Después de 1885:</strong> El <em>Registro Civil</em> es la prioridad. Los registros son detallados y frecuentemente incluyen abuelos y lugares de origen.</li>
-        <li><strong>Antes de 1885:</strong> Los <em>Registros Parroquiales</em> (Iglesia Católica) son la prioridad. Busca <em>Bautismos</em>, <em>Matrimonios</em> y <em>Entierros</em>.</li>
+        <li><strong>Después de 1885:</strong> El <em>Registro Civil</em> es la prioridad. Los registros incluyen abuelos y lugares de origen.</li>
+        <li><strong>Antes de 1885:</strong> Los <em>Registros Parroquiales</em> (Iglesia Católica). Busca <em>Bautismos</em>, <em>Matrimonios</em> y <em>Entierros</em>.</li>
       </ul>
     </div>
-    <div class="rl-guide-card">
+    <div class="card">
       <h3>Convenciones de Nombres</h3>
       <p>Siempre registra el apellido doble: <strong>[Nombre] [Paterno] [Materno]</strong>.</p>
       <ul>
@@ -321,7 +312,7 @@ last_modified_at: 2026-02-25
         <li>El apellido materno es tu mayor herramienta para rastrear linajes femeninos a través de los siglos.</li>
       </ul>
     </div>
-    <div class="rl-guide-card">
+    <div class="card">
       <h3>Estrategia del Club FAN</h3>
       <p>Investiga a <strong>Familiares, Asociados y Vecinos</strong> &mdash; no solo a los antepasados directos.</p>
       <ul>
@@ -330,12 +321,12 @@ last_modified_at: 2026-02-25
         <li>Los lazos de compadrazgo pueden revelar parentesco cuando los apellidos difieren.</li>
       </ul>
     </div>
-    <div class="rl-guide-card">
+    <div class="card">
       <h3>Evidencia Negativa</h3>
       <p>Documentar lo que <em>no</em> encontraste es tan importante como lo que encontraste.</p>
       <ul>
         <li>Registra cada búsqueda, incluso cuando no produce resultados.</li>
-        <li>Anota las lagunas en la conservación de registros (incendios, inundaciones, vacíos en registros).</li>
+        <li>Anota las lagunas en la conservación de registros (incendios, inundaciones, vacíos).</li>
         <li>Una búsqueda negativa documentada evita el trabajo duplicado.</li>
       </ul>
     </div>
