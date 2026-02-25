@@ -31,13 +31,13 @@ We typically respond within 48-72 hours.
 ### How Can We Help?
 
 **New to Puerto Rican Genealogy?**
-Start with our <a href="{{ '/research-guides/' | relative_url }}">Research Guides</a> or join one of our beginner-friendly meetings.
+Start with our <a href="{{ '/research-guides/' | relative_url }}"><em>Research Guides</em></a> or join one of our beginner-friendly meetings.
 
 **Looking for Specific Records?**
-Check our <a href="{{ '/resources/' | relative_url }}">Resources</a> page for links to archives, databases, and research tools.
+Check our <a href="{{ '/resources/' | relative_url }}"><em>Resources</em></a> page for links to archives, databases, and research tools.
 
 **Want to Share Your Research?**
-We love hearing about member discoveries! Email us your story or present at one of our meetings.
+We love hearing about member discoveries! [Email us your story](mailto:puertoricangenealogygroup@gmail.com) or present at one of our meetings.
 
 **Have a Suggestion?**
 We're always looking to improve. Send us your ideas for meeting topics, resources to add, or ways we can better serve the community.
