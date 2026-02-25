@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Research Log
-lang: en
-permalink: /research-log/
+title: Registro de Investigación
+lang: es
+permalink: /es/registro-investigacion/
 ref: research-log
 last_modified_at: 2026-02-25
 ---
@@ -253,42 +253,42 @@ last_modified_at: 2026-02-25
 <!-- Top Toolbar -->
 <div class="rl-toolbar">
   <div class="rl-action-group">
-    <label class="rl-btn rl-btn-ghost" style="cursor:pointer;" title="Load a previously downloaded CSV file">
-      &#8679; Import CSV
+    <label class="rl-btn rl-btn-ghost" style="cursor:pointer;" title="Cargar un archivo CSV descargado anteriormente">
+      &#8679; Importar CSV
       <input type="file" accept=".csv" id="csvImportInput" style="display:none" onchange="importCSV(this)">
     </label>
-    <button class="rl-btn rl-btn-ghost" onclick="copyForSheets()" title="Copy rows as TSV — paste directly into Google Sheets">
-      &#9638; Copy for Sheets
+    <button class="rl-btn rl-btn-ghost" onclick="copyForSheets()" title="Copiar filas como TSV — pegar directamente en Google Sheets">
+      &#9638; Copiar para Sheets
     </button>
-    <span class="rl-copy-ok" id="copyOk">&#10003; Copied!</span>
+    <span class="rl-copy-ok" id="copyOk">&#10003; ¡Copiado!</span>
   </div>
   <button class="rl-btn rl-btn-primary" onclick="document.getElementById('exportModal').classList.add('open')">
-    &#8681; Download CSV
+    &#8681; Descargar CSV
   </button>
 </div>
 
 <!-- Tabs -->
 <div class="rl-tabs">
-  <button class="rl-tab-btn active" onclick="switchTab('log', this)">Research Log</button>
-  <button class="rl-tab-btn" onclick="switchTab('guide', this)">Strategy Guide</button>
-  <button class="rl-tab-btn" onclick="switchTab('links', this)">Quick Links</button>
+  <button class="rl-tab-btn active" onclick="switchTab('log', this)">Registro de Investigación</button>
+  <button class="rl-tab-btn" onclick="switchTab('guide', this)">Guía de Estrategia</button>
+  <button class="rl-tab-btn" onclick="switchTab('links', this)">Enlaces Rápidos</button>
 </div>
 
 <!-- Research Log Panel -->
 <div id="panel-log" class="rl-panel active">
   <div class="rl-toolbar">
-    <h2>Systematic Research Log</h2>
-    <button class="rl-btn rl-btn-ghost" onclick="addRow()">+ Add Entry</button>
+    <h2>Registro Sistemático de Investigación</h2>
+    <button class="rl-btn rl-btn-ghost" onclick="addRow()">+ Agregar Entrada</button>
   </div>
   <div class="rl-table-wrap">
     <table class="rl-table">
       <thead>
         <tr>
-          <th>Date</th>
-          <th>Source / Repository</th>
-          <th>Purpose</th>
-          <th>Results</th>
-          <th>Next Steps</th>
+          <th>Fecha</th>
+          <th>Fuente / Repositorio</th>
+          <th>Propósito</th>
+          <th>Resultados</th>
+          <th>Próximos Pasos</th>
           <th></th>
         </tr>
       </thead>
@@ -296,47 +296,47 @@ last_modified_at: 2026-02-25
     </table>
   </div>
   <p style="font-size:0.8rem;color:var(--color-gray);margin-top:0.75rem;">
-    Entries are saved automatically in your browser. Use <strong>Download CSV</strong> to export a backup or <strong>Copy for Sheets</strong> to paste into Google Sheets.
+    Las entradas se guardan automáticamente en tu navegador. Usa <strong>Descargar CSV</strong> para exportar una copia o <strong>Copiar para Sheets</strong> para pegar en Google Sheets.
   </p>
 </div>
 
 <!-- Strategy Guide Panel -->
 <div id="panel-guide" class="rl-panel">
-  <h2>Systematic Planning Strategy</h2>
+  <h2>Estrategia de Planificación Sistemática</h2>
 
   <div class="rl-guide-grid">
     <div class="rl-guide-card">
-      <h3>The 1885 Divide</h3>
-      <p>Puerto Rican research is divided by the implementation of the Civil Registry on <strong>January 1, 1885</strong>.</p>
+      <h3>La División de 1885</h3>
+      <p>La investigación en Puerto Rico está dividida por la implementación del Registro Civil el <strong>1 de enero de 1885</strong>.</p>
       <ul>
-        <li><strong>Post-1885:</strong> <em>Registro Civil</em> is the priority. Records are detailed, often listing grandparents and places of origin.</li>
-        <li><strong>Pre-1885:</strong> <em>Registros Parroquiales</em> (Catholic Church) are the priority. Search for <em>Bautismos</em>, <em>Matrimonios</em>, and <em>Entierros</em>.</li>
+        <li><strong>Después de 1885:</strong> El <em>Registro Civil</em> es la prioridad. Los registros son detallados y frecuentemente incluyen abuelos y lugares de origen.</li>
+        <li><strong>Antes de 1885:</strong> Los <em>Registros Parroquiales</em> (Iglesia Católica) son la prioridad. Busca <em>Bautismos</em>, <em>Matrimonios</em> y <em>Entierros</em>.</li>
       </ul>
     </div>
     <div class="rl-guide-card">
-      <h3>Naming Conventions</h3>
-      <p>Always record the double surname: <strong>[First] [Paternal] [Maternal]</strong>.</p>
+      <h3>Convenciones de Nombres</h3>
+      <p>Siempre registra el apellido doble: <strong>[Nombre] [Paterno] [Materno]</strong>.</p>
       <ul>
-        <li>Women keep their maiden names throughout their lives in records.</li>
-        <li>The maternal surname is your greatest asset for tracking female lineages across centuries.</li>
+        <li>Las mujeres mantienen sus apellidos de soltera en los registros a lo largo de su vida.</li>
+        <li>El apellido materno es tu mayor herramienta para rastrear linajes femeninos a través de los siglos.</li>
       </ul>
     </div>
     <div class="rl-guide-card">
-      <h3>FAN Club Strategy</h3>
-      <p>Research <strong>Family, Associates, and Neighbors</strong> &mdash; not just direct ancestors.</p>
+      <h3>Estrategia del Club FAN</h3>
+      <p>Investiga a <strong>Familiares, Asociados y Vecinos</strong> &mdash; no solo a los antepasados directos.</p>
       <ul>
-        <li>Witnesses on documents are often relatives or close neighbors.</li>
-        <li>Godparents (<em>padrinos</em>) frequently indicate family connections.</li>
-        <li>Compadrazgo ties can reveal kinship when surnames differ.</li>
+        <li>Los testigos en los documentos suelen ser parientes o vecinos cercanos.</li>
+        <li>Los padrinos frecuentemente indican conexiones familiares.</li>
+        <li>Los lazos de compadrazgo pueden revelar parentesco cuando los apellidos difieren.</li>
       </ul>
     </div>
     <div class="rl-guide-card">
-      <h3>Negative Evidence</h3>
-      <p>Documenting what you <em>did not</em> find is as important as what you found.</p>
+      <h3>Evidencia Negativa</h3>
+      <p>Documentar lo que <em>no</em> encontraste es tan importante como lo que encontraste.</p>
       <ul>
-        <li>Record every search even when it yields no results.</li>
-        <li>Note gaps in record survival (fires, floods, gaps in registers).</li>
-        <li>A documented negative search prevents duplicated effort.</li>
+        <li>Registra cada búsqueda, incluso cuando no produce resultados.</li>
+        <li>Anota las lagunas en la conservación de registros (incendios, inundaciones, vacíos en registros).</li>
+        <li>Una búsqueda negativa documentada evita el trabajo duplicado.</li>
       </ul>
     </div>
   </div>
@@ -346,46 +346,46 @@ last_modified_at: 2026-02-25
 <div id="panel-links" class="rl-panel">
   <div class="rl-links-grid">
     <a href="https://www.familysearch.org/en/search/collection/1682798" target="_blank" rel="noopener noreferrer" class="rl-link-card">
-      <h3>FS: Civil Registry <span>&#8599;</span></h3>
-      <p>Puerto Rico births, marriages, deaths (1885&ndash;2001).</p>
+      <h3>FS: Registro Civil <span>&#8599;</span></h3>
+      <p>Nacimientos, matrimonios y defunciones de Puerto Rico (1885&ndash;2001).</p>
     </a>
     <a href="https://www.familysearch.org/en/search/collection/1807092" target="_blank" rel="noopener noreferrer" class="rl-link-card">
-      <h3>FS: Church Records <span>&#8599;</span></h3>
-      <p>Catholic registers dating back to the 1600s.</p>
+      <h3>FS: Registros Parroquiales <span>&#8599;</span></h3>
+      <p>Registros católicos que datan desde el siglo XVII.</p>
     </a>
     <a href="https://www.familysearch.org/search/place/results?placeId=11543&view=records&access=all" target="_blank" rel="noopener noreferrer" class="rl-link-card">
-      <h3>FS: All PR Records <span>&#8599;</span></h3>
-      <p>Browse all FamilySearch Puerto Rico collections.</p>
+      <h3>FS: Todos los Registros de PR <span>&#8599;</span></h3>
+      <p>Explora todas las colecciones de Puerto Rico en FamilySearch.</p>
     </a>
     <a href="https://pares.cultura.gob.es/" target="_blank" rel="noopener noreferrer" class="rl-link-card">
-      <h3>PARES (Spanish Archives) <span>&#8599;</span></h3>
-      <p>Colonial era documents and military records from Spain.</p>
+      <h3>PARES (Archivos Españoles) <span>&#8599;</span></h3>
+      <p>Documentos de la era colonial y registros militares de España.</p>
     </a>
     <a href="https://www.familysearch.org/en/wiki/Puerto_Rico_Genealogy" target="_blank" rel="noopener noreferrer" class="rl-link-card">
-      <h3>FS: PR Research Wiki <span>&#8599;</span></h3>
-      <p>Research guidance, record types, and repository information.</p>
+      <h3>FS: Wiki de Investigación de PR <span>&#8599;</span></h3>
+      <p>Orientación, tipos de registros e información sobre repositorios.</p>
     </a>
-    <a href="/research-guides/" class="rl-link-card">
-      <h3>Research Guides</h3>
-      <p>Step-by-step guides for Puerto Rican genealogy on this site.</p>
+    <a href="/es/guias-investigacion/" class="rl-link-card">
+      <h3>Guías de Investigación</h3>
+      <p>Guías paso a paso para la genealogía puertorriqueña en este sitio.</p>
     </a>
   </div>
 
   <!-- Stage 3: Google Sheets how-to -->
   <details class="rl-sheets-details">
-    <summary>&#9654; How to use this log with Google Sheets</summary>
+    <summary>&#9654; Cómo usar este registro con Google Sheets</summary>
     <div class="rl-sheets-details-body">
-      <p>No account or extension needed &mdash; use the <strong>Copy for Sheets</strong> button at the top of the page to paste your log directly into any Google Sheet.</p>
+      <p>No necesitas cuenta ni extensión &mdash; usa el botón <strong>Copiar para Sheets</strong> en la parte superior de la página para pegar tu registro directamente en cualquier hoja de Google Sheets.</p>
       <ol>
-        <li>Click <strong>Copy for Sheets</strong> at the top of this page.</li>
-        <li>Open <a href="https://sheets.google.com" target="_blank" rel="noopener noreferrer">Google Sheets</a> and open or create a spreadsheet.</li>
-        <li>Click cell <strong>A1</strong>, then paste (<kbd>Ctrl+V</kbd> / <kbd>Cmd+V</kbd>). Each field &mdash; Date, Source, Purpose, Results, Next Steps &mdash; lands in its own column automatically.</li>
-        <li>To add new entries later without overwriting existing rows, click the first empty cell in column A, then paste.</li>
+        <li>Haz clic en <strong>Copiar para Sheets</strong> en la parte superior de esta página.</li>
+        <li>Abre <a href="https://sheets.google.com" target="_blank" rel="noopener noreferrer">Google Sheets</a> y abre o crea una hoja de cálculo.</li>
+        <li>Haz clic en la celda <strong>A1</strong> y pega (<kbd>Ctrl+V</kbd> / <kbd>Cmd+V</kbd>). Cada campo &mdash; Fecha, Fuente, Propósito, Resultados, Próximos Pasos &mdash; aparece en su propia columna automáticamente.</li>
+        <li>Para agregar nuevas entradas sin sobrescribir datos existentes, haz clic en la primera celda vacía de la columna A y pega allí.</li>
       </ol>
-      <p><strong>Tip:</strong> After pasting, select row 1 and choose <em>View &rarr; Freeze &rarr; 1 row</em> to keep the header visible while scrolling.</p>
+      <p><strong>Consejo:</strong> Después de pegar, selecciona la fila 1 y elige <em>Ver &rarr; Inmovilizar &rarr; 1 fila</em> para mantener el encabezado visible al desplazarte.</p>
       <!-- TEMPLATE LINK: Replace href="#" with your published Google Sheets template URL when ready -->
       <p style="margin-top:0.75rem;padding-top:0.75rem;border-top:1px solid #e5e7eb;color:var(--color-gray);font-size:0.85rem;">
-        A pre-formatted Google Sheets template (frozen header, color-coded columns) is planned. Check back soon.
+        Una plantilla pre-formateada de Google Sheets (encabezado fijo, columnas con color) está planificada. Vuelve pronto.
       </p>
     </div>
   </details>
@@ -394,18 +394,18 @@ last_modified_at: 2026-02-25
 <!-- Export Modal -->
 <div id="exportModal" class="rl-modal-overlay" role="dialog" aria-modal="true" aria-labelledby="exportTitle">
   <div class="rl-modal">
-    <h3 id="exportTitle">Download Research Log</h3>
-    <p>Downloads your entries as a CSV file (<code>PR_Research_Log.csv</code>) &mdash; opens directly in Excel, Google Sheets, or Numbers.</p>
+    <h3 id="exportTitle">Descargar Registro de Investigación</h3>
+    <p>Descarga tus entradas como archivo CSV (<code>Registro_Investigacion_PR.csv</code>) &mdash; se abre directamente en Excel, Google Sheets o Numbers.</p>
     <div class="rl-modal-btns">
-      <button class="rl-btn rl-btn-primary" onclick="downloadCSV()">Download CSV</button>
-      <button class="rl-btn rl-btn-ghost" onclick="document.getElementById('exportModal').classList.remove('open')">Cancel</button>
+      <button class="rl-btn rl-btn-primary" onclick="downloadCSV()">Descargar CSV</button>
+      <button class="rl-btn rl-btn-ghost" onclick="document.getElementById('exportModal').classList.remove('open')">Cancelar</button>
     </div>
   </div>
 </div>
 
 <script>
 (function () {
-  var STORAGE_KEY = 'prgg_research_log_v1';
+  var STORAGE_KEY = 'prgg_research_log_es_v1';
 
   var logData = loadData();
 
@@ -417,7 +417,7 @@ last_modified_at: 2026-02-25
       if (raw) return JSON.parse(raw);
     } catch (e) {}
     return [
-      { date: '2023-11-20', source: 'FS: Civil Registry', purpose: 'Find Juan Rivera birth record', results: 'Found: Born 1886, Utuado.', next: 'Check parents\u2019 marriage record' }
+      { date: '2023-11-20', source: 'FS: Registro Civil', purpose: 'Encontrar acta de nacimiento de Juan Rivera', results: 'Encontrado: Nacido en 1886, Utuado.', next: 'Buscar acta de matrimonio de los padres' }
     ];
   }
 
@@ -440,18 +440,18 @@ last_modified_at: 2026-02-25
     if (!tbody) return;
 
     if (logData.length === 0) {
-      tbody.innerHTML = '<tr><td colspan="6" class="rl-empty-msg">No entries yet. Click &ldquo;+ Add Entry&rdquo; to start your log.</td></tr>';
+      tbody.innerHTML = '<tr><td colspan="6" class="rl-empty-msg">Sin entradas todavía. Haz clic en &ldquo;+ Agregar Entrada&rdquo; para comenzar tu registro.</td></tr>';
       return;
     }
 
     tbody.innerHTML = logData.map(function (row, i) {
       return '<tr>' +
         '<td><input type="date" value="' + esc(row.date) + '" onchange="window._rl.update(' + i + ',\'date\',this.value)"></td>' +
-        '<td><input type="text" value="' + esc(row.source) + '" placeholder="Repository / collection" onchange="window._rl.update(' + i + ',\'source\',this.value)"></td>' +
-        '<td><input type="text" value="' + esc(row.purpose) + '" placeholder="What were you looking for?" onchange="window._rl.update(' + i + ',\'purpose\',this.value)"></td>' +
-        '<td><input type="text" value="' + esc(row.results) + '" placeholder="What did you find?" onchange="window._rl.update(' + i + ',\'results\',this.value)"></td>' +
-        '<td><input type="text" value="' + esc(row.next) + '" placeholder="Follow-up action" onchange="window._rl.update(' + i + ',\'next\',this.value)"></td>' +
-        '<td><button class="rl-delete-btn" onclick="window._rl.del(' + i + ')" aria-label="Delete row" title="Delete">&#10006;</button></td>' +
+        '<td><input type="text" value="' + esc(row.source) + '" placeholder="Repositorio / colección" onchange="window._rl.update(' + i + ',\'source\',this.value)"></td>' +
+        '<td><input type="text" value="' + esc(row.purpose) + '" placeholder="¿Qué buscabas?" onchange="window._rl.update(' + i + ',\'purpose\',this.value)"></td>' +
+        '<td><input type="text" value="' + esc(row.results) + '" placeholder="¿Qué encontraste?" onchange="window._rl.update(' + i + ',\'results\',this.value)"></td>' +
+        '<td><input type="text" value="' + esc(row.next) + '" placeholder="Acción de seguimiento" onchange="window._rl.update(' + i + ',\'next\',this.value)"></td>' +
+        '<td><button class="rl-delete-btn" onclick="window._rl.del(' + i + ')" aria-label="Eliminar fila" title="Eliminar">&#10006;</button></td>' +
         '</tr>';
     }).join('');
   }
@@ -459,7 +459,7 @@ last_modified_at: 2026-02-25
   window._rl = {
     update: function (i, field, value) { logData[i][field] = value; saveData(); },
     del: function (i) {
-      if (confirm('Delete this entry?')) { logData.splice(i, 1); saveData(); renderTable(); }
+      if (confirm('¿Eliminar esta entrada?')) { logData.splice(i, 1); saveData(); renderTable(); }
     }
   };
 
@@ -487,7 +487,7 @@ last_modified_at: 2026-02-25
   }
 
   function toCSV(rows) {
-    var headers = ['Date', 'Source / Repository', 'Purpose', 'Results', 'Next Steps'];
+    var headers = ['Fecha', 'Fuente / Repositorio', 'Prop\u00f3sito', 'Resultados', 'Pr\u00f3ximos Pasos'];
     var lines = [headers.map(escField).join(',')];
     rows.forEach(function (r) {
       lines.push([r.date, r.source, r.purpose, r.results, r.next].map(escField).join(','));
@@ -495,7 +495,6 @@ last_modified_at: 2026-02-25
     return lines.join('\r\n');
   }
 
-  /* Parse a single CSV line, handling quoted fields with embedded commas/quotes */
   function parseCSVLine(line) {
     var fields = [];
     var i = 0;
@@ -510,7 +509,7 @@ last_modified_at: 2026-02-25
           else { j++; }
         }
         fields.push(line.slice(i + 1, j).replace(/""/g, '"'));
-        i = j + 2; // skip closing quote + comma
+        i = j + 2;
         if (i > len) break;
       } else {
         var comma = line.indexOf(',', i);
@@ -530,7 +529,7 @@ last_modified_at: 2026-02-25
     var blob = new Blob([csv], { type: 'text/csv;charset=utf-8;' });
     var a = document.createElement('a');
     a.href = URL.createObjectURL(blob);
-    a.download = 'PR_Research_Log.csv';
+    a.download = 'Registro_Investigacion_PR.csv';
     document.body.appendChild(a);
     a.click();
     document.body.removeChild(a);
@@ -544,11 +543,10 @@ last_modified_at: 2026-02-25
     var reader = new FileReader();
     reader.onload = function (e) {
       var text = e.target.result;
-      // Strip UTF-8 BOM if present
       if (text.charCodeAt(0) === 0xFEFF) text = text.slice(1);
       var lines = text.split(/\r?\n/).map(function (l) { return l.trim(); }).filter(Boolean);
       if (lines.length < 2) {
-        alert('The CSV file appears to be empty or has only a header row.');
+        alert('El archivo CSV parece estar vacío o solo tiene encabezados.');
         return;
       }
       var parsed = lines.slice(1).map(function (line) {
@@ -558,28 +556,27 @@ last_modified_at: 2026-02-25
         return r.date || r.source || r.purpose || r.results || r.next;
       });
       if (parsed.length === 0) {
-        alert('No entries found in the CSV.');
+        alert('No se encontraron entradas en el archivo CSV.');
         return;
       }
       var replace = confirm(
-        'Found ' + parsed.length + ' entr' + (parsed.length === 1 ? 'y' : 'ies') + ' in the file.\n\n' +
-        'OK \u2192 Replace current log with imported entries\n' +
-        'Cancel \u2192 Append imported entries to current log'
+        'Se encontraron ' + parsed.length + ' entrada' + (parsed.length === 1 ? '' : 's') + ' en el archivo.\n\n' +
+        'Aceptar \u2192 Reemplazar el registro actual con las entradas importadas\n' +
+        'Cancelar \u2192 Agregar las entradas importadas al registro actual'
       );
       logData = replace ? parsed : logData.concat(parsed);
       saveData();
       renderTable();
-      // Switch to log tab so user sees the result
       switchTab('log', document.querySelector('.rl-tab-btn'));
     };
     reader.readAsText(input.files[0]);
-    input.value = ''; // reset so the same file can be re-imported
+    input.value = '';
   };
 
   /* ── Stage 2b: Copy for Sheets (TSV to clipboard) ── */
 
   window.copyForSheets = function () {
-    var headers = ['Date', 'Source / Repository', 'Purpose', 'Results', 'Next Steps'];
+    var headers = ['Fecha', 'Fuente / Repositorio', 'Prop\u00f3sito', 'Resultados', 'Pr\u00f3ximos Pasos'];
     var lines = [headers.join('\t')];
     logData.forEach(function (r) {
       lines.push([r.date, r.source, r.purpose, r.results, r.next].map(function (v) {
@@ -590,7 +587,7 @@ last_modified_at: 2026-02-25
       var el = document.getElementById('copyOk');
       if (el) { el.classList.add('show'); setTimeout(function () { el.classList.remove('show'); }, 2200); }
     }).catch(function () {
-      alert('Clipboard access was blocked. Please use Download CSV and import into Google Sheets instead.');
+      alert('El acceso al portapapeles fue bloqueado. Usa Descargar CSV e impórtalo en Google Sheets.');
     });
   };
 

@@ -18,10 +18,13 @@ Herramientas, plantillas y guías para ayudarte a organizar y documentar tu inve
 <div class="card-grid">
 
 <div class="card">
-<h3>Plantilla de Registro de Investigación</h3>
+<h3>Registro de Investigación</h3>
+<span class="badge badge-available">✓ Disponible</span>
 <p>Rastrea tus búsquedas sistemáticamente para evitar duplicar esfuerzos y documentar búsquedas negativas.</p>
-<p><strong>Incluye:</strong> Fecha, repositorio, términos de búsqueda, resultados, seguimiento necesario</p>
-<span class="badge badge-coming-soon">🔜 Próximamente</span>
+<p><strong>Incluye:</strong> Fecha, repositorio, propósito, resultados, próximos pasos — con almacenamiento en el navegador y exportación de texto</p>
+<ul>
+<li><a href="/es/registro-investigacion/">Abrir el Registro de Investigación</a></li>
+</ul>
 </div>
 
 <div class="card">

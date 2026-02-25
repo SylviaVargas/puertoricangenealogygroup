@@ -18,10 +18,13 @@ Tools, templates, and guides to help you organize and document your Puerto Rican
 <div class="card-grid">
 
 <div class="card">
-<h3>Research Log Template</h3>
+<h3>Research Log</h3>
+<span class="badge badge-available">✓ Available</span>
 <p>Track your searches systematically to avoid duplicating effort and document negative searches.</p>
-<p><strong>Includes:</strong> Date, repository, search terms, results, follow-up needed</p>
-<span class="badge badge-coming-soon">🔜 Coming Soon</span>
+<p><strong>Includes:</strong> Date, repository, purpose, results, next steps — with browser-based storage and text export</p>
+<ul>
+<li><a href="/research-log/">Open the Research Log</a></li>
+</ul>
 </div>
 
 <div class="card">
