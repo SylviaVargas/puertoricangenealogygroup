@@ -41,6 +41,19 @@ La genealogía puertorriqueña presenta desafíos únicos: documentos en españo
 </div>
 
 <div class="card">
+<h3>Estándares de Investigación: GPS</h3>
+<span class="badge badge-available">✓ Disponible</span>
+<p>Entiende el Estándar de Prueba Genealógica — el marco de cinco elementos que define qué hace confiable una conclusión genealógica.</p>
+<ul>
+  <li><a href="/es/guias-investigacion/estandar-prueba-genealogica/">¿Qué Es el GPS?</a></li>
+  <li><a href="/es/guias-investigacion/estandar-prueba-genealogica/#los-cinco-elementos">Los Cinco Elementos</a></li>
+  <li><a href="/es/guias-investigacion/estandar-prueba-genealogica/#el-marco-de-analisis-de-tres-capas">Marco de Tres Capas (Fuentes / Información / Evidencia)</a></li>
+  <li><a href="https://bcgcertification.org/ethics-standards" target="_blank" rel="noopener noreferrer"><em>Estándares BCG (en inglés)</em></a></li>
+  <li><a href="https://www.genealogyexplained.com/genealogical-proof-standard/#cbe9577ac9" target="_blank" rel="noopener noreferrer"><em>GPS Explicado — Genealogy Explained (en inglés)</em></a></li>
+</ul>
+</div>
+
+<div class="card">
 <h3>Registros Civiles</h3>
 <span class="badge badge-coming-soon">🔜 Próximamente</span>
 <p>Aprende a navegar el sistema de registro civil de Puerto Rico.</p>

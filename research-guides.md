@@ -41,6 +41,19 @@ Puerto Rican genealogy comes with unique challenges — Spanish-language records
 </div>
 
 <div class="card">
+<h3>Research Standards: GPS</h3>
+<span class="badge badge-available">✓ Available</span>
+<p>Understand the Genealogical Proof Standard — the five-element framework that defines what makes a genealogical conclusion reliable.</p>
+<ul>
+  <li><a href="/research-guides/genealogical-proof-standard/">What Is the GPS?</a></li>
+  <li><a href="/research-guides/genealogical-proof-standard/#the-five-elements">The Five Elements</a></li>
+  <li><a href="/research-guides/genealogical-proof-standard/#the-three-layer-analysis-framework">Three-Layer Framework (Sources / Information / Evidence)</a></li>
+  <li><a href="https://bcgcertification.org/ethics-standards" target="_blank" rel="noopener noreferrer"><em>BCG Genealogy Standards</em></a></li>
+  <li><a href="https://www.genealogyexplained.com/genealogical-proof-standard/#cbe9577ac9" target="_blank" rel="noopener noreferrer"><em>GPS Explained (Genealogy Explained)</em></a></li>
+</ul>
+</div>
+
+<div class="card">
 <h3>Civil Records</h3>
 <span class="badge badge-coming-soon">🔜 Coming Soon</span>
 <p>Learn to navigate Puerto Rico's civil registry system.</p>
