@@ -9,6 +9,8 @@ ref: genealogical-proof-standard
 last_modified_at: 2026-02-24
 ---
 
+<span class="badge badge-available">✓ Disponible</span>
+
 ## ¿Qué Es el Estándar de Prueba Genealógica?
 
 El **Estándar de Prueba Genealógica** (GPS, por sus siglas en inglés) es un conjunto de cinco requisitos desarrollados por la <a href="https://bcgcertification.org/ethics-standards" target="_blank" rel="noopener noreferrer"><em>Junta para la Certificación de Genealogistas (BCG)</em></a> para definir qué hace confiable una conclusión genealógica.

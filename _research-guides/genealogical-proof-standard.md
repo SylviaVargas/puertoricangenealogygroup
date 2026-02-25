@@ -9,6 +9,8 @@ ref: genealogical-proof-standard
 last_modified_at: 2026-02-24
 ---
 
+<span class="badge badge-available">✓ Available</span>
+
 ## What Is the Genealogical Proof Standard?
 
 The **Genealogical Proof Standard (GPS)** is a set of five requirements developed by the <a href="https://bcgcertification.org/ethics-standards" target="_blank" rel="noopener noreferrer"><em>Board for Certification of Genealogists (BCG)</em></a> to define what makes a genealogical conclusion reliable.
