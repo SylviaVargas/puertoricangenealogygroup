@@ -1,0 +1,242 @@
+---
+permalink: /research-log/
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Puerto Rico Genealogy Research Center</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://unpkg.com/lucide@latest"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+        body { font-family: 'Inter', sans-serif; background-color: #f8fafc; }
+        .tab-content { display: none; }
+        .tab-content.active { display: block; }
+        .btn-active { background-color: #1e40af; color: white; }
+    </style>
+</head>
+<body class="min-h-screen">
+
+    <nav class="bg-blue-900 text-white p-4 shadow-lg">
+        <div class="max-w-6xl mx-auto flex justify-between items-center">
+            <h1 class="text-xl font-bold flex items-center gap-2">
+                <i data-lucide="scroll"></i> PR Genealogy Research Center
+            </h1>
+            <div class="flex gap-4">
+                <button id="saveBtn" class="bg-blue-600 hover:bg-blue-500 px-4 py-2 rounded-lg flex items-center gap-2 transition-all">
+                    <i data-lucide="save"></i> Save to Drive
+                </button>
+            </div>
+        </div>
+    </nav>
+
+    <main class="max-w-6xl mx-auto mt-8 p-4">
+        <!-- Tabs Navigation -->
+        <div class="flex gap-2 mb-6 border-b border-gray-200">
+            <button onclick="switchTab('log')" id="tab-log-btn" class="tab-btn px-6 py-2 font-medium rounded-t-lg transition-colors border-b-2 border-transparent hover:text-blue-600">Research Log</button>
+            <button onclick="switchTab('guide')" id="tab-guide-btn" class="tab-btn px-6 py-2 font-medium rounded-t-lg transition-colors border-b-2 border-transparent hover:text-blue-600">Strategy Guide</button>
+            <button onclick="switchTab('links')" id="tab-links-btn" class="tab-btn px-6 py-2 font-medium rounded-t-lg transition-colors border-b-2 border-transparent hover:text-blue-600">Quick Links</button>
+        </div>
+
+        <!-- Research Log Tab -->
+        <div id="tab-log" class="tab-content active bg-white p-6 rounded-xl shadow-sm border border-gray-100">
+            <div class="flex justify-between items-center mb-4">
+                <h2 class="text-lg font-semibold text-gray-800">Systematic Research Log</h2>
+                <button onclick="addRow()" class="text-blue-600 hover:bg-blue-50 px-3 py-1 rounded flex items-center gap-1">
+                    <i data-lucide="plus-circle" class="w-4 h-4"></i> Add Entry
+                </button>
+            </div>
+            <div class="overflow-x-auto">
+                <table class="w-full text-left border-collapse">
+                    <thead>
+                        <tr class="bg-gray-50 border-b border-gray-200">
+                            <th class="p-3 text-sm font-semibold text-gray-600">Date</th>
+                            <th class="p-3 text-sm font-semibold text-gray-600">Source</th>
+                            <th class="p-3 text-sm font-semibold text-gray-600">Purpose</th>
+                            <th class="p-3 text-sm font-semibold text-gray-600">Results</th>
+                            <th class="p-3 text-sm font-semibold text-gray-600">Next Steps</th>
+                            <th class="p-3 w-10"></th>
+                        </tr>
+                    </thead>
+                    <tbody id="logTableBody">
+                        <!-- Rows added via JS -->
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <!-- Strategy Guide Tab -->
+        <div id="tab-guide" class="tab-content bg-white p-8 rounded-xl shadow-sm border border-gray-100 prose max-w-none">
+            <h2 class="text-2xl font-bold text-blue-900 mb-6">Systematic Planning Strategy</h2>
+            <div class="grid md:grid-cols-2 gap-8">
+                <div>
+                    <h3 class="text-lg font-bold text-gray-800 flex items-center gap-2">
+                        <i data-lucide="git-branch" class="text-blue-600"></i> The 1885 Divide
+                    </h3>
+                    <p class="text-gray-600 mt-2">
+                        Research in Puerto Rico is split by the implementation of the Civil Registry on **January 1, 1885**.
+                    </p>
+                    <ul class="list-disc ml-6 text-gray-600 mt-2 space-y-1">
+                        <li><strong>Post-1885:</strong> Priority is *Registro Civil*. Very detailed, listing grandparents and places of origin.</li>
+                        <li><strong>Pre-1885:</strong> Priority is *Registros Parroquiales* (Catholic Church). Look for "Bautismos," "Matrimonios," and "Entierros."</li>
+                    </ul>
+                </div>
+                <div>
+                    <h3 class="text-lg font-bold text-gray-800 flex items-center gap-2">
+                        <i data-lucide="users" class="text-blue-600"></i> Naming Conventions
+                    </h3>
+                    <p class="text-gray-600 mt-2">
+                        Always record the double surname: <strong>[First] [Paternal] [Maternal]</strong>.
+                    </p>
+                    <ul class="list-disc ml-6 text-gray-600 mt-2 space-y-1">
+                        <li>Women keep their maiden names in records.</li>
+                        <li>This is your greatest asset in tracking female lineages across centuries.</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <!-- Quick Links Tab -->
+        <div id="tab-links" class="tab-content">
+            <div class="grid md:grid-cols-3 gap-6">
+                <a href="https://www.familysearch.org/search/collection/1682598" target="_blank" class="bg-white p-6 rounded-xl shadow-sm border border-gray-100 hover:shadow-md transition-all group">
+                    <h3 class="font-bold text-blue-800 flex items-center justify-between">
+                        FS: Civil Registry <i data-lucide="external-link" class="w-4 h-4 text-gray-400 group-hover:text-blue-600"></i>
+                    </h3>
+                    <p class="text-sm text-gray-500 mt-2">Births, Marriages, Deaths (1885-2001).</p>
+                </a>
+                <a href="https://www.familysearch.org/search/collection/1807092" target="_blank" class="bg-white p-6 rounded-xl shadow-sm border border-gray-100 hover:shadow-md transition-all group">
+                    <h3 class="font-bold text-blue-800 flex items-center justify-between">
+                        FS: Church Records <i data-lucide="external-link" class="w-4 h-4 text-gray-400 group-hover:text-blue-600"></i>
+                    </h3>
+                    <p class="text-sm text-gray-500 mt-2">Catholic registers dating back to the 1600s.</p>
+                </a>
+                <a href="http://pares.mecd.es/" target="_blank" class="bg-white p-6 rounded-xl shadow-sm border border-gray-100 hover:shadow-md transition-all group">
+                    <h3 class="font-bold text-blue-800 flex items-center justify-between">
+                        PARES (Spanish Archives) <i data-lucide="external-link" class="w-4 h-4 text-gray-400 group-hover:text-blue-600"></i>
+                    </h3>
+                    <p class="text-sm text-gray-500 mt-2">Colonial era documents and military records.</p>
+                </a>
+            </div>
+        </div>
+    </main>
+
+    <!-- Save Modal (Simulated Google Drive Interaction) -->
+    <div id="saveModal" class="fixed inset-0 bg-black bg-opacity-50 hidden flex items-center justify-center p-4">
+        <div class="bg-white rounded-2xl p-8 max-w-md w-full shadow-2xl">
+            <div class="flex flex-col items-center text-center">
+                <div class="w-16 h-16 bg-blue-100 text-blue-600 rounded-full flex items-center justify-center mb-4">
+                    <i data-lucide="file-check" class="w-8 h-8"></i>
+                </div>
+                <h3 class="text-xl font-bold text-gray-800 mb-2">Ready to Save</h3>
+                <p class="text-gray-600 mb-6">This will generate a "PR_Genealogy_Research_Log.txt" file. In a live environment, this would authorize your Google account to save directly to your 'My Drive'.</p>
+                
+                <div class="w-full space-y-3">
+                    <button onclick="downloadLog()" class="w-full bg-blue-600 text-white py-3 rounded-lg font-semibold hover:bg-blue-700 transition-colors">
+                        Download Log File
+                    </button>
+                    <button onclick="closeModal()" class="w-full bg-gray-100 text-gray-600 py-3 rounded-lg font-semibold hover:bg-gray-200 transition-colors">
+                        Cancel
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Helper function to safely call Lucide createIcons
+        function initIcons() {
+            if (window.lucide) {
+                window.lucide.createIcons();
+            }
+        }
+
+        // Sample Data
+        let logData = [
+            { date: '2023-11-20', source: 'FS: Civil Registry', purpose: 'Find Juan Rivera Birth', results: 'Found: Born 1886, Utuado.', next: 'Check parents marriage' }
+        ];
+
+        // Tab Switching Logic
+        function switchTab(tabId) {
+            document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
+            document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('border-blue-600', 'text-blue-600'));
+            
+            document.getElementById(`tab-${tabId}`).classList.add('active');
+            document.getElementById(`tab-${tabId}-btn`).classList.add('border-blue-600', 'text-blue-600');
+        }
+
+        // Table Management
+        function renderTable() {
+            const tbody = document.getElementById('logTableBody');
+            if (!tbody) return;
+            tbody.innerHTML = '';
+            logData.forEach((row, index) => {
+                const tr = document.createElement('tr');
+                tr.className = 'border-b border-gray-100 hover:bg-gray-50';
+                tr.innerHTML = `
+                    <td class="p-3"><input type="date" value="${row.date}" class="bg-transparent border-0 w-full focus:ring-1 focus:ring-blue-500 rounded p-1" onchange="updateRow(${index}, 'date', this.value)"></td>
+                    <td class="p-3"><input type="text" value="${row.source}" class="bg-transparent border-0 w-full focus:ring-1 focus:ring-blue-500 rounded p-1" onchange="updateRow(${index}, 'source', this.value)"></td>
+                    <td class="p-3"><input type="text" value="${row.purpose}" class="bg-transparent border-0 w-full focus:ring-1 focus:ring-blue-500 rounded p-1" onchange="updateRow(${index}, 'purpose', this.value)"></td>
+                    <td class="p-3"><input type="text" value="${row.results}" class="bg-transparent border-0 w-full focus:ring-1 focus:ring-blue-500 rounded p-1" onchange="updateRow(${index}, 'results', this.value)"></td>
+                    <td class="p-3"><input type="text" value="${row.next}" class="bg-transparent border-0 w-full focus:ring-1 focus:ring-blue-500 rounded p-1" onchange="updateRow(${index}, 'next', this.value)"></td>
+                    <td class="p-3">
+                        <button onclick="deleteRow(${index})" class="text-red-400 hover:text-red-600">
+                            <i data-lucide="trash-2" class="w-4 h-4"></i>
+                        </button>
+                    </td>
+                `;
+                tbody.appendChild(tr);
+            });
+            initIcons();
+        }
+
+        function addRow() {
+            logData.push({ date: new Date().toISOString().split('T')[0], source: '', purpose: '', results: '', next: '' });
+            renderTable();
+        }
+
+        function updateRow(index, field, value) {
+            logData[index][field] = value;
+        }
+
+        function deleteRow(index) {
+            logData.splice(index, 1);
+            renderTable();
+        }
+
+        // Export Logic
+        function downloadLog() {
+            let content = "PUERTO RICO GENEALOGY RESEARCH LOG\n" + "=".repeat(40) + "\n\n";
+            logData.forEach(row => {
+                content += `DATE: ${row.date}\nSOURCE: ${row.source}\nPURPOSE: ${row.purpose}\nRESULTS: ${row.results}\nNEXT STEPS: ${row.next}\n` + "-".repeat(20) + "\n";
+            });
+
+            const element = document.createElement('a');
+            const file = new Blob([content], {type: 'text/plain'});
+            element.href = URL.createObjectURL(file);
+            element.download = "PR_Genealogy_Research_Log.txt";
+            document.body.appendChild(element);
+            element.click();
+            closeModal();
+        }
+
+        // Modal Logic
+        const saveBtn = document.getElementById('saveBtn');
+        const modal = document.getElementById('saveModal');
+
+        if (saveBtn) {
+            saveBtn.addEventListener('click', () => modal.classList.remove('hidden'));
+        }
+        function closeModal() { if (modal) modal.classList.add('hidden'); }
+
+        // Initialize on window load to ensure script is ready
+        window.addEventListener('load', function() {
+            switchTab('log');
+            renderTable();
+            initIcons();
+        });
+    </script>
+</body>
+</html>
