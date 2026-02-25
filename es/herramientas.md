@@ -44,9 +44,12 @@ Herramientas, plantillas y guías para ayudarte a organizar y documentar tu inve
 
 <div class="card">
 <h3>Hoja de Grupo Familiar</h3>
+<span class="badge badge-available">✓ Disponible</span>
 <p>Formulario estándar para documentar una familia nuclear con citas de fuentes.</p>
 <p><strong>Incluye:</strong> Padres, hijos, eventos vitales, fuentes</p>
-<span class="badge badge-coming-soon">🔜 Próximamente</span>
+<ul>
+<li><a href="/es/hoja-de-grupo-familiar/">Abrir la Hoja de Grupo Familiar</a></li>
+</ul>
 </div>
 
 <div class="card">

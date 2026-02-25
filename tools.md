@@ -44,9 +44,12 @@ Tools, templates, and guides to help you organize and document your Puerto Rican
 
 <div class="card">
 <h3>Family Group Sheet</h3>
+<span class="badge badge-available">✓ Available</span>
 <p>Standard form for documenting a nuclear family with source citations.</p>
 <p><strong>Includes:</strong> Parents, children, vital events, sources</p>
-<span class="badge badge-coming-soon">🔜 Coming Soon</span>
+<ul>
+<li><a href="/tools/family-group-sheet/">Open the Family Group Sheet</a></li>
+</ul>
 </div>
 
 <div class="card">

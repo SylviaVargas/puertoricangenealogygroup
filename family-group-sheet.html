@@ -1,0 +1,401 @@
+---
+layout: page
+title: Family Group Sheet
+lang: en
+permalink: /tools/family-group-sheet/
+ref: family-group-sheet
+last_modified_at: 2026-02-25
+---
+
+<style>
+  /* ── Page wrapper ── */
+  .fgs-page { max-width: 860px; margin: 0 auto; }
+
+  /* ── Toolbar (hidden on print) ── */
+  .fgs-toolbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1.5rem;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+  .fgs-toolbar-note { font-size: 0.8rem; color: var(--color-gray); }
+
+  /* ── Buttons (reuse site patterns) ── */
+  .fgs-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    padding: 0.45rem 1rem;
+    border-radius: 4px;
+    font-family: var(--font-body);
+    font-size: 0.875rem;
+    font-weight: 600;
+    cursor: pointer;
+    border: none;
+    transition: background 0.2s, color 0.2s;
+  }
+  .fgs-btn-primary { background: var(--color-navy); color: var(--color-white); }
+  .fgs-btn-primary:hover { background: #0f2540; color: var(--color-white); }
+  .fgs-btn-ghost { background: none; color: var(--color-navy); border: 1px solid var(--color-navy); }
+  .fgs-btn-ghost:hover { background: var(--color-cream); }
+  .fgs-btn-sm {
+    padding: 0.2rem 0.6rem;
+    font-size: 0.78rem;
+    border-radius: 3px;
+    font-family: var(--font-body);
+    font-weight: 600;
+    cursor: pointer;
+    border: 1px solid var(--color-navy);
+    background: none;
+    color: var(--color-navy);
+    transition: background 0.15s;
+  }
+  .fgs-btn-sm:hover { background: var(--color-cream); }
+
+  /* ── Form header ── */
+  .fgs-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    border-bottom: 2px solid var(--color-navy);
+    padding-bottom: 1.25rem;
+    margin-bottom: 0.25rem;
+    gap: 1.5rem;
+    flex-wrap: wrap;
+  }
+  .fgs-header-left { display: flex; align-items: center; gap: 1rem; }
+  .fgs-header-titles h1 {
+    font-size: 1.6rem;
+    color: var(--color-navy);
+    margin: 0 0 0.15rem;
+  }
+  .fgs-header-titles p {
+    font-size: 0.85rem;
+    color: var(--color-red);
+    font-weight: 600;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    margin: 0 0 0.1rem;
+  }
+  .fgs-header-titles a { font-size: 0.8rem; color: var(--color-gray); }
+  .fgs-header-right { text-align: right; min-width: 180px; }
+
+  /* ── Labels and inputs ── */
+  .fgs-label {
+    display: block;
+    font-size: 0.68rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--color-gray);
+    margin-bottom: 0.15rem;
+  }
+  .fgs-field { margin-bottom: 0.75rem; }
+  .fgs-input {
+    width: 100%;
+    border: none;
+    border-bottom: 1px solid #d1d5db;
+    padding: 0.2rem 0.25rem;
+    font-family: var(--font-body);
+    font-size: 0.9rem;
+    background: transparent;
+    color: var(--color-dark-gray);
+  }
+  .fgs-input:focus { outline: none; border-bottom: 2px solid var(--color-navy); }
+  .fgs-input-lg { font-size: 1.05rem; font-weight: 600; }
+  .fgs-input-right { text-align: right; }
+
+  /* ── Section headers ── */
+  .fgs-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-left: 4px solid var(--color-navy);
+    background: #f8fafc;
+    padding: 0.5rem 0.75rem;
+    color: var(--color-navy);
+    font-family: var(--font-heading);
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-size: 0.82rem;
+    margin-top: 1.5rem;
+    margin-bottom: 0.75rem;
+  }
+
+  /* ── Event table (Birth / Christening / Death / Burial) ── */
+  .fgs-events {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.875rem;
+    margin-bottom: 0.5rem;
+  }
+  .fgs-events th {
+    padding: 0.3rem 0.5rem;
+    font-weight: 700;
+    color: var(--color-navy);
+    border-bottom: 2px solid var(--color-navy);
+    text-align: left;
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+  }
+  .fgs-events td { padding: 0.2rem 0.5rem; border-bottom: 1px solid #e5e7eb; vertical-align: middle; }
+  .fgs-events td:first-child { color: var(--color-dark-gray); font-weight: 500; width: 110px; white-space: nowrap; }
+  .fgs-events td:nth-child(2) { width: 170px; }
+
+  /* ── 2-column layout (marriage) ── */
+  .fgs-grid-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; }
+  @media (max-width: 580px) { .fgs-grid-2 { grid-template-columns: 1fr; } }
+
+  /* ── Children table ── */
+  .fgs-children {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.875rem;
+  }
+  .fgs-children th {
+    padding: 0.3rem 0.5rem;
+    font-weight: 700;
+    color: var(--color-navy);
+    border-bottom: 2px solid var(--color-navy);
+    text-align: left;
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+  }
+  .fgs-children td { padding: 0.2rem 0.5rem; border-bottom: 1px solid #e5e7eb; vertical-align: middle; }
+  .fgs-children td:first-child { color: var(--color-gray); width: 2rem; text-align: center; }
+  .fgs-del-btn {
+    background: none; border: none; cursor: pointer;
+    color: #d1d5db; padding: 0; line-height: 1; font-size: 1rem;
+    transition: color 0.15s;
+  }
+  .fgs-del-btn:hover { color: var(--color-red); }
+
+  /* ── Sources textarea ── */
+  .fgs-textarea {
+    width: 100%;
+    border: 1px solid #d1d5db;
+    border-radius: 3px;
+    padding: 0.5rem;
+    font-family: var(--font-body);
+    font-size: 0.875rem;
+    height: 6rem;
+    resize: vertical;
+    color: var(--color-dark-gray);
+    margin-top: 0.25rem;
+  }
+  .fgs-textarea:focus { outline: none; border-color: var(--color-navy); }
+
+  /* ── Footer ── */
+  .fgs-footer {
+    margin-top: 2.5rem;
+    padding-top: 1rem;
+    border-top: 1px solid #e5e7eb;
+    text-align: center;
+    font-size: 0.75rem;
+    color: var(--color-gray);
+  }
+
+  /* ── Print styles ── */
+  @media print {
+    .fgs-toolbar   { display: none !important; }
+    .fgs-del-btn   { display: none !important; }
+    #fgs-add-child { display: none !important; }
+    .fgs-input  { border-bottom: 1px solid #888 !important; }
+    .fgs-textarea  { border: 1px solid #888 !important; }
+    .fgs-section   { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+    .fgs-header    { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  }
+</style>
+
+<div class="fgs-page">
+
+  <!-- Toolbar -->
+  <div class="fgs-toolbar">
+    <span class="fgs-toolbar-note">Fill in the form, then print or save as PDF.</span>
+    <div style="display:flex;gap:0.5rem;">
+      <button class="fgs-btn fgs-btn-ghost" onclick="window.location.reload()">&#8635; Reset Form</button>
+      <button class="fgs-btn fgs-btn-primary" onclick="window.print()">&#128438; Print / Save as PDF</button>
+    </div>
+  </div>
+
+  <!-- Form header (visible on print) -->
+  <div class="fgs-header">
+    <div class="fgs-header-left">
+      <img src="/assets/images/logo-primary.png"
+           alt="Puerto Rican Genealogy Group"
+           style="height:56px;width:auto;">
+      <div class="fgs-header-titles">
+        <h1>Family Group Sheet</h1>
+        <p>Puerto Rican Genealogy Group</p>
+        <a href="https://puertoricangenealogy.org/">puertoricangenealogy.org</a>
+      </div>
+    </div>
+    <div class="fgs-header-right">
+      <div class="fgs-field">
+        <label class="fgs-label">Prepared By</label>
+        <input type="text" class="fgs-input fgs-input-right" style="width:180px;">
+      </div>
+      <div class="fgs-field" style="margin-bottom:0;">
+        <label class="fgs-label">Date</label>
+        <input type="text" id="fgs-date" class="fgs-input fgs-input-right" style="width:180px;">
+      </div>
+    </div>
+  </div>
+
+  <!-- ── Husband / Father ── -->
+  <div class="fgs-section">Husband / Father</div>
+
+  <div class="fgs-field">
+    <label class="fgs-label">Full Name (First, Paternal, Maternal)</label>
+    <input type="text" class="fgs-input fgs-input-lg">
+  </div>
+
+  <table class="fgs-events">
+    <thead>
+      <tr>
+        <th>Event</th>
+        <th>Date</th>
+        <th>Location (Municipality / Barrio)</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td>Birth</td><td><input type="text" class="fgs-input"></td><td><input type="text" class="fgs-input"></td></tr>
+      <tr><td>Christening</td><td><input type="text" class="fgs-input"></td><td><input type="text" class="fgs-input"></td></tr>
+      <tr><td>Death</td><td><input type="text" class="fgs-input"></td><td><input type="text" class="fgs-input"></td></tr>
+      <tr><td>Burial</td><td><input type="text" class="fgs-input"></td><td><input type="text" class="fgs-input"></td></tr>
+    </tbody>
+  </table>
+
+  <div class="fgs-field">
+    <label class="fgs-label">Husband&rsquo;s Father</label>
+    <input type="text" class="fgs-input">
+  </div>
+  <div class="fgs-field">
+    <label class="fgs-label">Husband&rsquo;s Mother (Maiden Name)</label>
+    <input type="text" class="fgs-input">
+  </div>
+
+  <!-- ── Wife / Mother ── -->
+  <div class="fgs-section">Wife / Mother</div>
+
+  <div class="fgs-field">
+    <label class="fgs-label">Maiden Name (First, Paternal, Maternal)</label>
+    <input type="text" class="fgs-input fgs-input-lg">
+  </div>
+
+  <table class="fgs-events">
+    <thead>
+      <tr>
+        <th>Event</th>
+        <th>Date</th>
+        <th>Location (Municipality / Barrio)</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td>Birth</td><td><input type="text" class="fgs-input"></td><td><input type="text" class="fgs-input"></td></tr>
+      <tr><td>Christening</td><td><input type="text" class="fgs-input"></td><td><input type="text" class="fgs-input"></td></tr>
+      <tr><td>Death</td><td><input type="text" class="fgs-input"></td><td><input type="text" class="fgs-input"></td></tr>
+      <tr><td>Burial</td><td><input type="text" class="fgs-input"></td><td><input type="text" class="fgs-input"></td></tr>
+    </tbody>
+  </table>
+
+  <div class="fgs-field">
+    <label class="fgs-label">Wife&rsquo;s Father</label>
+    <input type="text" class="fgs-input">
+  </div>
+  <div class="fgs-field">
+    <label class="fgs-label">Wife&rsquo;s Mother (Maiden Name)</label>
+    <input type="text" class="fgs-input">
+  </div>
+
+  <!-- ── Marriage ── -->
+  <div class="fgs-section">Marriage</div>
+
+  <div class="fgs-grid-2">
+    <div class="fgs-field" style="margin-bottom:0;">
+      <label class="fgs-label">Marriage Date</label>
+      <input type="text" class="fgs-input">
+    </div>
+    <div class="fgs-field" style="margin-bottom:0;">
+      <label class="fgs-label">Marriage Place (Church / Municipality)</label>
+      <input type="text" class="fgs-input">
+    </div>
+  </div>
+
+  <!-- ── Children ── -->
+  <div class="fgs-section">
+    <span>Children</span>
+    <button id="fgs-add-child" class="fgs-btn-sm" onclick="addChild()">+ Add Child</button>
+  </div>
+
+  <table class="fgs-children">
+    <thead>
+      <tr>
+        <th>#</th>
+        <th>Full Name</th>
+        <th style="width:150px;">Birth Date</th>
+        <th>Spouse</th>
+        <th style="width:2rem;"></th>
+      </tr>
+    </thead>
+    <tbody id="fgs-children-body">
+      <tr class="fgs-child-row">
+        <td>1</td>
+        <td><input type="text" class="fgs-input"></td>
+        <td><input type="text" class="fgs-input"></td>
+        <td><input type="text" class="fgs-input"></td>
+        <td><button class="fgs-del-btn" onclick="removeChild(this)" title="Remove">&#10006;</button></td>
+      </tr>
+    </tbody>
+  </table>
+
+  <!-- ── Sources ── -->
+  <div class="fgs-section">Source Citations &amp; Notes</div>
+
+  <label class="fgs-label">Registro Civil / Parish Records / Census / Other</label>
+  <textarea class="fgs-textarea" placeholder="Enter full citations here. Example: Puerto Rico, Registro Civil, Mayagüez, Nacimientos, 1893, entry 47, Juan Rivera Colón, FamilySearch image 12 of 340, accessed 20 Nov 2023."></textarea>
+
+  <!-- ── Footer ── -->
+  <div class="fgs-footer">
+    <p><em>Documenting the history of Puerto Rico, one family at a time.</em></p>
+    <p style="margin-top:0.25rem;">
+      &copy; <span id="fgs-year"></span>
+      <a href="https://puertoricangenealogy.org/">puertoricangenealogy.org</a>
+    </p>
+  </div>
+
+</div><!-- end .fgs-page -->
+
+<script>
+(function () {
+  document.getElementById('fgs-date').value = new Date().toLocaleDateString('en-US');
+  document.getElementById('fgs-year').textContent = new Date().getFullYear();
+
+  window.addChild = function () {
+    var tbody = document.getElementById('fgs-children-body');
+    var n = tbody.querySelectorAll('.fgs-child-row').length + 1;
+    var tr = document.createElement('tr');
+    tr.className = 'fgs-child-row';
+    tr.innerHTML =
+      '<td>' + n + '</td>' +
+      '<td><input type="text" class="fgs-input"></td>' +
+      '<td><input type="text" class="fgs-input"></td>' +
+      '<td><input type="text" class="fgs-input"></td>' +
+      '<td><button class="fgs-del-btn" onclick="removeChild(this)" title="Remove">&#10006;</button></td>';
+    tbody.appendChild(tr);
+  };
+
+  window.removeChild = function (btn) {
+    var row = btn.closest('tr');
+    row.parentNode.removeChild(row);
+    // Renumber
+    var rows = document.querySelectorAll('.fgs-child-row');
+    rows.forEach(function (r, i) { r.cells[0].textContent = i + 1; });
+  };
+})();
+</script>
