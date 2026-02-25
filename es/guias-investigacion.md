@@ -54,6 +54,19 @@ La genealogía puertorriqueña presenta desafíos únicos: documentos en españo
 </div>
 
 <div class="card">
+<h3>Glosario de Español Genealógico</h3>
+<span class="badge badge-available">✓ Disponible</span>
+<p>Términos comunes en español encontrados en registros genealógicos puertorriqueños: registro civil, registros eclesiásticos, censos y documentos notariales.</p>
+<ul>
+  <li><a href="/es/guias-investigacion/glosario-espanol-genealogico/">Ver el Glosario</a></li>
+  <li><a href="/es/guias-investigacion/glosario-espanol-genealogico/#términos-de-registros-vitales">Términos de Registros Vitales</a></li>
+  <li><a href="/es/guias-investigacion/glosario-espanol-genealogico/#términos-de-parentesco">Términos de Parentesco</a></li>
+  <li><a href="/es/guias-investigacion/glosario-espanol-genealogico/#ocupaciones">Ocupaciones</a></li>
+  <li><a href="/assets/pdfs/tools/ES_Glosario_Espanol_Genealogico.pdf" target="_blank">⬇ Descargar como PDF</a></li>
+</ul>
+</div>
+
+<div class="card">
 <h3>Registros Civiles</h3>
 <span class="badge badge-coming-soon">🔜 Próximamente</span>
 <p>Aprende a navegar el sistema de registro civil de Puerto Rico.</p>

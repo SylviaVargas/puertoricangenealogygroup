@@ -84,9 +84,13 @@ Herramientas, plantillas y guías para ayudarte a organizar y documentar tu inve
 
 <div class="card">
 <h3>Glosario de Español Genealógico</h3>
+<span class="badge badge-available">✓ Disponible</span>
 <p>Términos comunes en español encontrados en registros genealógicos puertorriqueños.</p>
 <p><strong>Incluye:</strong> Términos de registros vitales, términos de parentesco, ocupaciones, lugares</p>
-<span class="badge badge-coming-soon">🔜 Próximamente</span>
+<ul>
+<li><a href="/es/guias-investigacion/glosario-espanol-genealogico/">Ver el Glosario</a></li>
+<li><a href="/assets/pdfs/tools/ES_Glosario_Espanol_Genealogico.pdf" target="_blank">⬇ Descargar como PDF</a></li>
+</ul>
 </div>
 
 <div class="card">

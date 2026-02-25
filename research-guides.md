@@ -54,6 +54,19 @@ Puerto Rican genealogy comes with unique challenges — Spanish-language records
 </div>
 
 <div class="card">
+<h3>Genealogical Spanish Glossary</h3>
+<span class="badge badge-available">✓ Available</span>
+<p>Common Spanish terms found in Puerto Rican genealogical records — civil registration, church records, census enumerations, and notarial documents.</p>
+<ul>
+  <li><a href="/research-guides/genealogical-spanish-glossary/">Browse the Glossary</a></li>
+  <li><a href="/research-guides/genealogical-spanish-glossary/#vital-record-terms">Vital Record Terms</a></li>
+  <li><a href="/research-guides/genealogical-spanish-glossary/#relationship-terms">Relationship Terms</a></li>
+  <li><a href="/research-guides/genealogical-spanish-glossary/#occupations">Occupations</a></li>
+  <li><a href="/assets/pdfs/tools/Genealogical_Spanish_Glossary.pdf" target="_blank">⬇ Download as PDF</a></li>
+</ul>
+</div>
+
+<div class="card">
 <h3>Civil Records</h3>
 <span class="badge badge-coming-soon">🔜 Coming Soon</span>
 <p>Learn to navigate Puerto Rico's civil registry system.</p>
