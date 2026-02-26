@@ -57,6 +57,7 @@ Una colección curada de archivos, bases de datos y herramientas para investigar
 | <a href="https://genealogiapr.com/" target="_blank" rel="noopener">Sociedad Puertorriqueña de Genealogía (SPG)</a> | Sociedad genealógica con sede en San Juan, Puerto Rico. La SPG ofrece conferencias mensuales, talleres y visitas culturales. Sus eventos se comparten en su <a href="https://www.facebook.com/groups/spgpuertorico" target="_blank" rel="noopener">grupo de Facebook</a> y su <a href="https://www.youtube.com/@sociedadpr" target="_blank" rel="noopener">canal de YouTube</a>. Los miembros reciben dos ediciones anuales de <em>Hereditas</em>, una revista que publica artículos de investigación genealógica, compilaciones de registros parroquiales y transcripciones de archivos municipales. |
 | <a href="https://groups.io/g/PRGENEALOGY-NW" target="_blank" rel="noopener">Puerto Rican Genealogy Northwest</a> | Lista de correo en Groups.io para investigadores de genealogía puertorriqueña. |
 | <a href="https://www.ngsgenealogy.org/genealogy-courses/" target="_blank" rel="noopener">National Genealogical Society – Cursos de Genealogía</a> | Cursos en línea autodidactas para genealogistas de todos los niveles, que cubren fundamentos de investigación, metodologías avanzadas, estándares de documentación, ADN, registros de tierras y otros temas especializados. |
+| <a href="https://boricorsos.org/conocenos/" target="_blank" rel="noopener noreferrer">Asociación de Corsos de Puerto Rico</a> | Organización dedicada a preservar e investigar la herencia corsa en Puerto Rico. Especialmente útil para investigadores que rastrean ascendencia corsa en el área de Ponce. El grupo ha publicado libros útiles para la investigación de linajes corsos. Ver también: <a href="https://www.facebook.com/groups/411629005851118/" target="_blank" rel="noopener noreferrer">Grupo de Facebook</a>. |
 
 ---
 
@@ -71,6 +72,7 @@ Una colección curada de archivos, bases de datos y herramientas para investigar
 | <a href="https://puertorikin.com/" target="_blank" rel="noopener">Puerto RiKin</a> | Blog de genealogía enfocado en parentesco puertorriqueño y estrategias de investigación. |
 | <a href="https://familylocket.com/" target="_blank" rel="noopener">Family Locket</a> | Blog de Diana Elder (AG®) y Nicole Dyer, un equipo profesional de genealogistas madre e hija. Presenta la metodología "Research Like a Pro", guías de genealogía genética, tutoriales de análisis de registros y herramientas prácticas para organizar y documentar la investigación de historia familiar. |
 | <a href="https://www.hijosdecoamopr.com/" target="_blank" rel="noopener">Hijos de Coamo</a> | Recursos extensos enfocados en Coamo y la investigación genealógica puertorriqueña. |
+| <a href="https://genealogianuestra.com/" target="_blank" rel="noopener noreferrer">Genealogía Nuestra</a> | Blog de Ana Bayala sobre investigación genealógica puertorriqueña, con registros eclesiásticos y censales organizados por municipio. Incluye rutas directas a colecciones de FamilySearch del Caribe y guías prácticas para investigar la ascendencia puertorriqueña. Ver también: <a href="https://genealogianuestra.com/unlocking-church-records-for-mayaguez-new-19th-century-baptismal-transcriptions/" target="_blank" rel="noopener noreferrer"><em>Registros Eclesiásticos de Mayagüez: Nuevas Transcripciones de Bautismo del Siglo XIX</em></a>. |
 | ▶ <a href="https://www.youtube.com/watch?v=9zQCT7bmsUQ" target="_blank" rel="noopener">Getting Started with Puerto Rican Genealogy</a> | Presentación en video por Luis Ariel Rivera — una introducción a la investigación de registros y recursos puertorriqueños. <a href="https://www.youtube.com/watch?v=9zQCT7bmsUQ" class="btn btn-primary" target="_blank" rel="noopener">Ver en YouTube</a> |
 
 ---
@@ -103,6 +105,7 @@ Una colección curada de archivos, bases de datos y herramientas para investigar
 |---------|-------------|
 | <a href="https://www.davidrumsey.com/" target="_blank" rel="noopener">Colección de Mapas David Rumsey</a> | Mapas históricos incluyendo Puerto Rico a través de diferentes períodos. |
 | <a href="https://www.loc.gov/maps/" target="_blank" rel="noopener">Mapas de la Biblioteca del Congreso</a> | Mapas históricos de Puerto Rico de la colección de la Biblioteca del Congreso. |
+| <a href="https://www.pastmaps.com/" target="_blank" rel="noopener noreferrer"><em>PastMaps</em></a> | Superpón mapas históricos de Puerto Rico sobre mapas modernos — útil para localizar barrios históricos, nombres de lugares antiguos y zonas cuyas delimitaciones han cambiado. Nota: el uso gratuito es limitado. |
 
 ---
 

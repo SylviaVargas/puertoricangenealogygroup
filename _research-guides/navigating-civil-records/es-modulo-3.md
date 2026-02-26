@@ -57,8 +57,14 @@ La mayoría de los volúmenes de registro civil incluyen un índice alfabético 
 **Cómo usarlos:**
 
 - Los índices generalmente están organizados alfabéticamente por la **primera letra del primer apellido (paterno)**
-- Cada entrada normalmente da el nombre de la persona y el número de *folio* (página) de su registro
-- Una vez que encuentres el número de *folio*, navega directamente a esa página en el mismo rollo
+- Cada entrada normalmente da el nombre de la persona y un número de *folio*
+- Una vez que encuentres el número de *folio*, navega a esa ubicación en el mismo rollo
+
+> **Una nota sobre los números de *folio*:** El término *folio* no siempre significa "número de página." Según el volumen y el tipo de registro, un *folio* puede referirse a un número de página, un número de hoja (anverso y reverso de una hoja), o un número de entrada secuencial asignado por el registrador. Si vas a la ubicación esperada y no encuentras a tu antepasado, prueba estos pasos:
+
+- Verifica si el índice lista **números de entrada, no de página** — cuenta las entradas en lugar de ir a la página numerada.
+- **Explora las páginas o entradas circundantes.** La foliación puede ser inconsistente por variación del escribano, números omitidos o volúmenes renumerados.
+- Considera el **tipo de registro.** Los volúmenes de registro civil, los registros parroquiales y los registros notariales siguen convenciones de foliación distintas, y la numeración puede reiniciarse entre tipos de registros o años dentro del mismo volumen.
 
 > **Nota de investigación:** Cuando un antepasado no aparece en una búsqueda por nombre, localiza el volumen municipal correspondiente en el catálogo, verifica el *índice* interno y explora las páginas circundantes. Este es el método más confiable para encontrar registros que la indexación no ha capturado.
 

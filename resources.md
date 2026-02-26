@@ -56,6 +56,7 @@ New to Puerto Rican genealogy? These guides will help you plan your research and
 | <a href="https://genealogiapr.com/" target="_blank" rel="noopener">Sociedad Puertorriqueña de Genealogía (SPG)</a> | Genealogy society based in San Juan, Puerto Rico. SPG hosts monthly conferences, workshops, and cultural visits. Events are shared on their <a href="https://www.facebook.com/groups/spgpuertorico" target="_blank" rel="noopener">Facebook group</a> and <a href="https://www.youtube.com/@sociedadpr" target="_blank" rel="noopener">YouTube channel</a>. Members receive two annual editions of <em>Hereditas</em>, a journal featuring genealogical research articles, parish record compilations, and municipal archive transcriptions. |
 | <a href="https://groups.io/g/PRGENEALOGY-NW" target="_blank" rel="noopener">Puerto Rican Genealogy Northwest</a> | Groups.io mailing list for Puerto Rican genealogy researchers. |
 | <a href="https://www.ngsgenealogy.org/genealogy-courses/" target="_blank" rel="noopener">National Genealogical Society – Genealogy Courses</a> | Self-paced online genealogy courses for beginners through advanced researchers, covering research methods, documentation standards, DNA, land records, and specialized topics. |
+| <a href="https://boricorsos.org/conocenos/" target="_blank" rel="noopener noreferrer">Asociación de Corsos de Puerto Rico</a> | Organization dedicated to preserving and researching Corsican heritage in Puerto Rico. Particularly useful for researchers tracing Corsican ancestry in the Ponce area. The group has published books useful for Corsican lineage research. See also: <a href="https://www.facebook.com/groups/411629005851118/" target="_blank" rel="noopener noreferrer">Facebook Group</a>. |
 
 ---
 
@@ -70,6 +71,7 @@ New to Puerto Rican genealogy? These guides will help you plan your research and
 | <a href="https://puertorikin.com/" target="_blank" rel="noopener">Puerto RiKin</a> | Genealogy blog focusing on Puerto Rican kin and research strategies. |
 | <a href="https://familylocket.com/" target="_blank" rel="noopener">Family Locket</a> | Blog by Diana Elder (AG®) and Nicole Dyer, a mother-daughter team of professional genealogists. Features the "Research Like a Pro" methodology, DNA genealogy guides, record analysis tutorials, and practical tools for organizing and documenting family history research. |
 | <a href="https://www.hijosdecoamopr.com/" target="_blank" rel="noopener">Hijos de Coamo</a> | Extensive resources focused on Coamo and Puerto Rican genealogy research. |
+| <a href="https://genealogianuestra.com/" target="_blank" rel="noopener noreferrer">Genealogía Nuestra</a> | Blog by Ana Bayala covering Puerto Rican genealogy research, with church records and census records organized by municipality. Includes direct pathways to FamilySearch Caribbean record sets and practical guides for researching Puerto Rican ancestry. See also: <a href="https://genealogianuestra.com/unlocking-church-records-for-mayaguez-new-19th-century-baptismal-transcriptions/" target="_blank" rel="noopener noreferrer"><em>Unlocking Church Records for Mayaguez: New 19th-Century Baptismal Transcriptions</em></a>. |
 | ▶ <a href="https://www.youtube.com/watch?v=9zQCT7bmsUQ" target="_blank" rel="noopener">Getting Started with Puerto Rican Genealogy</a> | Video presentation by Luis Ariel Rivera — an introduction to researching Puerto Rican records and resources. <a href="https://www.youtube.com/watch?v=9zQCT7bmsUQ" class="btn btn-primary" target="_blank" rel="noopener">Watch on YouTube</a> |
 
 ---
@@ -102,6 +104,7 @@ New to Puerto Rican genealogy? These guides will help you plan your research and
 |----------|-------------|
 | <a href="https://www.davidrumsey.com/" target="_blank" rel="noopener">David Rumsey Map Collection</a> | Historical maps including Puerto Rico through different time periods. |
 | <a href="https://www.loc.gov/maps/" target="_blank" rel="noopener">Library of Congress Maps</a> | Historical maps of Puerto Rico from the Library of Congress collection. |
+| <a href="https://www.pastmaps.com/" target="_blank" rel="noopener noreferrer"><em>PastMaps</em></a> | Overlay historical maps of Puerto Rico onto modern maps — useful for locating historical barrios, older place names, and areas whose boundaries have changed. Note: free usage is limited. |
 
 ---
 

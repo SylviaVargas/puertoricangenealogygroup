@@ -86,7 +86,7 @@ La genealogía puertorriqueña presenta desafíos únicos: documentos en españo
 <p>Descubre la riqueza de información en los registros parroquiales católicos.</p>
 <ul>
   <li><a href="#parroquia">Entendiendo los Registros Parroquiales</a></li>
-  <li><a href="#bautismos">Registros de Bautismo</a></li>
+  <li><a href="#bautismos">Registros de Bautismo</a> · <a href="https://genealogianuestra.com/unlocking-church-records-for-mayaguez-new-19th-century-baptismal-transcriptions/" target="_blank" rel="noopener noreferrer"><em>Nuevas Transcripciones de Bautismo de Mayagüez, Siglo XIX</em></a></li>
   <li><a href="#matrimonios-iglesia">Registros de Matrimonio Eclesiástico</a> · <a href="https://www.familysearch.org/en/search/collection/1807092" target="_blank" rel="noopener">Explorar en FamilySearch</a></li>
   <li><a href="#entierros">Registros de Entierro</a></li>
   <li><a href="https://www.familysearch.org/en/search/collection/1807092" target="_blank" rel="noopener">Explorar: Registros de la Iglesia Católica, 1645–2021</a></li>

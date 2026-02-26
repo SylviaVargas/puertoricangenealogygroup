@@ -86,7 +86,7 @@ Puerto Rican genealogy comes with unique challenges — Spanish-language records
 <p>Discover the wealth of information in Catholic parish records.</p>
 <ul>
   <li><a href="#parish">Understanding Parish Records</a></li>
-  <li><a href="#baptisms">Baptismal Records</a></li>
+  <li><a href="#baptisms">Baptismal Records</a> · <a href="https://genealogianuestra.com/unlocking-church-records-for-mayaguez-new-19th-century-baptismal-transcriptions/" target="_blank" rel="noopener noreferrer"><em>New Mayagüez Baptismal Transcriptions, 19th Century</em></a></li>
   <li><a href="#church-marriages">Marriage Records</a> · <a href="https://www.familysearch.org/en/search/collection/1807092" target="_blank" rel="noopener">Browse on FamilySearch</a></li>
   <li><a href="#burials">Burial Records</a></li>
   <li><a href="https://www.familysearch.org/en/search/collection/1807092" target="_blank" rel="noopener">Browse: Catholic Church Records, 1645–2021</a></li>

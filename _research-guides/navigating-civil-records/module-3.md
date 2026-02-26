@@ -57,8 +57,14 @@ Most civil registration volumes include an internal alphabetical index, called a
 **How to use them:**
 
 - Indices are usually organized alphabetically by the **first letter of the first (paternal) surname**
-- Each entry typically gives the person's name and the *folio* (page) number of their record
-- Once you find the *folio* number, navigate directly to that page in the same film
+- Each entry typically gives the person's name and a *folio* number
+- Once you find the *folio* number, navigate to that location in the same film
+
+> **A note on *folio* numbers:** The term *folio* does not always mean "page number." Depending on the volume and record type, a *folio* may refer to a page number, a leaf number (front and back of a sheet), or a sequential entry number assigned by the registrar. If you go to the expected location and do not find your ancestor, try these steps:
+
+- Check whether the index lists **entry numbers, not page numbers** — count entries rather than turning to the numbered page.
+- **Scan the surrounding pages or entries.** Folio numbering can be inconsistent due to clerical variation, skipped numbers, or volumes that were re-numbered.
+- Consider the **record type.** Civil registration volumes, church parish registers, and notarial records follow different foliation conventions, and numbering may reset between record types or years within the same volume.
 
 > **Research note:** When an ancestor does not appear in a name search, locate the appropriate municipal volume in the catalog, check the internal *índice*, and browse the surrounding pages. This is the most reliable method for finding records that indexing has missed.
 
