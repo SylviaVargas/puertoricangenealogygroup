@@ -73,6 +73,6 @@ In [Module 2 — Anatomy of the Records](/research-guides/navigating-civil-recor
 
 ---
 
-*[← Back to Course Overview](/research-guides/navigating-civil-records/)*
+*[← Back to Course Overview](/research-guides/navigating-civil-records/) · [Module 2 →](/research-guides/navigating-civil-records-module-2/)*
 
 *© 2026 Sylvia Vargas. Teaching Genealogists AI™. All rights reserved.*

@@ -67,15 +67,16 @@ Puerto Rican genealogy comes with unique challenges — Spanish-language records
 </div>
 
 <div class="card">
-<h3>Civil Records</h3>
-<span class="badge badge-coming-soon">🔜 Coming Soon</span>
-<p>Learn to navigate Puerto Rico's civil registry system.</p>
+<h3>Navigating Civil Records</h3>
+<span class="badge badge-available">✓ Full Course Available</span>
+<p>A five-module intermediate course on navigating Puerto Rico's civil registration system (1885–Present). Move from basic name searches to advanced digital browsing, with hands-on practice using original Rincón records.</p>
 <ul>
-  <li><a href="#civil-registry">Civil Registry Overview</a></li>
-  <li><a href="#births">Birth Records (Nacimientos)</a></li>
-  <li><a href="#marriages">Marriage Records (Matrimonios)</a></li>
-  <li><a href="#deaths">Death Records (Defunciones)</a></li>
-  <li><a href="https://www.familysearch.org/en/search/collection/1682798" target="_blank" rel="noopener">Browse: Civil Registration, 1805–2002</a></li>
+  <li><a href="/research-guides/navigating-civil-records/">Course Overview</a></li>
+  <li><a href="/research-guides/navigating-civil-records-module-1/">Module 1 — Foundation of Civil Registration</a></li>
+  <li><a href="/research-guides/navigating-civil-records-module-2/">Module 2 — Anatomy of the Records</a></li>
+  <li><a href="/research-guides/navigating-civil-records-module-3/">Module 3 — Advanced Research Strategies</a></li>
+  <li><a href="/research-guides/navigating-civil-records-module-4/">Module 4 — Transcribing and Deciphering</a></li>
+  <li><a href="/research-guides/navigating-civil-records-module-5/">Module 5 — Modern Access & The Demographic Registry</a></li>
 </ul>
 </div>
 

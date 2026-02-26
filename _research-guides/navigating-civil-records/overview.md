@@ -99,4 +99,4 @@ These records were selected because they illustrate the pre- and post-1898 forma
 
 ---
 
-*Course created by Sylvia Vargas for the Puerto Rican Genealogy Group. © 2026 Sylvia Vargas. Teaching Genealogists AI™. All rights reserved.*
+*© 2026 Sylvia Vargas. Teaching Genealogists AI™. All rights reserved.*

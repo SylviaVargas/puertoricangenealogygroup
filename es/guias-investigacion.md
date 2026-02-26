@@ -67,15 +67,16 @@ La genealogía puertorriqueña presenta desafíos únicos: documentos en españo
 </div>
 
 <div class="card">
-<h3>Registros Civiles</h3>
-<span class="badge badge-coming-soon">🔜 Próximamente</span>
-<p>Aprende a navegar el sistema de registro civil de Puerto Rico.</p>
+<h3>Navegando los Registros Civiles</h3>
+<span class="badge badge-available">✓ Curso Completo Disponible</span>
+<p>Un curso intermedio de cinco módulos sobre cómo navegar el sistema de registro civil de Puerto Rico (1885–Presente). Aprende a leer, encontrar y obtener copias certificadas de registros civiles, con práctica usando documentos originales de Rincón.</p>
 <ul>
-  <li><a href="#registro-civil">Resumen del Registro Civil</a></li>
-  <li><a href="#nacimientos">Actas de Nacimiento</a></li>
-  <li><a href="#matrimonios">Actas de Matrimonio</a></li>
-  <li><a href="#defunciones">Actas de Defunción</a></li>
-  <li><a href="https://www.familysearch.org/en/search/collection/1682798" target="_blank" rel="noopener">Explorar: Registro Civil, 1805–2002</a></li>
+  <li><a href="/es/guias-investigacion/navegar-registros-civiles/">Resumen del Curso</a></li>
+  <li><a href="/es/guias-investigacion/navegar-registros-civiles-modulo-1/">Módulo 1 — La Base del Registro Civil</a></li>
+  <li><a href="/es/guias-investigacion/navegar-registros-civiles-modulo-2/">Módulo 2 — Anatomía de los Registros</a></li>
+  <li><a href="/es/guias-investigacion/navegar-registros-civiles-modulo-3/">Módulo 3 — Estrategias Avanzadas de Investigación</a></li>
+  <li><a href="/es/guias-investigacion/navegar-registros-civiles-modulo-4/">Módulo 4 — Transcripción e Interpretación</a></li>
+  <li><a href="/es/guias-investigacion/navegar-registros-civiles-modulo-5/">Módulo 5 — Acceso Moderno y el Registro Demográfico</a></li>
 </ul>
 </div>
 
