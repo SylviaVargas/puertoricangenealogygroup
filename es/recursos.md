@@ -34,6 +34,7 @@ Una colección curada de archivos, bases de datos y herramientas para investigar
 | <a href="https://www.icp.pr.gov/archivo-general/" target="_blank" rel="noopener">Archivo General de Puerto Rico</a> | El repositorio oficial de registros históricos puertorriqueños, incluyendo documentos coloniales, registros censales y archivos gubernamentales. |
 | <a href="https://www.salud.pr.gov/CMS/18" target="_blank" rel="noopener">Registro Demográfico de Puerto Rico</a> | Oficina de registros vitales de Puerto Rico para certificados de nacimiento, matrimonio y defunción (1885-presente). |
 | <a href="https://www.archives.gov/" target="_blank" rel="noopener">Archivos Nacionales de EE.UU. (NARA)</a> | Registros federales relacionados con Puerto Rico, incluyendo registros censales, militares y expedientes de naturalización. |
+| <a href="https://www.legacytree.com/blog/important-puerto-rican-genealogy-archives" target="_blank" rel="noopener noreferrer"><em>Legacy Tree Genealogists: Know Before You Go — Visiting Two Important Puerto Rican Genealogy Archives</em></a> | Orientación práctica para investigadores que planifican una visita presencial a los principales archivos genealógicos de Puerto Rico. Escrito por Luis Ariel Rivera para Legacy Tree Genealogists. (En inglés.) |
 
 ---
 
