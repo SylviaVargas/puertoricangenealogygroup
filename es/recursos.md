@@ -19,11 +19,11 @@ Una colección curada de archivos, bases de datos y herramientas para investigar
 
 | Recurso | Descripción |
 |---------|-------------|
-| <a href="https://libguides.nypl.org/puertoricogenealogy/atnypl" target="_blank" rel="noopener">Biblioteca Pública de Nueva York: Guía de Genealogía Puertorriqueña</a> | Una guía de investigación en línea con puntos de partida, tipos de registros y enlaces a recursos adicionales. Incluye estrategia de investigación, conjuntos de registros clave y contexto histórico. Excelente para principiantes. |
-| <a href="https://guides.loc.gov/puerto-rico-local-history-genealogy" target="_blank" rel="noopener">Biblioteca del Congreso: Genealogía e Historia Local de Puerto Rico</a> | Una guía amplia de investigación con acceso a registros vitales, mapas históricos y listados de catálogo. Excelente para planificar investigación de registros vitales y judiciales. |
-| <a href="https://www.familysearch.org/en/wiki/Puerto_Rico_Genealogy" target="_blank" rel="noopener">FamilySearch: Wiki de Genealogía de Puerto Rico</a> | Guía de investigación gratuita y estructurada sobre registros civiles, parroquiales y censales específicos de Puerto Rico. Explica qué registros existen y cómo utilizarlos. |
-| <a href="https://boricuagenes.com/getting-started/" target="_blank" rel="noopener">BoricuaGenes: Primeros Pasos</a> | 10 consejos prácticos para comenzar tu viaje genealógico con raíces puertorriqueñas. |
-| <a href="https://latinogenealogyandbeyond.com/puerto-rico-link-list/" target="_blank" rel="noopener">Latino Genealogy & Beyond: Colección de Enlaces de Puerto Rico</a> | Una lista curada de enlaces externos y recursos de aprendizaje útiles para la investigación caribeña y puertorriqueña. |
+| <a href="https://libguides.nypl.org/puertoricogenealogy/atnypl" target="_blank" rel="noopener noreferrer"><em>Biblioteca Pública de Nueva York: Guía de Genealogía Puertorriqueña</em></a> | Una guía de investigación en línea con puntos de partida, tipos de registros y enlaces a recursos adicionales. Incluye estrategia de investigación, conjuntos de registros clave y contexto histórico. Excelente para principiantes. |
+| <a href="https://guides.loc.gov/puerto-rico-local-history-genealogy" target="_blank" rel="noopener noreferrer"><em>Biblioteca del Congreso: Genealogía e Historia Local de Puerto Rico</em></a> | Una guía amplia de investigación con acceso a registros vitales, mapas históricos y listados de catálogo. Excelente para planificar investigación de registros vitales y judiciales. |
+| <a href="https://www.familysearch.org/en/wiki/Puerto_Rico_Genealogy" target="_blank" rel="noopener noreferrer"><em>FamilySearch: Wiki de Genealogía de Puerto Rico</em></a> | Guía de investigación gratuita y estructurada sobre registros civiles, parroquiales y censales específicos de Puerto Rico. Explica qué registros existen y cómo utilizarlos. |
+| <a href="https://boricuagenes.com/getting-started/" target="_blank" rel="noopener noreferrer"><em>BoricuaGenes: Primeros Pasos</em></a> | 10 consejos prácticos para comenzar tu viaje genealógico con raíces puertorriqueñas. |
+| <a href="https://latinogenealogyandbeyond.com/puerto-rico-link-list/" target="_blank" rel="noopener noreferrer"><em>Latino Genealogy & Beyond: Colección de Enlaces de Puerto Rico</em></a> | Una lista curada de enlaces externos y recursos de aprendizaje útiles para la investigación caribeña y puertorriqueña. |
 
 ---
 
@@ -31,9 +31,9 @@ Una colección curada de archivos, bases de datos y herramientas para investigar
 
 | Recurso | Descripción |
 |---------|-------------|
-| <a href="https://www.icp.pr.gov/archivo-general/" target="_blank" rel="noopener">Archivo General de Puerto Rico</a> | El repositorio oficial de registros históricos puertorriqueños, incluyendo documentos coloniales, registros censales y archivos gubernamentales. |
-| <a href="https://www.salud.pr.gov/CMS/18" target="_blank" rel="noopener">Registro Demográfico de Puerto Rico</a> | Oficina de registros vitales de Puerto Rico para certificados de nacimiento, matrimonio y defunción (1885-presente). |
-| <a href="https://www.archives.gov/" target="_blank" rel="noopener">Archivos Nacionales de EE.UU. (NARA)</a> | Registros federales relacionados con Puerto Rico, incluyendo registros censales, militares y expedientes de naturalización. |
+| <a href="https://www.icp.pr.gov/archivo-general/" target="_blank" rel="noopener noreferrer"><em>Archivo General de Puerto Rico</em></a> | El repositorio oficial de registros históricos puertorriqueños, incluyendo documentos coloniales, registros censales y archivos gubernamentales. |
+| <a href="https://www.salud.pr.gov/CMS/18" target="_blank" rel="noopener noreferrer"><em>Registro Demográfico de Puerto Rico</em></a> | Oficina de registros vitales de Puerto Rico para certificados de nacimiento, matrimonio y defunción (1885-presente). |
+| <a href="https://www.archives.gov/" target="_blank" rel="noopener noreferrer"><em>Archivos Nacionales de EE.UU. (NARA)</em></a> | Registros federales relacionados con Puerto Rico, incluyendo registros censales, militares y expedientes de naturalización. |
 | <a href="https://www.legacytree.com/blog/important-puerto-rican-genealogy-archives" target="_blank" rel="noopener noreferrer"><em>Legacy Tree Genealogists: Know Before You Go — Visiting Two Important Puerto Rican Genealogy Archives</em></a> | Orientación práctica para investigadores que planifican una visita presencial a los principales archivos genealógicos de Puerto Rico. Escrito por Luis Ariel Rivera para Legacy Tree Genealogists. (En inglés.) |
 
 ---
@@ -42,9 +42,9 @@ Una colección curada de archivos, bases de datos y herramientas para investigar
 
 | Recurso | Descripción |
 |---------|-------------|
-| <a href="https://www.upr.edu/biblioteca-rrp/" target="_blank" rel="noopener">Biblioteca Digital Puertorriqueña</a> | Biblioteca digital de la Universidad de Puerto Rico con documentos históricos, fotografías y publicaciones. |
-| <a href="https://www.familysearch.org/search/collection/location/1927073" target="_blank" rel="noopener">FamilySearch - Colecciones de Puerto Rico</a> | Acceso gratuito a registros eclesiásticos digitalizados, registro civil y otros registros vitales de Puerto Rico. |
-| <a href="https://www.familysearch.org/en/wiki/Puerto_Rico_Genealogy" target="_blank" rel="noopener">Family Search - Puerto Rico</a> | Acceso por sin suscripción a registros puertorriqueños incluyendo censos, registros vitales y documentos de inmigración. |
+| <a href="https://www.upr.edu/biblioteca-rrp/" target="_blank" rel="noopener noreferrer"><em>Biblioteca Digital Puertorriqueña</em></a> | Biblioteca digital de la Universidad de Puerto Rico con documentos históricos, fotografías y publicaciones. |
+| <a href="https://www.familysearch.org/search/collection/location/1927073" target="_blank" rel="noopener noreferrer"><em>FamilySearch - Colecciones de Puerto Rico</em></a> | Acceso gratuito a registros eclesiásticos digitalizados, registro civil y otros registros vitales de Puerto Rico. |
+| <a href="https://www.familysearch.org/en/wiki/Puerto_Rico_Genealogy" target="_blank" rel="noopener noreferrer"><em>Family Search - Puerto Rico</em></a> | Acceso por sin suscripción a registros puertorriqueños incluyendo censos, registros vitales y documentos de inmigración. |
 
 ---
 
@@ -54,10 +54,10 @@ Una colección curada de archivos, bases de datos y herramientas para investigar
 
 | Recurso | Descripción |
 |---------|-------------|
-| <a href="https://genealogiapr.com/" target="_blank" rel="noopener">Sociedad Puertorriqueña de Genealogía (SPG)</a> | Sociedad genealógica con sede en San Juan, Puerto Rico. La SPG ofrece conferencias mensuales, talleres y visitas culturales. Sus eventos se comparten en su <a href="https://www.facebook.com/groups/spgpuertorico" target="_blank" rel="noopener">grupo de Facebook</a> y su <a href="https://www.youtube.com/@sociedadpr" target="_blank" rel="noopener">canal de YouTube</a>. Los miembros reciben dos ediciones anuales de <em>Hereditas</em>, una revista que publica artículos de investigación genealógica, compilaciones de registros parroquiales y transcripciones de archivos municipales. |
-| <a href="https://groups.io/g/PRGENEALOGY-NW" target="_blank" rel="noopener">Puerto Rican Genealogy Northwest</a> | Lista de correo en Groups.io para investigadores de genealogía puertorriqueña. |
-| <a href="https://www.ngsgenealogy.org/genealogy-courses/" target="_blank" rel="noopener">National Genealogical Society – Cursos de Genealogía</a> | Cursos en línea autodidactas para genealogistas de todos los niveles, que cubren fundamentos de investigación, metodologías avanzadas, estándares de documentación, ADN, registros de tierras y otros temas especializados. |
-| <a href="https://boricorsos.org/conocenos/" target="_blank" rel="noopener noreferrer">Asociación de Corsos de Puerto Rico</a> | Organización dedicada a preservar e investigar la herencia corsa en Puerto Rico. Especialmente útil para investigadores que rastrean ascendencia corsa en el área de Ponce. El grupo ha publicado libros útiles para la investigación de linajes corsos. Ver también: <a href="https://www.facebook.com/groups/411629005851118/" target="_blank" rel="noopener noreferrer">Grupo de Facebook</a>. |
+| <a href="https://genealogiapr.com/" target="_blank" rel="noopener noreferrer"><em>Sociedad Puertorriqueña de Genealogía (SPG)</em></a> | Sociedad genealógica con sede en San Juan, Puerto Rico. La SPG ofrece conferencias mensuales, talleres y visitas culturales. Sus eventos se comparten en su <a href="https://www.facebook.com/groups/spgpuertorico" target="_blank" rel="noopener noreferrer"><em>grupo de Facebook</em></a> y su <a href="https://www.youtube.com/@sociedadpr" target="_blank" rel="noopener noreferrer"><em>canal de YouTube</em></a>. Los miembros reciben dos ediciones anuales de <em>Hereditas</em>, una revista que publica artículos de investigación genealógica, compilaciones de registros parroquiales y transcripciones de archivos municipales. |
+| <a href="https://groups.io/g/PRGENEALOGY-NW" target="_blank" rel="noopener noreferrer"><em>Puerto Rican Genealogy Northwest</em></a> | Lista de correo en Groups.io para investigadores de genealogía puertorriqueña. |
+| <a href="https://www.ngsgenealogy.org/genealogy-courses/" target="_blank" rel="noopener noreferrer"><em>National Genealogical Society – Cursos de Genealogía</em></a> | Cursos en línea autodidactas para genealogistas de todos los niveles, que cubren fundamentos de investigación, metodologías avanzadas, estándares de documentación, ADN, registros de tierras y otros temas especializados. |
+| <a href="https://boricorsos.org/conocenos/" target="_blank" rel="noopener noreferrer"><em>Asociación de Corsos de Puerto Rico</em></a> | Organización dedicada a preservar e investigar la herencia corsa en Puerto Rico. Especialmente útil para investigadores que rastrean ascendencia corsa en el área de Ponce. El grupo ha publicado libros útiles para la investigación de linajes corsos. Ver también: <a href="https://www.facebook.com/groups/411629005851118/" target="_blank" rel="noopener noreferrer"><em>Grupo de Facebook</em></a>. |
 
 ---
 
@@ -65,15 +65,15 @@ Una colección curada de archivos, bases de datos y herramientas para investigar
 
 | Recurso | Descripción |
 |---------|-------------|
-| <a href="https://looking4myroots.com" target="_blank" rel="noopener">Looking4MyRoots</a> | Nuestro blog complementario con consejos de investigación, estudios de casos y artículos de genealogía puertorriqueña. |
-| <a href="https://boricuagenes.com/" target="_blank" rel="noopener">BoricuaGenes Blog</a> | Blog de Luis Rivera que documenta la genealogía puertorriqueña y la investigación de ascendencia genética, explorando raíces taínas, africanas y españolas con guías prácticas y recursos de registros parroquiales. Ver también: <a href="https://boricuagenes.com/getting-started/" target="_blank" rel="noopener">Primeros Pasos</a>. |
-| <a href="https://genus-meridiem-pr.blogspot.com/" target="_blank" rel="noopener">Genealogías e Historia del Suroeste de Puerto Rico</a> | Blog de César A. Zapata Lozada dedicado a la investigación genealógica e historia local del suroeste de Puerto Rico, presentando registros parroquiales, documentos coloniales y linajes familiares de pueblos como San Germán, Cabo Rojo y Lajas. |
-| <a href="https://latinogenealogyandbeyond.com/" target="_blank" rel="noopener">Latino Genealogy and Beyond</a> | Blog de la Dra. Ellen Fernandez-Sacco que explora la genealogía caribeña con énfasis en Puerto Rico y la diáspora, integrando investigación de ascendencia africana, indígena y colonial con narrativas históricas más amplias. Ver también: <a href="https://latinogenealogyandbeyond.com/puerto-rico-link-list/" target="_blank" rel="noopener">Colección de Enlaces de Puerto Rico</a>. |
-| <a href="https://puertorikin.com/" target="_blank" rel="noopener">Puerto RiKin</a> | Blog de genealogía enfocado en parentesco puertorriqueño y estrategias de investigación. |
-| <a href="https://familylocket.com/" target="_blank" rel="noopener">Family Locket</a> | Blog de Diana Elder (AG®) y Nicole Dyer, un equipo profesional de genealogistas madre e hija. Presenta la metodología "Research Like a Pro", guías de genealogía genética, tutoriales de análisis de registros y herramientas prácticas para organizar y documentar la investigación de historia familiar. |
-| <a href="https://www.hijosdecoamopr.com/" target="_blank" rel="noopener">Hijos de Coamo</a> | Recursos extensos enfocados en Coamo y la investigación genealógica puertorriqueña. |
-| <a href="https://genealogianuestra.com/" target="_blank" rel="noopener noreferrer">Genealogía Nuestra</a> | Blog de Ana Bayala sobre investigación genealógica puertorriqueña, con registros eclesiásticos y censales organizados por municipio. Incluye rutas directas a colecciones de FamilySearch del Caribe y guías prácticas para investigar la ascendencia puertorriqueña. Ver también: <a href="https://genealogianuestra.com/unlocking-church-records-for-mayaguez-new-19th-century-baptismal-transcriptions/" target="_blank" rel="noopener noreferrer"><em>Registros Eclesiásticos de Mayagüez: Nuevas Transcripciones de Bautismo del Siglo XIX</em></a>. |
-| ▶ <a href="https://www.youtube.com/watch?v=9zQCT7bmsUQ" target="_blank" rel="noopener">Getting Started with Puerto Rican Genealogy</a> | Presentación en video por Luis Ariel Rivera — una introducción a la investigación de registros y recursos puertorriqueños. <a href="https://www.youtube.com/watch?v=9zQCT7bmsUQ" class="btn btn-primary" target="_blank" rel="noopener">Ver en YouTube</a> |
+| <a href="https://looking4myroots.com" target="_blank" rel="noopener noreferrer"><em>Looking4MyRoots</em></a> | Nuestro blog complementario con consejos de investigación, estudios de casos y artículos de genealogía puertorriqueña. |
+| <a href="https://boricuagenes.com/" target="_blank" rel="noopener noreferrer"><em>BoricuaGenes Blog</em></a> | Blog de Luis Rivera que documenta la genealogía puertorriqueña y la investigación de ascendencia genética, explorando raíces taínas, africanas y españolas con guías prácticas y recursos de registros parroquiales. Ver también: <a href="https://boricuagenes.com/getting-started/" target="_blank" rel="noopener noreferrer"><em>Primeros Pasos</em></a>. |
+| <a href="https://genus-meridiem-pr.blogspot.com/" target="_blank" rel="noopener noreferrer"><em>Genealogías e Historia del Suroeste de Puerto Rico</em></a> | Blog de César A. Zapata Lozada dedicado a la investigación genealógica e historia local del suroeste de Puerto Rico, presentando registros parroquiales, documentos coloniales y linajes familiares de pueblos como San Germán, Cabo Rojo y Lajas. |
+| <a href="https://latinogenealogyandbeyond.com/" target="_blank" rel="noopener noreferrer"><em>Latino Genealogy and Beyond</em></a> | Blog de la Dra. Ellen Fernandez-Sacco que explora la genealogía caribeña con énfasis en Puerto Rico y la diáspora, integrando investigación de ascendencia africana, indígena y colonial con narrativas históricas más amplias. Ver también: <a href="https://latinogenealogyandbeyond.com/puerto-rico-link-list/" target="_blank" rel="noopener noreferrer"><em>Colección de Enlaces de Puerto Rico</em></a>. |
+| <a href="https://puertorikin.com/" target="_blank" rel="noopener noreferrer"><em>Puerto RiKin</em></a> | Blog de genealogía enfocado en parentesco puertorriqueño y estrategias de investigación. |
+| <a href="https://familylocket.com/" target="_blank" rel="noopener noreferrer"><em>Family Locket</em></a> | Blog de Diana Elder (AG®) y Nicole Dyer, un equipo profesional de genealogistas madre e hija. Presenta la metodología "Research Like a Pro", guías de genealogía genética, tutoriales de análisis de registros y herramientas prácticas para organizar y documentar la investigación de historia familiar. |
+| <a href="https://www.hijosdecoamopr.com/" target="_blank" rel="noopener noreferrer"><em>Hijos de Coamo</em></a> | Recursos extensos enfocados en Coamo y la investigación genealógica puertorriqueña. |
+| <a href="https://genealogianuestra.com/" target="_blank" rel="noopener noreferrer"><em>Genealogía Nuestra</em></a> | Blog de Ana Bayala sobre investigación genealógica puertorriqueña, con registros eclesiásticos y censales organizados por municipio. Incluye rutas directas a colecciones de FamilySearch del Caribe y guías prácticas para investigar la ascendencia puertorriqueña. Ver también: <a href="https://genealogianuestra.com/unlocking-church-records-for-mayaguez-new-19th-century-baptismal-transcriptions/" target="_blank" rel="noopener noreferrer"><em>Registros Eclesiásticos de Mayagüez: Nuevas Transcripciones de Bautismo del Siglo XIX</em></a>. |
+| ▶ <a href="https://www.youtube.com/watch?v=9zQCT7bmsUQ" target="_blank" rel="noopener noreferrer"><em>Getting Started with Puerto Rican Genealogy</em></a> | Presentación en video por Luis Ariel Rivera — una introducción a la investigación de registros y recursos puertorriqueños. <a href="https://www.youtube.com/watch?v=9zQCT7bmsUQ" class="btn btn-primary" target="_blank" rel="noopener noreferrer">Ver en YouTube</a> |
 
 ---
 
@@ -81,10 +81,10 @@ Una colección curada de archivos, bases de datos y herramientas para investigar
 
 | Recurso | Descripción |
 |---------|-------------|
-| <a href="https://www.ancestry.com/dna/" target="_blank" rel="noopener">AncestryDNA</a> | Pruebas de ADN con la base de datos más grande para encontrar parientes. |
-| <a href="https://www.23andme.com/" target="_blank" rel="noopener">23andMe</a> | Pruebas de ADN con informes de salud y composición de ascendencia. |
-| <a href="https://www.familytreedna.com/" target="_blank" rel="noopener">Family Tree DNA</a> | Pruebas de ADN especializadas incluyendo Y-DNA y mtDNA para ascendencia profunda. |
-| <a href="https://www.gedmatch.com/" target="_blank" rel="noopener">GEDmatch</a> | Herramientas gratuitas para comparar resultados de ADN entre diferentes compañías. |
+| <a href="https://www.ancestry.com/dna/" target="_blank" rel="noopener noreferrer"><em>AncestryDNA</em></a> | Pruebas de ADN con la base de datos más grande para encontrar parientes. |
+| <a href="https://www.23andme.com/" target="_blank" rel="noopener noreferrer"><em>23andMe</em></a> | Pruebas de ADN con informes de salud y composición de ascendencia. |
+| <a href="https://www.familytreedna.com/" target="_blank" rel="noopener noreferrer"><em>Family Tree DNA</em></a> | Pruebas de ADN especializadas incluyendo Y-DNA y mtDNA para ascendencia profunda. |
+| <a href="https://www.gedmatch.com/" target="_blank" rel="noopener noreferrer"><em>GEDmatch</em></a> | Herramientas gratuitas para comparar resultados de ADN entre diferentes compañías. |
 
 
 ---
@@ -93,9 +93,9 @@ Una colección curada de archivos, bases de datos y herramientas para investigar
 
 | Recurso | Descripción |
 |---------|-------------|
-| <a href="https://www.wikitree.com/" target="_blank" rel="noopener">WikiTree</a> | Árbol genealógico colaborativo gratuito con proyectos de ascendencia puertorriqueña. |
-| <a href="https://www.geni.com/" target="_blank" rel="noopener">Geni</a> | Proyecto del Árbol Familiar Mundial para conectar con parientes lejanos. |
-| <a href="https://stevemorse.org/" target="_blank" rel="noopener">Herramientas One-Step de Stephen P. Morse</a> | Herramientas de búsqueda y utilidades para investigación genealógica. |
+| <a href="https://www.wikitree.com/" target="_blank" rel="noopener noreferrer"><em>WikiTree</em></a> | Árbol genealógico colaborativo gratuito con proyectos de ascendencia puertorriqueña. |
+| <a href="https://www.geni.com/" target="_blank" rel="noopener noreferrer"><em>Geni</em></a> | Proyecto del Árbol Familiar Mundial para conectar con parientes lejanos. |
+| <a href="https://stevemorse.org/" target="_blank" rel="noopener noreferrer"><em>Herramientas One-Step de Stephen P. Morse</em></a> | Herramientas de búsqueda y utilidades para investigación genealógica. |
 
 ---
 
@@ -103,8 +103,8 @@ Una colección curada de archivos, bases de datos y herramientas para investigar
 
 | Recurso | Descripción |
 |---------|-------------|
-| <a href="https://www.davidrumsey.com/" target="_blank" rel="noopener">Colección de Mapas David Rumsey</a> | Mapas históricos incluyendo Puerto Rico a través de diferentes períodos. |
-| <a href="https://www.loc.gov/maps/" target="_blank" rel="noopener">Mapas de la Biblioteca del Congreso</a> | Mapas históricos de Puerto Rico de la colección de la Biblioteca del Congreso. |
+| <a href="https://www.davidrumsey.com/" target="_blank" rel="noopener noreferrer"><em>Colección de Mapas David Rumsey</em></a> | Mapas históricos incluyendo Puerto Rico a través de diferentes períodos. |
+| <a href="https://www.loc.gov/maps/" target="_blank" rel="noopener noreferrer"><em>Mapas de la Biblioteca del Congreso</em></a> | Mapas históricos de Puerto Rico de la colección de la Biblioteca del Congreso. |
 | <a href="https://www.pastmaps.com/" target="_blank" rel="noopener noreferrer"><em>PastMaps</em></a> | Superpón mapas históricos de Puerto Rico sobre mapas modernos — útil para localizar barrios históricos, nombres de lugares antiguos y zonas cuyas delimitaciones han cambiado. Nota: el uso gratuito es limitado. |
 
 ---

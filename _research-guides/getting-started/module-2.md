@@ -10,7 +10,7 @@ last_modified_at: 2026-02-18
 ---
 
 *Part of the [Getting Started in Genealogy](/research-guides/getting-started/) free beginner course.*
-[⬇ Download this module as PDF](/assets/pdfs/getting-started/Module_2_Talk_to_Living_Relatives.pdf){:target="_blank"}
+<a href="/assets/pdfs/getting-started/Module_2_Talk_to_Living_Relatives.pdf" target="_blank" rel="noopener noreferrer">⬇ Download this module as PDF</a>
 
 ---
 

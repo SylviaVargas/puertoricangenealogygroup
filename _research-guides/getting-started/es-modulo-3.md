@@ -10,7 +10,7 @@ last_modified_at: 2026-02-18
 ---
 
 *Parte del curso gratuito [Empezando en Genealogía](/es/guias-investigacion/empezar/).*
-[⬇ Descargar este módulo en PDF](/assets/pdfs/getting-started/ES_Modulo_3_Reune_Documentos_Basicos.pdf){:target="_blank"}
+<a href="/assets/pdfs/getting-started/ES_Modulo_3_Reune_Documentos_Basicos.pdf" target="_blank" rel="noopener noreferrer">⬇ Descargar este módulo en PDF</a>
 
 ---
 

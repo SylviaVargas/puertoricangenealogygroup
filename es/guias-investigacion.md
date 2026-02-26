@@ -87,9 +87,9 @@ La genealogía puertorriqueña presenta desafíos únicos: documentos en españo
 <ul>
   <li><a href="#parroquia">Entendiendo los Registros Parroquiales</a></li>
   <li><a href="#bautismos">Registros de Bautismo</a> · <a href="https://genealogianuestra.com/unlocking-church-records-for-mayaguez-new-19th-century-baptismal-transcriptions/" target="_blank" rel="noopener noreferrer"><em>Nuevas Transcripciones de Bautismo de Mayagüez, Siglo XIX</em></a></li>
-  <li><a href="#matrimonios-iglesia">Registros de Matrimonio Eclesiástico</a> · <a href="https://www.familysearch.org/en/search/collection/1807092" target="_blank" rel="noopener">Explorar en FamilySearch</a></li>
+  <li><a href="#matrimonios-iglesia">Registros de Matrimonio Eclesiástico</a> · <a href="https://www.familysearch.org/en/search/collection/1807092" target="_blank" rel="noopener noreferrer"><em>Explorar en FamilySearch</em></a></li>
   <li><a href="#entierros">Registros de Entierro</a></li>
-  <li><a href="https://www.familysearch.org/en/search/collection/1807092" target="_blank" rel="noopener">Explorar: Registros de la Iglesia Católica, 1645–2021</a></li>
+  <li><a href="https://www.familysearch.org/en/search/collection/1807092" target="_blank" rel="noopener noreferrer"><em>Explorar: Registros de la Iglesia Católica, 1645–2021</em></a></li>
 </ul>
 </div>
 
@@ -112,7 +112,7 @@ La genealogía puertorriqueña presenta desafíos únicos: documentos en españo
 
 ▶ **Getting Started with Puerto Rican Genealogy** — Una introducción a la investigación de registros y recursos puertorriqueños, presentado por Luis Ariel Rivera.
 
-<a href="https://www.youtube.com/watch?v=9zQCT7bmsUQ" class="btn btn-primary" target="_blank" rel="noopener">Ver en YouTube</a>
+<a href="https://www.youtube.com/watch?v=9zQCT7bmsUQ" class="btn btn-primary" target="_blank" rel="noopener noreferrer">Ver en YouTube</a>
 
 ---
 
@@ -164,8 +164,8 @@ Las convenciones de nombres puertorriqueños siguen la tradición española:
 
 | Tipo de Registro | Período | Dónde Encontrar |
 |------------------|---------|-----------------|
-| Registros Eclesiásticos | 1645-presente | Archivos parroquiales, <a href="https://www.familysearch.org/en/search/collection/1807092" target="_blank" rel="noopener">FamilySearch (191,500+ imágenes)</a> |
-| Registro Civil | 1805-presente | Registro Demográfico, oficinas locales, <a href="https://www.familysearch.org/en/search/collection/1682798" target="_blank" rel="noopener">FamilySearch (4.5M+ imágenes)</a> |
+| Registros Eclesiásticos | 1645-presente | Archivos parroquiales, <a href="https://www.familysearch.org/en/search/collection/1807092" target="_blank" rel="noopener noreferrer"><em>FamilySearch (191,500+ imágenes)</em></a> |
+| Registro Civil | 1805-presente | Registro Demográfico, oficinas locales, <a href="https://www.familysearch.org/en/search/collection/1682798" target="_blank" rel="noopener noreferrer"><em>FamilySearch (4.5M+ imágenes)</em></a> |
 | Censo Español | 1765-1897 | Archivo General de Puerto Rico |
 | Censo de EE.UU. | 1910-1950 | NARA, Ancestry, FamilySearch |
 | Registros Militares | Varios | NARA, archivos españoles |
@@ -189,20 +189,20 @@ Las convenciones de nombres puertorriqueños siguen la tradición española:
 
 | Módulo | Contenido | PDF |
 |--------|-----------|-----|
-| [Módulo 1 — Comienza Contigo Mismo](/es/guias-investigacion/modulo-1/) | Las cinco preguntas clave, convenciones de nombres puertorriqueños — incluyendo estructuras familiares no tradicionales | [⬇ PDF](/assets/pdfs/getting-started/ES_Modulo_1_Comienza_Contigo_Mismo.pdf){:target="_blank"} |
-| [Módulo 2 — Habla con Parientes Vivos](/es/guias-investigacion/modulo-2/) | Preparar entrevistas, banco de preguntas, migración, identificar familiares y hogares extendidos que puedan tener documentos y fotos | [⬇ PDF](/assets/pdfs/getting-started/ES_Modulo_2_Habla_con_Parientes_Vivos.pdf){:target="_blank"} |
-| [Módulo 3 — Reúne Documentos Básicos](/es/guias-investigacion/modulo-3/) | Registros civiles y eclesiásticos, FamilySearch, documentos familiares (fotos, libretas, esquelas), glosario en español | [⬇ PDF](/assets/pdfs/getting-started/ES_Modulo_3_Reune_Documentos_Basicos.pdf){:target="_blank"} |
-| [Módulo 4 — Lleva un Registro de Investigación](/es/guias-investigacion/modulo-4/) | Formato del registro, evidencia negativa, cómo evaluar árboles genealógicos en línea, Google Sheets | [⬇ PDF](/assets/pdfs/getting-started/ES_Modulo_4_Lleva_un_Registro_de_Investigacion.pdf){:target="_blank"} |
-| [Tarjeta de Referencia Rápida](/assets/pdfs/getting-started/ES_Tarjeta_de_Referencia_Rapida.pdf){:target="_blank"} | Resumen imprimible de una página | [⬇ PDF](/assets/pdfs/getting-started/ES_Tarjeta_de_Referencia_Rapida.pdf){:target="_blank"} |
+| [Módulo 1 — Comienza Contigo Mismo](/es/guias-investigacion/modulo-1/) | Las cinco preguntas clave, convenciones de nombres puertorriqueños — incluyendo estructuras familiares no tradicionales | <a href="/assets/pdfs/getting-started/ES_Modulo_1_Comienza_Contigo_Mismo.pdf" target="_blank" rel="noopener noreferrer">⬇ PDF</a> |
+| [Módulo 2 — Habla con Parientes Vivos](/es/guias-investigacion/modulo-2/) | Preparar entrevistas, banco de preguntas, migración, identificar familiares y hogares extendidos que puedan tener documentos y fotos | <a href="/assets/pdfs/getting-started/ES_Modulo_2_Habla_con_Parientes_Vivos.pdf" target="_blank" rel="noopener noreferrer">⬇ PDF</a> |
+| [Módulo 3 — Reúne Documentos Básicos](/es/guias-investigacion/modulo-3/) | Registros civiles y eclesiásticos, FamilySearch, documentos familiares (fotos, libretas, esquelas), glosario en español | <a href="/assets/pdfs/getting-started/ES_Modulo_3_Reune_Documentos_Basicos.pdf" target="_blank" rel="noopener noreferrer">⬇ PDF</a> |
+| [Módulo 4 — Lleva un Registro de Investigación](/es/guias-investigacion/modulo-4/) | Formato del registro, evidencia negativa, cómo evaluar árboles genealógicos en línea, Google Sheets | <a href="/assets/pdfs/getting-started/ES_Modulo_4_Lleva_un_Registro_de_Investigacion.pdf" target="_blank" rel="noopener noreferrer">⬇ PDF</a> |
+| <a href="/assets/pdfs/getting-started/ES_Tarjeta_de_Referencia_Rapida.pdf" target="_blank" rel="noopener noreferrer">Tarjeta de Referencia Rápida</a> | Resumen imprimible de una página | <a href="/assets/pdfs/getting-started/ES_Tarjeta_de_Referencia_Rapida.pdf" target="_blank" rel="noopener noreferrer">⬇ PDF</a> |
 
 ### Recursos Gratuitos Clave en FamilySearch
 
 | Colección | Lo Que Ofrece |
 |-----------|---------------|
-| <a href="https://www.familysearch.org/en/search/collection/1682798" target="_blank" rel="noopener">Registro Civil de Puerto Rico, 1885–2001</a> | Más de 4.5 millones de imágenes de actas de nacimiento, matrimonio y defunción |
-| <a href="https://www.familysearch.org/en/search/collection/1807092" target="_blank" rel="noopener">Registros de la Iglesia Católica de Puerto Rico, 1645–2021</a> | Bautismos, matrimonios y entierros de registros parroquiales |
-| <a href="https://www.familysearch.org/search/place/results?placeId=11543&view=records&access=all" target="_blank" rel="noopener">Todos los Registros de Puerto Rico en FamilySearch</a> | Explorar todas las colecciones disponibles |
-| <a href="https://familyhistory.lib.byu.edu/00000192-b134-da0b-af97-f9f5bd4c0001/puertoricoresearchguide-pdf" target="_blank" rel="noopener">BYU Family History Library — Guía de Investigación de Puerto Rico</a> | Guía completa sobre tipos de registros, repositorios y estrategias de investigación (PDF) |
+| <a href="https://www.familysearch.org/en/search/collection/1682798" target="_blank" rel="noopener noreferrer"><em>Registro Civil de Puerto Rico, 1885–2001</em></a> | Más de 4.5 millones de imágenes de actas de nacimiento, matrimonio y defunción |
+| <a href="https://www.familysearch.org/en/search/collection/1807092" target="_blank" rel="noopener noreferrer"><em>Registros de la Iglesia Católica de Puerto Rico, 1645–2021</em></a> | Bautismos, matrimonios y entierros de registros parroquiales |
+| <a href="https://www.familysearch.org/search/place/results?placeId=11543&view=records&access=all" target="_blank" rel="noopener noreferrer"><em>Todos los Registros de Puerto Rico en FamilySearch</em></a> | Explorar todas las colecciones disponibles |
+| <a href="https://familyhistory.lib.byu.edu/00000192-b134-da0b-af97-f9f5bd4c0001/puertoricoresearchguide-pdf" target="_blank" rel="noopener noreferrer"><em>BYU Family History Library — Guía de Investigación de Puerto Rico</em></a> | Guía completa sobre tipos de registros, repositorios y estrategias de investigación (PDF) |
 
 ---
 

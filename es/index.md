@@ -81,7 +81,7 @@ last_modified_at: 2026-02-07
     <div class="poll-callout">
       <h3>Ayuda a Dar Forma a Nuestro Grupo</h3>
       <p>¿Qué temas te interesan más? ¿Qué formatos funcionan mejor? Cuéntanos cómo podemos servir mejor a nuestra comunidad.</p>
-      <a href="https://docs.google.com/forms/d/e/1FAIpQLSdfbrukgdx6v3fAxKiKS2ZwKb0d38DT12axvA3fXZXk_nN81g/viewform?usp=header" class="btn btn-primary" target="_blank" rel="noopener">Completa la Encuesta</a>
+      <a href="https://docs.google.com/forms/d/e/1FAIpQLSdfbrukgdx6v3fAxKiKS2ZwKb0d38DT12axvA3fXZXk_nN81g/viewform?usp=header" class="btn btn-primary" target="_blank" rel="noopener noreferrer">Completa la Encuesta</a>
     </div>
   </div>
 </section>
@@ -93,19 +93,19 @@ last_modified_at: 2026-02-07
     </div>
     <ul class="resource-list">
       <li>
-        <a href="https://genealogiapr.com/" target="_blank" rel="noopener">Sociedad Puertorriqueña de Genealogía (SPG)</a>
-        <p class="description">Sociedad genealógica con sede en San Juan, Puerto Rico. La SPG ofrece conferencias mensuales, talleres y visitas culturales. Sus eventos se comparten en su <a href="https://www.facebook.com/groups/spgpuertorico" target="_blank" rel="noopener">grupo de Facebook</a> y su <a href="https://www.youtube.com/@sociedadpr" target="_blank" rel="noopener">canal de YouTube</a>. Los miembros reciben dos ediciones anuales de <em>Hereditas</em>, una revista que publica artículos de investigación genealógica, compilaciones de registros parroquiales y transcripciones de archivos municipales.</p>
+        <a href="https://genealogiapr.com/" target="_blank" rel="noopener noreferrer"><em>Sociedad Puertorriqueña de Genealogía (SPG)</em></a>
+        <p class="description">Sociedad genealógica con sede en San Juan, Puerto Rico. La SPG ofrece conferencias mensuales, talleres y visitas culturales. Sus eventos se comparten en su <a href="https://www.facebook.com/groups/spgpuertorico" target="_blank" rel="noopener noreferrer"><em>grupo de Facebook</em></a> y su <a href="https://www.youtube.com/@sociedadpr" target="_blank" rel="noopener noreferrer"><em>canal de YouTube</em></a>. Los miembros reciben dos ediciones anuales de <em>Hereditas</em>, una revista que publica artículos de investigación genealógica, compilaciones de registros parroquiales y transcripciones de archivos municipales.</p>
       </li>
       <li>
-        <a href="https://www.upr.edu/biblioteca-rrp//" target="_blank" rel="noopener">Biblioteca Digital Puertorriqueña</a>
+        <a href="https://www.upr.edu/biblioteca-rrp//" target="_blank" rel="noopener noreferrer"><em>Biblioteca Digital Puertorriqueña</em></a>
         <p class="description">Colecciones digitales de la Universidad de Puerto Rico.</p>
       </li>
       <li>
-        <a href="https://www.icp.pr.gov/archivo-general/" target="_blank" rel="noopener">Archivo General de Puerto Rico</a>
+        <a href="https://www.icp.pr.gov/archivo-general/" target="_blank" rel="noopener noreferrer"><em>Archivo General de Puerto Rico</em></a>
         <p class="description">Repositorio oficial de registros históricos puertorriqueños.</p>
       </li>
       <li>
-        <a href="https://looking4myroots.com" target="_blank" rel="noopener">Blog Looking4MyRoots</a>
+        <a href="https://looking4myroots.com" target="_blank" rel="noopener noreferrer"><em>Blog Looking4MyRoots</em></a>
         <p class="description">Blog complementario con consejos de genealogía, historias de investigación y recursos.</p>
       </li>
     </ul>

@@ -87,9 +87,9 @@ Puerto Rican genealogy comes with unique challenges — Spanish-language records
 <ul>
   <li><a href="#parish">Understanding Parish Records</a></li>
   <li><a href="#baptisms">Baptismal Records</a> · <a href="https://genealogianuestra.com/unlocking-church-records-for-mayaguez-new-19th-century-baptismal-transcriptions/" target="_blank" rel="noopener noreferrer"><em>New Mayagüez Baptismal Transcriptions, 19th Century</em></a></li>
-  <li><a href="#church-marriages">Marriage Records</a> · <a href="https://www.familysearch.org/en/search/collection/1807092" target="_blank" rel="noopener">Browse on FamilySearch</a></li>
+  <li><a href="#church-marriages">Marriage Records</a> · <a href="https://www.familysearch.org/en/search/collection/1807092" target="_blank" rel="noopener noreferrer"><em>Browse on FamilySearch</em></a></li>
   <li><a href="#burials">Burial Records</a></li>
-  <li><a href="https://www.familysearch.org/en/search/collection/1807092" target="_blank" rel="noopener">Browse: Catholic Church Records, 1645–2021</a></li>
+  <li><a href="https://www.familysearch.org/en/search/collection/1807092" target="_blank" rel="noopener noreferrer"><em>Browse: Catholic Church Records, 1645–2021</em></a></li>
 </ul>
 </div>
 
@@ -112,7 +112,7 @@ Puerto Rican genealogy comes with unique challenges — Spanish-language records
 
 ▶ **Getting Started with Puerto Rican Genealogy** — An introduction to researching Puerto Rican records and resources, presented by Luis Ariel Rivera.
 
-<a href="https://www.youtube.com/watch?v=9zQCT7bmsUQ" class="btn btn-primary" target="_blank" rel="noopener">Watch on YouTube</a>
+<a href="https://www.youtube.com/watch?v=9zQCT7bmsUQ" class="btn btn-primary" target="_blank" rel="noopener noreferrer">Watch on YouTube</a>
 
 ---
 
@@ -164,8 +164,8 @@ Puerto Rican naming conventions follow Spanish tradition:
 
 | Record Type | Time Period | Where to Find |
 |-------------|-------------|---------------|
-| Church Records | 1645-present | Parish archives, <a href="https://www.familysearch.org/en/search/collection/1807092" target="_blank" rel="noopener">FamilySearch (191,500+ images)</a> |
-| Civil Registry | 1805-present | Registro Demográfico, local offices, <a href="https://www.familysearch.org/en/search/collection/1682798" target="_blank" rel="noopener">FamilySearch (4.5M+ images)</a> |
+| Church Records | 1645-present | Parish archives, <a href="https://www.familysearch.org/en/search/collection/1807092" target="_blank" rel="noopener noreferrer"><em>FamilySearch (191,500+ images)</em></a> |
+| Civil Registry | 1805-present | Registro Demográfico, local offices, <a href="https://www.familysearch.org/en/search/collection/1682798" target="_blank" rel="noopener noreferrer"><em>FamilySearch (4.5M+ images)</em></a> |
 | Spanish Census | 1765-1897 | Archivo General de Puerto Rico |
 | U.S. Census | 1910-1950 | NARA, Ancestry, FamilySearch |
 | Military Records | Various | NARA, Spanish archives |
@@ -189,10 +189,10 @@ A free, self-paced course for Puerto Ricans new to family history research. No p
 
 | Module | Topic | Download |
 |--------|-------|----------|
-| [Module 1 — Start With Yourself](/research-guides/getting-started-module-1/) | The five key questions, working backward from what you know, Puerto Rican naming conventions — including non-traditional family structures | [PDF](/assets/pdfs/getting-started/Module_1_Start_With_Yourself.pdf){:target="_blank"} |
-| [Module 2 — Talk to Living Relatives](/research-guides/getting-started-module-2/) | How to interview family members, questions tailored for Puerto Rican families, identifying relatives and extended-family homes that may hold documents and photographs | [PDF](/assets/pdfs/getting-started/Module_2_Talk_to_Living_Relatives.pdf){:target="_blank"} |
-| [Module 3 — Collect Basic Documents](/research-guides/getting-started-module-3/) | Civil vs. church records, FamilySearch collections, family-held documents (photos, notebooks, obituaries), Spanish record terminology glossary | [PDF](/assets/pdfs/getting-started/Module_3_Collect_Basic_Documents.pdf){:target="_blank"} |
-| [Module 4 — Keep a Research Log](/research-guides/getting-started-module-4/) | Tracking searches, recording negative results, evaluating online family trees, simple citation format, Google Sheets templates | [PDF](/assets/pdfs/getting-started/Module_4_Keep_a_Research_Log.pdf){:target="_blank"} |
+| [Module 1 — Start With Yourself](/research-guides/getting-started-module-1/) | The five key questions, working backward from what you know, Puerto Rican naming conventions — including non-traditional family structures | <a href="/assets/pdfs/getting-started/Module_1_Start_With_Yourself.pdf" target="_blank" rel="noopener noreferrer">PDF</a> |
+| [Module 2 — Talk to Living Relatives](/research-guides/getting-started-module-2/) | How to interview family members, questions tailored for Puerto Rican families, identifying relatives and extended-family homes that may hold documents and photographs | <a href="/assets/pdfs/getting-started/Module_2_Talk_to_Living_Relatives.pdf" target="_blank" rel="noopener noreferrer">PDF</a> |
+| [Module 3 — Collect Basic Documents](/research-guides/getting-started-module-3/) | Civil vs. church records, FamilySearch collections, family-held documents (photos, notebooks, obituaries), Spanish record terminology glossary | <a href="/assets/pdfs/getting-started/Module_3_Collect_Basic_Documents.pdf" target="_blank" rel="noopener noreferrer">PDF</a> |
+| [Module 4 — Keep a Research Log](/research-guides/getting-started-module-4/) | Tracking searches, recording negative results, evaluating online family trees, simple citation format, Google Sheets templates | <a href="/assets/pdfs/getting-started/Module_4_Keep_a_Research_Log.pdf" target="_blank" rel="noopener noreferrer">PDF</a> |
 
 ### Key Free Resources for Puerto Rican Research
 

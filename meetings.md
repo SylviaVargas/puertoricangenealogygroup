@@ -21,13 +21,13 @@ The Puerto Rican Genealogy Group hosts regular virtual meetings where members ca
     <span>Monday, March 9, 2026</span>
     <span>7:00 PM EST / 8:00 PM PR / 4:00 PM PST</span>
   </div>
-  <a href="https://us06web.zoom.us/meeting/register/chSyaQqxRzSxOaeXxJmM0Q" class="btn btn-primary" target="_blank" rel="noopener">Register Now</a>
+  <a href="https://us06web.zoom.us/meeting/register/chSyaQqxRzSxOaeXxJmM0Q" class="btn btn-primary" target="_blank" rel="noopener noreferrer">Register Now</a>
 </div>
 
 <div class="poll-callout">
   <h3>Help Shape Our Group</h3>
   <p>What topics interest you most? What formats work best? Tell us how we can better serve our community.</p>
-  <a href="https://docs.google.com/forms/d/e/1FAIpQLSdfbrukgdx6v3fAxKiKS2ZwKb0d38DT12axvA3fXZXk_nN81g/viewform?usp=header" class="btn btn-primary" target="_blank" rel="noopener">Take the Member Poll</a>
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLSdfbrukgdx6v3fAxKiKS2ZwKb0d38DT12axvA3fXZXk_nN81g/viewform?usp=header" class="btn btn-primary" target="_blank" rel="noopener noreferrer">Take the Member Poll</a>
 </div>
 
 ---

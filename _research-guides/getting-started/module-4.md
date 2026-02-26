@@ -10,7 +10,7 @@ last_modified_at: 2026-02-18
 ---
 
 *Part of the [Getting Started in Genealogy](/research-guides/getting-started/) free beginner course.*
-[⬇ Download this module as PDF](/assets/pdfs/getting-started/Module_4_Keep_a_Research_Log.pdf){:target="_blank"}
+<a href="/assets/pdfs/getting-started/Module_4_Keep_a_Research_Log.pdf" target="_blank" rel="noopener noreferrer">⬇ Download this module as PDF</a>
 
 ---
 
@@ -96,7 +96,7 @@ Write down enough information so you — or anyone — could find that exact rec
 4. Create the column headers: Date, Ancestor, Search Goal, Where I Searched, What I Found, Source/Citation, Next Step
 5. Start logging every search you do from today forward
 
-See the [Google Sheets Templates PDF](/assets/pdfs/getting-started/Google_Sheets_Templates.pdf){:target="_blank"} for ready-to-use specifications for three templates: Family Information Tracker, Research Log, and Document Checklist.
+See the <a href="/assets/pdfs/getting-started/Google_Sheets_Templates.pdf" target="_blank" rel="noopener noreferrer">Google Sheets Templates PDF</a> for ready-to-use specifications for three templates: Family Information Tracker, Research Log, and Document Checklist.
 
 ---
 
@@ -130,8 +130,8 @@ You now have:
 
 ### Keep Going
 
-- [Download the Quick Reference Card](/assets/pdfs/getting-started/Quick_Reference_Card.pdf){:target="_blank"} — a printable summary of everything you've learned
-- [Set up your Google Sheets templates](/assets/pdfs/getting-started/Google_Sheets_Templates.pdf){:target="_blank"}
+- <a href="/assets/pdfs/getting-started/Quick_Reference_Card.pdf" target="_blank" rel="noopener noreferrer">Download the Quick Reference Card</a> — a printable summary of everything you've learned
+- <a href="/assets/pdfs/getting-started/Google_Sheets_Templates.pdf" target="_blank" rel="noopener noreferrer">Set up your Google Sheets templates</a>
 - Explore the [Puerto Rican Genealogy Research Guides](/research-guides/) to go deeper into civil records, church records, and census research
 - Connect with the Puerto Rican Genealogy Group community to share your progress
 

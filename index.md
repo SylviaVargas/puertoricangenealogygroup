@@ -80,7 +80,7 @@ last_modified_at: 2026-02-07
     <div class="poll-callout">
       <h3>Help Shape Our Group</h3>
       <p>What topics interest you most? What formats work best? Tell us how we can better serve our community.</p>
-      <a href="https://docs.google.com/forms/d/e/1FAIpQLSdfbrukgdx6v3fAxKiKS2ZwKb0d38DT12axvA3fXZXk_nN81g/viewform?usp=header" class="btn btn-primary" target="_blank" rel="noopener">Take the Member Poll</a>
+      <a href="https://docs.google.com/forms/d/e/1FAIpQLSdfbrukgdx6v3fAxKiKS2ZwKb0d38DT12axvA3fXZXk_nN81g/viewform?usp=header" class="btn btn-primary" target="_blank" rel="noopener noreferrer">Take the Member Poll</a>
     </div>
   </div>
 </section>
@@ -92,19 +92,19 @@ last_modified_at: 2026-02-07
     </div>
     <ul class="resource-list">
       <li>
-        <a href="https://genealogiapr.com/" target="_blank" rel="noopener">Sociedad Puertorriqueña de Genealogía (SPG)</a>
-        <p class="description">Genealogy society based in San Juan, Puerto Rico. SPG hosts monthly conferences, workshops, and cultural visits. Events are shared on their <a href="https://www.facebook.com/groups/spgpuertorico" target="_blank" rel="noopener">Facebook group</a> and <a href="https://www.youtube.com/@sociedadpr" target="_blank" rel="noopener">YouTube channel</a>. Members receive two annual editions of <em>Hereditas</em>, a journal featuring genealogical research articles, parish record compilations, and municipal archive transcriptions.</p>
+        <a href="https://genealogiapr.com/" target="_blank" rel="noopener noreferrer"><em>Sociedad Puertorriqueña de Genealogía (SPG)</em></a>
+        <p class="description">Genealogy society based in San Juan, Puerto Rico. SPG hosts monthly conferences, workshops, and cultural visits. Events are shared on their <a href="https://www.facebook.com/groups/spgpuertorico" target="_blank" rel="noopener noreferrer"><em>Facebook group</em></a> and <a href="https://www.youtube.com/@sociedadpr" target="_blank" rel="noopener noreferrer"><em>YouTube channel</em></a>. Members receive two annual editions of <em>Hereditas</em>, a journal featuring genealogical research articles, parish record compilations, and municipal archive transcriptions.</p>
       </li>
       <li>
-        <a href="https://www.upr.edu/biblioteca-rrp//" target="_blank" rel="noopener">Puerto Rican Digital Library</a>
+        <a href="https://www.upr.edu/biblioteca-rrp//" target="_blank" rel="noopener noreferrer"><em>Puerto Rican Digital Library</em></a>
         <p class="description">Digital collections from the University of Puerto Rico.</p>
       </li>
       <li>
-        <a href="https://www.icp.pr.gov/archivo-general/" target="_blank" rel="noopener">General Archive of Puerto Rico</a>
+        <a href="https://www.icp.pr.gov/archivo-general/" target="_blank" rel="noopener noreferrer"><em>General Archive of Puerto Rico</em></a>
         <p class="description">Official repository for Puerto Rican historical records.</p>
       </li>
       <li>
-        <a href="https://looking4myroots.com" target="_blank" rel="noopener">Looking4MyRoots Blog</a>
+        <a href="https://looking4myroots.com" target="_blank" rel="noopener noreferrer"><em>Looking4MyRoots Blog</em></a>
         <p class="description">Companion blog with genealogy tips, research stories, and resources.</p>
       </li>
     </ul>
