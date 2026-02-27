@@ -111,6 +111,21 @@ La genealogía puertorriqueña presenta desafíos únicos: documentos en españo
 </ul>
 </div>
 
+<div class="card">
+<h3>Investigación de Registros de Esclavitud</h3>
+<span class="badge badge-available">✓ Curso Completo Disponible</span>
+<p>Un curso práctico de cuatro módulos, de nivel principiante a intermedio, sobre cómo localizar, extraer y usar el Registro Central de Esclavos de 1872 y registros relacionados para rastrear antepasados esclavizados en Puerto Rico.</p>
+<ul>
+  <li><a href="/es/guias-investigacion/registros-esclavos/">Descripción del Curso</a></li>
+  <li><a href="/es/guias-investigacion/registros-esclavos-modulo-1/">Módulo 1 — Comprendiendo el Registro Central de Esclavos (1872)</a></li>
+  <li><a href="/es/guias-investigacion/registros-esclavos-modulo-2/">Módulo 2 — Encontrando y Navegando los Registros</a></li>
+  <li><a href="/es/guias-investigacion/registros-esclavos-modulo-3/">Módulo 3 — Extrayendo y Preservando la Evidencia</a></li>
+  <li><a href="/es/guias-investigacion/registros-esclavos-modulo-4/">Módulo 4 — Construyendo el Puente de Investigación</a></li>
+  <li><a href="/assets/pdfs/slave-records/ES_Descripcion_del_Curso.pdf" target="_blank">⬇ Descripción del Curso (PDF)</a></li>
+  <li><a href="/assets/pdfs/slave-records/ES_HT_01_Formulario_Extraccion_Registro.pdf" target="_blank">⬇ Formulario de Extracción del Registro (PDF)</a></li>
+</ul>
+</div>
+
 </div>
 
 ---

@@ -111,6 +111,21 @@ Puerto Rican genealogy comes with unique challenges — Spanish-language records
 </ul>
 </div>
 
+<div class="card">
+<h3>Slave Record Research</h3>
+<span class="badge badge-available">✓ Full Course Available</span>
+<p>A four-module beginner-to-intermediate course on locating, extracting, and using the 1872 Registro Central de Esclavos and related slave registers to trace enslaved ancestors in Puerto Rico.</p>
+<ul>
+  <li><a href="/research-guides/slave-records/">Course Overview</a></li>
+  <li><a href="/research-guides/slave-records-module-1/">Module 1 — Understanding the Registro Central de Esclavos (1872)</a></li>
+  <li><a href="/research-guides/slave-records-module-2/">Module 2 — Finding and Navigating the Records</a></li>
+  <li><a href="/research-guides/slave-records-module-3/">Module 3 — Extracting and Preserving Evidence</a></li>
+  <li><a href="/research-guides/slave-records-module-4/">Module 4 — Building the Research Bridge</a></li>
+  <li><a href="/assets/pdfs/slave-records/Course_Overview.pdf" target="_blank">⬇ Course Overview (PDF)</a></li>
+  <li><a href="/assets/pdfs/slave-records/WS_01_Registry_Extraction_Form.pdf" target="_blank">⬇ Registry Extraction Form (PDF)</a></li>
+</ul>
+</div>
+
 </div>
 
 ---
@@ -245,7 +260,6 @@ We are actively developing additional guides on:
 
 - DNA Testing for Puerto Rican Ancestry
 - Migration Patterns and Mainland Records
-- Slave and Free Black Ancestors
 - Spanish Colonial Military Records
 - Notarial Records (Protocolos Notariales)
 - Land and Property Records

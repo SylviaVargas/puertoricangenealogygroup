@@ -1,0 +1,647 @@
+---
+layout: null
+---
+<!-- Chosen Palette: Caribbean Archives (Warm Sand, Deep Ocean Blue, Antique Gold, Slate Text) -->
+
+<!-- Application Structure Plan:
+1. Hero Section: Sets the context with the core mission and key historical milestones (1885, 1931) as immediate "Fast Facts" cards.
+2. Analytical Dashboard (Visual Synthesis): Two interactive charts to visualize the data before diving into details.
+- Chart 1: Historical Timeline of Foundations (Bar Chart) to show the waves of settlement.
+- Chart 2: The "Record Gap" Analyzer (Scatter/Line) to visually demonstrate the difference between foundation dates and record availability, highlighting the importance of parish records.
+3. Interactive Municipality Directory: The core tool. A search-enabled, filterable grid of municipality cards.
+- Users can search by name or parish.
+- Cards flip or expand to show detailed notes and record start dates.
+- Color-coded badges for "Notes" keywords (e.g., Coastal, Mountain).
+4. Research Context Footer: Static reference guide on where to find the physical/digital records.
+
+```
+Why this structure? It moves from &quot;Macro&quot; (Island-wide trends) to &quot;Micro&quot; (Specific town data), allowing researchers to understand the *system* of records before hunting for specific *names*.
+
+```
+
+-->
+
+<!-- Visualization & Content Choices:
+1. Foundation Timeline (Chart.js Bar):
+- Goal: Inform/Change. Show how settlement density increased over centuries.
+- Interaction: Hover for counts per decade.
+- Justification: Text lists obscure the "boom" periods of Puerto Rican history (mid-1700s/1800s).
+2. Record Availability Gap (Chart.js Scatter/Line Combo):
+- Goal: Compare. Plot "Founded Year" vs "Church Records Start".
+- Interaction: Tooltip shows the specific years.
+- Justification: Visually proves the user's need to check Church records for older towns, reinforcing the "100+ years gap" insight from the report.
+3. Directory Cards (HTML/JS):
+- Goal: Organize/Inform.
+- Interaction: Search filter, Sort by Foundation Date vs Name.
+- Justification: Primary user task is finding *their* specific town.
+4. Icons: Unicode. No SVG used.
+-->
+
+<!-- CONFIRMATION: NO SVG graphics used. NO Mermaid JS used. -->
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Puerto Rico Municipality Genealogy Guide</title>
+<script src="[https://cdn.tailwindcss.com](https://www.google.com/search?q=https://cdn.tailwindcss.com)"></script>
+<script src="[https://cdn.jsdelivr.net/npm/chart.js](https://www.google.com/search?q=https://cdn.jsdelivr.net/npm/chart.js)"></script>
+<style>
+@import url('[https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Lato:wght@300;400;700&display=swap](https://www.google.com/search?q=https://fonts.googleapis.com/css2%3Ffamily%3DPlayfair%2BDisplay:wght%40400%3B700%26family%3DLato:wght%40300%3B400%3B700%26display%3Dswap)');
+
+```
+    body {
+        font-family: 'Lato', sans-serif;
+        background-color: #fdfbf7; /* Warm Sand */
+        color: #1e293b;
+    }
+
+    h1, h2, h3 {
+        font-family: 'Playfair Display', serif;
+    }
+
+    .chart-container {
+        position: relative;
+        width: 100%;
+        max-width: 800px;
+        height: 300px; /* Mobile default */
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    @media (min-width: 768px) {
+        .chart-container {
+            height: 400px;
+        }
+    }
+
+    /* Card Hover Effects */
+    .muni-card {
+        transition: all 0.3s ease;
+        border-bottom: 4px solid transparent;
+    }
+    .muni-card:hover {
+        transform: translateY(-5px);
+        border-bottom: 4px solid #0f4c81; /* Deep Ocean Blue */
+        box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+    }
+
+    .stat-card {
+        background: linear-gradient(135deg, #0f4c81 0%, #1e3a8a 100%);
+    }
+</style>
+
+```
+
+</head>
+<body class="bg-[#fdfbf7]">
+
+```
+<!-- Navigation / Hero -->
+<header class="bg-white shadow-sm border-b border-stone-200 sticky top-0 z-50">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
+        <div class="flex items-center space-x-2">
+            <span class="text-2xl">🇵🇷</span>
+            <h1 class="text-xl font-bold text-slate-800 tracking-wide">PR Genealogy Tools</h1>
+        </div>
+        <nav class="hidden md:flex space-x-8 text-sm font-medium text-slate-600">
+            <a href="#overview" class="hover:text-blue-900 transition-colors">Overview</a>
+            <a href="#analytics" class="hover:text-blue-900 transition-colors">Historical Trends</a>
+            <a href="#directory" class="hover:text-blue-900 transition-colors">Municipality Directory</a>
+        </nav>
+    </div>
+</header>
+
+<main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10 space-y-16">
+
+    <!-- Section 1: Introduction & Key Milestones -->
+    <section id="overview" class="space-y-8">
+        <div class="text-center max-w-3xl mx-auto space-y-4">
+            <h2 class="text-4xl font-bold text-slate-900">Puerto Rico Municipality Guide</h2>
+            <p class="text-lg text-slate-600 leading-relaxed">
+                Explore the history of Puerto Rico's 78 municipalities. This interactive tool helps researchers determine record availability, identify parish jurisdictions, and visualize the island's administrative evolution. 
+                <br><span class="text-sm italic opacity-75">Use this guide to bridge the "Record Gap" between civil and church archives.</span>
+            </p>
+        </div>
+
+        <!-- Key Milestones Cards -->
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+            <!-- Milestone 1 -->
+            <div class="bg-white p-6 rounded-xl shadow-sm border border-stone-200">
+                <div class="flex items-center space-x-3 mb-3">
+                    <div class="p-2 bg-blue-100 rounded-lg text-blue-900 font-bold text-xl">1885</div>
+                    <h3 class="font-bold text-slate-800">Civil Registration</h3>
+                </div>
+                <p class="text-slate-600 text-sm">
+                    Mandatory Civil Registration (Registro Civil) began across the island under Spanish rule. For research prior to this date, Church records are essential.
+                </p>
+            </div>
+            <!-- Milestone 2 -->
+            <div class="bg-white p-6 rounded-xl shadow-sm border border-stone-200">
+                <div class="flex items-center space-x-3 mb-3">
+                    <div class="p-2 bg-blue-100 rounded-lg text-blue-900 font-bold text-xl">1931</div>
+                    <h3 class="font-bold text-slate-800">Centralization</h3>
+                </div>
+                <p class="text-slate-600 text-sm">
+                    The Department of Health (Demographic Registry) centralized record keeping. Before this, records were held locally in municipalities.
+                </p>
+            </div>
+            <!-- Milestone 3 -->
+            <div class="bg-white p-6 rounded-xl shadow-sm border border-stone-200">
+                <div class="flex items-center space-x-3 mb-3">
+                    <div class="p-2 bg-amber-100 rounded-lg text-amber-800 font-bold text-xl">⛪</div>
+                    <h3 class="font-bold text-slate-800">Parish Gap</h3>
+                </div>
+                <p class="text-slate-600 text-sm">
+                    Parish records often pre-date civil records by 100+ years. If a town was founded in 1750, the Church is your only primary source until 1885.
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Section 2: Visual Analytics -->
+    <section id="analytics" class="space-y-6">
+        <div class="border-l-4 border-blue-900 pl-4">
+            <h2 class="text-2xl font-bold text-slate-900">Historical Analysis</h2>
+            <p class="text-slate-600">Visualizing the growth of municipalities and the availability of genealogical records.</p>
+        </div>
+
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-8">
+            
+            <!-- Chart 1: Foundation Timeline -->
+            <div class="bg-white p-6 rounded-xl shadow-lg border border-stone-100">
+                <h3 class="text-lg font-bold text-slate-800 mb-4 flex items-center">
+                    <span class="mr-2">📊</span> Municipal Expansion (Foundations per Century)
+                </h3>
+                <p class="text-xs text-slate-500 mb-4">Shows the number of municipalities established in each century, highlighting the 18th and 19th-century expansion.</p>
+                <div class="chart-container">
+                    <canvas id="foundationChart"></canvas>
+                </div>
+            </div>
+
+            <!-- Chart 2: The Record Gap -->
+            <div class="bg-white p-6 rounded-xl shadow-lg border border-stone-100">
+                <h3 class="text-lg font-bold text-slate-800 mb-4 flex items-center">
+                    <span class="mr-2">📉</span> The "Record Gap" Analysis
+                </h3>
+                <p class="text-xs text-slate-500 mb-4">Compares "Foundation Year" (Blue) vs "Church Records Start" (Gold). Notice how closely Church records follow foundation, unlike Civil records (1885).</p>
+                <div class="chart-container">
+                    <canvas id="gapChart"></canvas>
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+    <!-- Section 3: Interactive Directory -->
+    <section id="directory" class="space-y-6">
+        <div class="flex flex-col md:flex-row justify-between items-end md:items-center border-b border-stone-200 pb-4">
+            <div class="border-l-4 border-amber-500 pl-4 mb-4 md:mb-0">
+                <h2 class="text-2xl font-bold text-slate-900">Municipality Directory</h2>
+                <p class="text-slate-600">Search and filter the 78 municipalities.</p>
+            </div>
+            
+            <!-- Controls -->
+            <div class="flex flex-col sm:flex-row space-y-2 sm:space-y-0 sm:space-x-4 w-full md:w-auto">
+                <div class="relative">
+                    <span class="absolute inset-y-0 left-0 flex items-center pl-3 text-gray-400">🔍</span>
+                    <input type="text" id="searchInput" placeholder="Search town, parish..." class="pl-10 pr-4 py-2 border border-stone-300 rounded-lg focus:ring-2 focus:ring-blue-900 focus:border-blue-900 w-full sm:w-64 bg-white text-sm">
+                </div>
+                <select id="sortSelect" class="py-2 px-4 border border-stone-300 rounded-lg focus:ring-2 focus:ring-blue-900 bg-white text-sm">
+                    <option value="name">Sort by Name (A-Z)</option>
+                    <option value="founded">Sort by Founded (Oldest)</option>
+                    <option value="church">Sort by Church Rec. (Oldest)</option>
+                </select>
+            </div>
+        </div>
+
+        <!-- Stats Bar -->
+        <div class="flex flex-wrap gap-4 text-sm text-slate-500" id="directoryStats">
+            <!-- Populated by JS -->
+        </div>
+
+        <!-- Grid Container -->
+        <div id="gridContainer" class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6">
+            <!-- Cards injected here -->
+        </div>
+        
+        <div id="noResults" class="hidden text-center py-12">
+            <p class="text-slate-400 text-lg">No municipalities found matching your search.</p>
+            <button onclick="resetSearch()" class="mt-4 text-blue-900 font-bold underline">Clear Filters</button>
+        </div>
+    </section>
+
+    <!-- Section 4: Research Guide Footer -->
+    <footer class="bg-slate-900 text-slate-300 rounded-t-3xl mt-12 overflow-hidden">
+        <div class="max-w-7xl mx-auto px-6 py-12">
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-12">
+                <div>
+                    <h3 class="text-xl font-bold text-white mb-4">Where to Find Records</h3>
+                    <ul class="space-y-4">
+                        <li class="flex items-start">
+                            <span class="text-amber-500 mr-2">1.</span>
+                            <div>
+                                <strong class="text-white">FamilySearch:</strong> Most comprehensive collection. Look for <em>Registros Parroquiales</em> (Catholic) and <em>Registro Civil</em>.
+                            </div>
+                        </li>
+                        <li class="flex items-start">
+                            <span class="text-amber-500 mr-2">2.</span>
+                            <div>
+                                <strong class="text-white">Ancestry:</strong> Excellent for indexed 1910-1950 Census records and many civil registration books.
+                            </div>
+                        </li>
+                        <li class="flex items-start">
+                            <span class="text-amber-500 mr-2">3.</span>
+                            <div>
+                                <strong class="text-white">Local Parishes:</strong> For records not yet digitized (often post-1900), physical visits or written requests are required.
+                            </div>
+                        </li>
+                        <li class="flex items-start">
+                            <span class="text-amber-500 mr-2">4.</span>
+                            <div>
+                                <strong class="text-white">Demographic Registry:</strong> The official source for certified copies needed for legal purposes.
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+                <div class="bg-slate-800 p-6 rounded-xl">
+                    <h3 class="text-white font-bold mb-2">Research Tip</h3>
+                    <p class="text-sm leading-relaxed mb-4">
+                        Always identify the "Mother Town". If your town was founded in 1880, but your ancestor was born in 1850, their birth record will likely be in the municipality that the new town separated from (often noted in the "Notes" section above).
+                    </p>
+                    <div class="mt-4 pt-4 border-t border-slate-700 text-xs text-slate-500">
+                        Based on "Puerto Rico Municipality Guide: Core Data".
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+</main>
+
+<!-- JavaScript Logic -->
+<script>
+    // --- 1. Data Ingestion ---
+    // Converted from Markdown Table
+    const rawData = [
+        { name: "Adjuntas", founded: 1815, parish: "San Joaquín", churchStart: "1815", civilStart: 1885, notes: "Known as 'The Land of Lakes.'" },
+        { name: "Aguada", founded: 1508, parish: "San Francisco de Asís", churchStart: "1600s", civilStart: 1885, notes: "One of the oldest settlements." },
+        { name: "Aguadilla", founded: 1775, parish: "San Carlos Borromeo", churchStart: "1780", civilStart: 1885, notes: "Separated from Aguada." },
+        { name: "Aguas Buenas", founded: 1838, parish: "Los Santos Reyes", churchStart: "1845", civilStart: 1885, notes: "Originally part of Caguas." },
+        { name: "Aibonito", founded: 1824, parish: "San José", churchStart: "1825", civilStart: 1885, notes: "High altitude, unique records." },
+        { name: "Añasco", founded: 1733, parish: "San Antonio Abad", churchStart: "1735", civilStart: 1885, notes: "Founded by Don Luis de Añasco." },
+        { name: "Arecibo", founded: 1616, parish: "San Felipe Apóstol", churchStart: "1708", civilStart: 1885, notes: "Major regional hub." },
+        { name: "Arroyo", founded: 1855, parish: "Nuestra Señora del Carmen", churchStart: "1855", civilStart: 1885, notes: "Separated from Guayama." },
+        { name: "Barceloneta", founded: 1881, parish: "Nuestra Señora del Carmen", churchStart: "1881", civilStart: 1885, notes: "Late 19th-century records." },
+        { name: "Barranquitas", founded: 1803, parish: "San Antonio de Padua", churchStart: "1804", civilStart: 1885, notes: "Mountainous region." },
+        { name: "Bayamón", founded: 1772, parish: "Santa Cruz", churchStart: "1772", civilStart: 1885, notes: "Part of the San Juan metro now." },
+        { name: "Cabo Rojo", founded: 1771, parish: "San Miguel Arcángel", churchStart: "1771", civilStart: 1885, notes: "Rich maritime history." },
+        { name: "Caguas", founded: 1775, parish: "Dulce Nombre de Jesús", churchStart: "1775", civilStart: 1885, notes: "Center of the island." },
+        { name: "Camuy", founded: 1807, parish: "San José", churchStart: "1811", civilStart: 1885, notes: "Coastal town." },
+        { name: "Canóvanas", founded: 1909, parish: "Nuestra Señora del Pilar", churchStart: "1909", civilStart: 1909, notes: "Previously part of Loíza." },
+        { name: "Carolina", founded: 1816, parish: "San Fernando", churchStart: "1816", civilStart: 1885, notes: "Formerly Trujillo Bajo." },
+        { name: "Cataño", founded: 1927, parish: "Nuestra Señora del Carmen", churchStart: "1927", civilStart: 1927, notes: "Formerly part of Bayamón." },
+        { name: "Cayey", founded: 1773, parish: "Nuestra Señora de la Asunción", churchStart: "1774", civilStart: 1885, notes: "'City of the Fog.'" },
+        { name: "Ceiba", founded: 1838, parish: "San Antonio de Padua", churchStart: "1838", civilStart: 1885, notes: "Separated from Fajardo." },
+        { name: "Ciales", founded: 1820, parish: "Nuestra Señora del Rosario", churchStart: "1820", civilStart: 1885, notes: "Central mountain range." },
+        { name: "Cidra", founded: 1809, parish: "Nuestra Señora del Carmen", churchStart: "1813", civilStart: 1885, notes: "'The Eternal Spring.'" },
+        { name: "Coamo", founded: 1579, parish: "San Blas de Illescas", churchStart: "1701", civilStart: 1885, notes: "Third oldest town; vital records." },
+        { name: "Comerío", founded: 1826, parish: "Santo Cristo de la Salud", churchStart: "1831", civilStart: 1885, notes: "Formerly Sabana del Palmar." },
+        { name: "Corozal", founded: 1795, parish: "La Sagrada Familia", churchStart: "1795", civilStart: 1885, notes: "High density of gold-mining families." },
+        { name: "Culebra", founded: 1880, parish: "Nuestra Señora del Carmen", churchStart: "1880", civilStart: 1885, notes: "Island municipality." },
+        { name: "Dorado", founded: 1842, parish: "San Antonio de Padua", churchStart: "1848", civilStart: 1885, notes: "Separated from Toa Baja." },
+        { name: "Fajardo", founded: 1772, parish: "Santiago Apóstol", churchStart: "1772", civilStart: 1885, notes: "Key port for eastern genealogy." },
+        { name: "Florida", founded: 1971, parish: "Nuestra Señora de la Merced", churchStart: "1971", civilStart: 1971, notes: "Youngest municipality." },
+        { name: "Guánica", founded: 1914, parish: "San Antonio Abad", churchStart: "1914", civilStart: 1914, notes: "Part of Yauco until 1914. (Founded 1508)" },
+        { name: "Guayama", founded: 1736, parish: "San Antonio de Padua", churchStart: "1736", civilStart: 1885, notes: "Essential for SE coast research." },
+        { name: "Guayanilla", founded: 1833, parish: "Inmaculada Concepción", churchStart: "1833", civilStart: 1885, notes: "Coastal hub." },
+        { name: "Guaynabo", founded: 1769, parish: "San Pedro Mártir", churchStart: "1769", civilStart: 1885, notes: "Founded as Buinao." },
+        { name: "Gurabo", founded: 1815, parish: "San José", churchStart: "1815", civilStart: 1885, notes: "Separated from Caguas." },
+        { name: "Hatillo", founded: 1823, parish: "Nuestra Señora del Carmen", churchStart: "1823", civilStart: 1885, notes: "Famous for 'Máscaras de Hatillo.'" },
+        { name: "Hormigueros", founded: 1874, parish: "Basílica de la Monserrate", churchStart: "1874", civilStart: 1874, notes: "Important religious site." },
+        { name: "Humacao", founded: 1722, parish: "Inmaculada Concepción", churchStart: "1750", civilStart: 1885, notes: "East coast center." },
+        { name: "Isabela", founded: 1819, parish: "San Antonio de Padua", churchStart: "1819", civilStart: 1885, notes: "Formerly San Antonio de la Tuna." },
+        { name: "Jayuya", founded: 1911, parish: "Nuestra Señora de la Monserrate", churchStart: "1911", civilStart: 1911, notes: "Part of Utuado previously." },
+        { name: "Juana Díaz", founded: 1798, parish: "San Ramón Nonato", churchStart: "1798", civilStart: 1885, notes: "South coast." },
+        { name: "Juncos", founded: 1797, parish: "Inmaculada Concepción", churchStart: "1797", civilStart: 1885, notes: "Known for 'Valencia' family roots." },
+        { name: "Lajas", founded: 1883, parish: "Nuestra Señora de la Candelaria", churchStart: "1883", civilStart: 1885, notes: "Separated from San Germán." },
+        { name: "Lares", founded: 1827, parish: "San José", churchStart: "1827", civilStart: 1885, notes: "Key for Grito de Lares research." },
+        { name: "Las Marías", founded: 1871, parish: "Inmaculada Concepción", churchStart: "1872", civilStart: 1885, notes: "Mountainous coffee region." },
+        { name: "Las Piedras", founded: 1773, parish: "Inmaculada Concepción", churchStart: "1773", civilStart: 1885, notes: "Eastern gateway." },
+        { name: "Loíza", founded: 1719, parish: "San Patricio", churchStart: "1719", civilStart: 1885, notes: "Strong Afro-Puerto Rican roots." },
+        { name: "Luquillo", founded: 1797, parish: "San José", churchStart: "1799", civilStart: 1885, notes: "Eastern coast." },
+        { name: "Manatí", founded: 1738, parish: "Nuestra Señora de la Candelaria", churchStart: "1739", civilStart: 1885, notes: "North coast." },
+        { name: "Maricao", founded: 1874, parish: "San Juan Bautista", churchStart: "1874", civilStart: 1874, notes: "Coffee region." },
+        { name: "Maunabo", founded: 1799, parish: "San Isidro Labrador", churchStart: "1799", civilStart: 1885, notes: "South-east corner." },
+        { name: "Mayagüez", founded: 1760, parish: "Nuestra Señora de la Candelaria", churchStart: "1760", civilStart: 1885, notes: "Records often damaged by 1918 quake." },
+        { name: "Moca", founded: 1772, parish: "Nuestra Señora de la Altagracia", churchStart: "1772", civilStart: 1885, notes: "Interior west." },
+        { name: "Morovis", founded: 1818, parish: "Nuestra Señora del Carmen", churchStart: "1818", civilStart: 1885, notes: "Central mountains." },
+        { name: "Naguabo", founded: 1794, parish: "Nuestra Señora del Rosario", churchStart: "1794", civilStart: 1885, notes: "East coast." },
+        { name: "Naranjito", founded: 1824, parish: "San Miguel Arcángel", churchStart: "1824", civilStart: 1885, notes: "Interior." },
+        { name: "Orocovis", founded: 1825, parish: "San Juan Bautista", churchStart: "1825", civilStart: 1885, notes: "Formerly Barros." },
+        { name: "Patillas", founded: 1811, parish: "San Benito Abad", churchStart: "1811", civilStart: 1885, notes: "Southeast coast." },
+        { name: "Peñuelas", founded: 1793, parish: "San José", churchStart: "1793", civilStart: 1885, notes: "South coast." },
+        { name: "Ponce", founded: 1692, parish: "Nuestra Señora de la Guadalupe", churchStart: "1700s", civilStart: 1885, notes: "Massive archive availability." },
+        { name: "Quebradillas", founded: 1823, parish: "San Rafael Arcángel", churchStart: "1823", civilStart: 1885, notes: "Separated from Isabela/Camuy." },
+        { name: "Rincón", founded: 1771, parish: "Santa Rosa de Lima", churchStart: "1771", civilStart: 1885, notes: "Western point." },
+        { name: "Río Grande", founded: 1840, parish: "Nuestra Señora del Carmen", churchStart: "1845", civilStart: 1885, notes: "Northeast." },
+        { name: "Sabana Grande", founded: 1813, parish: "San Isidro Labrador", churchStart: "1813", civilStart: 1885, notes: "Separated from San Germán." },
+        { name: "Salinas", founded: 1841, parish: "Nuestra Señora de la Monserrate", churchStart: "1841", civilStart: 1885, notes: "South coast." },
+        { name: "San Germán", founded: 1511, parish: "San Germán Auxerre", churchStart: "1511", civilStart: 1885, notes: "Essential for all western roots." },
+        { name: "San Juan", founded: 1521, parish: "San Juan Bautista (Cathedral)", churchStart: "1645", civilStart: 1885, notes: "The oldest records on the island." },
+        { name: "San Lorenzo", founded: 1811, parish: "Nuestra Señora de las Mercedes", churchStart: "1811", civilStart: 1885, notes: "Formerly San Miguel de Hato Grande." },
+        { name: "San Sebastián", founded: 1752, parish: "San Sebastián Mártir", churchStart: "1752", civilStart: 1885, notes: "Formerly El Pepino." },
+        { name: "Santa Isabel", founded: 1842, parish: "Santiago Apóstol", churchStart: "1842", civilStart: 1885, notes: "Separated from Coamo." },
+        { name: "Toa Alta", founded: 1751, parish: "San Fernando Rey", churchStart: "1752", civilStart: 1885, notes: "Central north." },
+        { name: "Toa Baja", founded: 1745, parish: "Nuestra Señora de la Concepción", churchStart: "1745", civilStart: 1885, notes: "Coastal north." },
+        { name: "Trujillo Alto", founded: 1801, parish: "Santa Cruz", churchStart: "1801", civilStart: 1885, notes: "San Juan Metro." },
+        { name: "Utuado", founded: 1739, parish: "San Miguel Arcángel", churchStart: "1743", civilStart: 1885, notes: "Massive interior municipality." },
+        { name: "Vega Alta", founded: 1775, parish: "Inmaculada Concepción", churchStart: "1775", civilStart: 1885, notes: "North coast." },
+        { name: "Vega Baja", founded: 1776, parish: "Nuestra Señora del Rosario", churchStart: "1777", civilStart: 1885, notes: "North coast." },
+        { name: "Vieques", founded: 1843, parish: "Inmaculada Concepción", churchStart: "1844", civilStart: 1885, notes: "Offshore island." },
+        { name: "Villalba", founded: 1917, parish: "Nuestra Señora del Carmen", churchStart: "1917", civilStart: 1917, notes: "Separated from Juana Díaz." },
+        { name: "Yabucoa", founded: 1793, parish: "Los Santos Ángeles Custodios", churchStart: "1794", civilStart: 1885, notes: "Southeast." },
+        { name: "Yauco", founded: 1756, parish: "Nuestra Señora del Rosario", churchStart: "1756", civilStart: 1885, notes: "Coffee and sugar hub." }
+    ];
+
+    // --- 2. Data Processing ---
+    
+    // Helper to normalize dates (handle "1600s", "1700s", "1508/1914")
+    function parseYear(val) {
+        if (typeof val === 'number') return val;
+        let str = String(val).replace('~', '').trim();
+        if (str.includes('/')) return parseInt(str.split('/')[1]); // Use latest date for logic
+        if (str.includes('s')) return parseInt(str.replace('s', '')) + 50; // Mid-century approx
+        return parseInt(str);
+    }
+
+    function parseCleanYear(val) {
+        if (typeof val === 'number') return val;
+         let str = String(val).replace('~', '').trim();
+        if (str.includes('/')) return parseInt(str.split('/')[1]);
+        if (str.includes('s')) return parseInt(str.replace('s', ''));
+        return parseInt(str);
+    }
+
+    const processedData = rawData.map(d => ({
+        ...d,
+        foundedYear: parseYear(d.founded),
+        churchYear: parseYear(d.churchStart),
+        civilYear: d.civilStart,
+        displayFounded: d.founded, // Keep original string for UI
+        displayChurch: d.churchStart // Keep original string for UI
+    }));
+
+    // --- 3. Chart Logic ---
+
+    function initCharts() {
+        // Chart 1: Foundation Histogram (Centuries)
+        const centuries = { "1500s": 0, "1600s": 0, "1700s": 0, "1800s": 0, "1900s": 0 };
+        processedData.forEach(d => {
+            const y = d.foundedYear;
+            if (y < 1600) centuries["1500s"]++;
+            else if (y < 1700) centuries["1600s"]++;
+            else if (y < 1800) centuries["1700s"]++;
+            else if (y < 1900) centuries["1800s"]++;
+            else centuries["1900s"]++;
+        });
+
+        new Chart(document.getElementById('foundationChart'), {
+            type: 'bar',
+            data: {
+                labels: Object.keys(centuries),
+                datasets: [{
+                    label: 'Municipalities Founded',
+                    data: Object.values(centuries),
+                    backgroundColor: 'rgba(15, 76, 129, 0.7)', // Deep Blue
+                    borderColor: 'rgba(15, 76, 129, 1)',
+                    borderWidth: 1,
+                    borderRadius: 4
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                    legend: { display: false },
+                    tooltip: {
+                        callbacks: {
+                            label: (ctx) => `${ctx.raw} Municipalities`
+                        }
+                    }
+                },
+                scales: {
+                    y: { beginAtZero: true, grid: { color: '#e5e7eb' } },
+                    x: { grid: { display: false } }
+                }
+            }
+        });
+
+        // Chart 2: The Gap (Scatter)
+        // Filter out edge cases with string dates for cleaner plot
+        const scatterData = processedData
+            .sort((a, b) => a.foundedYear - b.foundedYear)
+            .map(d => ({
+                x: d.foundedYear,
+                y: d.churchYear,
+                name: d.name
+            }));
+        
+        // Create a baseline "Ideal" where Church = Founded
+        const idealLine = [{x: 1500, y: 1500}, {x: 1950, y: 1950}];
+        // Civil line
+        const civilLine = [{x: 1500, y: 1885}, {x: 1950, y: 1885}];
+
+        new Chart(document.getElementById('gapChart'), {
+            type: 'scatter',
+            data: {
+                datasets: [
+                    {
+                        label: 'Church Record Start',
+                        data: scatterData,
+                        backgroundColor: '#d97706', // Amber/Gold
+                        pointRadius: 4,
+                        pointHoverRadius: 6
+                    },
+                    {
+                        type: 'line',
+                        label: 'Founded Date (Reference)',
+                        data: idealLine,
+                        borderColor: '#94a3b8', // Slate 400
+                        borderDash: [5, 5],
+                        pointRadius: 0,
+                        borderWidth: 1
+                    },
+                    {
+                        type: 'line',
+                        label: 'Civil Reg. Start (1885)',
+                        data: civilLine,
+                        borderColor: '#1e3a8a', // Blue
+                        borderWidth: 2,
+                        pointRadius: 0
+                    }
+                ]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                    tooltip: {
+                        callbacks: {
+                            label: (ctx) => {
+                                if(ctx.datasetIndex > 0) return null; 
+                                const d = ctx.raw;
+                                return `${d.name}: Founded ${d.x}, Records ${d.y}`;
+                            }
+                        }
+                    },
+                    annotation: {
+                        annotations: {
+                            label1: {
+                                type: 'label',
+                                xValue: 1800,
+                                yValue: 1895,
+                                content: ['Civil Records Start'],
+                                color: '#1e3a8a',
+                                font: { size: 10 }
+                            }
+                        }
+                    }
+                },
+                scales: {
+                    x: { 
+                        title: { display: true, text: 'Foundation Year' },
+                        min: 1500, max: 1980
+                    },
+                    y: { 
+                        title: { display: true, text: 'First Church Record' },
+                        min: 1500, max: 1980
+                    }
+                }
+            }
+        });
+    }
+
+    // --- 4. Interactive Directory Logic ---
+
+    const gridContainer = document.getElementById('gridContainer');
+    const searchInput = document.getElementById('searchInput');
+    const sortSelect = document.getElementById('sortSelect');
+    const noResults = document.getElementById('noResults');
+    const statsBar = document.getElementById('directoryStats');
+
+    function renderGrid(data) {
+        gridContainer.innerHTML = '';
+        
+        if (data.length === 0) {
+            noResults.classList.remove('hidden');
+            statsBar.innerHTML = '';
+            return;
+        } else {
+            noResults.classList.add('hidden');
+        }
+
+        // Stats Update
+        statsBar.innerHTML = `Showing <strong>${data.length}</strong> municipalities`;
+
+        data.forEach(m => {
+            // Card HTML
+            const card = document.createElement('div');
+            card.className = 'muni-card bg-white rounded-xl shadow-sm border border-stone-200 p-6 flex flex-col justify-between h-full cursor-default group';
+            
+            // Keyword highlighting in notes for visuals
+            let noteBadges = '';
+            if (m.notes.toLowerCase().includes('coast')) noteBadges += `<span class="inline-block bg-blue-50 text-blue-700 text-[10px] uppercase font-bold px-2 py-0.5 rounded mr-1">Coastal</span>`;
+            if (m.notes.toLowerCase().includes('mountain') || m.notes.toLowerCase().includes('altitude')) noteBadges += `<span class="inline-block bg-emerald-50 text-emerald-700 text-[10px] uppercase font-bold px-2 py-0.5 rounded mr-1">Mountain</span>`;
+            if (m.notes.toLowerCase().includes('separated from')) noteBadges += `<span class="inline-block bg-amber-50 text-amber-700 text-[10px] uppercase font-bold px-2 py-0.5 rounded mr-1">Split Town</span>`;
+
+            card.innerHTML = `
+                <div>
+                    <div class="flex justify-between items-start mb-2">
+                        <h3 class="text-xl font-bold text-slate-800">${m.name}</h3>
+                        <span class="text-xs font-mono text-slate-400">Est. ${m.displayFounded}</span>
+                    </div>
+                    <div class="mb-4 text-xs">
+                        ${noteBadges}
+                    </div>
+                    
+                    <div class="space-y-3">
+                        <div class="flex items-start">
+                            <span class="text-lg mr-2" title="Parish">⛪</span>
+                            <div>
+                                <p class="text-xs text-slate-500 uppercase font-bold">Parish</p>
+                                <p class="text-sm font-medium text-slate-700 leading-tight">${m.parish}</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="mt-4 pt-4 border-t border-stone-100 grid grid-cols-2 gap-4">
+                        <div>
+                            <p class="text-xs text-slate-500 uppercase font-bold">Church Recs</p>
+                            <p class="text-lg font-bold text-amber-600">${m.displayChurch}</p>
+                        </div>
+                        <div>
+                            <p class="text-xs text-slate-500 uppercase font-bold">Civil Recs</p>
+                            <p class="text-lg font-bold text-blue-900">${m.civilStart}</p>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="mt-4 pt-2">
+                    <p class="text-xs text-slate-500 italic bg-stone-50 p-2 rounded border border-stone-100">
+                        "${m.notes}"
+                    </p>
+                </div>
+            `;
+            gridContainer.appendChild(card);
+        });
+    }
+
+    function filterAndSort() {
+        const term = searchInput.value.toLowerCase();
+        const sortMode = sortSelect.value;
+
+        // Filter
+        let filtered = processedData.filter(d => 
+            d.name.toLowerCase().includes(term) || 
+            d.parish.toLowerCase().includes(term) ||
+            d.notes.toLowerCase().includes(term)
+        );
+
+        // Sort
+        if (sortMode === 'name') {
+            filtered.sort((a, b) => a.name.localeCompare(b.name));
+        } else if (sortMode === 'founded') {
+            filtered.sort((a, b) => a.foundedYear - b.foundedYear);
+        } else if (sortMode === 'church') {
+            filtered.sort((a, b) => a.churchYear - b.churchYear);
+        }
+
+        renderGrid(filtered);
+    }
+
+    function resetSearch() {
+        searchInput.value = '';
+        sortSelect.value = 'name';
+        filterAndSort();
+    }
+
+    // --- 5. Initialization ---
+    
+    document.addEventListener('DOMContentLoaded', () => {
+        initCharts();
+        renderGrid(processedData); // Initial render
+
+        // Event Listeners
+        searchInput.addEventListener('input', filterAndSort);
+        sortSelect.addEventListener('change', filterAndSort);
+    });
+
+</script>
+
+```
+
+</body>
+</html>
