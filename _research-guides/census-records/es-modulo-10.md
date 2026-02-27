@@ -13,37 +13,151 @@ last_modified_at: 2026-02-26
 
 ---
 
-<span class="badge badge-coming-soon">Próximamente</span>
+## Objetivos de Aprendizaje
 
-Este módulo está en desarrollo. El contenido completo cubrirá:
+Al finalizar este módulo, podrás:
 
-- Cómo usar herramientas de IA (ChatGPT, Claude y otras) para comparar datos en múltiples años censales
-- Estrategias de indicaciones (*prompts*) para extraer y organizar datos censales
-- Uso de IA para identificar discrepancias de edad, variaciones de nombres y patrones de migración
-- Limitaciones de la IA en la investigación genealógica: cuándo no confiar en las conclusiones de la IA
-- Cumplimiento del GPS cuando se usa análisis asistido por IA
+- Identificar qué pueden y qué no pueden hacer las herramientas de IA en la investigación genealógica de registros censales
+- Aplicar flujos de trabajo prácticos de IA para extraer, comparar y organizar datos censales
+- Redactar indicaciones (*prompts*) efectivas para tareas de análisis censal
+- Reconocer y protegerte contra la alucinación de la IA
+- Mantener el cumplimiento del GPS en la investigación asistida por IA
 
 ---
 
-## Una Nota sobre la IA y el GPS
+## Qué Puede y Qué No Puede Hacer la IA
 
-Las herramientas de IA pueden acelerar la organización de datos y el reconocimiento de patrones, pero no reemplazan el juicio genealógico. Cualquier conclusión asistida por IA todavía debe cumplir con los cinco elementos del Estándar de Prueba Genealógica:
+### Lo Que la IA Hace Bien
 
-1. Investigación razonablemente exhaustiva
-2. Citas completas y precisas
-3. Análisis exhaustivo de cada fuente
-4. Resolución de evidencia conflictiva
-5. Una conclusión razonada y coherentemente escrita
+Las herramientas de IA son más útiles para organizar, formatear y detectar patrones en el texto que tú proporcionas:
 
-La IA puede ayudarte a organizar datos de manera más eficiente. El razonamiento, la evaluación de fuentes y la conclusión final siguen siendo tuyos.
+- Extraer datos estructurados de transcripciones de registros censales y formatearlos como tabla
+- Comparar múltiples entradas censales de la misma familia e identificar discrepancias de edad
+- Calcular años de nacimiento implícitos a partir de edades reportadas en múltiples años censales
+- Traducir encabezados de columnas en español y terminología genealógica
+- Sugerir variaciones ortográficas y anglicizaciones de nombres en español
+- Explicar el contexto histórico de las categorías censales (clasificación racial, términos ocupacionales)
+- Ayudar a redactar resúmenes narrativos a partir de tablas de datos que ya hayas elaborado
 
-Para más información sobre el uso de IA en la investigación genealógica, consulta los recursos de **[Teaching Genealogists AI](https://puertoricangenealogy.org/es/ia-genealogia/)** disponibles en este sitio web.
+### Lo Que la IA No Puede Hacer
+
+- **Buscar en bases de datos.** Las herramientas de IA no pueden buscar en FamilySearch, Ancestry ni en el AGPR. Solo trabajan con el texto que tú proporcionas.
+- **Leer imágenes de forma confiable.** No pegues imágenes de censos y pidas a la IA que las transcriba sin verificar cada carácter contra el original.
+- **Saber qué registros existen.** Una herramienta de IA no puede decirte si un registro específico sobrevive para un municipio determinado.
+- **Citar registros.** El resultado de la IA no es una fuente genealógica y no puede citarse.
+- **Evitar alucinaciones.** Las herramientas de IA generan información que suena plausible pero que a veces es completamente falsa. Ver más abajo.
+
+---
+
+## Cumplimiento del GPS al Usar IA
+
+Cualquier conclusión alcanzada con asistencia de IA debe cumplir con los cinco elementos del Estándar de Prueba Genealógica:
+
+1. **Investigación razonablemente exhaustiva** — La IA no busca por ti. Realiza las búsquedas en los repositorios correspondientes.
+2. **Citas completas y precisas** — Cita el registro censal original, no el resultado de la IA.
+3. **Análisis exhaustivo de cada fuente** — El análisis de Tres Capas (tipo de fuente, calidad de la información, valor de la evidencia) es tu responsabilidad.
+4. **Resolución de evidencia conflictiva** — La IA puede señalar discrepancias; tú razonas la resolución.
+5. **Una conclusión razonada y coherentemente escrita** — La IA puede ayudar a redactar; la lógica y la interpretación son tuyas.
+
+> **Regla fundamental:** La IA es una herramienta de organización de datos. No es una autoridad de investigación. Trata el resultado de la IA como un punto de partida, no como una conclusión.
+
+---
+
+## Flujos de Trabajo Prácticos
+
+### Extracción de Datos de Múltiples Años
+
+Transcribe las entradas censales a partir de las imágenes originales, pégalas en la IA con una indicación clara, pide una tabla de comparación estructurada y verifica cada celda contra tus transcripciones antes de usar la tabla.
+
+### Análisis de Discrepancias de Edad
+
+Proporciona el nombre, el año censal y la edad reportada para cada entrada. Pide a la IA que calcule los años de nacimiento implícitos e identifique discrepancias mayores de 3 años. Usa las discrepancias señaladas como puntos de partida para investigación adicional.
+
+### Traducción de Terminología en Español
+
+Lista los términos que necesitas traducir y pide a la IA que proporcione traducciones junto con el contexto histórico. Verifica los términos históricos desconocidos contra una fuente de referencia como *Evidence Explained* de Elizabeth Shown Mills o el wiki de FamilySearch.
+
+### Generación de Variaciones de Nombres
+
+Proporciona el nombre original en español y pide a la IA que liste posibles anglicizaciones, abreviaciones y errores ortográficos fonéticos que podrían aparecer en los censos federales de EE.UU. Usa la lista para realizar búsquedas adicionales y verifica cada resultado.
+
+### Resumen de Patrones de Migración
+
+Proporciona el campo "dónde vivía hace 5 años" del censo de 1940 para cada miembro del hogar y pide a la IA que resuma el patrón de movimiento. Trata el resumen como una herramienta de organización, no como evidencia.
+
+---
+
+## Estructura Efectiva de una Indicación (*Prompt*)
+
+Toda indicación efectiva para trabajo censal tiene tres partes:
+
+**Contexto:** Dile a la IA con qué estás trabajando.
+> "Estoy haciendo investigación genealógica puertorriqueña. Tengo entradas censales del mismo individuo de 1910, 1920 y 1930."
+
+**Tarea:** Dile a la IA exactamente qué hacer.
+> "Crea una tabla comparativa con una fila por año censal. Incluye: nombre tal como fue registrado, edad, año de nacimiento implícito, miembros del hogar y municipio/barrio."
+
+**Restricciones:** Dile a la IA qué no agregar.
+> "Usa solo la información que te proporciono. Si falta un campo en mis datos, déjalo en blanco."
+
+---
+
+## El Problema de la Alucinación
+
+Las herramientas de IA predicen palabras basándose en patrones; no buscan información y no saben cuándo se equivocan. En la investigación genealógica, la alucinación es especialmente peligrosa porque los datos inventados se ven idénticos a los datos reales en el resultado de la IA.
+
+**Riesgos comunes de alucinación:**
+
+- Identificadores de colecciones de FamilySearch o números de registros de Ancestry falsos
+- Entradas censales o fechas de nacimiento inventadas
+- Datos históricos incorrectos presentados con confianza
+
+**Cómo protegerte:**
+
+- Nunca le pidas a la IA que te diga qué registros existen para una persona o lugar específico: usa los repositorios directamente
+- Verifica cada dato que la IA devuelve contra el documento que tú proporcionaste
+- Si la IA introduce un nombre, fecha o detalle que no estaba en tu indicación, investígalo antes de confiar en él
+- Trata el resultado de la IA como un borrador que debe verificarse, no como un hallazgo que puede publicarse
+
+> **Regla práctica:** Si no lo pusiste en la indicación y la IA lo agregó al resultado, verifícalo antes de usarlo.
+
+---
+
+## Dónde Encaja la IA en Tu Flujo de Trabajo
+
+| Etapa de Investigación | Rol de la IA | Tu Rol |
+| --- | --- | --- |
+| Búsqueda en repositorios | Ninguno | Tú buscas en FamilySearch, Ancestry, AGPR |
+| Transcripción de registros | Solo verificación | Tú transcribes desde las imágenes originales |
+| Organización de datos | Fuerte: tablas, comparaciones | Tú verificas cada celda |
+| Traducción de terminología | Útil; verifica términos desconocidos | Tú confirmas contra fuentes de referencia |
+| Análisis de discrepancias | Útil; señala inconsistencias | Tú razonas la resolución |
+| Redacción de citas | Ninguno | Tú redactas cada cita |
+| Elaboración de conclusiones | Ninguno | Tú redactas la conclusión razonada |
+
+---
+
+## Herramientas de IA para la Investigación Genealógica
+
+| Herramienta | Acceso | Notas |
+| --- | --- | --- |
+| <a href="https://claude.ai/" target="_blank" rel="noopener noreferrer"><em>Claude (Anthropic)</em></a> | Versión gratuita; suscripción para uso extendido | Excelente en tareas de datos estructurados e instrucciones precisas |
+| <a href="https://chat.openai.com/" target="_blank" rel="noopener noreferrer"><em>ChatGPT (OpenAI)</em></a> | Versión gratuita; suscripción para GPT-4 | Ampliamente utilizado; bueno en traducción y formato de tablas |
+| <a href="https://gemini.google.com/" target="_blank" rel="noopener noreferrer"><em>Gemini (Google)</em></a> | Versión gratuita disponible | Útil para traducción; se integra con Google Workspace |
+
+Las tres comparten la misma limitación fundamental: ninguna puede buscar en bases de datos genealógicas. Para más información sobre cómo evaluar herramientas de IA, consulta los recursos de <a href="https://puertoricangenealogy.org/es/ia-genealogia/" target="_blank" rel="noopener noreferrer"><em>Teaching Genealogists AI</em></a> en este sitio web.
+
+---
+
+## Curso Completado
+
+Este es el módulo final de *Registros Censales para la Genealogía Puertorriqueña*. Has recorrido el arco completo desde los padrones coloniales españoles hasta el análisis asistido por IA, siempre dentro de un marco de investigación conforme al GPS. Regresa al [Resumen del Curso](/es/guias-investigacion/registros-censales/) para ver la lista completa de módulos y las hojas de trabajo descargables.
 
 ---
 
 *[← Módulo 9](/es/guias-investigacion/registros-censales-modulo-9/) · [Resumen del Curso](/es/guias-investigacion/registros-censales/)*
 
-<a href="/assets/pdfs/census-records/Module_10_AI_Census_Analysis.pdf" target="_blank" rel="noopener noreferrer">⬇ Descargar módulo 10 (marco de referencia, PDF EN)</a>
+<a href="/assets/pdfs/census-records/Module_10_AI_Census_Analysis.pdf" target="_blank" rel="noopener noreferrer">⬇ Descargar este módulo como PDF (EN)</a>
 
 ---
 
