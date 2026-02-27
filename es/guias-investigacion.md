@@ -95,12 +95,19 @@ La genealogía puertorriqueña presenta desafíos únicos: documentos en españo
 
 <div class="card">
 <h3>Registros Censales</h3>
-<span class="badge badge-partial">📋 Orientación Disponible</span>
-<p>Encuentra a tus antepasados en las enumeraciones censales de Puerto Rico.</p>
+<span class="badge badge-available">✓ Curso Completo Disponible</span>
+<p>Un curso avanzado de diez módulos sobre cómo localizar, analizar y correlacionar registros censales puertorriqueños en tres eras políticas: Colonial Española, Militar Estadounidense (1899) y Federal Estadounidense (1910–1950).</p>
 <ul>
-  <li><a href="#censo-espanol">Censo Colonial Español</a></li>
-  <li><a href="https://www.familysearch.org/en/wiki/Puerto_Rico_Census" target="_blank" rel="noopener noreferrer"><em>Censo Federal de EE.UU. en Puerto Rico</em></a></li>
-  <li><a href="#municipal">Registros Censales Municipales</a></li>
+  <li><a href="/es/guias-investigacion/registros-censales/">Resumen del Curso</a></li>
+  <li><a href="/es/guias-investigacion/registros-censales-modulo-1/">Módulo 1 — Historia del Censo y Contexto Político</a></li>
+  <li><a href="/es/guias-investigacion/registros-censales-modulo-2/">Módulo 2 — Censo Colonial Español y Padrones</a></li>
+  <li><a href="/es/guias-investigacion/registros-censales-modulo-3/">Módulo 3 — El Censo Militar de 1899</a></li>
+  <li><a href="/es/guias-investigacion/registros-censales-modulo-6/">Módulo 6 — Raza y Clasificación Social</a></li>
+  <li><a href="/es/guias-investigacion/registros-censales-modulo-7/">Módulo 7 — Patrones de Migración</a></li>
+  <li><a href="/es/guias-investigacion/registros-censales-modulo-8/">Módulo 8 — Correlación de Censos con Registros Civiles</a></li>
+  <li><a href="/es/guias-investigacion/registros-censales-modulo-9/">Módulo 9 — Restricciones de Acceso Parroquial</a></li>
+  <li><a href="/assets/pdfs/census-records/Course_Overview.pdf" target="_blank">⬇ Descripción del Curso (PDF)</a></li>
+  <li><a href="/assets/pdfs/census-records/GPS_Foundation.pdf" target="_blank">⬇ Referencia: Estándar GPS (PDF)</a></li>
 </ul>
 </div>
 

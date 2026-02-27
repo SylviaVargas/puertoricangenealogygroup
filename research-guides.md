@@ -95,12 +95,19 @@ Puerto Rican genealogy comes with unique challenges — Spanish-language records
 
 <div class="card">
 <h3>Census Records</h3>
-<span class="badge badge-partial">📋 Overview Available</span>
-<p>Find your ancestors in Puerto Rican census enumerations.</p>
+<span class="badge badge-available">✓ Full Course Available</span>
+<p>A ten-module advanced course on locating, analyzing, and correlating Puerto Rican census records across three political eras: Spanish Colonial, U.S. Military (1899), and U.S. Federal (1910–1950).</p>
 <ul>
-  <li><a href="#spanish-census">Spanish Colonial Census</a></li>
-  <li><a href="https://www.familysearch.org/en/wiki/Puerto_Rico_Census" target="_blank" rel="noopener noreferrer"><em>U.S. Federal Census in Puerto Rico</em></a></li>
-  <li><a href="#municipal">Municipal Census Records</a></li>
+  <li><a href="/research-guides/census-records/">Course Overview</a></li>
+  <li><a href="/research-guides/census-records-module-1/">Module 1 — Census History & Political Context</a></li>
+  <li><a href="/research-guides/census-records-module-2/">Module 2 — Spanish Colonial Census & Padrones</a></li>
+  <li><a href="/research-guides/census-records-module-3/">Module 3 — The 1899 U.S. Military Census</a></li>
+  <li><a href="/research-guides/census-records-module-6/">Module 6 — Race & Social Classification</a></li>
+  <li><a href="/research-guides/census-records-module-7/">Module 7 — Migration Patterns</a></li>
+  <li><a href="/research-guides/census-records-module-8/">Module 8 — Correlating Census with Civil Records</a></li>
+  <li><a href="/research-guides/census-records-module-9/">Module 9 — Handling Parish Access Limitations</a></li>
+  <li><a href="/assets/pdfs/census-records/Course_Overview.pdf" target="_blank">⬇ Course Overview (PDF)</a></li>
+  <li><a href="/assets/pdfs/census-records/GPS_Foundation.pdf" target="_blank">⬇ GPS Foundation Reference (PDF)</a></li>
 </ul>
 </div>
 
