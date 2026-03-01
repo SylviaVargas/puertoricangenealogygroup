@@ -84,11 +84,14 @@ Tómate 2 minutos ahora para crear tu cuenta gratuita en FamilySearch.org. La ne
 ## Materiales Complementarios
 
 - [Tarjeta de Referencia Rápida (PDF)](/assets/pdfs/getting-started/ES_Tarjeta_de_Referencia_Rapida.pdf) — Resumen imprimible de una página de los 4 módulos y las 5 preguntas básicas de investigación
+- [Lista de Verificación de Configuración de Cuenta (PDF)](/assets/pdfs/getting-started/ES_Account_Setup_Checklist.pdf) — Lista paso a paso para configurar tu cuenta de FamilySearch y realizar tu primera búsqueda
 - [Plantillas de Google Sheets (PDF)](/assets/pdfs/getting-started/ES_Plantillas_de_Google_Sheets.pdf) — Especificaciones para tres hojas de cálculo listas para usar: Rastreador de Información Familiar, Registro de Investigación y Lista de Verificación de Documentos
 
 ---
 
 ## Recursos Gratuitos Clave para la Investigación Puertorriqueña
+
+> **Antes de hacer clic:** Para ver las imágenes de los registros en estas colecciones, necesitas una cuenta gratuita de FamilySearch. ¿No sabes por dónde empezar? [Consulta la comparación de plataformas y la guía de configuración de cuenta →](/es/guias-investigacion/primeros-pasos/#cuenta)
 
 | Recurso | Lo Que Ofrece |
 |---------|---------------|

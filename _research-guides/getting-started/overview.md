@@ -84,11 +84,14 @@ Take 2 minutes right now to create your free account at FamilySearch.org. You wi
 ## Companion Materials
 
 - [Quick Reference Card (PDF)](/assets/pdfs/getting-started/Quick_Reference_Card.pdf) — Printable one-page summary of all 4 modules and the 5 beginner research questions
+- [Account Setup Checklist (PDF)](/assets/pdfs/getting-started/Account_Setup_Checklist.pdf) — Step-by-step checklist for setting up your FamilySearch account and making your first search
 - [Google Sheets Templates (PDF)](/assets/pdfs/getting-started/Google_Sheets_Templates.pdf) — Specifications for three ready-to-use spreadsheets: Family Information Tracker, Research Log, and Document Checklist
 
 ---
 
 ## Key Free Resources for Puerto Rican Research
+
+> **Before you click:** To view record images in these collections, you will need a free FamilySearch account. Not sure where to start? [See the platform comparison and account setup guide →](/research-guides/getting-started-intro/#account)
 
 | Resource | What It Offers |
 |----------|---------------|
