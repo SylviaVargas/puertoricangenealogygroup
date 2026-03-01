@@ -61,6 +61,7 @@ Tools, templates, and guides to help you organize and document your Puerto Rican
 <p><strong>Includes:</strong> Foundation dates, parish names, how far back records extend, and mother town relationships</p>
 <ul>
 <li><a href="/tools/municipality-guide/">Open the Municipality Guide</a></li>
+<li><a href="/assets/pdfs/tools/Municipality_Guide.pdf" target="_blank">&#8595; Download as PDF (landscape cheat sheet)</a></li>
 </ul>
 </div>
 

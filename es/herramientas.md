@@ -61,6 +61,7 @@ Herramientas, plantillas y guías para ayudarte a organizar y documentar tu inve
 <p><strong>Incluye:</strong> Fechas de fundación, nombres de parroquias, hasta cuándo se remontan los registros y relaciones con el pueblo madre</p>
 <ul>
 <li><a href="/es/herramientas/guia-municipios/">Abrir la Guía de Municipios</a></li>
+<li><a href="/assets/pdfs/tools/ES_Guia_Municipios.pdf" target="_blank">&#8595; Descargar como PDF (hoja de referencia)</a></li>
 </ul>
 </div>
 
