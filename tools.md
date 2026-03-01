@@ -4,7 +4,7 @@ title: Tools
 lang: en
 permalink: /tools/
 ref: tools
-last_modified_at: 2026-02-07
+last_modified_at: 2026-02-28
 ---
 
 ## Tools
@@ -13,43 +13,111 @@ Tools, templates, and guides to help you organize and document your Puerto Rican
 
 ---
 
-### Research Planning
+### Available Tools
 
 <div class="card-grid">
 
 <div class="card">
 <h3>Research Log</h3>
 <span class="badge badge-available">✓ Available</span>
+<span class="badge badge-interactive">Interactive</span>
 <p>Track your searches systematically to avoid duplicating effort and document negative searches.</p>
 <p><strong>Includes:</strong> Date, repository, purpose, results, next steps — with browser-based storage and text export</p>
 <ul>
 <li><a href="/research-log/">Open the Research Log</a></li>
+<li><em>New to logging? See <a href="/research-guides/getting-started-module-4/">Module 4: Keep a Research Log</a> in our Getting Started guide.</em></li>
 </ul>
 </div>
 
 <div class="card">
-<h3>Research Plan Worksheet</h3>
-<p>Plan your research strategy by identifying goals, sources to search, and questions to answer.</p>
-<p><strong>Includes:</strong> Research question, known facts, sources to search, timeline</p>
-<span class="badge badge-coming-soon">🔜 Coming Soon</span>
+<h3>Family Group Sheet</h3>
+<span class="badge badge-available">✓ Available</span>
+<span class="badge badge-interactive">Interactive</span>
+<p>Standard form for documenting a nuclear family with source citations.</p>
+<p><strong>Includes:</strong> Parents, children, vital events, sources</p>
+<ul>
+<li><a href="/tools/family-group-sheet/">Open the Family Group Sheet</a></li>
+</ul>
+</div>
+
+<div class="card">
+<h3>Genealogical Spanish Glossary</h3>
+<span class="badge badge-available">✓ Available</span>
+<span class="badge badge-pdf">PDF</span>
+<p>Common Spanish terms found in Puerto Rican genealogical records.</p>
+<p><strong>Includes:</strong> Vital record terms, relationship terms, occupations, locations</p>
+<ul>
+<li><a href="/research-guides/genealogical-spanish-glossary/">Browse the Glossary</a></li>
+<li><a href="/assets/pdfs/tools/Genealogical_Spanish_Glossary.pdf" target="_blank">⬇ Download as PDF</a></li>
+<li><em>Using these terms in records? Our <a href="/research-guides/navigating-civil-records/">Navigating Civil Records</a> course shows them in context.</em></li>
+</ul>
 </div>
 
 </div>
 
 ---
 
-### Documentation Templates
+### External Resources
+
+Curated third-party tools that complement our collection while custom resources are in development.
 
 <div class="card-grid">
 
 <div class="card">
-<h3>Family Group Sheet</h3>
-<span class="badge badge-available">✓ Available</span>
-<p>Standard form for documenting a nuclear family with source citations.</p>
-<p><strong>Includes:</strong> Parents, children, vital events, sources</p>
+<h3>BYU Spanish Script Tutorial</h3>
+<span class="badge badge-external">External</span>
+<p>The gold standard for learning colonial Spanish handwriting. Essential for reading Puerto Rican parish and civil records.</p>
+<p><strong>Best for:</strong> Letter forms, abbreviations, and regional script variations</p>
 <ul>
-<li><a href="/tools/family-group-sheet/">Open the Family Group Sheet</a></li>
+<li><a href="https://script.byu.edu/spanish-handwriting/introduction" target="_blank" rel="noopener noreferrer"><em>Open BYU Spanish Script Tutorial</em></a></li>
 </ul>
+</div>
+
+<div class="card">
+<h3>DNA Painter: What Are the Odds? (WATO)</h3>
+<span class="badge badge-external">External</span>
+<p>An interactive tool for evaluating DNA match hypotheses using probability modeling.</p>
+<p><strong>Best for:</strong> Testing whether a DNA match fits a proposed family relationship</p>
+<ul>
+<li><a href="https://dnapainter.com/tools/wato" target="_blank" rel="noopener noreferrer"><em>Open DNA Painter WATO</em></a></li>
+</ul>
+</div>
+
+<div class="card">
+<h3>Evidence Explained</h3>
+<span class="badge badge-external">External</span>
+<p>The authoritative reference for source citation in genealogical research, by Elizabeth Shown Mills.</p>
+<p><strong>Best for:</strong> Citation models for Puerto Rican civil, church, and colonial records</p>
+<ul>
+<li><a href="https://www.evidenceexplained.com/" target="_blank" rel="noopener noreferrer"><em>Visit Evidence Explained</em></a></li>
+</ul>
+</div>
+
+<div class="card">
+<h3>FamilySearch: Puerto Rico Records</h3>
+<span class="badge badge-external">External</span>
+<p>Free access to digitized Puerto Rican civil registration, Catholic church records, and more.</p>
+<p><strong>Includes:</strong> Civil Registration 1885–2001, Catholic Church Records 1645–2021</p>
+<ul>
+<li><a href="https://www.familysearch.org/search/place/results?placeId=11543&view=records&access=all" target="_blank" rel="noopener noreferrer"><em>Browse All Puerto Rico Records</em></a></li>
+</ul>
+</div>
+
+</div>
+
+---
+
+### Resources in Development
+
+The following tools are planned for our collection. Check back as we build them out.
+
+<div class="card-grid">
+
+<div class="card">
+<h3>Research Plan Worksheet</h3>
+<p>Plan your research strategy by identifying goals, sources to search, and questions to answer.</p>
+<p><strong>Includes:</strong> Research question, known facts, sources to search, timeline</p>
+<span class="badge badge-coming-soon">🔜 Coming Soon</span>
 </div>
 
 <div class="card">
@@ -73,30 +141,11 @@ Tools, templates, and guides to help you organize and document your Puerto Rican
 <span class="badge badge-coming-soon">🔜 Coming Soon</span>
 </div>
 
-</div>
-
----
-
-### Puerto Rico-Specific Tools
-
-<div class="card-grid">
-
 <div class="card">
 <h3>Spanish Paleography Guide</h3>
-<p>Learn to read old Spanish handwriting found in colonial records.</p>
-<p><strong>Includes:</strong> Common letter forms, abbreviations, examples</p>
+<p>Learn to read old Spanish handwriting found in colonial records, with Puerto Rico-specific examples.</p>
+<p><strong>Includes:</strong> Common letter forms, abbreviations, examples from Puerto Rican records</p>
 <span class="badge badge-coming-soon">🔜 Coming Soon</span>
-</div>
-
-<div class="card">
-<h3>Genealogical Spanish Glossary</h3>
-<span class="badge badge-available">✓ Available</span>
-<p>Common Spanish terms found in Puerto Rican genealogical records.</p>
-<p><strong>Includes:</strong> Vital record terms, relationship terms, occupations, locations</p>
-<ul>
-<li><a href="/research-guides/genealogical-spanish-glossary/">Browse the Glossary</a></li>
-<li><a href="/assets/pdfs/tools/Genealogical_Spanish_Glossary.pdf" target="_blank">⬇ Download as PDF</a></li>
-</ul>
 </div>
 
 <div class="card">
@@ -112,14 +161,6 @@ Tools, templates, and guides to help you organize and document your Puerto Rican
 <span class="badge badge-coming-soon">🔜 Coming Soon</span>
 </div>
 
-</div>
-
----
-
-### GPS Compliance Tools
-
-<div class="card-grid">
-
 <div class="card">
 <h3>Proof Summary Template</h3>
 <p>Document simple conclusions with direct evidence and minor conflicts.</p>
@@ -134,14 +175,6 @@ Tools, templates, and guides to help you organize and document your Puerto Rican
 <span class="badge badge-coming-soon">🔜 Coming Soon</span>
 </div>
 
-</div>
-
----
-
-### DNA Research Tools
-
-<div class="card-grid">
-
 <div class="card">
 <h3>DNA Match Tracking Spreadsheet</h3>
 <p>Organize your DNA matches and track your analysis progress.</p>
@@ -151,11 +184,15 @@ Tools, templates, and guides to help you organize and document your Puerto Rican
 
 <div class="card">
 <h3>What Are the Odds? (WATO) Guide</h3>
-<p>Introduction to using DNA evidence with the WATO tool.</p>
+<p>Our step-by-step guide to using DNA evidence with the WATO method, tailored for Puerto Rican families.</p>
 <span class="badge badge-coming-soon">🔜 Coming Soon</span>
 </div>
 
 </div>
+
+---
+
+[Back to top](#tools)
 
 ---
 

@@ -4,7 +4,7 @@ title: Herramientas
 lang: es
 permalink: /es/herramientas/
 ref: tools
-last_modified_at: 2026-02-07
+last_modified_at: 2026-02-28
 ---
 
 ## Herramientas
@@ -13,43 +13,111 @@ Herramientas, plantillas y guías para ayudarte a organizar y documentar tu inve
 
 ---
 
-### Planificación de Investigación
+### Herramientas Disponibles
 
 <div class="card-grid">
 
 <div class="card">
 <h3>Registro de Investigación</h3>
 <span class="badge badge-available">✓ Disponible</span>
+<span class="badge badge-interactive">Interactivo</span>
 <p>Rastrea tus búsquedas sistemáticamente para evitar duplicar esfuerzos y documentar búsquedas negativas.</p>
 <p><strong>Incluye:</strong> Fecha, repositorio, propósito, resultados, próximos pasos — con almacenamiento en el navegador y exportación de texto</p>
 <ul>
 <li><a href="/es/registro-investigacion/">Abrir el Registro de Investigación</a></li>
+<li><em>¿Nuevo en el registro? Ver el <a href="/es/guias-investigacion/modulo-4/">Módulo 4: Lleva un Registro de Investigación</a> de nuestra guía Para Empezar.</em></li>
 </ul>
 </div>
 
 <div class="card">
-<h3>Hoja de Trabajo del Plan de Investigación</h3>
-<p>Planifica tu estrategia de investigación identificando metas, fuentes a buscar y preguntas a responder.</p>
-<p><strong>Incluye:</strong> Pregunta de investigación, hechos conocidos, fuentes a buscar, cronograma</p>
-<span class="badge badge-coming-soon">🔜 Próximamente</span>
+<h3>Hoja de Grupo Familiar</h3>
+<span class="badge badge-available">✓ Disponible</span>
+<span class="badge badge-interactive">Interactivo</span>
+<p>Formulario estándar para documentar una familia nuclear con citas de fuentes.</p>
+<p><strong>Incluye:</strong> Padres, hijos, eventos vitales, fuentes</p>
+<ul>
+<li><a href="/es/hoja-de-grupo-familiar/">Abrir la Hoja de Grupo Familiar</a></li>
+</ul>
+</div>
+
+<div class="card">
+<h3>Glosario de Español Genealógico</h3>
+<span class="badge badge-available">✓ Disponible</span>
+<span class="badge badge-pdf">PDF</span>
+<p>Términos comunes en español encontrados en registros genealógicos puertorriqueños.</p>
+<p><strong>Incluye:</strong> Términos de registros vitales, términos de parentesco, ocupaciones, lugares</p>
+<ul>
+<li><a href="/es/guias-investigacion/glosario-espanol-genealogico/">Ver el Glosario</a></li>
+<li><a href="/assets/pdfs/tools/ES_Glosario_Espanol_Genealogico.pdf" target="_blank">⬇ Descargar como PDF</a></li>
+<li><em>¿Usando estos términos en registros? Nuestro curso <a href="/es/guias-investigacion/navegar-registros-civiles/">Navegar los Registros Civiles</a> los muestra en contexto.</em></li>
+</ul>
 </div>
 
 </div>
 
 ---
 
-### Plantillas de Documentación
+### Recursos Externos
+
+Herramientas de terceros seleccionadas que complementan nuestra colección mientras desarrollamos recursos propios.
 
 <div class="card-grid">
 
 <div class="card">
-<h3>Hoja de Grupo Familiar</h3>
-<span class="badge badge-available">✓ Disponible</span>
-<p>Formulario estándar para documentar una familia nuclear con citas de fuentes.</p>
-<p><strong>Incluye:</strong> Padres, hijos, eventos vitales, fuentes</p>
+<h3>Tutorial de Escritura Española de BYU</h3>
+<span class="badge badge-external">Externo</span>
+<p>El recurso estándar para aprender la escritura española colonial. Esencial para leer registros parroquiales y civiles puertorriqueños. <em>(En inglés)</em></p>
+<p><strong>Ideal para:</strong> Formas de letras, abreviaturas y variaciones regionales de escritura</p>
 <ul>
-<li><a href="/es/hoja-de-grupo-familiar/">Abrir la Hoja de Grupo Familiar</a></li>
+<li><a href="https://script.byu.edu/spanish-handwriting/introduction" target="_blank" rel="noopener noreferrer"><em>Abrir el Tutorial de BYU</em></a></li>
 </ul>
+</div>
+
+<div class="card">
+<h3>DNA Painter: What Are the Odds? (WATO)</h3>
+<span class="badge badge-external">Externo</span>
+<p>Herramienta interactiva para evaluar hipótesis sobre coincidencias de ADN usando modelos de probabilidad. <em>(En inglés)</em></p>
+<p><strong>Ideal para:</strong> Probar si una coincidencia de ADN corresponde a una relación familiar propuesta</p>
+<ul>
+<li><a href="https://dnapainter.com/tools/wato" target="_blank" rel="noopener noreferrer"><em>Abrir DNA Painter WATO</em></a></li>
+</ul>
+</div>
+
+<div class="card">
+<h3>Evidence Explained</h3>
+<span class="badge badge-external">Externo</span>
+<p>La referencia autorizada para la citación de fuentes en investigación genealógica, por Elizabeth Shown Mills. <em>(En inglés)</em></p>
+<p><strong>Ideal para:</strong> Modelos de citación para registros civiles, eclesiásticos y coloniales de Puerto Rico</p>
+<ul>
+<li><a href="https://www.evidenceexplained.com/" target="_blank" rel="noopener noreferrer"><em>Visitar Evidence Explained</em></a></li>
+</ul>
+</div>
+
+<div class="card">
+<h3>FamilySearch: Registros de Puerto Rico</h3>
+<span class="badge badge-external">Externo</span>
+<p>Acceso gratuito a registros digitalizados de Puerto Rico: registro civil, iglesia católica y más.</p>
+<p><strong>Incluye:</strong> Registro Civil 1885-2001, Registros de la Iglesia Católica 1645-2021</p>
+<ul>
+<li><a href="https://www.familysearch.org/search/place/results?placeId=11543&view=records&access=all" target="_blank" rel="noopener noreferrer"><em>Ver Todos los Registros de Puerto Rico</em></a></li>
+</ul>
+</div>
+
+</div>
+
+---
+
+### Recursos en Desarrollo
+
+Las siguientes herramientas están planificadas para nuestra colección. Vuelve pronto para ver su avance.
+
+<div class="card-grid">
+
+<div class="card">
+<h3>Hoja de Trabajo del Plan de Investigación</h3>
+<p>Planifica tu estrategia de investigación identificando metas, fuentes a buscar y preguntas a responder.</p>
+<p><strong>Incluye:</strong> Pregunta de investigación, hechos conocidos, fuentes a buscar, cronograma</p>
+<span class="badge badge-coming-soon">🔜 Próximamente</span>
 </div>
 
 <div class="card">
@@ -73,30 +141,11 @@ Herramientas, plantillas y guías para ayudarte a organizar y documentar tu inve
 <span class="badge badge-coming-soon">🔜 Próximamente</span>
 </div>
 
-</div>
-
----
-
-### Herramientas Específicas de Puerto Rico
-
-<div class="card-grid">
-
 <div class="card">
 <h3>Guía de Paleografía Española</h3>
-<p>Aprende a leer la antigua escritura española encontrada en registros coloniales.</p>
-<p><strong>Incluye:</strong> Formas comunes de letras, abreviaturas, ejemplos</p>
+<p>Aprende a leer la antigua escritura española encontrada en registros coloniales, con ejemplos específicos de Puerto Rico.</p>
+<p><strong>Incluye:</strong> Formas comunes de letras, abreviaturas, ejemplos de registros puertorriqueños</p>
 <span class="badge badge-coming-soon">🔜 Próximamente</span>
-</div>
-
-<div class="card">
-<h3>Glosario de Español Genealógico</h3>
-<span class="badge badge-available">✓ Disponible</span>
-<p>Términos comunes en español encontrados en registros genealógicos puertorriqueños.</p>
-<p><strong>Incluye:</strong> Términos de registros vitales, términos de parentesco, ocupaciones, lugares</p>
-<ul>
-<li><a href="/es/guias-investigacion/glosario-espanol-genealogico/">Ver el Glosario</a></li>
-<li><a href="/assets/pdfs/tools/ES_Glosario_Espanol_Genealogico.pdf" target="_blank">⬇ Descargar como PDF</a></li>
-</ul>
 </div>
 
 <div class="card">
@@ -112,14 +161,6 @@ Herramientas, plantillas y guías para ayudarte a organizar y documentar tu inve
 <span class="badge badge-coming-soon">🔜 Próximamente</span>
 </div>
 
-</div>
-
----
-
-### Herramientas de Cumplimiento GPS
-
-<div class="card-grid">
-
 <div class="card">
 <h3>Plantilla de Resumen de Prueba</h3>
 <p>Documenta conclusiones simples con evidencia directa y conflictos menores.</p>
@@ -134,14 +175,6 @@ Herramientas, plantillas y guías para ayudarte a organizar y documentar tu inve
 <span class="badge badge-coming-soon">🔜 Próximamente</span>
 </div>
 
-</div>
-
----
-
-### Herramientas de Investigación de ADN
-
-<div class="card-grid">
-
 <div class="card">
 <h3>Hoja de Cálculo de Seguimiento de Coincidencias de ADN</h3>
 <p>Organiza tus coincidencias de ADN y rastrea el progreso de tu análisis.</p>
@@ -151,11 +184,15 @@ Herramientas, plantillas y guías para ayudarte a organizar y documentar tu inve
 
 <div class="card">
 <h3>Guía de What Are the Odds? (WATO)</h3>
-<p>Introducción al uso de evidencia de ADN con la herramienta WATO.</p>
+<p>Nuestra guía paso a paso para usar evidencia de ADN con el método WATO, adaptada para familias puertorriqueñas.</p>
 <span class="badge badge-coming-soon">🔜 Próximamente</span>
 </div>
 
 </div>
+
+---
+
+[Volver al inicio](#herramientas)
 
 ---
 

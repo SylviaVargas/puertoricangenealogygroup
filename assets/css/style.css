@@ -546,6 +546,21 @@ a:hover {
   color: #383d41;
 }
 
+.badge-interactive {
+  background: #cce5ff;
+  color: #004085;
+}
+
+.badge-pdf {
+  background: #f5e6d3;
+  color: #7a4f1f;
+}
+
+.badge-external {
+  background: #d1ecf1;
+  color: #0c5460;
+}
+
 /* ===== Meeting Card ===== */
 .meeting-card {
   background: linear-gradient(135deg, var(--color-navy) 0%, #2c5282 100%);
