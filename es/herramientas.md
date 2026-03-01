@@ -53,6 +53,17 @@ Herramientas, plantillas y guías para ayudarte a organizar y documentar tu inve
 </ul>
 </div>
 
+<div class="card">
+<h3>Guía de Municipios de Puerto Rico</h3>
+<span class="badge badge-available">✓ Disponible</span>
+<span class="badge badge-interactive">Interactivo</span>
+<p>Los 78 municipios con información de parroquias y registro civil.</p>
+<p><strong>Incluye:</strong> Fechas de fundación, nombres de parroquias, hasta cuándo se remontan los registros y relaciones con el pueblo madre</p>
+<ul>
+<li><a href="/es/herramientas/guia-municipios/">Abrir la Guía de Municipios</a></li>
+</ul>
+</div>
+
 </div>
 
 ---
@@ -145,13 +156,6 @@ Las siguientes herramientas están planificadas para nuestra colección. Vuelve 
 <h3>Guía de Paleografía Española</h3>
 <p>Aprende a leer la antigua escritura española encontrada en registros coloniales, con ejemplos específicos de Puerto Rico.</p>
 <p><strong>Incluye:</strong> Formas comunes de letras, abreviaturas, ejemplos de registros puertorriqueños</p>
-<span class="badge badge-coming-soon">🔜 Próximamente</span>
-</div>
-
-<div class="card">
-<h3>Guía de Municipios de Puerto Rico</h3>
-<p>Resumen de los 78 municipios de Puerto Rico con información de parroquias y registro civil.</p>
-<p><strong>Incluye:</strong> Fechas de fundación, límites parroquiales, disponibilidad de registros</p>
 <span class="badge badge-coming-soon">🔜 Próximamente</span>
 </div>
 

@@ -1,0 +1,532 @@
+---
+layout: page
+title: Guía de Municipios de Puerto Rico
+lang: es
+permalink: /es/herramientas/guia-municipios/
+ref: municipality-guide
+last_modified_at: 2026-03-01
+---
+
+<p>Los 78 municipios con información de parroquias y registro civil. Usa esta guía para identificar dónde se guardaron los registros y hasta cuándo se remontan antes de comenzar tu búsqueda.</p>
+
+<div class="muni-context">
+  <p><strong>El registro civil</strong> comenzó en 1885 para todos los municipios existentes antes de ese año. Para registros anteriores a 1885, consulta la parroquia. Si los registros parroquiales comienzan después del año de fundación, los registros más antiguos suelen estar en la parroquia del pueblo madre.</p>
+</div>
+
+<hr>
+
+<div class="muni-toolbar">
+  <div class="muni-search-wrap">
+    <label for="muni-search">Buscar:</label>
+    <input type="search" id="muni-search" placeholder="Municipio, parroquia o pueblo madre..." autocomplete="off">
+  </div>
+  <span id="muni-count" class="muni-count"></span>
+</div>
+
+<div class="table-wrap">
+  <table id="muni-table">
+    <thead>
+      <tr>
+        <th class="sortable" data-col="0">Municipio <span class="sort-icon" aria-hidden="true">↕</span></th>
+        <th class="sortable" data-col="1">Fundado <span class="sort-icon" aria-hidden="true">↕</span></th>
+        <th>Parroquia</th>
+        <th class="sortable" data-col="3">Registros Parroquiales <span class="sort-icon" aria-hidden="true">↕</span></th>
+        <th class="sortable" data-col="4">Registros Civiles <span class="sort-icon" aria-hidden="true">↕</span></th>
+        <th>Pueblo(s) Madre</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% assign municipalities = site.data['pr-municipalities'] %}
+      {% for m in municipalities %}
+      <tr>
+        <td>{{ m.name }}{% if m.gaps %}<span class="gap-flag" title="Lagunas en registros: {% for g in m.gaps %}{{ g.years }} — {{ g.reason }}{% endfor %}">*</span>{% endif %}</td>
+        <td>{{ m.founded }}</td>
+        <td>{{ m.parish.name }}</td>
+        <td>{{ m.parish.records_start }}</td>
+        <td>{{ m.civil_registry_start }}</td>
+        <td>{{ m.mother_town | join: ", " }}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
+
+<p id="muni-no-results" class="muni-no-results" style="display:none">Ningún municipio coincide con tu búsqueda. <button id="muni-clear" class="muni-clear-btn">Borrar</button></p>
+
+<p class="muni-footnote">* Los registros de Mayagüez tienen lagunas por el terremoto e incendio de 1918. Consulta FamilySearch para los tomos disponibles.</p>
+
+<p><a href="{{ '/es/herramientas/' | relative_url }}">&larr; Volver a Herramientas</a></p>
+
+<style>
+  .muni-context {
+    background: var(--color-cream);
+    border-left: 4px solid var(--color-gold);
+    padding: 0.75rem 1rem;
+    margin-bottom: 1.25rem;
+    font-size: 0.95rem;
+  }
+  .muni-context p { margin: 0; }
+
+  .muni-toolbar {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+    margin: 1.25rem 0;
+  }
+  .muni-search-wrap {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+  .muni-search-wrap label {
+    font-weight: 600;
+    white-space: nowrap;
+  }
+  #muni-search {
+    padding: 0.45rem 0.75rem;
+    font-size: 1rem;
+    border: 2px solid var(--color-navy);
+    border-radius: 4px;
+    width: 320px;
+    max-width: 100%;
+    font-family: var(--font-body);
+  }
+  #muni-search:focus {
+    outline: none;
+    border-color: var(--color-gold);
+    box-shadow: 0 0 0 2px rgba(201,169,98,0.25);
+  }
+  .muni-count {
+    color: var(--color-gray);
+    font-size: 0.9rem;
+    white-space: nowrap;
+  }
+
+  .table-wrap {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+  #muni-table {
+    min-width: 720px;
+    width: 100%;
+    font-size: 0.875rem;
+  }
+
+  /* Override global td:first-child width for this table */
+  #muni-table td:first-child {
+    width: auto;
+    min-width: 130px;
+  }
+  #muni-table th.sortable {
+    cursor: pointer;
+    user-select: none;
+    white-space: nowrap;
+  }
+  #muni-table th.sortable:hover {
+    background: #2a5a8c;
+  }
+  #muni-table th.sort-asc,
+  #muni-table th.sort-desc {
+    background: #14527a;
+  }
+  .sort-icon {
+    opacity: 0.55;
+    font-size: 0.75em;
+    margin-left: 0.2em;
+  }
+
+  .gap-flag {
+    color: #856404;
+    font-weight: 700;
+    margin-left: 0.2em;
+    cursor: help;
+  }
+
+  .muni-no-results {
+    text-align: center;
+    padding: 2rem;
+    color: var(--color-gray);
+    font-style: italic;
+  }
+  .muni-clear-btn {
+    background: none;
+    border: none;
+    color: var(--color-navy);
+    text-decoration: underline;
+    cursor: pointer;
+    font-size: 1rem;
+    padding: 0;
+    margin-left: 0.5rem;
+  }
+  .muni-footnote {
+    font-size: 0.85rem;
+    color: var(--color-gray);
+    margin-top: 0.5rem;
+  }
+
+  @media (max-width: 768px) {
+    #muni-table { font-size: 0.85rem; }
+    #muni-search { width: 100%; }
+    .muni-toolbar { flex-direction: column; align-items: flex-start; }
+  }
+</style>
+
+<script>
+  (function () {
+    const search  = document.getElementById('muni-search');
+    const table   = document.getElementById('muni-table');
+    const tbody   = table.querySelector('tbody');
+    const rows    = Array.from(tbody.querySelectorAll('tr'));
+    const countEl = document.getElementById('muni-count');
+    const noRes   = document.getElementById('muni-no-results');
+    const clearBtn = document.getElementById('muni-clear');
+    const total   = rows.length;
+
+    function setCount(n) {
+      countEl.textContent = n === total ? total + ' municipios' : n + ' de ' + total + ' municipios';
+    }
+
+    function applySearch() {
+      const term = search.value.toLowerCase().trim();
+      let visible = 0;
+      rows.forEach(function (row) {
+        const show = !term || row.textContent.toLowerCase().includes(term);
+        row.style.display = show ? '' : 'none';
+        if (show) visible++;
+      });
+      noRes.style.display  = visible === 0 ? '' : 'none';
+      setCount(visible);
+    }
+
+    search.addEventListener('input', applySearch);
+    clearBtn.addEventListener('click', function () {
+      search.value = '';
+      applySearch();
+    });
+    setCount(total);
+
+    // Column sort
+    var sortCol = -1;
+    var sortAsc = true;
+
+    document.querySelectorAll('#muni-table th.sortable').forEach(function (th) {
+      th.addEventListener('click', function () {
+        var col = parseInt(th.dataset.col, 10);
+        if (sortCol === col) {
+          sortAsc = !sortAsc;
+        } else {
+          sortCol = col;
+          sortAsc = true;
+        }
+
+        // Update header classes and icons
+        document.querySelectorAll('#muni-table th.sortable').forEach(function (h) {
+          h.classList.remove('sort-asc', 'sort-desc');
+          h.querySelector('.sort-icon').textContent = '\u2195';
+        });
+        th.classList.add(sortAsc ? 'sort-asc' : 'sort-desc');
+        th.querySelector('.sort-icon').textContent = sortAsc ? '\u2191' : '\u2193';
+
+        // Sort all rows (including hidden ones so search + sort compose correctly)
+        rows.sort(function (a, b) {
+          var aVal = a.cells[col].textContent.replace(/[*]/g, '').trim();
+          var bVal = b.cells[col].textContent.replace(/[*]/g, '').trim();
+          var aNum = parseFloat(aVal);
+          var bNum = parseFloat(bVal);
+          if (!isNaN(aNum) && !isNaN(bNum)) {
+            return sortAsc ? aNum - bNum : bNum - aNum;
+          }
+          return sortAsc ? aVal.localeCompare(bVal, 'es') : bVal.localeCompare(aVal, 'es');
+        });
+        rows.forEach(function (r) { tbody.appendChild(r); });
+      });
+    });
+  })();
+</script>
+
+<hr>
+
+<h2>Relaciones con el Pueblo Madre</h2>
+
+<div class="muni-context">
+  <p>Antes de que existiera un municipio, sus habitantes registraban bautismos, matrimonios y entierros en la parroquia del pueblo madre. Si no encuentras un registro en tu pueblo, busca en el pueblo madre, especialmente para eventos anteriores o cercanos al año de fundación.</p>
+</div>
+
+<div class="tree-controls">
+  <button id="tree-expand-all" class="tree-btn">Expandir todo</button>
+  <button id="tree-collapse-all" class="tree-btn">Contraer todo</button>
+</div>
+
+<div id="mother-tree"></div>
+
+<p class="muni-footnote">Los municipios con varios pueblos madre aparecen bajo cada padre. El año de fundación se muestra entre paréntesis.</p>
+
+<style>
+  .tree-controls {
+    margin: 1rem 0 0.75rem;
+    display: flex;
+    gap: 0.5rem;
+  }
+  .tree-btn {
+    padding: 0.3rem 0.8rem;
+    font-size: 0.85rem;
+    font-family: var(--font-body);
+    border: 1px solid var(--color-navy);
+    background: transparent;
+    color: var(--color-navy);
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  .tree-btn:hover { background: var(--color-cream); }
+
+  #mother-tree { margin-bottom: 1rem; }
+
+  .tree-root {
+    border: 1px solid #d0d7df;
+    border-radius: 4px;
+    margin-bottom: 0.5rem;
+    overflow: hidden;
+  }
+  .tree-root-header {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    padding: 0.6rem 0.9rem;
+    background: var(--color-navy);
+    color: var(--color-white);
+    cursor: pointer;
+    font-family: var(--font-heading);
+    font-weight: 700;
+    font-size: 1rem;
+    user-select: none;
+  }
+  .tree-root-header:hover { background: #2a5a8c; }
+  .tree-toggle {
+    font-size: 0.75rem;
+    transition: transform 0.2s;
+    display: inline-block;
+    flex-shrink: 0;
+  }
+  .tree-root.open .tree-toggle { transform: rotate(90deg); }
+  .tree-root-header .founded-tag {
+    font-family: var(--font-body);
+    font-weight: 400;
+    font-size: 0.8rem;
+    opacity: 0.8;
+  }
+
+  .tree-children {
+    display: none;
+    padding: 0.5rem 0.5rem 0.5rem 1.5rem;
+    background: #fafafa;
+    border-top: 1px solid #e0e6ef;
+  }
+  .tree-root.open .tree-children { display: block; }
+
+  .tree-child {
+    border: 1px solid #e0e6ef;
+    border-radius: 3px;
+    margin-bottom: 0.35rem;
+    overflow: hidden;
+  }
+  .tree-child-header {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.45rem 0.75rem;
+    background: var(--color-cream);
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 0.9rem;
+    user-select: none;
+  }
+  .tree-child-header:hover { background: #ede6d6; }
+  .tree-child.open .tree-toggle { transform: rotate(90deg); }
+  .tree-child-header .founded-tag {
+    font-weight: 400;
+    font-size: 0.78rem;
+    color: var(--color-gray);
+  }
+  .tree-child-detail {
+    display: none;
+    padding: 0.4rem 0.75rem 0.5rem 2rem;
+    font-size: 0.85rem;
+    color: var(--color-dark-gray);
+    background: #ffffff;
+    border-top: 1px solid #e8ecf0;
+  }
+  .tree-child.open .tree-child-detail { display: block; }
+  .tree-child-detail p { margin: 0.15rem 0; }
+
+  .tree-grandchild {
+    margin-top: 0.5rem;
+    padding-top: 0.4rem;
+    border-top: 1px dashed #d0d7df;
+  }
+  .tree-grandchild-label {
+    font-size: 0.78rem;
+    color: var(--color-gray);
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    margin-bottom: 0.25rem;
+    font-weight: 600;
+  }
+  .tree-grandchild-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.3rem;
+  }
+  .tree-grandchild-list li a {
+    display: inline-block;
+    padding: 0.15rem 0.5rem;
+    background: #e8f0fb;
+    border-radius: 3px;
+    font-size: 0.8rem;
+    color: var(--color-navy);
+    text-decoration: none;
+  }
+  .tree-grandchild-list li a:hover { background: #c8dcf8; }
+
+  .no-children-note {
+    font-size: 0.82rem;
+    color: var(--color-gray);
+    font-style: italic;
+    padding: 0.3rem 0;
+  }
+</style>
+
+<script>
+(function () {
+  {% assign municipalities = site.data['pr-municipalities'] %}
+  var munis = [
+    {% for m in municipalities %}
+    {
+      id: {{ m.id | jsonify }},
+      name: {{ m.name | jsonify }},
+      founded: {{ m.founded }},
+      parish: {{ m.parish.name | jsonify }},
+      parishStart: {{ m.parish.records_start }},
+      civilStart: {{ m.civil_registry_start }},
+      motherTowns: {{ m.mother_town | jsonify }}
+    }{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  ];
+
+  // Build lookup by name
+  var byName = {};
+  munis.forEach(function (m) { byName[m.name] = m; });
+
+  // Build children map: parentName -> [child munis]
+  var children = {};
+  munis.forEach(function (m) {
+    m.motherTowns.forEach(function (parent) {
+      if (!children[parent]) children[parent] = [];
+      children[parent].push(m);
+    });
+  });
+
+  // Roots: towns whose mother_town is "Original Settlement"
+  var roots = munis.filter(function (m) {
+    return m.motherTowns.length === 1 && m.motherTowns[0] === 'Original Settlement';
+  }).sort(function (a, b) { return a.founded - b.founded; });
+
+  var container = document.getElementById('mother-tree');
+
+  function makeDetail(m, skipGrandchildren) {
+    var grandkids = children[m.name] || [];
+    var html = '<p><strong>Parroquia:</strong> ' + m.parish + ' (registros desde ' + m.parishStart + ')</p>';
+    html += '<p><strong>Registros civiles:</strong> desde ' + m.civilStart + '</p>';
+    if (!skipGrandchildren && grandkids.length > 0) {
+      html += '<div class="tree-grandchild">';
+      html += '<p class="tree-grandchild-label">Municipios que se separaron de ' + m.name + '</p>';
+      html += '<ul class="tree-grandchild-list">';
+      grandkids.forEach(function (g) {
+        html += '<li><a href="#child-' + g.id + '" class="grandchild-link">' + g.name + ' (' + g.founded + ')</a></li>';
+      });
+      html += '</ul></div>';
+    } else if (!skipGrandchildren) {
+      html += '<p class="no-children-note">Ningún municipio se separó de ' + m.name + ' en este conjunto de datos.</p>';
+    }
+    return html;
+  }
+
+  roots.forEach(function (root) {
+    var rootChildren = (children[root.name] || []).slice().sort(function (a, b) { return a.founded - b.founded; });
+
+    var div = document.createElement('div');
+    div.className = 'tree-root';
+    div.id = 'root-' + root.id;
+
+    var header = '<div class="tree-root-header">'
+      + '<span class="tree-toggle">&#9658;</span>'
+      + root.name
+      + ' <span class="founded-tag">fundado ' + root.founded + '</span>'
+      + '</div>';
+
+    var childHtml = '<div class="tree-children">';
+    childHtml += '<p style="font-size:0.85rem;margin-bottom:0.5rem;color:var(--color-gray);">'
+      + '<strong>Parroquia:</strong> ' + root.parish + ' &mdash; registros desde ' + root.parishStart + '</p>';
+
+    if (rootChildren.length === 0) {
+      childHtml += '<p class="no-children-note">Ningún municipio fue registrado como separado de ' + root.name + '.</p>';
+    } else {
+      rootChildren.forEach(function (child) {
+        var childKids = children[child.name] || [];
+        childHtml += '<div class="tree-child" id="child-' + child.id + '">';
+        childHtml += '<div class="tree-child-header">'
+          + '<span class="tree-toggle">&#9658;</span>'
+          + child.name
+          + ' <span class="founded-tag">fundado ' + child.founded + '</span>'
+          + (childKids.length > 0 ? ' <span class="founded-tag">(' + childKids.length + (childKids.length > 1 ? ' hijos' : ' hijo') + ')</span>' : '')
+          + '</div>';
+        childHtml += '<div class="tree-child-detail">' + makeDetail(child, false) + '</div>';
+        childHtml += '</div>';
+      });
+    }
+    childHtml += '</div>';
+
+    div.innerHTML = header + childHtml;
+    container.appendChild(div);
+  });
+
+  // Toggle root sections
+  container.addEventListener('click', function (e) {
+    var header = e.target.closest('.tree-root-header');
+    if (header) {
+      header.parentElement.classList.toggle('open');
+      return;
+    }
+    var childHeader = e.target.closest('.tree-child-header');
+    if (childHeader) {
+      childHeader.parentElement.classList.toggle('open');
+      return;
+    }
+    // Grandchild anchor links: scroll to the child card and open it
+    var link = e.target.closest('.grandchild-link');
+    if (link) {
+      e.preventDefault();
+      var targetId = link.getAttribute('href').replace('#', '');
+      var target = document.getElementById(targetId);
+      if (target) {
+        // Open parent root if closed
+        var parentRoot = target.closest('.tree-root');
+        if (parentRoot) parentRoot.classList.add('open');
+        target.classList.add('open');
+        target.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      }
+    }
+  });
+
+  // Expand / collapse all
+  document.getElementById('tree-expand-all').addEventListener('click', function () {
+    document.querySelectorAll('.tree-root, .tree-child').forEach(function (el) { el.classList.add('open'); });
+  });
+  document.getElementById('tree-collapse-all').addEventListener('click', function () {
+    document.querySelectorAll('.tree-root, .tree-child').forEach(function (el) { el.classList.remove('open'); });
+  });
+})();
+</script>
