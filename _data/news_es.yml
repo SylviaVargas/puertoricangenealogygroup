@@ -10,9 +10,15 @@
 # Mantenimiento: agregar entradas nuevas al inicio. Cambiar featured anterior a false.
 # Para archivar: mover entradas con más de ~12 meses a _data/news_es_archive_YYYY.yml
 
+- date: 2026-03-01
+  category: herramientas
+  featured: true
+  title: "Nueva Herramienta: Guía de Municipios de Puerto Rico"
+  body: "Consulta los 78 municipios en un solo lugar: nombre de la parroquia, desde cuándo existen los registros, año de inicio del registro civil y qué pueblos se separaron de cuáles. Incluye una tabla con búsqueda y un árbol desplegable de pueblos de origen."
+  link: /tools/municipality-guide/
+
 - date: 2026-02-27
   category: cursos
-  featured: true
   title: "Nuevo Curso: Registros de Esclavos en Puerto Rico"
   body: "Un nuevo curso de cuatro módulos cubre el Registro Central de Esclavos de 1872, con flujos de trabajo de investigación paso a paso, un glosario bilingüe de términos clave y una hoja de extracción imprimible."
   link: /research-guides/slave-records/

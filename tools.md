@@ -53,6 +53,17 @@ Tools, templates, and guides to help you organize and document your Puerto Rican
 </ul>
 </div>
 
+<div class="card">
+<h3>Puerto Rico Municipality Guide</h3>
+<span class="badge badge-available">✓ Available</span>
+<span class="badge badge-interactive">Interactive</span>
+<p>All 78 municipalities with parish and civil registry information.</p>
+<p><strong>Includes:</strong> Foundation dates, parish names, how far back records extend, and mother town relationships</p>
+<ul>
+<li><a href="/tools/municipality-guide/">Open the Municipality Guide</a></li>
+</ul>
+</div>
+
 </div>
 
 ---
@@ -145,13 +156,6 @@ The following tools are planned for our collection. Check back as we build them 
 <h3>Spanish Paleography Guide</h3>
 <p>Learn to read old Spanish handwriting found in colonial records, with Puerto Rico-specific examples.</p>
 <p><strong>Includes:</strong> Common letter forms, abbreviations, examples from Puerto Rican records</p>
-<span class="badge badge-coming-soon">🔜 Coming Soon</span>
-</div>
-
-<div class="card">
-<h3>Puerto Rico Municipality Guide</h3>
-<p>Overview of Puerto Rico's 78 municipalities with parish and civil registry information.</p>
-<p><strong>Includes:</strong> Foundation dates, parish boundaries, record availability</p>
 <span class="badge badge-coming-soon">🔜 Coming Soon</span>
 </div>
 

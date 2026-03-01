@@ -10,9 +10,15 @@
 # Maintenance: add new entries at the top. Move old featured to non-featured.
 # To archive: move entries older than ~12 months to _data/news_archive_YYYY.yml
 
+- date: 2026-03-01
+  category: tools
+  featured: true
+  title: "New Tool: Puerto Rico Municipality Guide"
+  body: "Look up all 78 municipalities in one place — parish name, how far back records extend, civil registry start year, and which towns split from which. Includes a searchable table and a collapsible mother-town family tree."
+  link: /tools/municipality-guide/
+
 - date: 2026-02-27
   category: courses
-  featured: true
   title: "Puerto Rican Slave Records Course Now Available"
   body: "A new four-module course covers the 1872 Registro Central de Esclavos, including step-by-step research workflows, a bilingual glossary of key terms, and a printable extraction worksheet. Available in English and Spanish."
   link: /research-guides/slave-records/
