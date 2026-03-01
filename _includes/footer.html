@@ -31,6 +31,13 @@
           </a>
         </li>
         <li>
+          {% if page.lang == 'es' %}
+          <a href="mailto:{{ site.email }}?subject=Problema%20reportado">Reportar un problema</a>
+          {% else %}
+          <a href="mailto:{{ site.email }}?subject=Problem%20Report">Report a Problem</a>
+          {% endif %}
+        </li>
+        <li>
           <a href="{{ site.wordpress_site }}" target="_blank" rel="noopener">
             Looking4MyRoots Blog
           </a>

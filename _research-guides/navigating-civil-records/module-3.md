@@ -41,7 +41,7 @@ The FamilySearch Catalog gives you direct access to digital images organized by 
 
 **How to browse by municipality:**
 
-1. Go to the <a href="https://www.familysearch.org/catalog/results?place=11543" target="_blank" rel="noopener noreferrer"><em>FamilySearch Catalog for Puerto Rico</em></a>
+1. Go to the <a href="https://www.familysearch.org/search/catalog/results?count=20&placeId=152&query=%2Bplace%3A%22Puerto%20Rico%22" target="_blank" rel="noopener noreferrer"><em>FamilySearch Catalog for Puerto Rico</em></a>
 2. Use the **Place** search and enter the municipality name (e.g., "Rincón")
 3. Look for entries with a **camera icon** — these have digitized images available to view online
 4. Open the film and browse page by page through the record volumes

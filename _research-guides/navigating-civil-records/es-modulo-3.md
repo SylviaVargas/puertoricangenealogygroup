@@ -41,7 +41,7 @@ El Catálogo de FamilySearch te da acceso directo a imágenes digitales organiza
 
 **Cómo explorar por municipio:**
 
-1. Ve al <a href="https://www.familysearch.org/catalog/results?place=11543" target="_blank" rel="noopener noreferrer"><em>Catálogo de FamilySearch para Puerto Rico</em></a>
+1. Ve al <a href="https://www.familysearch.org/search/catalog/results?count=20&placeId=152&query=%2Bplace%3A%22Puerto%20Rico%22" target="_blank" rel="noopener noreferrer"><em>Catálogo de FamilySearch para Puerto Rico</em></a>
 2. Usa la búsqueda por **Lugar** e ingresa el nombre del municipio (por ejemplo, "Rincón")
 3. Busca entradas con un **ícono de cámara** — estas tienen imágenes digitales disponibles para ver en línea
 4. Abre el rollo y explora página por página los volúmenes de registros

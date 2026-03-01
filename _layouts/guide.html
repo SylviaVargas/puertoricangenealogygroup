@@ -27,6 +27,14 @@ layout: default
     {{ content }}
   </div>
 
+  <div class="report-problem">
+    {% if page.lang == 'es' %}
+    <p>¿Encontraste un enlace roto o un error? <a href="mailto:puertoricangenealogygroup@gmail.com?subject=Problema%20reportado%3A%20{{ page.title | uri_escape }}">Repórtalo aquí.</a></p>
+    {% else %}
+    <p>Found a broken link or error? <a href="mailto:puertoricangenealogygroup@gmail.com?subject=Problem%20Report%3A%20{{ page.title | uri_escape }}">Report it here.</a></p>
+    {% endif %}
+  </div>
+
   {% if page.related_guides %}
   <aside class="related-guides">
     <h3>{% if page.lang == 'es' %}Guías Relacionadas{% else %}Related Guides{% endif %}</h3>
