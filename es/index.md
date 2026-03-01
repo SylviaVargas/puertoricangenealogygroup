@@ -16,6 +16,7 @@ last_modified_at: 2026-02-07
       <a href="{{ '/es/contacto/' | relative_url }}" class="btn btn-primary">Únete a la Comunidad</a>
       <a href="{{ '/es/guias-investigacion/' | relative_url }}" class="btn btn-secondary">Explora las Guías</a>
       <a href="{{ '/es/reuniones/' | relative_url }}" class="btn btn-secondary">Únete a la próxima reunión</a>
+      <a href="{{ '/es/novedades/' | relative_url }}" class="btn btn-secondary">Novedades</a>
     </div>
   </div>
 </section>

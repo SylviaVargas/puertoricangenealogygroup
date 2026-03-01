@@ -16,6 +16,7 @@ last_modified_at: 2026-02-07
       <a href="{{ '/contact/' | relative_url }}" class="btn btn-primary">Join the Community</a>
       <a href="{{ '/research-guides/' | relative_url }}" class="btn btn-secondary">Explore Research Guides</a>
       <a href="{{ '/meetings/' | relative_url }}" class="btn btn-secondary">Join our next meeting</a>
+      <a href="{{ '/whats-new/' | relative_url }}" class="btn btn-secondary">What's New</a>
     </div>
   </div>
 </section>
