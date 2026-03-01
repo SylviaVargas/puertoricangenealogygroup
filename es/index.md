@@ -21,45 +21,6 @@ last_modified_at: 2026-02-07
   </div>
 </section>
 
-<section class="section">
-  <div class="section-container">
-    <div class="section-title">
-      <h2>Novedades</h2>
-    </div>
-    {% assign featured_es = site.data.news_es | where_exp: "item", "item.featured == true" | first %}
-    {% if featured_es %}
-    <div class="poll-callout">
-      <h3>
-        {% if featured_es.link %}<a href="{{ featured_es.link | relative_url }}">{{ featured_es.title }}</a>{% else %}{{ featured_es.title }}{% endif %}
-      </h3>
-      <p>{{ featured_es.body }}</p>
-      {% if featured_es.link %}
-      <a href="{{ featured_es.link | relative_url }}" class="btn btn-primary">Más información</a>
-      {% endif %}
-    </div>
-    {% endif %}
-    {% assign non_featured_es = site.data.news_es | where_exp: "item", "item.featured != true" %}
-    {% assign recent_es = non_featured_es | slice: 0, 3 %}
-    {% if recent_es.size > 0 %}
-    <ul class="resource-list">
-      {% for item in recent_es %}
-      <li>
-        {% if item.link %}
-        <a href="{{ item.link | relative_url }}"><em>{{ item.title }}</em></a>
-        {% else %}
-        <strong>{{ item.title }}</strong>
-        {% endif %}
-        <p class="description">{{ item.date | date: "%-d de %B de %Y" }}: {{ item.body }}</p>
-      </li>
-      {% endfor %}
-    </ul>
-    {% endif %}
-    <p class="text-center mt-2">
-      <a href="{{ '/es/novedades/' | relative_url }}" class="btn btn-secondary">Ver todas las novedades</a>
-    </p>
-  </div>
-</section>
-
 <section class="section bg-light">
   <div class="section-container">
     <div class="section-title">
