@@ -12,6 +12,13 @@
         {% for item in nav limit: 4 %}
         <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
         {% endfor %}
+        <li>
+          {% if page.lang == 'es' %}
+          <a href="{{ '/es/novedades/' | relative_url }}">Novedades</a>
+          {% else %}
+          <a href="{{ '/whats-new/' | relative_url }}">What's New</a>
+          {% endif %}
+        </li>
       </ul>
     </div>
 

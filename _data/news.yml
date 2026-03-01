@@ -1,0 +1,36 @@
+# What's New entries — newest first
+# Fields:
+#   date:     YYYY-MM-DD (required)
+#   category: courses | guides | features (required)
+#   featured: true — set on ONE entry only; displays as the hero callout
+#   title:    short, action-oriented (required)
+#   body:     1-2 sentences visible in the homepage snippet and full page (required)
+#   link:     internal path without domain (optional)
+#
+# Maintenance: add new entries at the top. Move old featured to non-featured.
+# To archive: move entries older than ~12 months to _data/news_archive_YYYY.yml
+
+- date: 2026-02-27
+  category: courses
+  featured: true
+  title: "Puerto Rican Slave Records Course Now Available"
+  body: "A new four-module course covers the 1872 Registro Central de Esclavos, including step-by-step research workflows, a bilingual glossary of key terms, and a printable extraction worksheet. Available in English and Spanish."
+  link: /research-guides/slave-records/
+
+- date: 2026-02-27
+  category: courses
+  title: "Census Records: Module 4 Fully Updated"
+  body: "Module 4, covering U.S. Federal Census records from 1910 to 1950, has been expanded with new content, additional examples, and updated resource links."
+  link: /research-guides/census-records-module-4/
+
+- date: 2026-01-01
+  category: guides
+  title: "New Guide: Genealogical Proof Standard"
+  body: "A practical reference covering the five GPS elements and how to apply them to Puerto Rican research, with worked examples and a compliance checklist."
+  link: /research-guides/genealogical-proof-standard/
+
+- date: 2026-01-01
+  category: guides
+  title: "New Guide: Genealogical Spanish Glossary"
+  body: "More than 200 terms from Puerto Rican civil and church records, with definitions, usage examples, and notes on historical spelling variations."
+  link: /research-guides/genealogical-spanish-glossary/

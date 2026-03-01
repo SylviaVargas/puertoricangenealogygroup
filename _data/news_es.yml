@@ -1,0 +1,36 @@
+# Entradas de Novedades — más recientes primero
+# Campos:
+#   date:     YYYY-MM-DD (obligatorio)
+#   category: cursos | guias | funciones (obligatorio)
+#   featured: true — solo en UNA entrada; aparece como recuadro destacado
+#   title:    título breve (obligatorio)
+#   body:     1-2 oraciones visibles en el resumen y en la página completa (obligatorio)
+#   link:     ruta interna sin dominio (opcional)
+#
+# Mantenimiento: agregar entradas nuevas al inicio. Cambiar featured anterior a false.
+# Para archivar: mover entradas con más de ~12 meses a _data/news_es_archive_YYYY.yml
+
+- date: 2026-02-27
+  category: cursos
+  featured: true
+  title: "Nuevo Curso: Registros de Esclavos en Puerto Rico"
+  body: "Un nuevo curso de cuatro módulos cubre el Registro Central de Esclavos de 1872, con flujos de trabajo de investigación paso a paso, un glosario bilingüe de términos clave y una hoja de extracción imprimible."
+  link: /research-guides/slave-records/
+
+- date: 2026-02-27
+  category: cursos
+  title: "Registros Censales: Módulo 4 Completamente Actualizado"
+  body: "El Módulo 4, sobre los registros del Censo Federal de EE.UU. de 1910 a 1950, fue ampliado con nuevo contenido, ejemplos adicionales y enlaces de recursos actualizados."
+  link: /research-guides/census-records-module-4/
+
+- date: 2026-01-01
+  category: guias
+  title: "Nueva Guía: Estándar de Prueba Genealógica"
+  body: "Una referencia práctica sobre los cinco elementos del GPS y cómo aplicarlos a la investigación puertorriqueña, con ejemplos y una lista de verificación."
+  link: /research-guides/genealogical-proof-standard/
+
+- date: 2026-01-01
+  category: guias
+  title: "Nueva Guía: Glosario Genealógico en Español"
+  body: "Más de 200 términos de los registros civiles y eclesiásticos puertorriqueños, con definiciones, ejemplos de uso y notas sobre variaciones ortográficas históricas."
+  link: /research-guides/genealogical-spanish-glossary/

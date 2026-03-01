@@ -19,6 +19,46 @@ last_modified_at: 2026-02-07
     </div>
   </div>
 </section>
+
+<section class="section">
+  <div class="section-container">
+    <div class="section-title">
+      <h2>What's New</h2>
+    </div>
+    {% assign featured = site.data.news | where_exp: "item", "item.featured == true" | first %}
+    {% if featured %}
+    <div class="poll-callout">
+      <h3>
+        {% if featured.link %}<a href="{{ featured.link | relative_url }}">{{ featured.title }}</a>{% else %}{{ featured.title }}{% endif %}
+      </h3>
+      <p>{{ featured.body }}</p>
+      {% if featured.link %}
+      <a href="{{ featured.link | relative_url }}" class="btn btn-primary">Learn More</a>
+      {% endif %}
+    </div>
+    {% endif %}
+    {% assign non_featured = site.data.news | where_exp: "item", "item.featured != true" %}
+    {% assign recent = non_featured | slice: 0, 3 %}
+    {% if recent.size > 0 %}
+    <ul class="resource-list">
+      {% for item in recent %}
+      <li>
+        {% if item.link %}
+        <a href="{{ item.link | relative_url }}"><em>{{ item.title }}</em></a>
+        {% else %}
+        <strong>{{ item.title }}</strong>
+        {% endif %}
+        <p class="description">{{ item.date | date: "%B %-d, %Y" }}: {{ item.body }}</p>
+      </li>
+      {% endfor %}
+    </ul>
+    {% endif %}
+    <p class="text-center mt-2">
+      <a href="{{ '/whats-new/' | relative_url }}" class="btn btn-secondary">See All Updates</a>
+    </p>
+  </div>
+</section>
+
 <section class="section bg-light">
   <div class="section-container">
     <div class="section-title">
