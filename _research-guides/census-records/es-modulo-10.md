@@ -85,6 +85,30 @@ Proporciona el nombre original en español y pide a la IA que liste posibles ang
 
 Proporciona el campo "dónde vivía hace 5 años" del censo de 1940 para cada miembro del hogar y pide a la IA que resuma el patrón de movimiento. Trata el resumen como una herramienta de organización, no como evidencia.
 
+### Ejemplo Práctico: Una Comparación Censal Completa
+
+**Las transcripciones del investigador (de las imágenes censales originales):**
+
+> 1910 — Juan García, jefe, 35 años, Barrio Ensenada, Rincón; esposa María López, 30; hijos: Pedro 8, Carmen 5, Rosa 2\
+> 1920 — Juan García, jefe, 48 años, Barrio Ensenada, Rincón; esposa María López, 42; hijos: Pedro 18, Carmen 15, Rosa 12, Luis 7\
+> 1930 — Juan García, jefe, 57 años, Barrio Partido, Rincón; esposa María López, 50; Luis 17
+
+**La indicación (*prompt*):**
+
+> "Estoy haciendo investigación genealógica de una familia puertorriqueña de Rincón. A continuación están mis transcripciones de entradas del Censo Federal de EE.UU. para Juan García en tres años censales. Crea una tabla comparativa con columnas para: año censal, nombre tal como fue registrado, edad, año de nacimiento implícito, barrio y miembros del hogar. Señala cualquier año de nacimiento implícito que difiera en más de 3 años de otra entrada. Usa solo la información que te proporciono. Si falta un campo, déjalo en blanco."
+
+**El resultado de la IA (verificado contra las transcripciones originales):**
+
+| Año Censal | Nombre Registrado | Edad | Año de Nacimiento Implícito | Barrio | Miembros del Hogar |
+| --- | --- | --- | --- | --- | --- |
+| 1910 | Juan García | 35 | **1875** | Ensenada | Esposa: María López (30); Pedro (8), Carmen (5), Rosa (2) |
+| 1920 | Juan García | 48 | **1872** | Ensenada | Esposa: María López (42); Pedro (18), Carmen (15), Rosa (12), Luis (7) |
+| 1930 | Juan García | 57 | **1873** | Partido | Esposa: María López (50); Luis (17) |
+
+> **Discrepancia señalada:** El año de nacimiento implícito de 1910 (1875) difiere del de 1920 (1872) en 3 años, en el umbral. Las entradas de 1920 y 1930 son consistentes (1872 y 1873).
+
+**Lo que el investigador hace a continuación:** La entrada de 1910 requiere investigación adicional. Se buscará en el registro civil y, donde estén disponibles, en los registros bautismales para establecer un año de nacimiento documentado. El cambio de barrio de Ensenada a Partido se anota, pero no es evidencia de migración: ambos barrios están dentro del *municipio* de Rincón. Las edades de los hijos son internamente consistentes en los tres años, lo que refuerza la confianza de que las tres entradas describen el mismo hogar.
+
 ---
 
 ## Estructura Efectiva de una Indicación (*Prompt*)
@@ -149,6 +173,16 @@ Las tres comparten la misma limitación fundamental: ninguna puede buscar en bas
 
 ---
 
+## Preguntas de Reflexión
+
+1. Le pides a una herramienta de IA que "encuentre todos los registros censales de mi familia en Rincón entre 1900 y 1950 y describa qué contiene cada uno." La IA produce una respuesta detallada nombrando colecciones específicas de FamilySearch y describiendo lo que cada una contiene. ¿Cuál es el problema fundamental con este resultado, y cómo reformularías la solicitud para obtener algo genuinamente útil?
+
+2. Pegas tus transcripciones de las entradas censales de 1910, 1920 y 1930 de una familia en una herramienta de IA y solicitas una tabla comparativa. La tabla incluye un miembro del hogar llamado "Josefina," de 14 años en 1920, que no aparece en ninguna de tus transcripciones. ¿Qué haces a continuación, y qué ilustra esta situación sobre el resultado de la IA?
+
+3. Observando la tabla de flujo de trabajo de este módulo, un colega argumenta que "la IA no puede elaborar conclusiones ni redactar citas, así que no es realmente útil para la investigación genealógica seria." Usando ejemplos específicos de este módulo, explica qué puede contribuir genuinamente la IA a la investigación censal conforme al GPS y dónde están sus límites.
+
+---
+
 ## Curso Completado
 
 Este es el módulo final de *Registros Censales para la Genealogía Puertorriqueña*. Has recorrido el arco completo desde los padrones coloniales españoles hasta el análisis asistido por IA, siempre dentro de un marco de investigación conforme al GPS. Regresa al [Resumen del Curso](/es/guias-investigacion/registros-censales/) para ver la lista completa de módulos y las hojas de trabajo descargables.
@@ -158,6 +192,7 @@ Este es el módulo final de *Registros Censales para la Genealogía Puertorrique
 *[← Módulo 9](/es/guias-investigacion/registros-censales-modulo-9/) · [Resumen del Curso](/es/guias-investigacion/registros-censales/)*
 
 <a href="/assets/pdfs/census-records/Module_10_AI_Census_Analysis.pdf" target="_blank" rel="noopener noreferrer">⬇ Descargar este módulo como PDF (EN)</a>
+<a href="/assets/pdfs/census-records/ES_WS_07_Hojas_Analisis_Censal_IA.pdf" target="_blank" rel="noopener noreferrer">⬇ Hoja de Trabajo: Hojas de Análisis Censal con IA (PDF)</a>
 
 ---
 

@@ -43,7 +43,7 @@ Puerto Rico's geographic structure matters for municipal research:
 
 Nearly every genealogical record in Puerto Rico identifies a person's barrio as well as their municipality. Before searching any repository, identify which barrio your ancestor was in.
 
-> **Research tip:** A person listed in "Rincón" may be in Barrio Partido, Barrio Ensenada, or any of several other barrios within the *municipio*. Knowing the barrio is often the key to finding them in municipal records.
+> **Research tip:** A person listed in "Rincón" may be in Barrio Ensenada, Barrio Partido, Barrio Puntas, Barrio Stella, or any of several other barrios within the *municipio*. The barrio designation is usually required to locate records in the AGPR and in many FamilySearch collections.
 
 ---
 
@@ -55,7 +55,11 @@ Nearly every genealogical record in Puerto Rico identifies a person's barrio as 
 
 **Voter registration lists (Listas electorales)** — Under Spanish rule, restricted to adult male property owners. Under U.S. administration after the Jones Act (1917), broader registration was conducted. These lists can document an adult male's presence, address, age, and occupation.
 
-**Military draft registration cards** — Among the most accessible and information-rich records for adult males in the 20th century. WWI (1917–1918) and WWII (1940–1945) cards include: full name, date and place of birth, address, occupation, employer, physical description, and nearest relative. Available through FamilySearch and Ancestry.
+**Military draft registration cards** — Among the most accessible and information-rich records for adult males in the 20th century. WWI (1917–1918) and WWII (1940–1946) cards include: full name, date and place of birth, address, occupation, employer, physical description, and nearest relative.
+
+- <a href="https://www.familysearch.org/en/wiki/United_States_World_War_I_Draft_Registration_Cards" target="_blank" rel="noopener noreferrer"><em>WWI Draft Cards (FamilySearch)</em></a>
+- <a href="https://www.familysearch.org/en/wiki/United_States,_World_War_II_Draft_Registration_Cards" target="_blank" rel="noopener noreferrer"><em>WWII Draft Cards (FamilySearch)</em></a>
+- <a href="https://www.ancestry.com/search/categories/military/" target="_blank" rel="noopener noreferrer"><em>Military Records — Ancestry.com</em></a> (search under Puerto Rico in the card catalog)
 
 **Property registry (Registro de la Propiedad)** — Records real estate transactions: purchases, sales, inheritances, and mortgages. Organized by municipality; held at regional registry offices. Can place your ancestor in a specific barrio at a precise date.
 
@@ -119,6 +123,16 @@ The worksheet for this module provides a pre-formatted planning tool for this pr
 
 ---
 
+## Reflection Questions
+
+1. A family you are researching appears in Rincón in the 1910 federal census but cannot be located in any record between 1910 and 1930. You know they were no longer in Rincón by 1930. What municipal and local records would you search to document the family during that 20-year gap, and what specific information would you expect each record type to provide?
+
+2. You find a property tax record from 1905 listing your ancestor's name in Barrio Ensenada, Rincón, with no ages or family members listed. Classify this record using the Three-Layer Framework: what is the source type, what is the information quality for the fact of property ownership, and what evidence value does it provide for your research question of confirming your ancestor's presence in that barrio?
+
+3. A researcher says, "I searched FamilySearch for my ancestor in the Añasco padrones municipales from 1915 and found nothing — so the family was not there." Identify two problems with this conclusion and explain what the researcher should do instead.
+
+---
+
 ## What's Next
 
 [Module 6 — Race and Social Classification](/research-guides/census-records-module-6/) examines how racial designations changed across Spanish colonial and U.S. federal census systems, and why the same ancestor may carry different designations across different records.
@@ -129,6 +143,7 @@ The worksheet for this module provides a pre-formatted planning tool for this pr
 
 <a href="/assets/pdfs/census-records/Module_5_Municipal_Barrio_Enumerations.pdf" target="_blank" rel="noopener noreferrer">⬇ Download this module as PDF</a>
 <a href="/assets/pdfs/census-records/WS_04_Alternative_Source_Strategy.pdf" target="_blank" rel="noopener noreferrer">⬇ Worksheet: Alternative Source Strategy Planner (PDF)</a>
+<a href="/assets/pdfs/census-records/WS_06_Municipal_Research_Log.pdf" target="_blank" rel="noopener noreferrer">⬇ Worksheet: Municipal Research Log (PDF)</a>
 
 ---
 

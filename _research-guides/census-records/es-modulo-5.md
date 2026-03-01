@@ -43,7 +43,7 @@ La estructura geográfica de Puerto Rico es importante para la investigación mu
 
 Casi todos los registros genealógicos de Puerto Rico identifican el barrio de una persona además del municipio. Antes de buscar en cualquier repositorio, identifica en qué barrio vivía tu ancestro.
 
-> **Consejo de investigación:** Una persona registrada en "Rincón" puede estar en el Barrio Partido, el Barrio Ensenada o cualquiera de los otros barrios del *municipio* de Rincón. Conocer el barrio es con frecuencia la clave para encontrarlos en los registros municipales.
+> **Consejo de investigación:** Una persona registrada en "Rincón" puede estar en el Barrio Ensenada, el Barrio Partido, el Barrio Puntas, el Barrio Stella o cualquiera de los otros barrios del *municipio* de Rincón. La designación de barrio suele ser necesaria para localizar registros en el AGPR y en muchas colecciones de FamilySearch.
 
 ---
 
@@ -55,7 +55,11 @@ Casi todos los registros genealógicos de Puerto Rico identifican el barrio de u
 
 **Listas electorales (Listas electorales)** — Bajo el dominio español, restringidas a hombres adultos propietarios. Bajo la administración de EE.UU. después de la Ley Jones (1917), se realizó un registro más amplio. Estas listas pueden documentar la presencia, dirección, edad y ocupación de un hombre adulto.
 
-**Tarjetas de registro del servicio militar** — Entre los registros más accesibles e informativos para hombres adultos del siglo XX. Las tarjetas de la Primera Guerra Mundial (1917–1918) y la Segunda Guerra Mundial (1940–1945) incluyen: nombre completo, fecha y lugar de nacimiento, dirección, ocupación, empleador, descripción física y pariente más cercano. Disponibles en FamilySearch y Ancestry.
+**Tarjetas de registro del servicio militar** — Entre los registros más accesibles e informativos para hombres adultos del siglo XX. Las tarjetas de la Primera Guerra Mundial (1917–1918) y la Segunda Guerra Mundial (1940–1946) incluyen: nombre completo, fecha y lugar de nacimiento, dirección, ocupación, empleador, descripción física y pariente más cercano.
+
+- <a href="https://www.familysearch.org/en/wiki/United_States_World_War_I_Draft_Registration_Cards" target="_blank" rel="noopener noreferrer"><em>Tarjetas de la Primera Guerra Mundial (FamilySearch)</em></a>
+- <a href="https://www.familysearch.org/en/wiki/United_States,_World_War_II_Draft_Registration_Cards" target="_blank" rel="noopener noreferrer"><em>Tarjetas de la Segunda Guerra Mundial (FamilySearch)</em></a>
+- <a href="https://www.ancestry.com/search/categories/military/" target="_blank" rel="noopener noreferrer"><em>Registros Militares — Ancestry.com</em></a> (busca bajo Puerto Rico en el catálogo de colecciones)
 
 **Registro de la Propiedad** — Documenta transacciones inmobiliarias: compras, ventas, herencias e hipotecas. Organizado por municipio; conservado en oficinas registrales regionales. Puede ubicar a tu ancestro en un barrio específico en una fecha precisa.
 
@@ -119,6 +123,16 @@ La hoja de trabajo de este módulo ofrece una herramienta de planificación pref
 
 ---
 
+## Preguntas de Reflexión
+
+1. Una familia que estás investigando aparece en Rincón en el censo federal de 1910, pero no se puede localizar en ningún registro entre 1910 y 1930. Sabes que ya no estaban en Rincón en 1930. ¿Qué registros municipales y locales buscarías para documentar a la familia durante ese período de 20 años, y qué información específica esperarías obtener de cada tipo de registro?
+
+2. Encuentras un registro de impuestos sobre la propiedad de 1905 con el nombre de tu ancestro en el Barrio Ensenada, Rincón, sin edades ni miembros del hogar. Clasifica este registro usando el Marco de Tres Capas: ¿cuál es el tipo de fuente, cuál es la calidad de la información sobre el hecho de la propiedad, y qué valor de evidencia ofrece para tu pregunta de investigación de confirmar la presencia de tu ancestro en ese barrio?
+
+3. Un investigador dice: "Busqué en FamilySearch los padrones municipales de Añasco de 1915 y no encontré nada — así que la familia no estaba allí." Identifica dos problemas con esta conclusión y explica qué debería hacer el investigador en su lugar.
+
+---
+
 ## Siguiente Paso
 
 El [Módulo 6 — Raza y Clasificación Social](/es/guias-investigacion/registros-censales-modulo-6/) examina cómo cambiaron las designaciones raciales en los sistemas de censos coloniales españoles y federales de EE.UU., y por qué el mismo ancestro puede tener designaciones diferentes en distintos registros.
@@ -129,6 +143,7 @@ El [Módulo 6 — Raza y Clasificación Social](/es/guias-investigacion/registro
 
 <a href="/assets/pdfs/census-records/Module_5_Municipal_Barrio_Enumerations.pdf" target="_blank" rel="noopener noreferrer">⬇ Descargar este módulo como PDF (EN)</a>
 <a href="/assets/pdfs/census-records/ES_WS_04_Estrategia_Fuentes_Alternativas.pdf" target="_blank" rel="noopener noreferrer">⬇ Hoja de Trabajo: Estrategia de Fuentes Alternativas (PDF)</a>
+<a href="/assets/pdfs/census-records/ES_WS_06_Registro_Investigacion_Municipal.pdf" target="_blank" rel="noopener noreferrer">⬇ Hoja de Trabajo: Registro de Investigación Municipal (PDF)</a>
 
 ---
 

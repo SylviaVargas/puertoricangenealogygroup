@@ -103,7 +103,7 @@ When parish access is restricted, apply this framework:
 
 ## What's Next
 
-[Module 10 — Using AI for Census Analysis](/research-guides/census-records-module-10/) is coming soon. It will cover practical workflows for using AI tools to accelerate census comparison and pattern analysis.
+[Module 10 — Using AI for Census Analysis](/research-guides/census-records-module-10/) covers practical workflows for organizing, comparing, and analyzing census data with AI tools — within a GPS-compliant research practice.
 
 ---
 
