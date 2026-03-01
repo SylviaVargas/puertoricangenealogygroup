@@ -86,7 +86,7 @@ Once registered, go straight to the collections that matter most:
 |------------|----------------|------|
 | Civil Registration, 1885–2001 | Birth, marriage, and death records for most *pueblos* | <a href="https://www.familysearch.org/en/search/collection/1682798" target="_blank" rel="noopener noreferrer"><em>Browse</em></a> |
 | Catholic Church Records, 1645–2021 | Baptisms, marriages, burials from parish registers | <a href="https://www.familysearch.org/en/search/collection/1807092" target="_blank" rel="noopener noreferrer"><em>Browse</em></a> |
-| All Puerto Rico Collections | Search across all available record types | <a href="https://www.familysearch.org/search/place/results?placeId=11543&view=records&access=all" target="_blank" rel="noopener noreferrer"><em>Search</em></a> |
+| All Puerto Rico Collections | Search across all available record types | <a href="https://www.familysearch.org/en/wiki/Puerto_Rico_Genealogy" target="_blank" rel="noopener noreferrer"><em>Search</em></a> |
 
 #### Step 3: Search by Pueblo
 

@@ -223,7 +223,7 @@ Las convenciones de nombres puertorriqueños siguen la tradición española:
 |-----------|---------------|
 | <a href="https://www.familysearch.org/en/search/collection/1682798" target="_blank" rel="noopener noreferrer"><em>Registro Civil de Puerto Rico, 1885–2001</em></a> | Más de 4.5 millones de imágenes de actas de nacimiento, matrimonio y defunción |
 | <a href="https://www.familysearch.org/en/search/collection/1807092" target="_blank" rel="noopener noreferrer"><em>Registros de la Iglesia Católica de Puerto Rico, 1645–2021</em></a> | Bautismos, matrimonios y entierros de registros parroquiales |
-| <a href="https://www.familysearch.org/search/place/results?placeId=11543&view=records&access=all" target="_blank" rel="noopener noreferrer"><em>Todos los Registros de Puerto Rico en FamilySearch</em></a> | Explorar todas las colecciones disponibles |
+| <a href="https://www.familysearch.org/en/wiki/Puerto_Rico_Genealogy" target="_blank" rel="noopener noreferrer"><em>Todos los Registros de Puerto Rico en FamilySearch</em></a> | Explorar todas las colecciones disponibles |
 | <a href="https://familyhistory.lib.byu.edu/00000192-b134-da0b-af97-f9f5bd4c0001/puertoricoresearchguide-pdf" target="_blank" rel="noopener noreferrer"><em>BYU Family History Library — Guía de Investigación de Puerto Rico</em></a> | Guía completa sobre tipos de registros, repositorios y estrategias de investigación (PDF) |
 
 ---

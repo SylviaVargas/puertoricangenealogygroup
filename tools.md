@@ -99,7 +99,7 @@ Curated third-party tools that complement our collection while custom resources 
 <p>Free access to digitized Puerto Rican civil registration, Catholic church records, and more.</p>
 <p><strong>Includes:</strong> Civil Registration 1885–2001, Catholic Church Records 1645–2021</p>
 <ul>
-<li><a href="https://www.familysearch.org/search/place/results?placeId=11543&view=records&access=all" target="_blank" rel="noopener noreferrer"><em>Browse All Puerto Rico Records</em></a></li>
+<li><a href="https://www.familysearch.org/en/wiki/Puerto_Rico_Genealogy" target="_blank" rel="noopener noreferrer"><em>Browse All Puerto Rico Records</em></a></li>
 </ul>
 </div>
 

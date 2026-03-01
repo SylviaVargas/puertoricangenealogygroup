@@ -99,7 +99,7 @@ Herramientas de terceros seleccionadas que complementan nuestra colección mient
 <p>Acceso gratuito a registros digitalizados de Puerto Rico: registro civil, iglesia católica y más.</p>
 <p><strong>Incluye:</strong> Registro Civil 1885-2001, Registros de la Iglesia Católica 1645-2021</p>
 <ul>
-<li><a href="https://www.familysearch.org/search/place/results?placeId=11543&view=records&access=all" target="_blank" rel="noopener noreferrer"><em>Ver Todos los Registros de Puerto Rico</em></a></li>
+<li><a href="https://www.familysearch.org/en/wiki/Puerto_Rico_Genealogy" target="_blank" rel="noopener noreferrer"><em>Ver Todos los Registros de Puerto Rico</em></a></li>
 </ul>
 </div>
 

@@ -86,7 +86,7 @@ Una vez registrado, ve directamente a las colecciones más importantes:
 |-----------|-------------|--------|
 | Registro Civil, 1885–2001 | Actas de nacimiento, matrimonio y defunción para la mayoría de los *pueblos* | <a href="https://www.familysearch.org/en/search/collection/1682798" target="_blank" rel="noopener noreferrer"><em>Explorar</em></a> |
 | Registros de la Iglesia Católica, 1645–2021 | Bautismos, matrimonios, entierros de registros parroquiales | <a href="https://www.familysearch.org/en/search/collection/1807092" target="_blank" rel="noopener noreferrer"><em>Explorar</em></a> |
-| Todas las Colecciones de Puerto Rico | Buscar en todos los tipos de registros disponibles | <a href="https://www.familysearch.org/search/place/results?placeId=11543&view=records&access=all" target="_blank" rel="noopener noreferrer"><em>Buscar</em></a> |
+| Todas las Colecciones de Puerto Rico | Buscar en todos los tipos de registros disponibles | <a href="https://www.familysearch.org/en/wiki/Puerto_Rico_Genealogy" target="_blank" rel="noopener noreferrer"><em>Buscar</em></a> |
 
 #### Paso 3: Busca por Pueblo
 

@@ -94,7 +94,7 @@ Tómate 2 minutos ahora para crear tu cuenta gratuita en FamilySearch.org. La ne
 |---------|---------------|
 | <a href="https://www.familysearch.org/en/search/collection/1682798" target="_blank" rel="noopener noreferrer"><em>FamilySearch — Registro Civil de Puerto Rico, 1885–2001</em></a> | Más de 4.5 millones de imágenes de actas de nacimiento, matrimonio y defunción |
 | <a href="https://www.familysearch.org/en/search/collection/1807092" target="_blank" rel="noopener noreferrer"><em>FamilySearch — Registros de la Iglesia Católica de Puerto Rico, 1645–2021</em></a> | Bautismos, matrimonios y entierros de los registros parroquiales |
-| <a href="https://www.familysearch.org/search/place/results?placeId=11543&view=records&access=all" target="_blank" rel="noopener noreferrer"><em>FamilySearch — Buscar Registros de Puerto Rico</em></a> | Explorar todas las colecciones disponibles de Puerto Rico |
+| <a href="https://www.familysearch.org/en/wiki/Puerto_Rico_Genealogy" target="_blank" rel="noopener noreferrer"><em>FamilySearch — Buscar Registros de Puerto Rico</em></a> | Explorar todas las colecciones disponibles de Puerto Rico |
 | <a href="https://www.findagrave.com" target="_blank" rel="noopener noreferrer"><em>Find A Grave</em></a> | Registros de cementerios y entierros |
 | <a href="https://www.archives.gov" target="_blank" rel="noopener noreferrer"><em>Archivos Nacionales (NARA)</em></a> | Registros militares, de inmigración y censales |
 

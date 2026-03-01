@@ -94,7 +94,7 @@ Take 2 minutes right now to create your free account at FamilySearch.org. You wi
 |----------|---------------|
 | <a href="https://www.familysearch.org/en/search/collection/1682798" target="_blank" rel="noopener noreferrer"><em>FamilySearch — Puerto Rico Civil Registration, 1885–2001</em></a> | 4.5 million+ images of birth, marriage, and death records |
 | <a href="https://www.familysearch.org/en/search/collection/1807092" target="_blank" rel="noopener noreferrer"><em>FamilySearch — Puerto Rico Catholic Church Records, 1645–2021</em></a> | Baptisms, marriages, and burials from parish registers |
-| <a href="https://www.familysearch.org/search/place/results?placeId=11543&view=records&access=all" target="_blank" rel="noopener noreferrer"><em>FamilySearch — Search Puerto Rico Records</em></a> | Browse all Puerto Rico collections |
+| <a href="https://www.familysearch.org/en/wiki/Puerto_Rico_Genealogy" target="_blank" rel="noopener noreferrer"><em>FamilySearch — Search Puerto Rico Records</em></a> | Browse all Puerto Rico collections |
 | <a href="https://www.findagrave.com" target="_blank" rel="noopener noreferrer"><em>Find A Grave</em></a> | Cemetery and burial records |
 | <a href="https://www.archives.gov" target="_blank" rel="noopener noreferrer"><em>National Archives (NARA)</em></a> | Military, immigration, and census records |
 
