@@ -73,6 +73,25 @@ Las convenciones de nombres puertorriqueños siguen la tradición española:
 
 ---
 
+## Configura Tu Cuenta de Investigación {#cuenta}
+
+Para ver las imágenes de los registros en las colecciones mencionadas arriba, necesitas una cuenta en al menos una plataforma. Aquí hay una comparación para ayudarte a elegir:
+
+| Plataforma | Costo | Mejor Para |
+|------------|-------|------------|
+| <a href="https://www.familysearch.org" target="_blank" rel="noopener noreferrer"><em>FamilySearch.org</em></a> | **Gratuito** | Ver registros originales puertorriqueños de nacimiento, matrimonio y defunción (más de 4.5M imágenes), sin tarjeta de crédito |
+| <a href="https://www.ancestry.com" target="_blank" rel="noopener noreferrer"><em>Ancestry.com</em></a> | Suscripción de pago | Árbol genealógico privado, sugerencias automatizadas de registros y registros censales de EE.UU. |
+
+**Opción gratuita:** Ve a FamilySearch.org y crea tu cuenta. La necesitarás para ver las imágenes de los registros en el Módulo 3 del curso.
+
+**Opción de pago:** Visita <a href="https://www.ancestry.com" target="_blank" rel="noopener noreferrer"><em>Ancestry.com</em></a> para ver sus planes de membresía actuales.
+
+> **Consejo:** Muchos investigadores usan una cuenta gratuita de FamilySearch para ver las imágenes originales de los registros y una cuenta de Ancestry para construir y compartir su árbol genealógico. No tienes que elegir solo una.
+
+<a href="/assets/pdfs/getting-started/ES_Account_Setup_Checklist.pdf" target="_blank" rel="noopener noreferrer">⬇ Descargar la Lista de Verificación de Configuración de Cuenta (PDF)</a>
+
+---
+
 ¿Listo para profundizar? El [Curso Gratuito para Principiantes](/es/guias-investigacion/empezar/) te guía a través de cuatro módulos a tu propio ritmo, diseñados específicamente para investigadores puertorriqueños.
 
 <a href="/es/guias-investigacion/empezar/" class="btn btn-primary">Comenzar el Curso Gratuito →</a>

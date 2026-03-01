@@ -62,6 +62,8 @@ By the end of this module, you will:
 
 ## Where to Find Records for Free
 
+> **Which platform should I use?** This guide focuses on FamilySearch because it is free and holds the largest collection of Puerto Rican records. Ancestry.com is a paid alternative with additional tools. See the [platform comparison on the intro page](/research-guides/getting-started-intro/#account) for a side-by-side overview before you create an account.
+
 ### FamilySearch.org (Free)
 
 FamilySearch is the single most important free resource for Puerto Rican genealogy. It holds millions of digitized Puerto Rican records.

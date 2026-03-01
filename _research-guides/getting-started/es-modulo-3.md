@@ -62,6 +62,8 @@ Al terminar este módulo, podrás:
 
 ## Dónde Encontrar Registros de Forma Gratuita
 
+> **¿Qué plataforma debo usar?** Esta guía se enfoca en FamilySearch porque es gratuito y tiene la mayor colección de registros puertorriqueños. Ancestry.com es una alternativa de pago con herramientas adicionales. Consulta la [comparación de plataformas en la página introductoria](/es/guias-investigacion/primeros-pasos/#cuenta) para ver un resumen lado a lado antes de crear tu cuenta.
+
 ### FamilySearch.org (Gratuito)
 
 FamilySearch es el recurso gratuito más importante para la genealogía puertorriqueña. Contiene millones de registros puertorriqueños digitalizados.

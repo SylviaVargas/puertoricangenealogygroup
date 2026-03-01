@@ -73,6 +73,25 @@ Puerto Rican naming conventions follow Spanish tradition:
 
 ---
 
+## Setting Up Your Research Account {#account}
+
+To view record images in the collections listed above, you need an account on at least one platform. Here is a comparison to help you choose:
+
+| Platform | Cost | Best For |
+|----------|------|----------|
+| <a href="https://www.familysearch.org" target="_blank" rel="noopener noreferrer"><em>FamilySearch.org</em></a> | **Free** | Viewing original Puerto Rican birth, marriage, and death records (4.5M+ images) — no credit card required |
+| <a href="https://www.ancestry.com" target="_blank" rel="noopener noreferrer"><em>Ancestry.com</em></a> | Paid subscription | Private family tree hosting, automated record suggestions, and U.S. census records |
+
+**Free route:** Go to FamilySearch.org and create your account. You will need this to view record images in Module 3 of the beginner course.
+
+**Premium route:** Visit <a href="https://www.ancestry.com" target="_blank" rel="noopener noreferrer"><em>Ancestry.com</em></a> to review their current membership plans.
+
+> **Pro tip:** Many researchers use a free FamilySearch account to view original record images and an Ancestry account to build and share their family tree. You do not need to choose just one.
+
+<a href="/assets/pdfs/getting-started/Account_Setup_Checklist.pdf" target="_blank" rel="noopener noreferrer">⬇ Download the Account Setup Checklist (PDF)</a>
+
+---
+
 Ready to dig deeper? The [Free Beginner Course](/research-guides/getting-started/) walks you through four self-paced modules designed specifically for Puerto Rican researchers.
 
 <a href="/research-guides/getting-started/" class="btn btn-primary">Start the Free Course →</a>
