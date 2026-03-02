@@ -11,6 +11,13 @@
 # Para archivar: mover entradas con más de ~12 meses a _data/news_es_archive_YYYY.yml
 
 - date: 2026-03-01
+  category: resources
+  featured: false
+  title: "Nuevo recurso: Sociedades Genealógicas Españolas"
+  body: "Lista de Sociedades Genealógicas Españolas"
+  link: /resources/sociedades-genealogicas-habla-hispana/
+
+- date: 2026-03-01
   category: herramientas
   featured: true
   title: "Nueva Herramienta: Guía de Municipios de Puerto Rico"

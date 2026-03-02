@@ -59,6 +59,8 @@ Una colección curada de archivos, bases de datos y herramientas para investigar
 | <a href="https://www.ngsgenealogy.org/genealogy-courses/" target="_blank" rel="noopener noreferrer"><em>National Genealogical Society – Cursos de Genealogía</em></a> | Cursos en línea autodidactas para genealogistas de todos los niveles, que cubren fundamentos de investigación, metodologías avanzadas, estándares de documentación, ADN, registros de tierras y otros temas especializados. |
 | <a href="https://boricorsos.org/conocenos/" target="_blank" rel="noopener noreferrer"><em>Asociación de Corsos de Puerto Rico</em></a> | Organización dedicada a preservar e investigar la herencia corsa en Puerto Rico. Especialmente útil para investigadores que rastrean ascendencia corsa en el área de Ponce. El grupo ha publicado libros útiles para la investigación de linajes corsos. Ver también: <a href="https://www.facebook.com/groups/411629005851118/" target="_blank" rel="noopener noreferrer"><em>Grupo de Facebook</em></a>. |
 
+¿Investigas ascendencia española o latinoamericana? Consulta el directorio completo: [Sociedades Genealógicas de Habla Hispana](/es/recursos/sociedades-genealogicas-habla-hispana/) — cubre sociedades en España (incluidas las Islas Canarias), el Caribe y América Latina, con enlaces verificados.
+
 ---
 
 ### Blogs y Recursos Educativos

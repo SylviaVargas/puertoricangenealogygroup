@@ -58,6 +58,8 @@ New to Puerto Rican genealogy? These guides will help you plan your research and
 | <a href="https://www.ngsgenealogy.org/genealogy-courses/" target="_blank" rel="noopener noreferrer"><em>National Genealogical Society – Genealogy Courses</em></a> | Self-paced online genealogy courses for beginners through advanced researchers, covering research methods, documentation standards, DNA, land records, and specialized topics. |
 | <a href="https://boricorsos.org/conocenos/" target="_blank" rel="noopener noreferrer"><em>Asociación de Corsos de Puerto Rico</em></a> | Organization dedicated to preserving and researching Corsican heritage in Puerto Rico. Particularly useful for researchers tracing Corsican ancestry in the Ponce area. The group has published books useful for Corsican lineage research. See also: <a href="https://www.facebook.com/groups/411629005851118/" target="_blank" rel="noopener noreferrer"><em>Facebook Group</em></a>. |
 
+Researching Spanish or Latin American ancestry? See the full directory: [Spanish-Language Genealogy Societies](/resources/spanish-genealogy-societies/) — covering societies in Spain (including the Canary Islands), the Caribbean, and Latin America, with verified links.
+
 ---
 
 ### Blogs & Educational Resources

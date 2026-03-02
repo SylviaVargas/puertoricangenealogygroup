@@ -9,6 +9,13 @@
 #
 # Maintenance: add new entries at the top. Move old featured to non-featured.
 # To archive: move entries older than ~12 months to _data/news_archive_YYYY.yml
+- date: 2026-03-01
+  category: resources
+  featured: false
+  title: "New Resource: Spanish Genealogy Societies"
+  title: "New Tool: Puerto Rico Municipality Guide"
+  body: "List of Spanish Genealogical Societies."
+  link: /resources/spanish-genealogy-societies/
 
 - date: 2026-03-01
   category: tools
