@@ -38,7 +38,6 @@ The key word is *carefully.* AI output is always a draft. Every fact must be ver
 
 Download this one-page guide to get started quickly with Gemini or Claude.
 
-<!--TODO: copy ai-quick-reference-en.pdf to assets/pdfs/ai/ after Pandoc build-->
 <a href="/assets/pdfs/ai/ai-quick-reference-en.pdf" class="btn btn-primary" target="_blank" rel="noopener noreferrer">⬇ Download Quick Start Guide (PDF)</a>
 
 Or browse the web version: [Gemini and Claude: Quick Start for Genealogists](/resources/ai-quick-reference-gemini-claude/)

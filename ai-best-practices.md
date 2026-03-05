@@ -15,7 +15,6 @@ related_guides:
 
 This page covers how to use AI tools responsibly in your genealogical research: verifying output, citing sources, understanding limitations, applying the GPS standard, and protecting your data.
 
-<!--TODO: copy ai-quick-reference-en.pdf to assets/pdfs/ai/ after Pandoc build-->
 <a href="/assets/pdfs/ai/ai-quick-reference-en.pdf" class="btn btn-primary" target="_blank" rel="noopener noreferrer">⬇ Download Quick Start Guide (PDF)</a>
 
 ---

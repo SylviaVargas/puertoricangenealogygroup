@@ -38,7 +38,6 @@ La palabra clave es *con cuidado.* El resultado de la IA es siempre un borrador.
 
 Descarga esta guía de una página para comenzar rápidamente con Gemini o Claude.
 
-<!--TODO: copiar ai-quick-reference-es.pdf a assets/pdfs/ai/ después de compilar con Pandoc-->
 <a href="/assets/pdfs/ai/ai-quick-reference-es.pdf" class="btn btn-primary" target="_blank" rel="noopener noreferrer">⬇ Descargar Guía de Inicio Rápido (PDF)</a>
 
 O consulta la versión web: [Gemini y Claude: Inicio Rápido para Genealogistas](/es/recursos/inicio-rapido-gemini-claude/)

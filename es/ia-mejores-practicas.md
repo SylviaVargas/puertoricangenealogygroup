@@ -15,7 +15,6 @@ related_guides:
 
 Esta página explica cómo usar las herramientas de IA de forma responsable en tu investigación genealógica: verificar resultados, citar fuentes, comprender las limitaciones, aplicar el Estándar de Prueba Genealógica y proteger tus datos.
 
-<!--TODO: copiar ai-quick-reference-es.pdf a assets/pdfs/ai/ después de compilar con Pandoc-->
 <a href="/assets/pdfs/ai/ai-quick-reference-es.pdf" class="btn btn-primary" target="_blank" rel="noopener noreferrer">⬇ Descargar Guía de Inicio Rápido (PDF)</a>
 
 ---
