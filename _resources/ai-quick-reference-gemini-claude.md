@@ -1,20 +1,24 @@
 ---
-layout: resource
+layout: guide
 title: "Gemini and Claude: Quick Start for Genealogists"
+description: A practical handout covering privacy setup, genealogist persona configuration, five ready-to-use prompts, and GPS-aligned best practices for using Gemini and Claude in genealogical research.
+difficulty: beginner
 lang: en
 permalink: /resources/ai-quick-reference-gemini-claude/
 ref: ai-quick-reference-gemini-claude
 last_modified_at: 2026-03-05
-description: "A practical quick-start guide to using Gemini and Claude AI tools for genealogical research, including privacy setup, persona configuration, ready-to-use prompts, and GPS reminders."
+related_guides:
+  - /ai-genealogy/
+  - /ai-best-practices/
 ---
-
-## Gemini and Claude: Quick Start for Genealogists
 
 A practical handout from <a href="https://teachinggenealogistsai.com" target="_blank" rel="noopener noreferrer"><em>Teaching Genealogists AI</em></a> covering privacy setup, genealogist persona configuration, five ready-to-use prompts, and GPS-aligned best practices.
 
+<a href="/assets/pdfs/ai/ai-quick-reference-en.pdf" class="btn btn-primary" target="_blank">⬇ Download as PDF</a>
+
 ---
 
-### 1. Get Started and Protect Your Privacy
+## 1. Get Started and Protect Your Privacy {#privacy}
 
 **Gemini:** Go to <a href="https://gemini.google.com" target="_blank" rel="noopener noreferrer"><em>gemini.google.com</em></a>. Sign in with your Google account. To protect your data, go to **Gemini Apps Activity** in your Google account settings and toggle activity **OFF**.
 
@@ -24,7 +28,7 @@ A practical handout from <a href="https://teachinggenealogistsai.com" target="_b
 
 ---
 
-### 2. Set Up Your Genealogist Persona
+## 2. Set Up Your Genealogist Persona {#persona}
 
 Both tools work better when you tell them who you are. Paste this at the start of any new conversation, or save it in Custom Instructions (Claude) or Gems (Gemini Advanced).
 
@@ -35,7 +39,7 @@ Both tools work better when you tell them who you are. Paste this at the start o
 
 ---
 
-### 3. Five Ready-to-Use Prompts
+## 3. Five Ready-to-Use Prompts {#prompts}
 
 Copy these directly into Gemini or Claude. Replace bracketed text with your details.
 
@@ -61,7 +65,7 @@ Copy these directly into Gemini or Claude. Replace bracketed text with your deta
 
 ---
 
-### 4. Privacy: Four Things to Never Do
+## 4. Privacy: Four Things to Never Do {#privacy-rules}
 
 1. **Never upload** documents containing Social Security Numbers, full addresses, or medical records
 2. **Never share** information about living people without their explicit consent
@@ -70,7 +74,7 @@ Copy these directly into Gemini or Claude. Replace bracketed text with your deta
 
 ---
 
-### 5. The Golden Rules
+## 5. The Golden Rules {#golden-rules}
 
 1. **AI assists; you decide.** AI is a research assistant, not a replacement for your judgment.
 2. **Verify everything.** Always check AI output against original sources.
@@ -80,7 +84,7 @@ Copy these directly into Gemini or Claude. Replace bracketed text with your deta
 
 ---
 
-### 6. GPS Reminder
+## 6. GPS Reminder {#gps}
 
 AI cannot complete Genealogical Proof Standard elements for you. Use AI to assist with:
 
@@ -97,6 +101,8 @@ You must still:
 - Reach reasoned, documented conclusions
 
 ---
+
+← [Back to AI in Genealogy](/ai-genealogy/)
 
 *This handout is part of the **Teaching Genealogists AI** curriculum by Sylvia Vargas. For the full course on AI tools for genealogy, contact Sylvia Vargas.*
 

@@ -1,20 +1,24 @@
 ---
-layout: resource
+layout: guide
 title: "Gemini y Claude: Inicio Rápido para Genealogistas"
+description: Una guía práctica que cubre la configuración de privacidad, el perfil de genealogista, cinco indicaciones listas para usar y buenas prácticas alineadas con el Estándar de Prueba Genealógica para usar Gemini y Claude en investigación genealógica.
+difficulty: beginner
 lang: es
 permalink: /es/recursos/inicio-rapido-gemini-claude/
 ref: ai-quick-reference-gemini-claude
 last_modified_at: 2026-03-05
-description: "Guía práctica de inicio rápido para usar las herramientas de IA Gemini y Claude en investigación genealógica, incluyendo configuración de privacidad, perfil de genealogista, indicaciones listas para usar y recordatorios del Estándar de Prueba Genealógica."
+related_guides:
+  - /es/ia-genealogia/
+  - /es/ia-mejores-practicas/
 ---
-
-## Gemini y Claude: Inicio Rápido para Genealogistas
 
 Una guía práctica de <a href="https://teachinggenealogistsai.com" target="_blank" rel="noopener noreferrer"><em>Teaching Genealogists AI</em></a> que cubre la configuración de privacidad, el perfil de genealogista, cinco indicaciones listas para usar y buenas prácticas alineadas con el Estándar de Prueba Genealógica.
 
+<a href="/assets/pdfs/ai/ai-quick-reference-es.pdf" class="btn btn-primary" target="_blank">⬇ Descargar como PDF</a>
+
 ---
 
-### 1. Comienza y Protege Tu Privacidad
+## 1. Comienza y Protege Tu Privacidad {#privacidad}
 
 **Gemini:** Ve a <a href="https://gemini.google.com" target="_blank" rel="noopener noreferrer"><em>gemini.google.com</em></a>. Inicia sesión con tu cuenta de Google. Para proteger tus datos, ve a **Actividad de Gemini Apps** en la configuración de tu cuenta de Google y desactiva la actividad (**OFF**).
 
@@ -24,7 +28,7 @@ Una guía práctica de <a href="https://teachinggenealogistsai.com" target="_bla
 
 ---
 
-### 2. Configura Tu Perfil de Genealogista
+## 2. Configura Tu Perfil de Genealogista {#perfil}
 
 Ambas herramientas funcionan mejor cuando les indicas quién eres. Pega esto al inicio de cualquier conversación nueva, o guárdalo en Instrucciones Personalizadas (Claude) o Gemas (Gemini Advanced).
 
@@ -35,7 +39,7 @@ Ambas herramientas funcionan mejor cuando les indicas quién eres. Pega esto al 
 
 ---
 
-### 3. Cinco Indicaciones Listas para Usar
+## 3. Cinco Indicaciones Listas para Usar {#indicaciones}
 
 Copia estas indicaciones directamente en Gemini o Claude. Reemplaza el texto entre corchetes con tus datos.
 
@@ -61,7 +65,7 @@ Copia estas indicaciones directamente en Gemini o Claude. Reemplaza el texto ent
 
 ---
 
-### 4. Privacidad: Cuatro Cosas que Nunca Debes Hacer
+## 4. Privacidad: Cuatro Cosas que Nunca Debes Hacer {#reglas-privacidad}
 
 1. **Nunca subas** documentos con números de seguro social, direcciones completas o registros médicos
 2. **Nunca compartas** información sobre personas vivas sin su consentimiento explícito
@@ -70,7 +74,7 @@ Copia estas indicaciones directamente en Gemini o Claude. Reemplaza el texto ent
 
 ---
 
-### 5. Las Reglas de Oro
+## 5. Las Reglas de Oro {#reglas-de-oro}
 
 1. **La IA asiste; tú decides.** La IA es un asistente de investigación, no un sustituto de tu criterio.
 2. **Verifica todo.** Siempre comprueba el resultado de la IA contra fuentes originales.
@@ -80,7 +84,7 @@ Copia estas indicaciones directamente en Gemini o Claude. Reemplaza el texto ent
 
 ---
 
-### 6. Recordatorio del Estándar de Prueba Genealógica
+## 6. Recordatorio del Estándar de Prueba Genealógica {#gps}
 
 La IA no puede completar los elementos del Estándar de Prueba Genealógica por ti. Usa la IA para ayudarte con:
 
@@ -97,6 +101,8 @@ Tú debes:
 - Llegar a conclusiones razonadas y documentadas
 
 ---
+
+← [Volver a IA en Genealogía](/es/ia-genealogia/)
 
 *Esta guía es parte del currículo **Teaching Genealogists AI** de Sylvia Vargas. Para el curso completo sobre herramientas de IA para genealogistas, contacta a Sylvia Vargas.*
 
