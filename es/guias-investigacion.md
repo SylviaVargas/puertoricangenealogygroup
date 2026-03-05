@@ -126,6 +126,20 @@ La genealogía puertorriqueña presenta desafíos únicos: documentos en españo
 </ul>
 </div>
 
+<div class="card">
+<h3>Herramientas de IA para Investigación y Organización</h3>
+<span class="badge badge-available">✓ Curso Completo Disponible</span>
+<p>Un curso de cuatro módulos para principiantes sobre cómo usar herramientas de IA como Gemini y Claude para comparar registros, organizar datos y planificar investigación genealógica -- con buenas prácticas alineadas con el GPS en cada módulo.</p>
+<ul>
+  <li><a href="/es/guias-investigacion/ia-investigacion-organizacion/">Descripción del Curso</a></li>
+  <li><a href="/es/guias-investigacion/ia-investigacion-organizacion-modulo-1/">Módulo 1 — La IA como Asistente de Investigación: Qué Puede y Qué No Puede Hacer</a></li>
+  <li><a href="/es/guias-investigacion/ia-investigacion-organizacion-modulo-2/">Módulo 2 — Coincidencia de Registros: Resolver el Problema de los Nombres Comunes</a></li>
+  <li><a href="/es/guias-investigacion/ia-investigacion-organizacion-modulo-3/">Módulo 3 — Organiza Tus Datos con IA</a></li>
+  <li><a href="/es/guias-investigacion/ia-investigacion-organizacion-modulo-4/">Módulo 4 — Planificación de la Investigación: Superar Muros de Ladrillo</a></li>
+  <li><a href="/assets/pdfs/ai-research-organization/ES_Modulo_4_Planificacion_Investigacion.pdf" target="_blank">⬇ Módulo 4 Planificación de la Investigación (PDF)</a></li>
+</ul>
+</div>
+
 </div>
 
 ---

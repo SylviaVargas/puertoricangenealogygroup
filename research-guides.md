@@ -126,6 +126,20 @@ Puerto Rican genealogy comes with unique challenges — Spanish-language records
 </ul>
 </div>
 
+<div class="card">
+<h3>AI Tools for Research and Organization</h3>
+<span class="badge badge-available">✓ Full Course Available</span>
+<p>A four-module beginner course on using AI tools like Gemini and Claude to match records, organize data, and plan genealogical research -- with GPS-aligned best practices throughout.</p>
+<ul>
+  <li><a href="/research-guides/ai-research-organization/">Course Overview</a></li>
+  <li><a href="/research-guides/ai-research-organization-module-1/">Module 1 — AI as a Research Assistant: What It Can and Cannot Do</a></li>
+  <li><a href="/research-guides/ai-research-organization-module-2/">Module 2 — Record Matching: Solving Common-Name Problems</a></li>
+  <li><a href="/research-guides/ai-research-organization-module-3/">Module 3 — Organizing Your Data with AI</a></li>
+  <li><a href="/research-guides/ai-research-organization-module-4/">Module 4 — Research Planning: Breaking Through Brick Walls</a></li>
+  <li><a href="/assets/pdfs/ai-research-organization/Module_4_Research_Planning.pdf" target="_blank">⬇ Module 4 Research Planning (PDF)</a></li>
+</ul>
+</div>
+
 </div>
 
 ---
