@@ -7,8 +7,6 @@ lang: en
 permalink: /ai-genealogy/
 ref: ai-genealogy
 last_modified_at: 2026-03-05
-related_guides:
-  - /ai-best-practices/
 ---
 
 ## Using AI Responsibly in Genealogical Research {#intro}
@@ -22,9 +20,9 @@ The key word is *carefully.* AI output is always a draft. Every fact must be ver
 <div class="card-grid">
 
 <div class="card">
-<h3>Get Started Quickly</h3>
+<h3>Introduction: Get Started Quickly</h3>
 <span class="badge badge-available">✓ Available</span>
-<p>Download the one-page quick start guide or browse the web version to begin using Gemini or Claude in your research today.</p>
+<p>New to AI tools for genealogy? Start here. Download the one-page quick start guide or browse the web version to begin using Gemini or Claude in your research today.</p>
 <ul>
   <li><a href="/assets/pdfs/ai/ai-quick-reference-en.pdf" target="_blank">⬇ Quick Start Guide (PDF)</a></li>
   <li><a href="/resources/ai-quick-reference-gemini-claude/">Gemini and Claude: Quick Start for Genealogists</a></li>
@@ -54,13 +52,15 @@ The key word is *carefully.* AI output is always a draft. Every fact must be ver
 </div>
 
 <div class="card">
-<h3>Research and Organization</h3>
-<span class="badge badge-available">✓ Available</span>
-<p>Use AI to suggest connections, structure large datasets, and plan your next research steps.</p>
+<h3>AI Tools for Research and Organization</h3>
+<span class="badge badge-available">✓ Full Course Available</span>
+<p>A four-module course on using AI tools like Gemini and Claude to match records, organize data, and plan genealogical research -- with GPS-aligned best practices throughout.</p>
 <ul>
-  <li><strong>Record Matching</strong> — suggests possible connections between records</li>
-  <li><strong>Data Organization</strong> — structures large datasets of extracted names and dates</li>
-  <li><strong>Research Planning</strong> — helps identify gaps and next steps</li>
+  <li><a href="/research-guides/ai-research-organization/">Course Overview</a></li>
+  <li><a href="/research-guides/ai-research-organization-module-1/">Module 1 — AI as a Research Assistant: What It Can and Cannot Do</a></li>
+  <li><a href="/research-guides/ai-research-organization-module-2/">Module 2 — Record Matching: Solving Common-Name Problems</a></li>
+  <li><a href="/research-guides/ai-research-organization-module-3/">Module 3 — Organizing Your Data with AI</a></li>
+  <li><a href="/research-guides/ai-research-organization-module-4/">Module 4 — Research Planning: Breaking Through Brick Walls</a></li>
 </ul>
 </div>
 
@@ -79,14 +79,6 @@ The key word is *carefully.* AI output is always a draft. Every fact must be ver
 </div>
 
 </div>
-
----
-
-## Ready to Go Deeper? {#deeper}
-
-Read our full guide on best practices, AI limitations, GPS compliance, and privacy:
-
-<a href="/ai-best-practices/" class="btn btn-secondary">AI Best Practices for Genealogists →</a>
 
 ---
 

@@ -7,8 +7,6 @@ lang: es
 permalink: /es/ia-genealogia/
 ref: ai-genealogy
 last_modified_at: 2026-03-05
-related_guides:
-  - /es/ia-mejores-practicas/
 ---
 
 ## Uso Responsable de la IA en la Investigación Genealógica {#intro}
@@ -22,9 +20,9 @@ La palabra clave es *con cuidado.* El resultado de la IA es siempre un borrador.
 <div class="card-grid">
 
 <div class="card">
-<h3>Comienza Rápidamente</h3>
+<h3>Introducción: Comienza Rápidamente</h3>
 <span class="badge badge-available">✓ Disponible</span>
-<p>Descarga la guía de inicio rápido de una página o consulta la versión web para comenzar a usar Gemini o Claude en tu investigación hoy mismo.</p>
+<p>¿Nueva en las herramientas de IA para genealogía? Empieza aquí. Descarga la guía de inicio rápido de una página o consulta la versión web para comenzar a usar Gemini o Claude en tu investigación hoy mismo.</p>
 <ul>
   <li><a href="/assets/pdfs/ai/ai-quick-reference-es.pdf" target="_blank">⬇ Guía de Inicio Rápido (PDF)</a></li>
   <li><a href="/es/recursos/inicio-rapido-gemini-claude/">Gemini y Claude: Inicio Rápido para Genealogistas</a></li>
@@ -54,13 +52,15 @@ La palabra clave es *con cuidado.* El resultado de la IA es siempre un borrador.
 </div>
 
 <div class="card">
-<h3>Investigación y Organización</h3>
-<span class="badge badge-available">✓ Disponible</span>
-<p>Usa la IA para sugerir conexiones, estructurar grandes conjuntos de datos y planificar tus próximos pasos de investigación.</p>
+<h3>Herramientas de IA para Investigación y Organización</h3>
+<span class="badge badge-available">✓ Curso Completo Disponible</span>
+<p>Un curso de cuatro módulos sobre cómo usar herramientas de IA como Gemini y Claude para comparar registros, organizar datos y planificar investigación genealógica -- con buenas prácticas alineadas con el GPS en cada módulo.</p>
 <ul>
-  <li><strong>Coincidencia de Registros</strong> — sugiere posibles conexiones entre registros</li>
-  <li><strong>Organización de Datos</strong> — estructura cientos de nombres y fechas extraídos</li>
-  <li><strong>Planificación de Investigación</strong> — ayuda a identificar lagunas y próximos pasos</li>
+  <li><a href="/es/guias-investigacion/ia-investigacion-organizacion/">Descripción del Curso</a></li>
+  <li><a href="/es/guias-investigacion/ia-investigacion-organizacion-modulo-1/">Módulo 1 — La IA como Asistente de Investigación: Qué Puede y Qué No Puede Hacer</a></li>
+  <li><a href="/es/guias-investigacion/ia-investigacion-organizacion-modulo-2/">Módulo 2 — Coincidencia de Registros: Resolver el Problema de los Nombres Comunes</a></li>
+  <li><a href="/es/guias-investigacion/ia-investigacion-organizacion-modulo-3/">Módulo 3 — Organiza Tus Datos con IA</a></li>
+  <li><a href="/es/guias-investigacion/ia-investigacion-organizacion-modulo-4/">Módulo 4 — Planificación de la Investigación: Superar Muros de Ladrillo</a></li>
 </ul>
 </div>
 
@@ -79,14 +79,6 @@ La palabra clave es *con cuidado.* El resultado de la IA es siempre un borrador.
 </div>
 
 </div>
-
----
-
-## ¿Lista para Profundizar? {#profundizar}
-
-Lee nuestra guía completa sobre mejores prácticas, limitaciones de la IA, cumplimiento del GPS y privacidad:
-
-<a href="/es/ia-mejores-practicas/" class="btn btn-secondary">Mejores Prácticas de IA para Genealogistas →</a>
 
 ---
 
