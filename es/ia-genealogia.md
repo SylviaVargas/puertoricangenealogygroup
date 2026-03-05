@@ -17,7 +17,7 @@ La palabra clave es *con cuidado.* El resultado de la IA es siempre un borrador.
 
 ---
 
-<div class="card-grid">
+<div class="card-grid-2col">
 
 <div class="card">
 <h3>Introducción: Comienza Rápidamente</h3>
@@ -42,7 +42,7 @@ La palabra clave es *con cuidado.* El resultado de la IA es siempre un borrador.
 
 <div class="card">
 <h3>Idioma y Descubrimiento</h3>
-<span class="badge badge-available">✓ Disponible</span>
+<span class="badge badge-coming-soon">Próximamente</span>
 <p>Supera las barreras del idioma y encuentra conexiones entre registros en múltiples lenguas.</p>
 <ul>
   <li><strong>Traducción</strong> — traduce documentos históricos y términos arcaicos</li>

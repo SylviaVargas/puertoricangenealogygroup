@@ -17,7 +17,7 @@ The key word is *carefully.* AI output is always a draft. Every fact must be ver
 
 ---
 
-<div class="card-grid">
+<div class="card-grid-2col">
 
 <div class="card">
 <h3>Introduction: Get Started Quickly</h3>
@@ -42,7 +42,7 @@ The key word is *carefully.* AI output is always a draft. Every fact must be ver
 
 <div class="card">
 <h3>Language and Discovery</h3>
-<span class="badge badge-available">✓ Available</span>
+<span class="badge badge-coming-soon">Coming Soon</span>
 <p>Break through language barriers and find connections across records in multiple languages.</p>
 <ul>
   <li><strong>Translation</strong> — translates historical documents and archaic terms</li>

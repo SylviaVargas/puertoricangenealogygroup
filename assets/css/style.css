@@ -495,6 +495,18 @@ a:hover {
   gap: var(--spacing-md);
 }
 
+.card-grid-2col {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: var(--spacing-md);
+}
+
+@media (max-width: 640px) {
+  .card-grid-2col {
+    grid-template-columns: 1fr;
+  }
+}
+
 .card {
   background: var(--color-white);
   border-radius: 8px;
