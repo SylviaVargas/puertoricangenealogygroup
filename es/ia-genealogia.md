@@ -4,12 +4,16 @@ title: IA Responsable en Genealogía
 lang: es
 permalink: /es/ia-genealogia/
 ref: ai-genealogy
-last_modified_at: 2026-02-07
+last_modified_at: 2026-03-05
 ---
 
 ## Uso Responsable de la IA en la Investigación Genealógica
 
-La Inteligencia Artificial está transformando muchos campos, incluyendo la genealogía. Aunque las herramientas de IA pueden ayudar con la transcripción, traducción y análisis, es importante usarlas responsablemente y entender sus limitaciones.
+La Inteligencia Artificial está transformando muchos campos, incluyendo la genealogía. Herramientas como Gemini y Claude pueden ayudarte a transcribir documentos manuscritos, traducir registros históricos, redactar biografías y planificar tu investigación. Usada con cuidado, la IA puede ahorrarte horas de trabajo.
+
+La palabra clave es *con cuidado.* El resultado de la IA es siempre un borrador. Cada dato debe verificarse contra fuentes originales, y tus conclusiones deben seguir cumpliendo con el Estándar de Prueba Genealógica. La IA te asiste; no reemplaza tu criterio.
+
+---
 
 ### Cómo Puede Ayudar la IA
 
@@ -24,73 +28,24 @@ La Inteligencia Artificial está transformando muchos campos, incluyendo la gene
 | Coincidencia de Registros | Sugiere posibles conexiones | Vincular bautismos con registros matrimoniales |
 | Organización de Datos | Estructura grandes conjuntos de datos | Ordenar cientos de nombres y fechas extraídos |
 
-### Mejores Prácticas para la IA en Genealogía
+---
 
-#### Siempre Verifica el Resultado de la IA
+### Guías de Referencia Rápida
 
-Las herramientas de IA pueden cometer errores, especialmente con:
-- Estilos de escritura antiguos
-- Documentos dañados o desvanecidos
-- Nombres inusuales o variaciones de ortografía
-- Contexto histórico y terminología
+Descarga o guarda estas guías de una página para comenzar rápidamente con las herramientas de IA en genealogía.
 
-**Nunca aceptes transcripciones o traducciones de IA como definitivas sin verificación humana.**
-
-#### Cita Tus Fuentes Correctamente
-
-Al usar herramientas asistidas por IA:
-1. Documenta qué herramienta de IA usaste
-2. Anota la fecha de uso
-3. Incluye la información de la fuente original
-4. Indica que se utilizó asistencia de IA
-5. Registra cualquier corrección que hayas hecho al resultado de la IA
-
-#### Entiende las Limitaciones de la IA
-
-| Limitación | Riesgo | Qué Debes Hacer |
-| --- | --- | --- |
-| No puede verificar hechos | Puede presentar información falsa como verdadera | Siempre verifica contra fuentes originales |
-| Alucinación | Crea detalles plausibles pero inventados | Verifica nombres, fechas y lugares independientemente |
-| Sin contexto histórico | Malinterpreta términos de la época | Consulta diccionarios de época e historias locales |
-| Sin análisis genealógico | No puede evaluar calidad de evidencia | Aplica el estándar GPS a todas las conclusiones |
-
-### El Estándar GPS Aún Aplica
-
-La IA es una herramienta, no un reemplazo del Estándar de Prueba Genealógica (GPS). Cada conclusión debe cumplir con los cinco elementos del GPS:
-
-| Elemento GPS | Rol de la IA | Tu Responsabilidad |
-| --- | --- | --- |
-| Investigación Exhaustiva | Ayuda a buscar y descubrir registros | Determinar cuándo la investigación está completa |
-| Citas Completas | Puede formatear citas | Documentar el uso de herramientas de IA en la metodología |
-| Análisis de Evidencia | No puede evaluar calidad | Evaluar tipos de fuente, información y evidencia |
-| Resolución de Conflictos | No puede sopesar conflictos | Aplicar preponderancia y razonamiento |
-| Conclusión Escrita | Puede redactar texto | Escribir tu propia conclusión razonada y basada en evidencia |
-
-### Enfoque Recomendado
-
-1. **Usa la IA como punto de partida**, no como punto final
-2. **Verifica cada transcripción** contra el documento original
-3. **Cruza referencias de traducciones** con múltiples fuentes
-4. **Aplica pensamiento crítico** a todas las sugerencias de IA
-5. **Documenta tu metodología** incluyendo el uso de herramientas de IA
-
-### Consideraciones de Privacidad
-
-Al usar herramientas de IA con datos genealógicos:
-
-| Preocupación | Nivel de Riesgo | Recomendación |
-| --- | --- | --- |
-| Datos de personas vivas | Alto | Nunca subas documentos con información personal de personas vivas |
-| Políticas de privacidad de servicios de IA | Medio | Lee y comprende las políticas de retención de datos |
-| Documentos sensibles | Alto | Usa herramientas de IA locales/sin conexión cuando sea posible |
-| Datos de ADN | Alto | Nunca compartas con servicios de IA no confiables |
-
-### Aprende Más
-
-- Únete a nuestras reuniones para discutir aplicaciones de IA en genealogía
-- Comparte tus experiencias con herramientas de IA en nuestra comunidad
-- Mantente actualizado sobre las mejores prácticas emergentes
+| Recurso | Descripción |
+| ------- | ----------- |
+| [Gemini y Claude: Inicio Rápido para Genealogistas](/es/recursos/inicio-rapido-gemini-claude/) | Configuración de privacidad, perfil de genealogista, cinco indicaciones listas para usar y recordatorios del Estándar de Prueba Genealógica |
 
 ---
 
-*El Puerto Rican Genealogy Group fomenta el uso reflexivo y responsable de todas las herramientas—incluyendo la IA—al servicio de una investigación genealógica precisa y bien documentada.*
+### ¿Lista para Profundizar?
+
+Lee nuestra guía completa sobre mejores prácticas, limitaciones de la IA, cumplimiento del GPS y privacidad:
+
+[Mejores Prácticas de IA para Genealogistas](/es/ia-mejores-practicas/)
+
+---
+
+*El Puerto Rican Genealogy Group fomenta el uso reflexivo y responsable de todas las herramientas---incluyendo la IA---al servicio de una investigación genealógica precisa y bien documentada.*
