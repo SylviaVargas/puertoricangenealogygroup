@@ -64,6 +64,20 @@ La palabra clave es *con cuidado.* El resultado de la IA es siempre un borrador.
 </ul>
 </div>
 
+<div class="card">
+<h3>Mejores Prácticas de IA</h3>
+<span class="badge badge-available">✓ Disponible</span>
+<p>Usa las herramientas de IA de forma segura y responsable. Cubre verificación, citas, limitaciones, cumplimiento del GPS y privacidad de datos.</p>
+<ul>
+  <li><strong>Siempre Verifica el Resultado de la IA</strong> — contrasta transcripciones y traducciones con los originales</li>
+  <li><strong>Cita Tus Fuentes</strong> — documenta el uso de herramientas de IA en tu metodología de investigación</li>
+  <li><strong>Comprende las Limitaciones de la IA</strong> — alucinaciones, falta de contexto histórico, sin análisis del GPS</li>
+  <li><strong>El GPS Sigue Aplicando</strong> — la IA asiste pero no puede reemplazar los cinco elementos del GPS</li>
+  <li><strong>Consideraciones de Privacidad</strong> — personas vivas, datos de ADN, documentos sensibles</li>
+  <li><a href="/es/ia-mejores-practicas/">Mejores Prácticas de IA para Genealogistas →</a></li>
+</ul>
+</div>
+
 </div>
 
 ---

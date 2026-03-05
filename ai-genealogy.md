@@ -64,6 +64,20 @@ The key word is *carefully.* AI output is always a draft. Every fact must be ver
 </ul>
 </div>
 
+<div class="card">
+<h3>AI Best Practices</h3>
+<span class="badge badge-available">✓ Available</span>
+<p>Use AI tools safely and responsibly. Covers verification, citation, limitations, GPS compliance, and data privacy.</p>
+<ul>
+  <li><strong>Always Verify AI Output</strong> — cross-check transcriptions and translations against originals</li>
+  <li><strong>Cite Your Sources</strong> — document AI tool usage in your research methodology</li>
+  <li><strong>Understand AI Limitations</strong> — hallucination, missing historical context, no GPS analysis</li>
+  <li><strong>GPS Still Applies</strong> — AI assists but cannot replace the five GPS elements</li>
+  <li><strong>Privacy Considerations</strong> — living persons, DNA data, sensitive documents</li>
+  <li><a href="/ai-best-practices/">AI Best Practices for Genealogists →</a></li>
+</ul>
+</div>
+
 </div>
 
 ---
