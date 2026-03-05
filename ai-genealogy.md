@@ -19,28 +19,52 @@ The key word is *carefully.* AI output is always a draft. Every fact must be ver
 
 ---
 
-## How AI Can Help {#capabilities}
+<div class="card-grid">
 
-| AI Capability | What It Does | Example Use Case |
-| --- | --- | --- |
-| Handwriting Recognition | Reads old handwritten documents | Spanish colonial church records — <a href="https://looking4myroots.com/2025/12/31/how-to-transcribe-old-spanish-records-with-confidence/" target="_blank" rel="noopener noreferrer"><em>How to Transcribe Old Spanish Records with Confidence</em></a> |
-| OCR | Converts printed text to searchable text | Digitized newspapers, civil registries |
-| Batch Processing | Processes many documents at once | Large collections of parish records |
-| Translation | Translates historical documents | Spanish colonial documents, archaic terms |
-| Cross-Language Search | Finds references across languages | Names appearing in both Spanish and English records |
-| Pattern Recognition | Identifies recurring data in records | Family name clusters, migration patterns |
-| Record Matching | Suggests possible connections | Linking baptism to marriage records |
-| Data Organization | Structures large datasets | Sorting hundreds of extracted names and dates |
+<div class="card">
+<h3>Get Started Quickly</h3>
+<span class="badge badge-available">✓ Available</span>
+<p>Download the one-page quick start guide or browse the web version to begin using Gemini or Claude in your research today.</p>
+<ul>
+  <li><a href="/assets/pdfs/ai/ai-quick-reference-en.pdf" target="_blank">⬇ Quick Start Guide (PDF)</a></li>
+  <li><a href="/resources/ai-quick-reference-gemini-claude/">Gemini and Claude: Quick Start for Genealogists</a></li>
+</ul>
+</div>
 
----
+<div class="card">
+<h3>Document Analysis</h3>
+<span class="badge badge-available">✓ Available</span>
+<p>AI tools excel at reading and converting documents that would take hours to process manually.</p>
+<ul>
+  <li><strong>Handwriting Recognition</strong> — reads old handwritten documents. See: <a href="https://looking4myroots.com/2025/12/31/how-to-transcribe-old-spanish-records-with-confidence/" target="_blank" rel="noopener noreferrer"><em>How to Transcribe Old Spanish Records with Confidence</em></a></li>
+  <li><strong>OCR</strong> — converts printed text to searchable text</li>
+  <li><strong>Batch Processing</strong> — processes large collections at once</li>
+</ul>
+</div>
 
-## Handouts and Quick References {#handouts}
+<div class="card">
+<h3>Language and Discovery</h3>
+<span class="badge badge-available">✓ Available</span>
+<p>Break through language barriers and find connections across records in multiple languages.</p>
+<ul>
+  <li><strong>Translation</strong> — translates historical documents and archaic terms</li>
+  <li><strong>Cross-Language Search</strong> — finds references across Spanish and English records</li>
+  <li><strong>Pattern Recognition</strong> — identifies family name clusters and migration patterns</li>
+</ul>
+</div>
 
-Download this one-page guide to get started quickly with Gemini or Claude.
+<div class="card">
+<h3>Research and Organization</h3>
+<span class="badge badge-available">✓ Available</span>
+<p>Use AI to suggest connections, structure large datasets, and plan your next research steps.</p>
+<ul>
+  <li><strong>Record Matching</strong> — suggests possible connections between records</li>
+  <li><strong>Data Organization</strong> — structures large datasets of extracted names and dates</li>
+  <li><strong>Research Planning</strong> — helps identify gaps and next steps</li>
+</ul>
+</div>
 
-<a href="/assets/pdfs/ai/ai-quick-reference-en.pdf" class="btn btn-primary" target="_blank" rel="noopener noreferrer">⬇ Download Quick Start Guide (PDF)</a>
-
-Or browse the web version: [Gemini and Claude: Quick Start for Genealogists](/resources/ai-quick-reference-gemini-claude/)
+</div>
 
 ---
 

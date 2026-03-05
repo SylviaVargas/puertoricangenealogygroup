@@ -19,28 +19,52 @@ La palabra clave es *con cuidado.* El resultado de la IA es siempre un borrador.
 
 ---
 
-## Cómo Puede Ayudar la IA {#capacidades}
+<div class="card-grid">
 
-| Capacidad de IA | Qué Hace | Ejemplo de Uso |
-| --- | --- | --- |
-| Reconocimiento de Escritura | Lee documentos manuscritos antiguos | Registros eclesiásticos coloniales españoles — <a href="https://looking4myroots.com/es/2025/12/31/como-transcribir-registros-antiguos-en-espanol-con-confianza/" target="_blank" rel="noopener noreferrer"><em>Cómo Transcribir Registros Antiguos en Español con Confianza</em></a> |
-| OCR | Convierte texto impreso en texto buscable | Periódicos digitalizados, registros civiles |
-| Procesamiento por Lotes | Procesa muchos documentos a la vez | Grandes colecciones de registros parroquiales |
-| Traducción | Traduce documentos históricos | Documentos coloniales españoles, términos arcaicos |
-| Búsqueda Multilingüe | Encuentra referencias entre idiomas | Nombres en registros en español e inglés |
-| Reconocimiento de Patrones | Identifica datos recurrentes en registros | Grupos de apellidos, patrones migratorios |
-| Coincidencia de Registros | Sugiere posibles conexiones | Vincular bautismos con registros matrimoniales |
-| Organización de Datos | Estructura grandes conjuntos de datos | Ordenar cientos de nombres y fechas extraídos |
+<div class="card">
+<h3>Comienza Rápidamente</h3>
+<span class="badge badge-available">✓ Disponible</span>
+<p>Descarga la guía de inicio rápido de una página o consulta la versión web para comenzar a usar Gemini o Claude en tu investigación hoy mismo.</p>
+<ul>
+  <li><a href="/assets/pdfs/ai/ai-quick-reference-es.pdf" target="_blank">⬇ Guía de Inicio Rápido (PDF)</a></li>
+  <li><a href="/es/recursos/inicio-rapido-gemini-claude/">Gemini y Claude: Inicio Rápido para Genealogistas</a></li>
+</ul>
+</div>
 
----
+<div class="card">
+<h3>Análisis de Documentos</h3>
+<span class="badge badge-available">✓ Disponible</span>
+<p>Las herramientas de IA son excelentes para leer y convertir documentos que tomarían horas procesar manualmente.</p>
+<ul>
+  <li><strong>Reconocimiento de Escritura</strong> — lee documentos manuscritos antiguos. Ver: <a href="https://looking4myroots.com/es/2025/12/31/como-transcribir-registros-antiguos-en-espanol-con-confianza/" target="_blank" rel="noopener noreferrer"><em>Cómo Transcribir Registros Antiguos en Español con Confianza</em></a></li>
+  <li><strong>OCR</strong> — convierte texto impreso en texto buscable</li>
+  <li><strong>Procesamiento por Lotes</strong> — procesa grandes colecciones a la vez</li>
+</ul>
+</div>
 
-## Guías de Referencia Rápida {#guias}
+<div class="card">
+<h3>Idioma y Descubrimiento</h3>
+<span class="badge badge-available">✓ Disponible</span>
+<p>Supera las barreras del idioma y encuentra conexiones entre registros en múltiples lenguas.</p>
+<ul>
+  <li><strong>Traducción</strong> — traduce documentos históricos y términos arcaicos</li>
+  <li><strong>Búsqueda Multilingüe</strong> — encuentra referencias en registros en español e inglés</li>
+  <li><strong>Reconocimiento de Patrones</strong> — identifica grupos de apellidos y patrones migratorios</li>
+</ul>
+</div>
 
-Descarga esta guía de una página para comenzar rápidamente con Gemini o Claude.
+<div class="card">
+<h3>Investigación y Organización</h3>
+<span class="badge badge-available">✓ Disponible</span>
+<p>Usa la IA para sugerir conexiones, estructurar grandes conjuntos de datos y planificar tus próximos pasos de investigación.</p>
+<ul>
+  <li><strong>Coincidencia de Registros</strong> — sugiere posibles conexiones entre registros</li>
+  <li><strong>Organización de Datos</strong> — estructura cientos de nombres y fechas extraídos</li>
+  <li><strong>Planificación de Investigación</strong> — ayuda a identificar lagunas y próximos pasos</li>
+</ul>
+</div>
 
-<a href="/assets/pdfs/ai/ai-quick-reference-es.pdf" class="btn btn-primary" target="_blank" rel="noopener noreferrer">⬇ Descargar Guía de Inicio Rápido (PDF)</a>
-
-O consulta la versión web: [Gemini y Claude: Inicio Rápido para Genealogistas](/es/recursos/inicio-rapido-gemini-claude/)
+</div>
 
 ---
 
