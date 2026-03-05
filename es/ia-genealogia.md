@@ -1,13 +1,17 @@
 ---
-layout: page
+layout: guide
 title: IA Responsable en Genealogía
+description: Cómo las herramientas de IA como Gemini y Claude pueden ayudar con la transcripción, traducción, planificación de investigación y más, y cómo usarlas de forma segura.
+difficulty: beginner
 lang: es
 permalink: /es/ia-genealogia/
 ref: ai-genealogy
 last_modified_at: 2026-03-05
+related_guides:
+  - /es/ia-mejores-practicas/
 ---
 
-## Uso Responsable de la IA en la Investigación Genealógica
+## Uso Responsable de la IA en la Investigación Genealógica {#intro}
 
 La Inteligencia Artificial está transformando muchos campos, incluyendo la genealogía. Herramientas como Gemini y Claude pueden ayudarte a transcribir documentos manuscritos, traducir registros históricos, redactar biografías y planificar tu investigación. Usada con cuidado, la IA puede ahorrarte horas de trabajo.
 
@@ -15,7 +19,7 @@ La palabra clave es *con cuidado.* El resultado de la IA es siempre un borrador.
 
 ---
 
-### Cómo Puede Ayudar la IA
+## Cómo Puede Ayudar la IA {#capacidades}
 
 | Capacidad de IA | Qué Hace | Ejemplo de Uso |
 | --- | --- | --- |
@@ -30,21 +34,22 @@ La palabra clave es *con cuidado.* El resultado de la IA es siempre un borrador.
 
 ---
 
-### Guías de Referencia Rápida
+## Guías de Referencia Rápida {#guias}
 
-Descarga o guarda estas guías de una página para comenzar rápidamente con las herramientas de IA en genealogía.
+Descarga esta guía de una página para comenzar rápidamente con Gemini o Claude.
 
-| Recurso | Descripción |
-| ------- | ----------- |
-| [Gemini y Claude: Inicio Rápido para Genealogistas](/es/recursos/inicio-rapido-gemini-claude/) | Configuración de privacidad, perfil de genealogista, cinco indicaciones listas para usar y recordatorios del Estándar de Prueba Genealógica |
+<!--TODO: copiar ai-quick-reference-es.pdf a assets/pdfs/ai/ después de compilar con Pandoc-->
+<a href="/assets/pdfs/ai/ai-quick-reference-es.pdf" class="btn btn-primary" target="_blank" rel="noopener noreferrer">⬇ Descargar Guía de Inicio Rápido (PDF)</a>
+
+O consulta la versión web: [Gemini y Claude: Inicio Rápido para Genealogistas](/es/recursos/inicio-rapido-gemini-claude/)
 
 ---
 
-### ¿Lista para Profundizar?
+## ¿Lista para Profundizar? {#profundizar}
 
 Lee nuestra guía completa sobre mejores prácticas, limitaciones de la IA, cumplimiento del GPS y privacidad:
 
-[Mejores Prácticas de IA para Genealogistas](/es/ia-mejores-practicas/)
+<a href="/es/ia-mejores-practicas/" class="btn btn-secondary">Mejores Prácticas de IA para Genealogistas →</a>
 
 ---
 

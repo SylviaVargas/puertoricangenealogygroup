@@ -1,23 +1,29 @@
 ---
-layout: page
+layout: guide
 title: AI Best Practices for Genealogists
+description: How to verify AI output, cite sources correctly, understand AI limitations, apply the GPS standard, and protect your data when using AI tools in genealogical research.
+difficulty: intermediate
 lang: en
 permalink: /ai-best-practices/
 ref: ai-best-practices
 last_modified_at: 2026-03-05
+related_guides:
+  - /ai-genealogy/
 ---
 
-## AI Best Practices for Genealogists
+## AI Best Practices for Genealogists {#intro}
 
 This page covers how to use AI tools responsibly in your genealogical research: verifying output, citing sources, understanding limitations, applying the GPS standard, and protecting your data.
 
-[Back to AI in Genealogy](/ai-genealogy/)
+<!--TODO: copy ai-quick-reference-en.pdf to assets/pdfs/ai/ after Pandoc build-->
+<a href="/assets/pdfs/ai/ai-quick-reference-en.pdf" class="btn btn-primary" target="_blank" rel="noopener noreferrer">⬇ Download Quick Start Guide (PDF)</a>
 
 ---
 
-### Always Verify AI Output
+## Always Verify AI Output {#verify}
 
 AI tools can make mistakes, especially with:
+
 - Old handwriting styles
 - Damaged or faded documents
 - Unusual names or spelling variations
@@ -27,9 +33,10 @@ AI tools can make mistakes, especially with:
 
 ---
 
-### Cite Your Sources Properly
+## Cite Your Sources Properly {#citations}
 
 When using AI-assisted tools:
+
 1. Document which AI tool you used
 2. Note the date of use
 3. Include the original source information
@@ -38,7 +45,7 @@ When using AI-assisted tools:
 
 ---
 
-### Understand AI Limitations
+## Understand AI Limitations {#limitations}
 
 | Limitation | Risk | What You Should Do |
 | --- | --- | --- |
@@ -49,7 +56,7 @@ When using AI-assisted tools:
 
 ---
 
-### The GPS Standard Still Applies
+## The GPS Standard Still Applies {#gps}
 
 AI is a tool, not a replacement for the Genealogical Proof Standard. Every conclusion must still meet the five GPS elements:
 
@@ -63,7 +70,7 @@ AI is a tool, not a replacement for the Genealogical Proof Standard. Every concl
 
 ---
 
-### Recommended Approach
+## Recommended Approach {#approach}
 
 1. **Use AI as a starting point**, not an endpoint
 2. **Verify every transcription** against the original document
@@ -73,7 +80,7 @@ AI is a tool, not a replacement for the Genealogical Proof Standard. Every concl
 
 ---
 
-### Privacy Considerations
+## Privacy Considerations {#privacy}
 
 When using AI tools with genealogical data:
 
@@ -86,12 +93,6 @@ When using AI tools with genealogical data:
 
 ---
 
-### Handouts and Quick References
-
-| Resource | Description |
-| -------- | ----------- |
-| [Gemini and Claude: Quick Start for Genealogists](/resources/ai-quick-reference-gemini-claude/) | Privacy setup, persona configuration, five ready-to-use prompts, and GPS reminders |
-
----
+← [Back to AI in Genealogy](/ai-genealogy/)
 
 *The Puerto Rican Genealogy Group encourages thoughtful, responsible use of all tools---including AI---in service of accurate, well-documented genealogical research.*

@@ -1,23 +1,29 @@
 ---
-layout: page
+layout: guide
 title: Mejores Prácticas de IA para Genealogistas
+description: Cómo verificar el resultado de la IA, citar fuentes correctamente, entender las limitaciones, aplicar el Estándar de Prueba Genealógica y proteger tus datos al usar herramientas de IA en la investigación genealógica.
+difficulty: intermediate
 lang: es
 permalink: /es/ia-mejores-practicas/
 ref: ai-best-practices
 last_modified_at: 2026-03-05
+related_guides:
+  - /es/ia-genealogia/
 ---
 
-## Mejores Prácticas de IA para Genealogistas
+## Mejores Prácticas de IA para Genealogistas {#intro}
 
 Esta página explica cómo usar las herramientas de IA de forma responsable en tu investigación genealógica: verificar resultados, citar fuentes, comprender las limitaciones, aplicar el Estándar de Prueba Genealógica y proteger tus datos.
 
-[Volver a IA en Genealogía](/es/ia-genealogia/)
+<!--TODO: copiar ai-quick-reference-es.pdf a assets/pdfs/ai/ después de compilar con Pandoc-->
+<a href="/assets/pdfs/ai/ai-quick-reference-es.pdf" class="btn btn-primary" target="_blank" rel="noopener noreferrer">⬇ Descargar Guía de Inicio Rápido (PDF)</a>
 
 ---
 
-### Siempre Verifica el Resultado de la IA
+## Siempre Verifica el Resultado de la IA {#verificar}
 
 Las herramientas de IA pueden cometer errores, especialmente con:
+
 - Estilos de escritura antiguos
 - Documentos dañados o desvanecidos
 - Nombres inusuales o variaciones de ortografía
@@ -27,9 +33,10 @@ Las herramientas de IA pueden cometer errores, especialmente con:
 
 ---
 
-### Cita Tus Fuentes Correctamente
+## Cita Tus Fuentes Correctamente {#citas}
 
 Al usar herramientas asistidas por IA:
+
 1. Documenta qué herramienta de IA usaste
 2. Anota la fecha de uso
 3. Incluye la información de la fuente original
@@ -38,7 +45,7 @@ Al usar herramientas asistidas por IA:
 
 ---
 
-### Entiende las Limitaciones de la IA
+## Entiende las Limitaciones de la IA {#limitaciones}
 
 | Limitación | Riesgo | Qué Debes Hacer |
 | --- | --- | --- |
@@ -49,7 +56,7 @@ Al usar herramientas asistidas por IA:
 
 ---
 
-### El Estándar GPS Aún Aplica
+## El Estándar GPS Aún Aplica {#gps}
 
 La IA es una herramienta, no un reemplazo del Estándar de Prueba Genealógica (GPS). Cada conclusión debe cumplir con los cinco elementos del GPS:
 
@@ -63,7 +70,7 @@ La IA es una herramienta, no un reemplazo del Estándar de Prueba Genealógica (
 
 ---
 
-### Enfoque Recomendado
+## Enfoque Recomendado {#enfoque}
 
 1. **Usa la IA como punto de partida**, no como punto final
 2. **Verifica cada transcripción** contra el documento original
@@ -73,7 +80,7 @@ La IA es una herramienta, no un reemplazo del Estándar de Prueba Genealógica (
 
 ---
 
-### Consideraciones de Privacidad
+## Consideraciones de Privacidad {#privacidad}
 
 Al usar herramientas de IA con datos genealógicos:
 
@@ -86,12 +93,6 @@ Al usar herramientas de IA con datos genealógicos:
 
 ---
 
-### Guías de Referencia Rápida
-
-| Recurso | Descripción |
-| ------- | ----------- |
-| [Gemini y Claude: Inicio Rápido para Genealogistas](/es/recursos/inicio-rapido-gemini-claude/) | Configuración de privacidad, perfil de genealogista, cinco indicaciones listas para usar y recordatorios del Estándar de Prueba Genealógica |
-
----
+← [Volver a IA en Genealogía](/es/ia-genealogia/)
 
 *El Puerto Rican Genealogy Group fomenta el uso reflexivo y responsable de todas las herramientas---incluyendo la IA---al servicio de una investigación genealógica precisa y bien documentada.*
