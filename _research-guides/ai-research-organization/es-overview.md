@@ -79,8 +79,8 @@ Cada módulo de este curso incluye un punto de control GPS: un recordatorio de d
 |---------|----------|
 | Descripción del Curso | <a href="/assets/pdfs/ai-research-organization/ES_Descripcion_del_Curso.pdf" target="_blank" rel="noopener noreferrer">PDF</a> |
 | Guía de Inicio Rápido (Gemini y Claude) | <a href="/assets/pdfs/ai/ai-quick-reference-es.pdf" target="_blank" rel="noopener noreferrer">PDF</a> |
-| HT 01 — Plantilla de Indicaciones de IA | <a href="/assets/pdfs/ai-research-organization/ES_HT_01_Plantilla_Indicaciones_IA.pdf" target="_blank" rel="noopener noreferrer">PDF</a> |
-| HT 02 — Registro de Coincidencia de Registros | <a href="/assets/pdfs/ai-research-organization/ES_HT_02_Registro_Coincidencia_Registros.pdf" target="_blank" rel="noopener noreferrer">PDF</a> |
+| HT 01 — Constructor de Indicaciones de IA | <a href="/assets/pdfs/ai-research-organization/ES_HT_01_Constructor_Indicaciones.pdf" target="_blank" rel="noopener noreferrer">PDF</a> |
+| HT 02 — Registro de Coincidencia de Registros | <a href="/assets/pdfs/ai-research-organization/ES_HT_02_Registro_Coincidencia.pdf" target="_blank" rel="noopener noreferrer">PDF</a> |
 | HT 03 — Plantilla de Extracción de Datos | <a href="/assets/pdfs/ai-research-organization/ES_HT_03_Plantilla_Extraccion_Datos.pdf" target="_blank" rel="noopener noreferrer">PDF</a> |
 | HT 04 — Auditoría de Lagunas de Investigación | <a href="/assets/pdfs/ai-research-organization/ES_HT_04_Auditoria_Lagunas_Investigacion.pdf" target="_blank" rel="noopener noreferrer">PDF</a> |
 

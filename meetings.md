@@ -16,7 +16,7 @@ The Puerto Rican Genealogy Group hosts regular virtual meetings where members ca
 <div class="meeting-card">
   <div class="meeting-card-label">Upcoming Meeting</div>
   <h3><a href="{{ '/meeting-march-2026/' | relative_url }}">March 2026 Meeting</a></h3>
-  <p>Topic to be announced. Stay tuned for details!</p>
+  <p>Luis Ariel Rivera, a professional genealogist specializing in Puerto Rican and Caribbean family history and creator of the genealogy blog <a href="https://boricuagenes.com" target="_blank" rel="noopener noreferrer"><em>BoricuaGenes</em></a>, will share insights from his blog post, "Revisiting a Consanguineous Marriage." His presentation examines an 1860 marriage in Maunabo, Puerto Rico, and explores the genealogical implications of consanguinity in Puerto Rican families.</p>
   <div class="meeting-card-details">
     <span>Monday, March 9, 2026</span>
     <span>7:00 PM EST / 8:00 PM PR / 4:00 PM PST</span>
