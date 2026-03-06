@@ -41,17 +41,6 @@ La palabra clave es *con cuidado.* El resultado de la IA es siempre un borrador.
 </div>
 
 <div class="card">
-<h3>Idioma y Descubrimiento</h3>
-<span class="badge badge-coming-soon">Próximamente</span>
-<p>Supera las barreras del idioma y encuentra conexiones entre registros en múltiples lenguas.</p>
-<ul>
-  <li><strong>Traducción</strong> — traduce documentos históricos y términos arcaicos</li>
-  <li><strong>Búsqueda Multilingüe</strong> — encuentra referencias en registros en español e inglés</li>
-  <li><strong>Reconocimiento de Patrones</strong> — identifica grupos de apellidos y patrones migratorios</li>
-</ul>
-</div>
-
-<div class="card">
 <h3>Herramientas de IA para Investigación y Organización</h3>
 <span class="badge badge-available">✓ Curso Completo Disponible</span>
 <p>Un curso de cuatro módulos sobre cómo usar herramientas de IA como Gemini y Claude para comparar registros, organizar datos y planificar investigación genealógica -- con buenas prácticas alineadas con el GPS en cada módulo.</p>
@@ -75,6 +64,17 @@ La palabra clave es *con cuidado.* El resultado de la IA es siempre un borrador.
   <li><strong>El GPS Sigue Aplicando</strong> — la IA asiste pero no puede reemplazar los cinco elementos del GPS</li>
   <li><strong>Consideraciones de Privacidad</strong> — personas vivas, datos de ADN, documentos sensibles</li>
   <li><a href="/es/ia-mejores-practicas/">Mejores Prácticas de IA para Genealogistas →</a></li>
+</ul>
+</div>
+
+<div class="card">
+<h3>Idioma y Descubrimiento</h3>
+<span class="badge badge-coming-soon">Próximamente</span>
+<p>Supera las barreras del idioma y encuentra conexiones entre registros en múltiples lenguas.</p>
+<ul>
+  <li><strong>Traducción</strong> — traduce documentos históricos y términos arcaicos</li>
+  <li><strong>Búsqueda Multilingüe</strong> — encuentra referencias en registros en español e inglés</li>
+  <li><strong>Reconocimiento de Patrones</strong> — identifica grupos de apellidos y patrones migratorios</li>
 </ul>
 </div>
 

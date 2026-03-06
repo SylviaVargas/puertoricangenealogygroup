@@ -41,17 +41,6 @@ The key word is *carefully.* AI output is always a draft. Every fact must be ver
 </div>
 
 <div class="card">
-<h3>Language and Discovery</h3>
-<span class="badge badge-coming-soon">Coming Soon</span>
-<p>Break through language barriers and find connections across records in multiple languages.</p>
-<ul>
-  <li><strong>Translation</strong> — translates historical documents and archaic terms</li>
-  <li><strong>Cross-Language Search</strong> — finds references across Spanish and English records</li>
-  <li><strong>Pattern Recognition</strong> — identifies family name clusters and migration patterns</li>
-</ul>
-</div>
-
-<div class="card">
 <h3>AI Tools for Research and Organization</h3>
 <span class="badge badge-available">✓ Full Course Available</span>
 <p>A four-module course on using AI tools like Gemini and Claude to match records, organize data, and plan genealogical research -- with GPS-aligned best practices throughout.</p>
@@ -75,6 +64,17 @@ The key word is *carefully.* AI output is always a draft. Every fact must be ver
   <li><strong>GPS Still Applies</strong> — AI assists but cannot replace the five GPS elements</li>
   <li><strong>Privacy Considerations</strong> — living persons, DNA data, sensitive documents</li>
   <li><a href="/ai-best-practices/">AI Best Practices for Genealogists →</a></li>
+</ul>
+</div>
+
+<div class="card">
+<h3>Language and Discovery</h3>
+<span class="badge badge-coming-soon">Coming Soon</span>
+<p>Break through language barriers and find connections across records in multiple languages.</p>
+<ul>
+  <li><strong>Translation</strong> — translates historical documents and archaic terms</li>
+  <li><strong>Cross-Language Search</strong> — finds references across Spanish and English records</li>
+  <li><strong>Pattern Recognition</strong> — identifies family name clusters and migration patterns</li>
 </ul>
 </div>
 
