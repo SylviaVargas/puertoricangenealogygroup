@@ -12,14 +12,14 @@
 
 - date: 2026-03-05
   category: funciones
-  featured: false
+  featured: true
   title: "Nuevo: Guía de Inicio Rápido para Gemini y Claude"
   body: "Una guía de referencia de una página que cubre la configuración de privacidad, el perfil de genealogista, cinco indicaciones listas para usar y recordatorios del Estándar de Prueba Genealógica."
   link: /es/recursos/inicio-rapido-gemini-claude/
 
 - date: 2026-03-05
   category: funciones
-  featured: false
+  featured: true
   title: "Nuevo: Mejores Prácticas de IA para Genealogistas"
   body: "La página de IA en Genealogía ahora está dividida en dos: una introducción breve para nuevos miembros y una referencia completa sobre limitaciones, cumplimiento del GPS y privacidad."
   link: /es/ia-mejores-practicas/

@@ -11,14 +11,14 @@
 # To archive: move entries older than ~12 months to _data/news_archive_YYYY.yml
 - date: 2026-03-05
   category: features
-  featured: false
+  featured: true 
   title: "New: AI Quick Start Handout for Gemini and Claude"
   body: "A one-page reference guide covering privacy setup, how to configure a genealogist persona, five ready-to-use prompts, and GPS reminders for Gemini and Claude."
   link: /resources/ai-quick-reference-gemini-claude/
 
 - date: 2026-03-05
   category: features
-  featured: false
+  featured: true
   title: "New: AI Best Practices for Genealogists"
   body: "The AI in Genealogy page is now split into two: a short intro for new members and a full best practices reference covering limitations, GPS compliance, and privacy."
   link: /ai-best-practices/
