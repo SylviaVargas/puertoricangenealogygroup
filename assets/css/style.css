@@ -630,14 +630,26 @@ a:hover {
   font-weight: 600;
 }
 
+.meeting-card a {
+  color: var(--color-gold);
+  text-decoration: underline;
+}
+
+.meeting-card a:hover {
+  color: var(--color-white);
+  text-decoration: none;
+}
+
 .meeting-card .btn-primary {
   background: var(--color-gold);
   color: var(--color-navy);
+  text-decoration: none;
 }
 
 .meeting-card .btn-primary:hover {
   background: var(--color-white);
   color: var(--color-navy);
+  text-decoration: none;
 }
 
 /* ===== Goals/Features Grid ===== */
