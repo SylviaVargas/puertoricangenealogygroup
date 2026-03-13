@@ -1366,3 +1366,324 @@ td:first-child {
     page-break-before: auto;
   }
 }
+
+/* =========================================================
+   Funeral Cards Gallery
+   ========================================================= */
+
+/* Controls bar */
+.fc-controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-sm);
+  align-items: center;
+  margin: var(--space-md) 0;
+}
+
+#fc-search {
+  flex: 1 1 240px;
+  padding: 0.5rem 0.75rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 1rem;
+  font-family: inherit;
+}
+
+#fc-search:focus {
+  outline: 2px solid var(--navy, #1a3a5c);
+  border-color: var(--navy, #1a3a5c);
+}
+
+.fc-year-filter {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  flex-wrap: nowrap;
+  font-size: 0.9rem;
+}
+
+.fc-year-filter label {
+  white-space: nowrap;
+  font-weight: 600;
+  color: var(--navy, #1a3a5c);
+}
+
+.fc-year-filter input[type="number"] {
+  width: 72px;
+  padding: 0.4rem 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 0.9rem;
+  font-family: inherit;
+}
+
+/* Count line */
+.fc-count {
+  font-size: 0.9rem;
+  color: #555;
+  margin-bottom: var(--space-sm);
+}
+
+/* Card grid */
+.fc-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: var(--space-md);
+  margin-bottom: var(--space-xl);
+}
+
+.fc-card {
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  overflow: hidden;
+  cursor: pointer;
+  text-align: left;
+  padding: 0;
+  transition: box-shadow 0.15s, transform 0.15s;
+  font-family: inherit;
+}
+
+.fc-card:hover,
+.fc-card:focus {
+  box-shadow: 0 4px 16px rgba(0,0,0,0.15);
+  transform: translateY(-2px);
+  outline: none;
+  border-color: var(--navy, #1a3a5c);
+}
+
+.fc-thumb {
+  width: 100%;
+  height: 160px;
+  object-fit: cover;
+  display: block;
+  background: #f0ece3;
+}
+
+.fc-card-info {
+  padding: 0.5rem 0.6rem;
+}
+
+.fc-card-name {
+  display: block;
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: var(--navy, #1a3a5c);
+  line-height: 1.3;
+  margin-bottom: 0.2rem;
+}
+
+.fc-card-date {
+  display: block;
+  font-size: 0.78rem;
+  color: #666;
+}
+
+.fc-no-results {
+  grid-column: 1 / -1;
+  text-align: center;
+  color: #666;
+  padding: var(--space-xl) 0;
+  font-style: italic;
+}
+
+/* Modal */
+body.fc-modal-open {
+  overflow: hidden;
+}
+
+.fc-modal {
+  position: fixed;
+  inset: 0;
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: var(--space-md);
+}
+
+.fc-modal[hidden] {
+  display: none;
+}
+
+.fc-modal-overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(0,0,0,0.75);
+}
+
+.fc-modal-inner {
+  position: relative;
+  background: #fff;
+  border-radius: 8px;
+  max-width: 720px;
+  width: 100%;
+  max-height: 90vh;
+  overflow-y: auto;
+  padding: var(--space-lg);
+  box-shadow: 0 8px 32px rgba(0,0,0,0.3);
+}
+
+.fc-modal-close {
+  position: absolute;
+  top: 0.75rem;
+  right: 0.75rem;
+  background: none;
+  border: none;
+  font-size: 1.4rem;
+  line-height: 1;
+  cursor: pointer;
+  color: #555;
+  padding: 0.25rem 0.5rem;
+  border-radius: 4px;
+}
+
+.fc-modal-close:hover {
+  background: #f0ece3;
+  color: var(--navy, #1a3a5c);
+}
+
+.fc-modal-nav {
+  display: flex;
+  gap: 0.5rem;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  left: -20px;
+  right: -20px;
+  pointer-events: none;
+  justify-content: space-between;
+}
+
+.fc-nav-btn {
+  background: var(--navy, #1a3a5c);
+  color: #fff;
+  border: none;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  font-size: 1.4rem;
+  cursor: pointer;
+  pointer-events: all;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0.85;
+  transition: opacity 0.15s;
+}
+
+.fc-nav-btn:hover {
+  opacity: 1;
+}
+
+.fc-nav-btn:disabled {
+  opacity: 0.25;
+  cursor: default;
+}
+
+.fc-modal-name {
+  font-size: 1.15rem;
+  color: var(--navy, #1a3a5c);
+  margin: 0 2.5rem var(--space-sm);
+  line-height: 1.3;
+}
+
+.fc-modal-img-wrap {
+  text-align: center;
+  background: #f0ece3;
+  border-radius: 4px;
+  margin-bottom: var(--space-sm);
+  min-height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.fc-modal-img {
+  max-width: 100%;
+  max-height: 55vh;
+  object-fit: contain;
+  border-radius: 2px;
+}
+
+.fc-modal-toggle {
+  display: flex;
+  gap: 0.5rem;
+  margin-bottom: var(--space-sm);
+  justify-content: center;
+}
+
+.fc-toggle-btn {
+  padding: 0.35rem 0.9rem;
+  border: 1px solid var(--navy, #1a3a5c);
+  border-radius: 20px;
+  background: none;
+  color: var(--navy, #1a3a5c);
+  font-size: 0.85rem;
+  cursor: pointer;
+  font-family: inherit;
+  transition: background 0.15s, color 0.15s;
+}
+
+.fc-toggle-btn.active,
+.fc-toggle-btn:hover {
+  background: var(--navy, #1a3a5c);
+  color: #fff;
+}
+
+.fc-modal-meta {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 0.25rem 1rem;
+  font-size: 0.88rem;
+  margin: 0;
+  border-top: 1px solid #eee;
+  padding-top: var(--space-sm);
+}
+
+.fc-modal-meta dt {
+  font-weight: 600;
+  color: var(--navy, #1a3a5c);
+  white-space: nowrap;
+}
+
+.fc-modal-meta dd {
+  margin: 0;
+  color: #333;
+}
+
+/* Responsive */
+@media (max-width: 600px) {
+  .fc-grid {
+    grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+    gap: var(--space-sm);
+  }
+
+  .fc-thumb {
+    height: 120px;
+  }
+
+  .fc-modal-inner {
+    padding: var(--space-md);
+  }
+
+  .fc-modal-nav {
+    left: -10px;
+    right: -10px;
+  }
+
+  .fc-nav-btn {
+    width: 32px;
+    height: 32px;
+    font-size: 1.1rem;
+  }
+
+  .fc-controls {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .fc-year-filter {
+    justify-content: flex-start;
+  }
+}
