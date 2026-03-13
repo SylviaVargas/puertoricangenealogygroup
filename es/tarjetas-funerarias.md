@@ -5,6 +5,8 @@ description: "Busca y visualiza imágenes de tarjetas funerarias de Rincón y pu
 lang: es
 ref: funeral-cards
 permalink: /es/tarjetas-funerarias/
+parent_title: Herramientas
+parent_url: /es/herramientas/
 ---
 
 Esta colección contiene tarjetas funerarias de Rincón, Puerto Rico y pueblos vecinos, que abarcan de 1965 a 2020. Estas tarjetas registran nombres, fechas de nacimiento, fechas de fallecimiento, lugares de origen e información sobre funerarias, fuentes valiosas para la investigación genealógica.

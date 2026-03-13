@@ -5,6 +5,8 @@ description: "Browse and search funeral card images from Rincón and surrounding
 lang: en
 ref: funeral-cards
 permalink: /funeral-cards/
+parent_title: Tools
+parent_url: /tools/
 ---
 
 This collection contains funeral cards from Rincón, Puerto Rico and neighboring towns, spanning 1965 to 2020. These cards record names, birth dates, death dates, birthplaces, and funeral home information — valuable sources for genealogical research.
