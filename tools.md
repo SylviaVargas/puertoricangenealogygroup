@@ -65,6 +65,17 @@ Tools, templates, and guides to help you organize and document your Puerto Rican
 </ul>
 </div>
 
+<div class="card">
+<h3>Funeral Cards — Rincón, Puerto Rico</h3>
+<span class="badge badge-available">✓ Available</span>
+<span class="badge badge-interactive">Searchable</span>
+<p>Browse and search ~154 funeral card images from Rincón and surrounding towns, spanning 1965 to 2020.</p>
+<p><strong>Includes:</strong> Names, birth and death dates, birthplaces, death places, funeral home names, and card images (front and interior where available)</p>
+<ul>
+<li><a href="/funeral-cards/">Browse the Funeral Cards Collection</a></li>
+</ul>
+</div>
+
 </div>
 
 ---

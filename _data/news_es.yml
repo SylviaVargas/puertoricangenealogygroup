@@ -10,6 +10,13 @@
 # Mantenimiento: agregar entradas nuevas al inicio. Cambiar featured anterior a false.
 # Para archivar: mover entradas con más de ~12 meses a _data/news_es_archive_YYYY.yml
 
+- date: 2026-03-13
+  category: funciones
+  featured: false
+  title: "Nuevo: Colección de Tarjetas Funerarias — Rincón, Puerto Rico"
+  body: "Busca y visualiza ~154 imágenes de tarjetas funerarias de Rincón y pueblos cercanos, 1965-2020. Las tarjetas incluyen nombres, fechas de nacimiento y fallecimiento, lugares de origen e información sobre funerarias."
+  link: /es/tarjetas-funerarias/
+
 - date: 2026-03-05
   category: funciones
   featured: true

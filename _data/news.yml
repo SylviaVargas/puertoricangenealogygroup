@@ -9,9 +9,16 @@
 #
 # Maintenance: add new entries at the top. Move old featured to non-featured.
 # To archive: move entries older than ~12 months to _data/news_archive_YYYY.yml
+- date: 2026-03-13
+  category: features
+  featured: false
+  title: "New: Funeral Cards Collection — Rincón, Puerto Rico"
+  body: "Browse and search ~154 funeral card images from Rincón and surrounding towns, 1965-2020. Cards include names, birth and death dates, birthplaces, and funeral home information."
+  link: /funeral-cards/
+
 - date: 2026-03-05
   category: features
-  featured: true 
+  featured: true
   title: "New: AI Quick Start Handout for Gemini and Claude"
   body: "A one-page reference guide covering privacy setup, how to configure a genealogist persona, five ready-to-use prompts, and GPS reminders for Gemini and Claude."
   link: /resources/ai-quick-reference-gemini-claude/
