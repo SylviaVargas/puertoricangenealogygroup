@@ -13,6 +13,11 @@ This collection contains funeral cards from Rincón, Puerto Rico and neighboring
 
 **How to use:** Type a name or place in the search box to filter the cards. Click any card to view the image and full details.
 
+<div class="fc-contribute">
+  <h3>Contribute to this collection</h3>
+  <p>Do you have funeral cards from Rincón or nearby towns? We welcome scans from any Puerto Rican community. Email your scans to <a href="mailto:puertoricangenealogygroup@gmail.com">puertoricangenealogygroup@gmail.com</a> and help us preserve this shared memory.</p>
+</div>
+
 <div class="fc-controls">
   <input type="search" id="fc-search" placeholder="Search by name or place..." aria-label="Search funeral cards">
   <div class="fc-year-filter">

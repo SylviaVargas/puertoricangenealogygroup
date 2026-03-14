@@ -41,15 +41,13 @@ Herramientas, plantillas y guías para ayudarte a organizar y documentar tu inve
 </div>
 
 <div class="card">
-<h3>Glosario de Español Genealógico</h3>
+<h3>Tarjetas Funerarias — Rincón, Puerto Rico</h3>
 <span class="badge badge-available">✓ Disponible</span>
-<span class="badge badge-pdf">PDF</span>
-<p>Términos comunes en español encontrados en registros genealógicos puertorriqueños.</p>
-<p><strong>Incluye:</strong> Términos de registros vitales, términos de parentesco, ocupaciones, lugares</p>
+<span class="badge badge-interactive">Con búsqueda</span>
+<p>Busca y visualiza ~154 imágenes de tarjetas funerarias de Rincón y pueblos cercanos, de 1965 a 2020.</p>
+<p><strong>Incluye:</strong> Nombres, fechas de nacimiento y fallecimiento, lugares de origen, lugares de fallecimiento, funerarias, e imágenes de las tarjetas (frente e interior cuando están disponibles)</p>
 <ul>
-<li><a href="/es/guias-investigacion/glosario-espanol-genealogico/">Ver el Glosario</a></li>
-<li><a href="/assets/pdfs/tools/ES_Glosario_Espanol_Genealogico.pdf" target="_blank">⬇ Descargar como PDF</a></li>
-<li><em>¿Usando estos términos en registros? Nuestro curso <a href="/es/guias-investigacion/navegar-registros-civiles/">Navegar los Registros Civiles</a> los muestra en contexto.</em></li>
+<li><a href="/es/tarjetas-funerarias/">Ver la Colección de Tarjetas Funerarias</a></li>
 </ul>
 </div>
 
@@ -66,13 +64,15 @@ Herramientas, plantillas y guías para ayudarte a organizar y documentar tu inve
 </div>
 
 <div class="card">
-<h3>Tarjetas Funerarias — Rincón, Puerto Rico</h3>
+<h3>Glosario de Español Genealógico</h3>
 <span class="badge badge-available">✓ Disponible</span>
-<span class="badge badge-interactive">Con búsqueda</span>
-<p>Busca y visualiza ~154 imágenes de tarjetas funerarias de Rincón y pueblos cercanos, de 1965 a 2020.</p>
-<p><strong>Incluye:</strong> Nombres, fechas de nacimiento y fallecimiento, lugares de origen, lugares de fallecimiento, funerarias, e imágenes de las tarjetas (frente e interior cuando están disponibles)</p>
+<span class="badge badge-pdf">PDF</span>
+<p>Términos comunes en español encontrados en registros genealógicos puertorriqueños.</p>
+<p><strong>Incluye:</strong> Términos de registros vitales, términos de parentesco, ocupaciones, lugares</p>
 <ul>
-<li><a href="/es/tarjetas-funerarias/">Ver la Colección de Tarjetas Funerarias</a></li>
+<li><a href="/es/guias-investigacion/glosario-espanol-genealogico/">Ver el Glosario</a></li>
+<li><a href="/assets/pdfs/tools/ES_Glosario_Espanol_Genealogico.pdf" target="_blank">⬇ Descargar como PDF</a></li>
+<li><em>¿Usando estos términos en registros? Nuestro curso <a href="/es/guias-investigacion/navegar-registros-civiles/">Navegar los Registros Civiles</a> los muestra en contexto.</em></li>
 </ul>
 </div>
 

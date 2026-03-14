@@ -1687,3 +1687,16 @@ body.fc-modal-open {
     justify-content: flex-start;
   }
 }
+
+.fc-contribute {
+  background: var(--color-cream);
+  border-top: 4px solid var(--color-gold);
+  padding: var(--spacing-lg);
+  border-radius: 0 0 8px 8px;
+  margin: 1rem 0 1.5rem;
+}
+
+.fc-contribute h3 {
+  margin-bottom: var(--spacing-md);
+  color: var(--color-navy);
+}

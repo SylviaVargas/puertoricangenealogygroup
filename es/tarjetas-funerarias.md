@@ -13,6 +13,11 @@ Esta colección contiene tarjetas funerarias de Rincón, Puerto Rico y pueblos v
 
 **Cómo usar:** Escribe un nombre o lugar en el campo de búsqueda para filtrar las tarjetas. Haz clic en cualquier tarjeta para ver la imagen y todos los detalles.
 
+<div class="fc-contribute">
+  <h3>Contribuye a esta colección</h3>
+  <p>¿Tienes tarjetas funerarias de Rincón o pueblos cercanos? Aceptamos escaneos de cualquier comunidad puertorriqueña. Envía tus escaneos a <a href="mailto:puertoricangenealogygroup@gmail.com">puertoricangenealogygroup@gmail.com</a> y ayúdanos a preservar esta memoria compartida.</p>
+</div>
+
 <div class="fc-controls">
   <input type="search" id="fc-search" placeholder="Buscar por nombre o lugar..." aria-label="Buscar tarjetas funerarias">
   <div class="fc-year-filter">

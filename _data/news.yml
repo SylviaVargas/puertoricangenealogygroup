@@ -11,7 +11,7 @@
 # To archive: move entries older than ~12 months to _data/news_archive_YYYY.yml
 - date: 2026-03-13
   category: features
-  featured: false
+  featured: true
   title: "New: Funeral Cards Collection — Rincón, Puerto Rico"
   body: "Browse and search ~154 funeral card images from Rincón and surrounding towns, 1965-2020. Cards include names, birth and death dates, birthplaces, and funeral home information."
   link: /funeral-cards/

@@ -16,6 +16,10 @@ This file provides focused context for Claude Code when working inside the `puer
 ## Build & Serve
 
 ```bash
+# Position in the correct directory
+cd /Users/sylviavargas/Documents/GitHub/Claude/puertoricangenealogygroup
+rm Gemfile.lock 
+
 # First time or after dependency changes:
 bundle install
 
