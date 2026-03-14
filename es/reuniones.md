@@ -4,7 +4,7 @@ title: Reuniones
 lang: es
 permalink: /es/reuniones/
 ref: meetings
-last_modified_at: 2026-02-09
+last_modified_at: 2026-03-14
 ---
 
 ## Únete a Nuestras Reuniones Virtuales
@@ -15,12 +15,11 @@ El Puerto Rican Genealogy Group organiza reuniones virtuales regulares donde los
 
 <div class="meeting-card">
   <div class="meeting-card-label">Próxima Reunión</div>
-  <h3><a href="{{ '/es/reunion-marzo-2026/' | relative_url }}">Reunión de Marzo 2026</a></h3>
-  <p>Luis Ariel Rivera, genealogista profesional especializado en historia familiar puertorriqueña y caribeña, y creador del blog de genealogía <a href="https://boricuagenes.com" target="_blank" rel="noopener noreferrer"><em>BoricuaGenes</em></a>, compartirá las reflexiones de su blog, "Revisitando un matrimonio consanguíneo". Su presentación examina un matrimonio de 1860 en Maunabo, Puerto Rico, y explora las implicaciones genealógicas de la consanguinidad en las familias puertorriqueñas.
-  </p>
+  <h3><a href="{{ '/es/reunion-abril-2026/' | relative_url }}">Reunión de Abril 2026</a></h3>
+  <p>Únete a nosotros para una sesión comunitaria abierta con resúmenes de RootsTech 2026 e intercambio entre miembros. Los miembros compartirán sus experiencias de la conferencia de genealogía más grande del mundo, así como sus propios descubrimientos, obstáculos y avances.</p>
   <div class="meeting-card-details">
-    <span>Lunes, 9 de marzo de 2026</span>
-    <span>7:00 PM EST / 8:00 PM PR / 4:00 PM PST</span>
+    <span>Lunes, 13 de abril de 2026</span>
+    <span>7:00 PM EDT / 8:00 PM PR / 4:00 PM PDT</span>
   </div>
   <a href="https://us06web.zoom.us/meeting/register/chSyaQqxRzSxOaeXxJmM0Q" class="btn btn-primary" target="_blank" rel="noopener noreferrer">Regístrate Ahora</a>
 </div>
@@ -75,6 +74,8 @@ Después de hacer clic en Register, el proceso es automático:
 
 ### Temas de Reuniones Anteriores
 
+- Marzo 2026: "Revisitando un matrimonio consanguíneo" con Luis Ariel Rivera (BoricuaGenes)
+- Febrero 2026: "Las Actas de Cabildo como Fuente para la Investigación Genealógica: El Caso de la Paternidad de Ramón Ramírez de Arellano (San Germán, 1814)" con César Zapata-Lozada
 - Introducción a los Registros Civiles de Puerto Rico
 - Navegando los Registros Eclesiásticos en Puerto Rico
 - Pruebas de ADN para Ascendencia Puertorriqueña

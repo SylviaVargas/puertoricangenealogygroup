@@ -1,56 +1,44 @@
 ---
 layout: page
-title: February 2026 Meeting
+title: April 2026 Meeting
 lang: en
-permalink: /meeting-february-2026/
-ref: meeting-february-2026
-last_modified_at: 2026-02-07
+permalink: /meeting-april-2026/
+ref: meeting-april-2026
+last_modified_at: 2026-03-14
 parent_title: Meetings
 parent_url: /meetings/
 ---
 
 ## Puerto Rican Genealogy Zoom Meeting
 
-**Monday, February 9, 2026**
+**Monday, April 13, 2026**
 
-Are you facing a genealogy brick wall in your Puerto Rican research?
-You are not alone—and you don't have to solve it alone.
+### RootsTech 2026 Recaps and Member Sharing
 
-Join us for an engaging and collaborative evening focused on breaking through research challenges together.
+Join us for an open community session as members share their experiences from RootsTech 2026, the world's largest genealogy conference. Whether you attended in person, virtually, or followed along from afar, bring your highlights, favorite sessions, and any new tools or strategies you discovered.
 
----
-
-### Theme: Brick Walls + Strategies
-
-This interactive round-table discussion is designed for researchers at all levels.
-
-**Bring your toughest questions.**
-**Share what's worked for you.**
-**Learn new tools, methodologies, and creative strategies** from fellow researchers who understand the unique challenges of Puerto Rican records.
-
-Whether you are just beginning or have decades of experience, this session will strengthen your research approach.
-
----
-
-### Special Presentation
-
-**César Zapata-Lozada** will discuss his work on Ramón Ramírez de Arellano (San Germán, 1814) from his blog post:
-
-> *"Las Actas de Cabildo como Fuente para la Investigación Genealógica: El Caso de la Paternidad de Ramón Ramírez de Arellano (San Germán, 1814)"*
-
-Learn how municipal council records (Actas de Cabildo) can serve as powerful, and often overlooked, genealogical sources.
+We will also open the floor for members to share their own research: discoveries, brick walls, and breakthroughs. This is a great opportunity to get fresh eyes on a problem or celebrate a hard-won find with fellow researchers.
 
 ---
 
 ### Date & Time
 
-**Monday, February 9, 2026**
+**Monday, April 13, 2026**
 
 | Time Zone | Time |
 |-----------|------|
-| Eastern (EST) | 7:00 PM |
+| Eastern (EDT) | 7:00 PM |
 | Puerto Rico | 8:00 PM |
-| Pacific (PST) | 4:00 PM |
+| Pacific (PDT) | 4:00 PM |
+
+---
+
+### What We Will Discuss
+
+- **RootsTech 2026 Highlights**: What sessions, speakers, or tools stood out?
+- **New Discoveries**: Share a record, connection, or breakthrough from your recent research
+- **Brick Walls**: Bring a problem you are stuck on, the group may have leads
+- **Open Q&A**: Questions for fellow researchers and discussion
 
 ---
 

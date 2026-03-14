@@ -4,7 +4,7 @@ title: Meetings
 lang: en
 permalink: /meetings/
 ref: meetings
-last_modified_at: 2026-02-09
+last_modified_at: 2026-03-14
 ---
 
 ## Join Our Virtual Meetings
@@ -15,11 +15,11 @@ The Puerto Rican Genealogy Group hosts regular virtual meetings where members ca
 
 <div class="meeting-card">
   <div class="meeting-card-label">Upcoming Meeting</div>
-  <h3><a href="{{ '/meeting-march-2026/' | relative_url }}">March 2026 Meeting</a></h3>
-  <p>Luis Ariel Rivera, a professional genealogist specializing in Puerto Rican and Caribbean family history and creator of the genealogy blog <a href="https://boricuagenes.com" target="_blank" rel="noopener noreferrer"><em>BoricuaGenes</em></a>, will share insights from his blog post, "Revisiting a Consanguineous Marriage." His presentation examines an 1860 marriage in Maunabo, Puerto Rico, and explores the genealogical implications of consanguinity in Puerto Rican families.</p>
+  <h3><a href="{{ '/meeting-april-2026/' | relative_url }}">April 2026 Meeting</a></h3>
+  <p>Join us for an open community session featuring RootsTech 2026 recaps and member sharing. Members will discuss their experiences from the world's largest genealogy conference, and share their own discoveries, brick walls, and breakthroughs.</p>
   <div class="meeting-card-details">
-    <span>Monday, March 9, 2026</span>
-    <span>7:00 PM EST / 8:00 PM PR / 4:00 PM PST</span>
+    <span>Monday, April 13, 2026</span>
+    <span>7:00 PM EDT / 8:00 PM PR / 4:00 PM PDT</span>
   </div>
   <a href="https://us06web.zoom.us/meeting/register/chSyaQqxRzSxOaeXxJmM0Q" class="btn btn-primary" target="_blank" rel="noopener noreferrer">Register Now</a>
 </div>
@@ -74,6 +74,8 @@ After clicking Register, the process is automated:
 
 ### Past Meeting Topics
 
+- March 2026: "Revisiting a Consanguineous Marriage" with Luis Ariel Rivera (BoricuaGenes)
+- February 2026: "Las Actas de Cabildo como Fuente para la Investigación Genealógica: El Caso de la Paternidad de Ramón Ramírez de Arellano (San Germán, 1814)" with César Zapata-Lozada
 - Introduction to Puerto Rican Civil Registry Records
 - Navigating Church Records in Puerto Rico
 - DNA Testing for Puerto Rican Ancestry

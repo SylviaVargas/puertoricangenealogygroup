@@ -1,56 +1,44 @@
 ---
 layout: page
-title: Reunión de Febrero 2026
+title: Reunión de Abril 2026
 lang: es
-permalink: /es/reunion-febrero-2026/
-ref: meeting-february-2026
-last_modified_at: 2026-02-07
+permalink: /es/reunion-abril-2026/
+ref: meeting-april-2026
+last_modified_at: 2026-03-14
 parent_title: Reuniones
 parent_url: /es/reuniones/
 ---
 
 ## Reunión Virtual de Genealogía Puertorriqueña
 
-**Lunes, 9 de febrero de 2026**
+**Lunes, 13 de abril de 2026**
 
-¿Enfrentas un muro de ladrillos en tu investigación genealógica puertorriqueña?
-No estás solo—y no tienes que resolverlo solo.
+### Resúmenes de RootsTech 2026 e Intercambio entre Miembros
 
-Únete a nosotros para una noche interactiva y colaborativa enfocada en superar juntos los desafíos de investigación.
+Únete a nosotros para una sesión comunitaria abierta donde los miembros compartirán sus experiencias de RootsTech 2026, la conferencia de genealogía más grande del mundo. Ya sea que hayas asistido en persona, virtualmente, o hayas seguido el evento desde casa, trae tus momentos destacados, tus sesiones favoritas y cualquier herramienta o estrategia nueva que hayas descubierto.
 
----
-
-### Tema: Muros de Ladrillos + Estrategias
-
-Esta discusión interactiva de mesa redonda está diseñada para investigadores de todos los niveles.
-
-**Trae tus preguntas más difíciles.**
-**Comparte lo que te ha funcionado.**
-**Aprende nuevas herramientas, metodologías y estrategias creativas** de otros investigadores que entienden los desafíos únicos de los registros puertorriqueños.
-
-Ya sea que estés comenzando o tengas décadas de experiencia, esta sesión fortalecerá tu enfoque de investigación.
-
----
-
-### Presentación Especial
-
-**César Zapata-Lozada** discutirá su trabajo sobre Ramón Ramírez de Arellano (San Germán, 1814) a partir de su artículo de blog:
-
-> *"Las Actas de Cabildo como Fuente para la Investigación Genealógica: El Caso de la Paternidad de Ramón Ramírez de Arellano (San Germán, 1814)"*
-
-Aprende cómo los registros de cabildos municipales (Actas de Cabildo) pueden servir como fuentes genealógicas poderosas, y frecuentemente pasadas por alto.
+También abriremos el espacio para que los miembros compartan sus propias investigaciones: descubrimientos, obstáculos y avances. Esta es una excelente oportunidad para obtener perspectivas nuevas sobre un problema o celebrar un hallazgo difícil con otros investigadores.
 
 ---
 
 ### Fecha y Hora
 
-**Lunes, 9 de febrero de 2026**
+**Lunes, 13 de abril de 2026**
 
 | Zona Horaria | Hora |
 |--------------|------|
-| Este (EST) | 7:00 PM |
+| Este (EDT) | 7:00 PM |
 | Puerto Rico | 8:00 PM |
-| Pacífico (PST) | 4:00 PM |
+| Pacífico (PDT) | 4:00 PM |
+
+---
+
+### Temas a Tratar
+
+- **Momentos Destacados de RootsTech 2026**: ¿Qué sesiones, oradores o herramientas te llamaron más la atención?
+- **Nuevos Descubrimientos**: Comparte un registro, conexión o avance de tu investigación reciente
+- **Obstáculos**: Trae un problema en el que estés atascado, el grupo puede tener pistas
+- **Preguntas Abiertas**: Preguntas para otros investigadores y discusión grupal
 
 ---
 
