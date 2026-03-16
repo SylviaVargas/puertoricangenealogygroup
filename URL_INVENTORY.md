@@ -33,7 +33,7 @@ Use this table to periodically review all external URLs in the site. Run `python
 | <https://www.icp.pr.gov/archivo-general/> | Archivo General de Puerto Rico | Archives & Official Repositories |
 | <https://www.salud.pr.gov/CMS/18> | Registro Demográfico de Puerto Rico | Archives & Official Repositories |
 | <https://www.archives.gov/> | U.S. National Archives (NARA) | Archives & Official Repositories |
-| <https://www.familysearch.org/search/collection/location/1927073> | FamilySearch - Puerto Rico Collections | Digital Collections & Databases |
+| <https://www.familysearch.org/en/wiki/Puerto_Rico_Genealogy> | FamilySearch - Puerto Rico Collections | Digital Collections & Databases |
 | <https://www.upr.edu/biblioteca-rrp//> | Biblioteca Digital Puertorriqueña | Digital Collections & Databases |
 | <https://www.familysearch.org/en/wiki/Puerto_Rico_Genealogy> | Ancestry - Puerto Rico | Digital Collections & Databases |
 | <https://www.ancestry.com/dna/> | AncestryDNA | DNA & Genetic Genealogy |
@@ -58,7 +58,7 @@ Use this table to periodically review all external URLs in the site. Run `python
 | <https://www.icp.pr.gov/archivo-general/> | Archivo General de Puerto Rico | Archivos y Repositorios Oficiales |
 | <https://www.salud.pr.gov/CMS/18> | Registro Demográfico de Puerto Rico | Archivos y Repositorios Oficiales |
 | <https://www.archives.gov/> | Archivos Nacionales de EE.UU. (NARA) | Archivos y Repositorios Oficiales |
-| <https://www.familysearch.org/search/collection/location/1927073> | FamilySearch - Colecciones de Puerto Rico | Colecciones Digitales y Bases de Datos |
+| <https://www.familysearch.org/en/wiki/Puerto_Rico_Genealogy> | FamilySearch - Colecciones de Puerto Rico | Colecciones Digitales y Bases de Datos |
 | <https://www.upr.edu/biblioteca-rrp//> | Biblioteca Digital Puertorriqueña | Colecciones Digitales y Bases de Datos |
 | <https://www.familysearch.org/en/wiki/Puerto_Rico_Genealogy> | Ancestry - Puerto Rico | Colecciones Digitales y Bases de Datos |
 | <https://www.findmypast.com/> | FindMyPast | Colecciones Digitales y Bases de Datos |
@@ -145,7 +145,7 @@ Use this table to periodically review all external URLs in the site. Run `python
 | 6 | <https://genealogiapr.com//> | index.md, es/index.md, resources.md, es/recursos.md |
 | 7 | <https://www.davidrumsey.com/> | resources.md, es/recursos.md |
 | 8 | <https://facebook.com/puertoricangenealogygroup> | _includes/footer.html |
-| 9 | <https://www.familysearch.org/search/collection/location/1927073> | resources.md, es/recursos.md |
+| 9 | <https://www.familysearch.org/en/wiki/Puerto_Rico_Genealogy> | resources.md, es/recursos.md |
 | 10 | <https://www.familytreedna.com/> | resources.md, es/recursos.md |
 | 11 | <https://www.findmypast.com/> | resources.md, es/recursos.md |
 | 12 | <https://fonts.googleapis.com> | _includes/head.html |

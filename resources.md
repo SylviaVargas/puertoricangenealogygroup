@@ -50,7 +50,7 @@ A curated collection of archives, databases, and tools for researching Puerto Ri
 <p>Includes civil registration (1885&#8211;2001), Catholic church records (1645&#8211;2021), and census records. Create a free account at familysearch.org to access most collections. Coverage varies by municipality.</p>
 </details>
 <div class="card-footer">
-<a href="https://www.familysearch.org/search/collection/location/1927073" target="_blank" rel="noopener noreferrer" class="card-link">Visit &#8594;</a>
+<a href="https://www.familysearch.org/en/wiki/Puerto_Rico_Genealogy" target="_blank" rel="noopener noreferrer" class="card-link">Visit &#8594;</a>
 <a href="{{ '/contact/' | relative_url }}" class="card-report">Report broken link</a>
 </div>
 </div>
@@ -207,7 +207,7 @@ A curated collection of archives, databases, and tools for researching Puerto Ri
 <p>Includes civil registration (1885&#8211;2001), Catholic church records (1645&#8211;2021), and census records. Coverage varies by municipality. Create a free account at familysearch.org to access most collections.</p>
 </details>
 <div class="card-footer">
-<a href="https://www.familysearch.org/search/collection/location/1927073" target="_blank" rel="noopener noreferrer" class="card-link">Visit &#8594;</a>
+<a href="https://www.familysearch.org/en/wiki/Puerto_Rico_Genealogy" target="_blank" rel="noopener noreferrer" class="card-link">Visit &#8594;</a>
 <a href="{{ '/contact/' | relative_url }}" class="card-report">Report broken link</a>
 </div>
 </div>

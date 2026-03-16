@@ -50,7 +50,7 @@ Una colecci&#243;n curada de archivos, bases de datos y herramientas para invest
 <p>Incluye el registro civil (1885&#8211;2001), registros de la iglesia cat&#243;lica (1645&#8211;2021) y registros censales. Crea una cuenta gratuita en familysearch.org para acceder a la mayor&#237;a de las colecciones. La cobertura var&#237;a seg&#250;n el municipio.</p>
 </details>
 <div class="card-footer">
-<a href="https://www.familysearch.org/search/collection/location/1927073" target="_blank" rel="noopener noreferrer" class="card-link">Visitar &#8594;</a>
+<a href="https://www.familysearch.org/en/wiki/Puerto_Rico_Genealogy" target="_blank" rel="noopener noreferrer" class="card-link">Visitar &#8594;</a>
 <a href="{{ '/es/contacto/' | relative_url }}" class="card-report">Reportar enlace roto</a>
 </div>
 </div>
@@ -207,7 +207,7 @@ Una colecci&#243;n curada de archivos, bases de datos y herramientas para invest
 <p>Incluye el registro civil (1885&#8211;2001), registros de la iglesia cat&#243;lica (1645&#8211;2021) y registros censales. La cobertura var&#237;a seg&#250;n el municipio. Crea una cuenta gratuita en familysearch.org para acceder a la mayor&#237;a de las colecciones.</p>
 </details>
 <div class="card-footer">
-<a href="https://www.familysearch.org/search/collection/location/1927073" target="_blank" rel="noopener noreferrer" class="card-link">Visitar &#8594;</a>
+<a href="https://www.familysearch.org/en/wiki/Puerto_Rico_Genealogy" target="_blank" rel="noopener noreferrer" class="card-link">Visitar &#8594;</a>
 <a href="{{ '/es/contacto/' | relative_url }}" class="card-report">Reportar enlace roto</a>
 </div>
 </div>
