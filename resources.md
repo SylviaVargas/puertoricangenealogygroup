@@ -67,7 +67,6 @@ A curated collection of archives, databases, and tools for researching Puerto Ri
 <button class="filter-chip" data-filter="society">Societies</button>
 <button class="filter-chip" data-filter="blog">Blogs</button>
 <button class="filter-chip" data-filter="dna">DNA</button>
-<button class="filter-chip" data-filter="tool">Tools</button>
 <button class="filter-chip" data-filter="map">Maps</button>
 </div>
 
@@ -428,41 +427,6 @@ A curated collection of archives, databases, and tools for researching Puerto Ri
 <div class="card-desc">Free tools for comparing DNA results across different testing companies. Upload your results from any provider for cross-platform matching.</div>
 <div class="card-footer">
 <a href="https://www.gedmatch.com/" target="_blank" rel="noopener noreferrer" class="card-link">Visit &#8594;</a>
-<a href="{{ '/contact/' | relative_url }}" class="card-report">Report broken link</a>
-</div>
-</div>
-
-<!-- Research Tools -->
-
-<div class="card resource-card" data-category="tool">
-<div class="card-lang">&#127482;&#127480;</div>
-<span class="badge badge-external">Tool</span> <span class="badge badge-free">Free</span>
-<div class="card-title">WikiTree</div>
-<div class="card-desc">Free collaborative family tree with Puerto Rican ancestry projects and a large research community.</div>
-<div class="card-footer">
-<a href="https://www.wikitree.com/" target="_blank" rel="noopener noreferrer" class="card-link">Visit &#8594;</a>
-<a href="{{ '/contact/' | relative_url }}" class="card-report">Report broken link</a>
-</div>
-</div>
-
-<div class="card resource-card" data-category="tool">
-<div class="card-lang">&#127482;&#127480;</div>
-<span class="badge badge-external">Tool</span> <span class="badge badge-free">Free</span>
-<div class="card-title">Geni</div>
-<div class="card-desc">World Family Tree project for connecting with distant relatives across a global collaborative database.</div>
-<div class="card-footer">
-<a href="https://www.geni.com/" target="_blank" rel="noopener noreferrer" class="card-link">Visit &#8594;</a>
-<a href="{{ '/contact/' | relative_url }}" class="card-report">Report broken link</a>
-</div>
-</div>
-
-<div class="card resource-card" data-category="tool">
-<div class="card-lang">&#127482;&#127480;</div>
-<span class="badge badge-external">Tool</span> <span class="badge badge-free">Free</span>
-<div class="card-title">Stephen P. Morse One-Step Tools</div>
-<div class="card-desc">Search tools and utilities for genealogical research, including census and immigration record lookups.</div>
-<div class="card-footer">
-<a href="https://stevemorse.org/" target="_blank" rel="noopener noreferrer" class="card-link">Visit &#8594;</a>
 <a href="{{ '/contact/' | relative_url }}" class="card-report">Report broken link</a>
 </div>
 </div>

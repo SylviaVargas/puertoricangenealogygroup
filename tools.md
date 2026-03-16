@@ -82,48 +82,101 @@ Tools, templates, and guides to help you organize and document your Puerto Rican
 
 ### External Resources
 
-Curated third-party tools that complement our collection while custom resources are in development.
+Third-party tools and external resources that complement our collection.
 
 <div class="card-grid">
 
-<div class="card">
-<h3>BYU Spanish Script Tutorial</h3>
-<span class="badge badge-external">External</span>
-<p>The gold standard for learning colonial Spanish handwriting. Essential for reading Puerto Rican parish and civil records.</p>
-<p><strong>Best for:</strong> Letter forms, abbreviations, and regional script variations</p>
-<ul>
-<li><a href="https://script.byu.edu/spanish-handwriting/introduction" target="_blank" rel="noopener noreferrer"><em>Open BYU Spanish Script Tutorial</em></a></li>
-</ul>
+<div class="card resource-card">
+<div class="card-lang">&#127482;&#127480; &#127477;&#127479;</div>
+<span class="badge badge-external">Archive</span> <span class="badge badge-free">Free</span>
+<div class="card-title">FamilySearch: Puerto Rico Records</div>
+<div class="card-desc">Free access to digitized Puerto Rican civil registration, Catholic church records, and more.</div>
+<details class="card-more">
+<summary>More details</summary>
+<p>Includes Civil Registration 1885-2001 and Catholic Church Records 1645-2021. Free account required for most collections. Coverage varies by municipality.</p>
+</details>
+<div class="card-footer">
+<a href="https://www.familysearch.org/en/wiki/Puerto_Rico_Genealogy" target="_blank" rel="noopener noreferrer" class="card-link">Visit &#8594;</a>
+<a href="{{ '/contact/' | relative_url }}" class="card-report">Report broken link</a>
+</div>
 </div>
 
-<div class="card">
-<h3>DNA Painter: What Are the Odds? (WATO)</h3>
-<span class="badge badge-external">External</span>
-<p>An interactive tool for evaluating DNA match hypotheses using probability modeling.</p>
-<p><strong>Best for:</strong> Testing whether a DNA match fits a proposed family relationship</p>
-<ul>
-<li><a href="https://dnapainter.com/tools/wato" target="_blank" rel="noopener noreferrer"><em>Open DNA Painter WATO</em></a></li>
-</ul>
+<div class="card resource-card">
+<div class="card-lang">&#127482;&#127480;</div>
+<span class="badge badge-external">Tool</span> <span class="badge badge-free">Free</span>
+<div class="card-title">WikiTree</div>
+<div class="card-desc">Free collaborative family tree with Puerto Rican ancestry projects and a large research community.</div>
+<div class="card-footer">
+<a href="https://www.wikitree.com/" target="_blank" rel="noopener noreferrer" class="card-link">Visit &#8594;</a>
+<a href="{{ '/contact/' | relative_url }}" class="card-report">Report broken link</a>
+</div>
 </div>
 
-<div class="card">
-<h3>Evidence Explained</h3>
-<span class="badge badge-external">External</span>
-<p>The authoritative reference for source citation in genealogical research, by Elizabeth Shown Mills.</p>
-<p><strong>Best for:</strong> Citation models for Puerto Rican civil, church, and colonial records</p>
-<ul>
-<li><a href="https://www.evidenceexplained.com/" target="_blank" rel="noopener noreferrer"><em>Visit Evidence Explained</em></a></li>
-</ul>
+<div class="card resource-card">
+<div class="card-lang">&#127482;&#127480;</div>
+<span class="badge badge-external">Tool</span> <span class="badge badge-free">Free</span>
+<div class="card-title">Geni</div>
+<div class="card-desc">World Family Tree project for connecting with distant relatives across a global collaborative database.</div>
+<div class="card-footer">
+<a href="https://www.geni.com/" target="_blank" rel="noopener noreferrer" class="card-link">Visit &#8594;</a>
+<a href="{{ '/contact/' | relative_url }}" class="card-report">Report broken link</a>
+</div>
 </div>
 
-<div class="card">
-<h3>FamilySearch: Puerto Rico Records</h3>
-<span class="badge badge-external">External</span>
-<p>Free access to digitized Puerto Rican civil registration, Catholic church records, and more.</p>
-<p><strong>Includes:</strong> Civil Registration 1885–2001, Catholic Church Records 1645–2021</p>
-<ul>
-<li><a href="https://www.familysearch.org/en/wiki/Puerto_Rico_Genealogy" target="_blank" rel="noopener noreferrer"><em>Browse All Puerto Rico Records</em></a></li>
-</ul>
+<div class="card resource-card">
+<div class="card-lang">&#127482;&#127480;</div>
+<span class="badge badge-external">Tool</span> <span class="badge badge-free">Free</span>
+<div class="card-title">Stephen P. Morse One-Step Tools</div>
+<div class="card-desc">Search tools and utilities for genealogical research, including census and immigration record lookups.</div>
+<div class="card-footer">
+<a href="https://stevemorse.org/" target="_blank" rel="noopener noreferrer" class="card-link">Visit &#8594;</a>
+<a href="{{ '/contact/' | relative_url }}" class="card-report">Report broken link</a>
+</div>
+</div>
+
+<div class="card resource-card">
+<div class="card-lang">&#127482;&#127480;</div>
+<span class="badge badge-external">Tutorial</span> <span class="badge badge-free">Free</span>
+<div class="card-title">BYU Spanish Script Tutorial</div>
+<div class="card-desc">The gold standard for learning colonial Spanish handwriting. Essential for reading Puerto Rican parish and civil records.</div>
+<details class="card-more">
+<summary>More details</summary>
+<p>Covers letter forms, abbreviations, and regional script variations. Free and browser-based — no account required.</p>
+</details>
+<div class="card-footer">
+<a href="https://script.byu.edu/spanish-handwriting/introduction" target="_blank" rel="noopener noreferrer" class="card-link">Visit &#8594;</a>
+<a href="{{ '/contact/' | relative_url }}" class="card-report">Report broken link</a>
+</div>
+</div>
+
+<div class="card resource-card">
+<div class="card-lang">&#127482;&#127480;</div>
+<span class="badge badge-external">DNA Tool</span> <span class="badge badge-free">Free</span>
+<div class="card-title">DNA Painter: What Are the Odds? (WATO)</div>
+<div class="card-desc">An interactive tool for evaluating DNA match hypotheses using probability modeling.</div>
+<details class="card-more">
+<summary>More details</summary>
+<p>Best for testing whether a DNA match fits a proposed family relationship. Free tier available; advanced features require a subscription.</p>
+</details>
+<div class="card-footer">
+<a href="https://dnapainter.com/tools/wato" target="_blank" rel="noopener noreferrer" class="card-link">Visit &#8594;</a>
+<a href="{{ '/contact/' | relative_url }}" class="card-report">Report broken link</a>
+</div>
+</div>
+
+<div class="card resource-card">
+<div class="card-lang">&#127482;&#127480;</div>
+<span class="badge badge-external">Reference</span> <span class="badge badge-subscription">Subscription</span>
+<div class="card-title">Evidence Explained</div>
+<div class="card-desc">The authoritative reference for source citation in genealogical research, by Elizabeth Shown Mills.</div>
+<details class="card-more">
+<summary>More details</summary>
+<p>The standard citation guide for Puerto Rican civil, church, and colonial records. Online subscription required; print edition available for purchase.</p>
+</details>
+<div class="card-footer">
+<a href="https://www.evidenceexplained.com/" target="_blank" rel="noopener noreferrer" class="card-link">Visit &#8594;</a>
+<a href="{{ '/contact/' | relative_url }}" class="card-report">Report broken link</a>
+</div>
 </div>
 
 </div>

@@ -67,7 +67,6 @@ Una colecci&#243;n curada de archivos, bases de datos y herramientas para invest
 <button class="filter-chip" data-filter="society">Sociedades</button>
 <button class="filter-chip" data-filter="blog">Blogs</button>
 <button class="filter-chip" data-filter="dna">ADN</button>
-<button class="filter-chip" data-filter="tool">Herramientas</button>
 <button class="filter-chip" data-filter="map">Mapas</button>
 </div>
 
@@ -428,41 +427,6 @@ Una colecci&#243;n curada de archivos, bases de datos y herramientas para invest
 <div class="card-desc">Herramientas gratuitas para comparar resultados de ADN entre diferentes compa&#241;&#237;as. Sube tus resultados de cualquier proveedor para comparaci&#243;n entre plataformas. (En ingl&#233;s.)</div>
 <div class="card-footer">
 <a href="https://www.gedmatch.com/" target="_blank" rel="noopener noreferrer" class="card-link">Visitar &#8594;</a>
-<a href="{{ '/es/contacto/' | relative_url }}" class="card-report">Reportar enlace roto</a>
-</div>
-</div>
-
-<!-- Herramientas de Investigaci&#243;n -->
-
-<div class="card resource-card" data-category="tool">
-<div class="card-lang">&#127482;&#127480;</div>
-<span class="badge badge-external">Herramienta</span> <span class="badge badge-free">Gratuito</span>
-<div class="card-title">WikiTree</div>
-<div class="card-desc">&#193;rbol geneal&#243;gico colaborativo gratuito con proyectos de ascendencia puertorrique&#241;a y una gran comunidad de investigaci&#243;n. (En ingl&#233;s.)</div>
-<div class="card-footer">
-<a href="https://www.wikitree.com/" target="_blank" rel="noopener noreferrer" class="card-link">Visitar &#8594;</a>
-<a href="{{ '/es/contacto/' | relative_url }}" class="card-report">Reportar enlace roto</a>
-</div>
-</div>
-
-<div class="card resource-card" data-category="tool">
-<div class="card-lang">&#127482;&#127480;</div>
-<span class="badge badge-external">Herramienta</span> <span class="badge badge-free">Gratuito</span>
-<div class="card-title">Geni</div>
-<div class="card-desc">Proyecto del &#193;rbol Familiar Mundial para conectar con parientes lejanos a trav&#233;s de una base de datos colaborativa global. (En ingl&#233;s.)</div>
-<div class="card-footer">
-<a href="https://www.geni.com/" target="_blank" rel="noopener noreferrer" class="card-link">Visitar &#8594;</a>
-<a href="{{ '/es/contacto/' | relative_url }}" class="card-report">Reportar enlace roto</a>
-</div>
-</div>
-
-<div class="card resource-card" data-category="tool">
-<div class="card-lang">&#127482;&#127480;</div>
-<span class="badge badge-external">Herramienta</span> <span class="badge badge-free">Gratuito</span>
-<div class="card-title">Herramientas One-Step de Stephen P. Morse</div>
-<div class="card-desc">Herramientas de b&#250;squeda y utilidades para investigaci&#243;n geneal&#243;gica, incluyendo b&#250;squedas de registros censales y de inmigraci&#243;n. (En ingl&#233;s.)</div>
-<div class="card-footer">
-<a href="https://stevemorse.org/" target="_blank" rel="noopener noreferrer" class="card-link">Visitar &#8594;</a>
 <a href="{{ '/es/contacto/' | relative_url }}" class="card-report">Reportar enlace roto</a>
 </div>
 </div>

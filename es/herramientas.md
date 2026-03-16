@@ -82,48 +82,101 @@ Herramientas, plantillas y guías para ayudarte a organizar y documentar tu inve
 
 ### Recursos Externos
 
-Herramientas de terceros seleccionadas que complementan nuestra colección mientras desarrollamos recursos propios.
+Herramientas de terceros y recursos externos que complementan nuestra colección.
 
 <div class="card-grid">
 
-<div class="card">
-<h3>Tutorial de Escritura Española de BYU</h3>
-<span class="badge badge-external">Externo</span>
-<p>El recurso estándar para aprender la escritura española colonial. Esencial para leer registros parroquiales y civiles puertorriqueños. <em>(En inglés)</em></p>
-<p><strong>Ideal para:</strong> Formas de letras, abreviaturas y variaciones regionales de escritura</p>
-<ul>
-<li><a href="https://script.byu.edu/spanish-handwriting/introduction" target="_blank" rel="noopener noreferrer"><em>Abrir el Tutorial de BYU</em></a></li>
-</ul>
+<div class="card resource-card">
+<div class="card-lang">&#127482;&#127480; &#127477;&#127479;</div>
+<span class="badge badge-external">Archivo</span> <span class="badge badge-free">Gratis</span>
+<div class="card-title">FamilySearch: Registros de Puerto Rico</div>
+<div class="card-desc">Acceso gratuito a registros digitalizados de Puerto Rico: registro civil, iglesia católica y más.</div>
+<details class="card-more">
+<summary>Más detalles</summary>
+<p>Incluye Registro Civil 1885-2001 y Registros de la Iglesia Católica 1645-2021. Se requiere cuenta gratuita para la mayoría de las colecciones. La cobertura varía según el municipio.</p>
+</details>
+<div class="card-footer">
+<a href="https://www.familysearch.org/en/wiki/Puerto_Rico_Genealogy" target="_blank" rel="noopener noreferrer" class="card-link">Visitar &#8594;</a>
+<a href="{{ '/es/contacto/' | relative_url }}" class="card-report">Reportar enlace roto</a>
+</div>
 </div>
 
-<div class="card">
-<h3>DNA Painter: What Are the Odds? (WATO)</h3>
-<span class="badge badge-external">Externo</span>
-<p>Herramienta interactiva para evaluar hipótesis sobre coincidencias de ADN usando modelos de probabilidad. <em>(En inglés)</em></p>
-<p><strong>Ideal para:</strong> Probar si una coincidencia de ADN corresponde a una relación familiar propuesta</p>
-<ul>
-<li><a href="https://dnapainter.com/tools/wato" target="_blank" rel="noopener noreferrer"><em>Abrir DNA Painter WATO</em></a></li>
-</ul>
+<div class="card resource-card">
+<div class="card-lang">&#127482;&#127480;</div>
+<span class="badge badge-external">Herramienta</span> <span class="badge badge-free">Gratis</span>
+<div class="card-title">WikiTree</div>
+<div class="card-desc">Árbol genealógico colaborativo y gratuito con proyectos de ascendencia puertorriqueña y una gran comunidad de investigación. <em>(En inglés.)</em></div>
+<div class="card-footer">
+<a href="https://www.wikitree.com/" target="_blank" rel="noopener noreferrer" class="card-link">Visitar &#8594;</a>
+<a href="{{ '/es/contacto/' | relative_url }}" class="card-report">Reportar enlace roto</a>
+</div>
 </div>
 
-<div class="card">
-<h3>Evidence Explained</h3>
-<span class="badge badge-external">Externo</span>
-<p>La referencia autorizada para la citación de fuentes en investigación genealógica, por Elizabeth Shown Mills. <em>(En inglés)</em></p>
-<p><strong>Ideal para:</strong> Modelos de citación para registros civiles, eclesiásticos y coloniales de Puerto Rico</p>
-<ul>
-<li><a href="https://www.evidenceexplained.com/" target="_blank" rel="noopener noreferrer"><em>Visitar Evidence Explained</em></a></li>
-</ul>
+<div class="card resource-card">
+<div class="card-lang">&#127482;&#127480;</div>
+<span class="badge badge-external">Herramienta</span> <span class="badge badge-free">Gratis</span>
+<div class="card-title">Geni</div>
+<div class="card-desc">Proyecto de Árbol Familiar Mundial para conectar con parientes lejanos a través de una base de datos colaborativa global. <em>(En inglés.)</em></div>
+<div class="card-footer">
+<a href="https://www.geni.com/" target="_blank" rel="noopener noreferrer" class="card-link">Visitar &#8594;</a>
+<a href="{{ '/es/contacto/' | relative_url }}" class="card-report">Reportar enlace roto</a>
+</div>
 </div>
 
-<div class="card">
-<h3>FamilySearch: Registros de Puerto Rico</h3>
-<span class="badge badge-external">Externo</span>
-<p>Acceso gratuito a registros digitalizados de Puerto Rico: registro civil, iglesia católica y más.</p>
-<p><strong>Incluye:</strong> Registro Civil 1885-2001, Registros de la Iglesia Católica 1645-2021</p>
-<ul>
-<li><a href="https://www.familysearch.org/en/wiki/Puerto_Rico_Genealogy" target="_blank" rel="noopener noreferrer"><em>Ver Todos los Registros de Puerto Rico</em></a></li>
-</ul>
+<div class="card resource-card">
+<div class="card-lang">&#127482;&#127480;</div>
+<span class="badge badge-external">Herramienta</span> <span class="badge badge-free">Gratis</span>
+<div class="card-title">Herramientas One-Step de Stephen P. Morse</div>
+<div class="card-desc">Herramientas de búsqueda y utilidades para investigación genealógica, incluyendo búsquedas de censos y registros de inmigración. <em>(En inglés.)</em></div>
+<div class="card-footer">
+<a href="https://stevemorse.org/" target="_blank" rel="noopener noreferrer" class="card-link">Visitar &#8594;</a>
+<a href="{{ '/es/contacto/' | relative_url }}" class="card-report">Reportar enlace roto</a>
+</div>
+</div>
+
+<div class="card resource-card">
+<div class="card-lang">&#127482;&#127480;</div>
+<span class="badge badge-external">Tutorial</span> <span class="badge badge-free">Gratis</span>
+<div class="card-title">Tutorial de Escritura Española de BYU</div>
+<div class="card-desc">El recurso estándar para aprender la escritura española colonial. Esencial para leer registros parroquiales y civiles puertorriqueños. <em>(En inglés.)</em></div>
+<details class="card-more">
+<summary>Más detalles</summary>
+<p>Cubre formas de letras, abreviaturas y variaciones regionales de escritura. Gratuito y en el navegador, sin necesidad de cuenta.</p>
+</details>
+<div class="card-footer">
+<a href="https://script.byu.edu/spanish-handwriting/introduction" target="_blank" rel="noopener noreferrer" class="card-link">Visitar &#8594;</a>
+<a href="{{ '/es/contacto/' | relative_url }}" class="card-report">Reportar enlace roto</a>
+</div>
+</div>
+
+<div class="card resource-card">
+<div class="card-lang">&#127482;&#127480;</div>
+<span class="badge badge-external">Herramienta de ADN</span> <span class="badge badge-free">Gratis</span>
+<div class="card-title">DNA Painter: What Are the Odds? (WATO)</div>
+<div class="card-desc">Herramienta interactiva para evaluar hipótesis sobre coincidencias de ADN usando modelos de probabilidad. <em>(En inglés.)</em></div>
+<details class="card-more">
+<summary>Más detalles</summary>
+<p>Ideal para probar si una coincidencia de ADN corresponde a una relación familiar propuesta. Nivel básico gratuito; funciones avanzadas requieren suscripción.</p>
+</details>
+<div class="card-footer">
+<a href="https://dnapainter.com/tools/wato" target="_blank" rel="noopener noreferrer" class="card-link">Visitar &#8594;</a>
+<a href="{{ '/es/contacto/' | relative_url }}" class="card-report">Reportar enlace roto</a>
+</div>
+</div>
+
+<div class="card resource-card">
+<div class="card-lang">&#127482;&#127480;</div>
+<span class="badge badge-external">Referencia</span> <span class="badge badge-subscription">Suscripción</span>
+<div class="card-title">Evidence Explained</div>
+<div class="card-desc">La referencia autorizada para la citación de fuentes en investigación genealógica, por Elizabeth Shown Mills. <em>(En inglés.)</em></div>
+<details class="card-more">
+<summary>Más detalles</summary>
+<p>La guía estándar de citación para registros civiles, eclesiásticos y coloniales de Puerto Rico. Se requiere suscripción en línea; edición impresa disponible para compra.</p>
+</details>
+<div class="card-footer">
+<a href="https://www.evidenceexplained.com/" target="_blank" rel="noopener noreferrer" class="card-link">Visitar &#8594;</a>
+<a href="{{ '/es/contacto/' | relative_url }}" class="card-report">Reportar enlace roto</a>
+</div>
 </div>
 
 </div>
