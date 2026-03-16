@@ -49,4 +49,20 @@
     ]
   }
   </script>
+
+  <!-- Analytics: Google Analytics 4 (cookieless mode) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-4Q63ZLM6SJ"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-4Q63ZLM6SJ', {
+      'client_storage': 'none',
+      'anonymize_ip': true
+    });
+  </script>
+
+  <!-- Analytics: GoatCounter (no cookies, open-source) -->
+  <script data-goatcounter="https://YOURSITE.goatcounter.com/count"
+    async src="//gc.zgo.at/count.js"></script>
 </head>

@@ -87,6 +87,40 @@ last_modified_at: 2026-02-07
   </div>
 </section>
 
+<section class="section bg-light">
+  <div class="section-container">
+    <div class="section-title">
+      <h2>Our Impact</h2>
+      <p>Connecting Puerto Rican researchers across the diaspora and the island.</p>
+    </div>
+    <div class="goals-grid">
+      <div class="goal-item">
+        <div class="goal-icon">👥</div>
+        <h3>Researchers Served</h3>
+        <p class="impact-number">Growing</p>
+      </div>
+      <div class="goal-item">
+        <div class="goal-icon">🌎</div>
+        <h3>Countries Reached</h3>
+        <p class="impact-number">Growing</p>
+      </div>
+      <div class="goal-item">
+        <div class="goal-icon">📖</div>
+        <h3>Research Guides Read</h3>
+        <p class="impact-number">Growing</p>
+      </div>
+      <div class="goal-item">
+        <div class="goal-icon">📥</div>
+        <h3>Tools Downloaded</h3>
+        <p class="impact-number">Growing</p>
+      </div>
+    </div>
+    <p class="text-center" style="color: var(--navy); font-size: 0.85rem; margin-top: 0.5rem;">
+      Updated monthly from analytics data.
+    </p>
+  </div>
+</section>
+
 <section class="section bg-cream">
   <div class="section-container">
     <div class="section-title">
@@ -115,5 +149,3 @@ last_modified_at: 2026-02-07
     </p>
   </div>
 </section>
-
-

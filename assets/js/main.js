@@ -214,4 +214,65 @@ document.addEventListener('DOMContentLoaded', function() {
       }
     });
   }
+
+  // ===== Analytics Event Tracking =====
+
+  // Helper: fire GA4 event (no-op if GA4 not loaded)
+  function trackEvent(eventName, params) {
+    if (typeof gtag === 'function') {
+      gtag('event', eventName, params);
+    }
+  }
+
+  // Track PDF downloads
+  document.addEventListener('click', function(e) {
+    var link = e.target.closest('a[href]');
+    if (!link) return;
+    var href = link.getAttribute('href') || '';
+    if (href.toLowerCase().endsWith('.pdf')) {
+      var filename = href.split('/').pop();
+      trackEvent('file_download', {
+        event_category: 'genealogy_tools',
+        event_label: filename,
+        file_extension: 'pdf'
+      });
+    }
+  });
+
+  // Track outbound links (clicks to external sites)
+  document.addEventListener('click', function(e) {
+    var link = e.target.closest('a[href]');
+    if (!link) return;
+    var href = link.getAttribute('href') || '';
+    if (href.startsWith('http') && !href.includes('puertoricangenealogy.org')) {
+      trackEvent('click', {
+        event_category: 'outbound_link',
+        event_label: href
+      });
+    }
+  });
+
+  // Track community actions (Zoom, WhatsApp, email contact)
+  document.addEventListener('click', function(e) {
+    var link = e.target.closest('a[href]');
+    if (!link) return;
+    var href = link.getAttribute('href') || '';
+    var label = null;
+    if (href.includes('zoom.us') || href.includes('zoom.com')) {
+      label = 'zoom_meeting';
+    } else if (href.includes('chat.whatsapp.com') || href.includes('wa.me')) {
+      label = 'whatsapp_group';
+    } else if (href.startsWith('mailto:')) {
+      label = 'email_contact';
+    } else if (link.textContent.toLowerCase().includes('subscribe') ||
+               link.textContent.toLowerCase().includes('newsletter')) {
+      label = 'newsletter_signup';
+    }
+    if (label) {
+      trackEvent('community_action', {
+        event_category: 'community',
+        event_label: label
+      });
+    }
+  });
 });

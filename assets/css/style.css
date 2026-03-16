@@ -674,6 +674,13 @@ a:hover {
   margin-bottom: 0;
 }
 
+.impact-number {
+  font-size: 1.75rem;
+  font-weight: 700;
+  color: var(--navy);
+  margin: 0.25rem 0 0;
+}
+
 .goal-icon {
   font-size: 2rem;
   color: var(--color-red);

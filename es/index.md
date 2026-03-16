@@ -87,6 +87,40 @@ last_modified_at: 2026-02-07
   </div>
 </section>
 
+<section class="section bg-light">
+  <div class="section-container">
+    <div class="section-title">
+      <h2>Nuestro Impacto</h2>
+      <p>Conectando investigadores puertorriqueños en la diáspora y la isla.</p>
+    </div>
+    <div class="goals-grid">
+      <div class="goal-item">
+        <div class="goal-icon">👥</div>
+        <h3>Investigadores Atendidos</h3>
+        <p class="impact-number">Creciendo</p>
+      </div>
+      <div class="goal-item">
+        <div class="goal-icon">🌎</div>
+        <h3>Países Alcanzados</h3>
+        <p class="impact-number">Creciendo</p>
+      </div>
+      <div class="goal-item">
+        <div class="goal-icon">📖</div>
+        <h3>Guías de Investigación Leídas</h3>
+        <p class="impact-number">Creciendo</p>
+      </div>
+      <div class="goal-item">
+        <div class="goal-icon">📥</div>
+        <h3>Herramientas Descargadas</h3>
+        <p class="impact-number">Creciendo</p>
+      </div>
+    </div>
+    <p class="text-center" style="color: var(--navy); font-size: 0.85rem; margin-top: 0.5rem;">
+      Actualizado mensualmente con datos de análisis.
+    </p>
+  </div>
+</section>
+
 <section class="section bg-cream">
   <div class="section-container">
     <div class="section-title">
