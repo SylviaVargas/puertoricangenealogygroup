@@ -4,115 +4,525 @@ title: Recursos
 lang: es
 permalink: /es/recursos/
 ref: resources
-last_modified_at: 2026-02-07
+last_modified_at: 2026-03-16
 ---
 
-## Recursos de Genealogía Puertorriqueña
+## Recursos de Genealog&#237;a Puertorrique&#241;a
 
-Una colección curada de archivos, bases de datos y herramientas para investigar la ascendencia puertorriqueña.
-
----
-
-### Primeros Pasos y Guías de Investigación
-
-¿Nuevo en la genealogía puertorriqueña? Estas guías te ayudarán a planificar tu investigación y comprender qué registros están disponibles.
-
-| Recurso | Descripción |
-|---------|-------------|
-| <a href="https://libguides.nypl.org/puertoricogenealogy/atnypl" target="_blank" rel="noopener noreferrer"><em>Biblioteca Pública de Nueva York: Guía de Genealogía Puertorriqueña</em></a> | Una guía de investigación en línea con puntos de partida, tipos de registros y enlaces a recursos adicionales. Incluye estrategia de investigación, conjuntos de registros clave y contexto histórico. Excelente para principiantes. |
-| <a href="https://guides.loc.gov/puerto-rico-local-history-genealogy" target="_blank" rel="noopener noreferrer"><em>Biblioteca del Congreso: Genealogía e Historia Local de Puerto Rico</em></a> | Una guía amplia de investigación con acceso a registros vitales, mapas históricos y listados de catálogo. Excelente para planificar investigación de registros vitales y judiciales. |
-| <a href="https://www.familysearch.org/en/wiki/Puerto_Rico_Genealogy" target="_blank" rel="noopener noreferrer"><em>FamilySearch: Wiki de Genealogía de Puerto Rico</em></a> | Guía de investigación gratuita y estructurada sobre registros civiles, parroquiales y censales específicos de Puerto Rico. Explica qué registros existen y cómo utilizarlos. |
-| <a href="https://boricuagenes.com/getting-started/" target="_blank" rel="noopener noreferrer"><em>BoricuaGenes: Primeros Pasos</em></a> | 10 consejos prácticos para comenzar tu viaje genealógico con raíces puertorriqueñas. |
-| <a href="https://latinogenealogyandbeyond.com/puerto-rico-link-list/" target="_blank" rel="noopener noreferrer"><em>Latino Genealogy & Beyond: Colección de Enlaces de Puerto Rico</em></a> | Una lista curada de enlaces externos y recursos de aprendizaje útiles para la investigación caribeña y puertorriqueña. |
+Una colecci&#243;n curada de archivos, bases de datos y herramientas para investigar la ascendencia puertorrique&#241;a.
 
 ---
 
-### Archivos y Repositorios Oficiales
+<div class="resource-quicklinks">
+<p>&#191;Qu&#233; est&#225;s buscando?</p>
+<div class="quicklink-buttons">
+<a href="/research-guides/getting-started-overview/" class="quicklink-btn">Comenzando desde cero</a>
+<a href="https://www.familysearch.org/en/search/collection/1682798" target="_blank" rel="noopener noreferrer" class="quicklink-btn">Registros del siglo XIX</a>
+<a href="https://genealogianuestra.com/" target="_blank" rel="noopener noreferrer" class="quicklink-btn">Buscar por pueblo</a>
+</div>
+</div>
 
-| Recurso | Descripción |
-|---------|-------------|
-| <a href="https://www.icp.pr.gov/archivo-general/" target="_blank" rel="noopener noreferrer"><em>Archivo General de Puerto Rico</em></a> | El repositorio oficial de registros históricos puertorriqueños, incluyendo documentos coloniales, registros censales y archivos gubernamentales. |
-| <a href="https://www.salud.pr.gov/CMS/18" target="_blank" rel="noopener noreferrer"><em>Registro Demográfico de Puerto Rico</em></a> | Oficina de registros vitales de Puerto Rico para certificados de nacimiento, matrimonio y defunción (1885-presente). |
-| <a href="https://www.archives.gov/" target="_blank" rel="noopener noreferrer"><em>Archivos Nacionales de EE.UU. (NARA)</em></a> | Registros federales relacionados con Puerto Rico, incluyendo registros censales, militares y expedientes de naturalización. |
-| <a href="https://www.legacytree.com/blog/important-puerto-rican-genealogy-archives" target="_blank" rel="noopener noreferrer"><em>Legacy Tree Genealogists: Know Before You Go — Visiting Two Important Puerto Rican Genealogy Archives</em></a> | Orientación práctica para investigadores que planifican una visita presencial a los principales archivos genealógicos de Puerto Rico. Escrito por Luis Ariel Rivera para Legacy Tree Genealogists. (En inglés.) |
+<p class="top-picks-label">&#11088; Selecciones Destacadas</p>
+<div class="card-grid">
 
----
+<div class="card resource-card" data-category="archive">
+<div class="card-lang">&#127477;&#127479;</div>
+<span class="badge badge-top-pick">Archivo</span> <span class="badge badge-free">Gratuito</span>
+<div class="card-title">Archivo General de Puerto Rico</div>
+<div class="card-desc">El repositorio oficial de registros hist&#243;ricos puertorrique&#241;os, incluyendo documentos coloniales, registros censales y archivos gubernamentales.</div>
+<details class="card-more">
+<summary>M&#225;s detalles</summary>
+<p>Contiene registros desde el per&#237;odo colonial espa&#241;ol hasta el siglo XX. Los investigadores pueden visitar en persona en San Juan. Se recomienda contactar al archivo antes de visitar para confirmar las pol&#237;ticas de acceso y la disponibilidad de colecciones espec&#237;ficas.</p>
+</details>
+<div class="card-footer">
+<a href="https://www.icp.pr.gov/archivo-general/" target="_blank" rel="noopener noreferrer" class="card-link">Visitar &#8594;</a>
+<a href="{{ '/es/contacto/' | relative_url }}" class="card-report">Reportar enlace roto</a>
+</div>
+</div>
 
-### Colecciones Digitales y Bases de Datos
+<div class="card resource-card" data-category="digital">
+<div class="card-lang">&#127482;&#127480; &#127477;&#127479;</div>
+<span class="badge badge-top-pick">Colecci&#243;n Digital</span> <span class="badge badge-free">Gratuito</span>
+<div class="card-title">FamilySearch &#8212; Colecciones de Puerto Rico</div>
+<div class="card-desc">Acceso gratuito a registros eclesi&#225;sticos digitalizados, registro civil y otros registros vitales de Puerto Rico. No requiere suscripci&#243;n.</div>
+<details class="card-more">
+<summary>M&#225;s detalles</summary>
+<p>Incluye el registro civil (1885&#8211;2001), registros de la iglesia cat&#243;lica (1645&#8211;2021) y registros censales. Crea una cuenta gratuita en familysearch.org para acceder a la mayor&#237;a de las colecciones. La cobertura var&#237;a seg&#250;n el municipio.</p>
+</details>
+<div class="card-footer">
+<a href="https://www.familysearch.org/search/collection/location/1927073" target="_blank" rel="noopener noreferrer" class="card-link">Visitar &#8594;</a>
+<a href="{{ '/es/contacto/' | relative_url }}" class="card-report">Reportar enlace roto</a>
+</div>
+</div>
 
-| Recurso | Descripción |
-|---------|-------------|
-| <a href="https://www.upr.edu/biblioteca-rrp/" target="_blank" rel="noopener noreferrer"><em>Biblioteca Digital Puertorriqueña</em></a> | Biblioteca digital de la Universidad de Puerto Rico con documentos históricos, fotografías y publicaciones. |
-| <a href="https://www.familysearch.org/search/collection/location/1927073" target="_blank" rel="noopener noreferrer"><em>FamilySearch - Colecciones de Puerto Rico</em></a> | Acceso gratuito a registros eclesiásticos digitalizados, registro civil y otros registros vitales de Puerto Rico. |
-| <a href="https://www.familysearch.org/en/wiki/Puerto_Rico_Genealogy" target="_blank" rel="noopener noreferrer"><em>Family Search - Puerto Rico</em></a> | Acceso por sin suscripción a registros puertorriqueños incluyendo censos, registros vitales y documentos de inmigración. |
-
----
-
-
-
-### Sociedades y Organizaciones Genealógicas
-
-| Recurso | Descripción |
-|---------|-------------|
-| <a href="https://genealogiapr.com/" target="_blank" rel="noopener noreferrer"><em>Sociedad Puertorriqueña de Genealogía (SPG)</em></a> | Sociedad genealógica con sede en San Juan, Puerto Rico. La SPG ofrece conferencias mensuales, talleres y visitas culturales. Sus eventos se comparten en su <a href="https://www.facebook.com/groups/spgpuertorico" target="_blank" rel="noopener noreferrer"><em>grupo de Facebook</em></a> y su <a href="https://www.youtube.com/@sociedadpr" target="_blank" rel="noopener noreferrer"><em>canal de YouTube</em></a>. Los miembros reciben dos ediciones anuales de <em>Hereditas</em>, una revista que publica artículos de investigación genealógica, compilaciones de registros parroquiales y transcripciones de archivos municipales. |
-| <a href="https://groups.io/g/PRGENEALOGY-NW" target="_blank" rel="noopener noreferrer"><em>Puerto Rican Genealogy Northwest</em></a> | Lista de correo en Groups.io para investigadores de genealogía puertorriqueña. |
-| <a href="https://www.ngsgenealogy.org/genealogy-courses/" target="_blank" rel="noopener noreferrer"><em>National Genealogical Society – Cursos de Genealogía</em></a> | Cursos en línea autodidactas para genealogistas de todos los niveles, que cubren fundamentos de investigación, metodologías avanzadas, estándares de documentación, ADN, registros de tierras y otros temas especializados. |
-| <a href="https://boricorsos.org/conocenos/" target="_blank" rel="noopener noreferrer"><em>Asociación de Corsos de Puerto Rico</em></a> | Organización dedicada a preservar e investigar la herencia corsa en Puerto Rico. Especialmente útil para investigadores que rastrean ascendencia corsa en el área de Ponce. El grupo ha publicado libros útiles para la investigación de linajes corsos. Ver también: <a href="https://www.facebook.com/groups/411629005851118/" target="_blank" rel="noopener noreferrer"><em>Grupo de Facebook</em></a>. |
-
-¿Investigas ascendencia española o latinoamericana? Consulta el directorio completo: [Sociedades Genealógicas de Habla Hispana](/es/recursos/sociedades-genealogicas-habla-hispana/) — cubre sociedades en España (incluidas las Islas Canarias), el Caribe y América Latina, con enlaces verificados.
-
----
-
-### Blogs y Recursos Educativos
-
-| Recurso | Descripción |
-|---------|-------------|
-| <a href="https://looking4myroots.com" target="_blank" rel="noopener noreferrer"><em>Looking4MyRoots</em></a> | Nuestro blog complementario con consejos de investigación, estudios de casos y artículos de genealogía puertorriqueña. |
-| <a href="https://boricuagenes.com/" target="_blank" rel="noopener noreferrer"><em>BoricuaGenes Blog</em></a> | Blog de Luis Rivera que documenta la genealogía puertorriqueña y la investigación de ascendencia genética, explorando raíces taínas, africanas y españolas con guías prácticas y recursos de registros parroquiales. Ver también: <a href="https://boricuagenes.com/getting-started/" target="_blank" rel="noopener noreferrer"><em>Primeros Pasos</em></a>. |
-| <a href="https://genus-meridiem-pr.blogspot.com/" target="_blank" rel="noopener noreferrer"><em>Genealogías e Historia del Suroeste de Puerto Rico</em></a> | Blog de César A. Zapata Lozada dedicado a la investigación genealógica e historia local del suroeste de Puerto Rico, presentando registros parroquiales, documentos coloniales y linajes familiares de pueblos como San Germán, Cabo Rojo y Lajas. |
-| <a href="https://latinogenealogyandbeyond.com/" target="_blank" rel="noopener noreferrer"><em>Latino Genealogy and Beyond</em></a> | Blog de la Dra. Ellen Fernandez-Sacco que explora la genealogía caribeña con énfasis en Puerto Rico y la diáspora, integrando investigación de ascendencia africana, indígena y colonial con narrativas históricas más amplias. Ver también: <a href="https://latinogenealogyandbeyond.com/puerto-rico-link-list/" target="_blank" rel="noopener noreferrer"><em>Colección de Enlaces de Puerto Rico</em></a>. |
-| <a href="https://puertorikin.com/" target="_blank" rel="noopener noreferrer"><em>Puerto RiKin</em></a> | Blog de genealogía enfocado en parentesco puertorriqueño y estrategias de investigación. |
-| <a href="https://familylocket.com/" target="_blank" rel="noopener noreferrer"><em>Family Locket</em></a> | Blog de Diana Elder (AG®) y Nicole Dyer, un equipo profesional de genealogistas madre e hija. Presenta la metodología "Research Like a Pro", guías de genealogía genética, tutoriales de análisis de registros y herramientas prácticas para organizar y documentar la investigación de historia familiar. |
-| <a href="https://www.hijosdecoamopr.com/" target="_blank" rel="noopener noreferrer"><em>Hijos de Coamo</em></a> | Recursos extensos enfocados en Coamo y la investigación genealógica puertorriqueña. |
-| <a href="https://genealogianuestra.com/" target="_blank" rel="noopener noreferrer"><em>Genealogía Nuestra</em></a> | Blog de Ana Bayala sobre investigación genealógica puertorriqueña, con registros eclesiásticos y censales organizados por municipio. Incluye rutas directas a colecciones de FamilySearch del Caribe y guías prácticas para investigar la ascendencia puertorriqueña. Ver también: <a href="https://genealogianuestra.com/unlocking-church-records-for-mayaguez-new-19th-century-baptismal-transcriptions/" target="_blank" rel="noopener noreferrer"><em>Registros Eclesiásticos de Mayagüez: Nuevas Transcripciones de Bautismo del Siglo XIX</em></a>. |
-| ▶ <a href="https://www.youtube.com/watch?v=9zQCT7bmsUQ" target="_blank" rel="noopener noreferrer"><em>Getting Started with Puerto Rican Genealogy</em></a> | Presentación en video por Luis Ariel Rivera — una introducción a la investigación de registros y recursos puertorriqueños. <a href="https://www.youtube.com/watch?v=9zQCT7bmsUQ" class="btn btn-primary" target="_blank" rel="noopener noreferrer">Ver en YouTube</a> |
+</div>
 
 ---
 
-### ADN y Genealogía Genética
+<div class="resource-filters" id="resource-filters">
+<button class="filter-chip active" data-filter="all">Todos</button>
+<button class="filter-chip" data-filter="guide">Gu&#237;as</button>
+<button class="filter-chip" data-filter="archive">Archivos</button>
+<button class="filter-chip" data-filter="digital">Colecciones Digitales</button>
+<button class="filter-chip" data-filter="society">Sociedades</button>
+<button class="filter-chip" data-filter="blog">Blogs</button>
+<button class="filter-chip" data-filter="dna">ADN</button>
+<button class="filter-chip" data-filter="tool">Herramientas</button>
+<button class="filter-chip" data-filter="map">Mapas</button>
+</div>
 
-| Recurso | Descripción |
-|---------|-------------|
-| <a href="https://www.ancestry.com/dna/" target="_blank" rel="noopener noreferrer"><em>AncestryDNA</em></a> | Pruebas de ADN con la base de datos más grande para encontrar parientes. |
-| <a href="https://www.23andme.com/" target="_blank" rel="noopener noreferrer"><em>23andMe</em></a> | Pruebas de ADN con informes de salud y composición de ascendencia. |
-| <a href="https://www.familytreedna.com/" target="_blank" rel="noopener noreferrer"><em>Family Tree DNA</em></a> | Pruebas de ADN especializadas incluyendo Y-DNA y mtDNA para ascendencia profunda. |
-| <a href="https://www.gedmatch.com/" target="_blank" rel="noopener noreferrer"><em>GEDmatch</em></a> | Herramientas gratuitas para comparar resultados de ADN entre diferentes compañías. |
+<div class="card-grid" id="resource-grid">
 
+<!-- Primeros Pasos y Gu&#237;as de Investigaci&#243;n -->
+
+<div class="card resource-card" data-category="guide">
+<div class="card-lang">&#127482;&#127480;</div>
+<span class="badge badge-external">Gu&#237;a</span> <span class="badge badge-free">Gratuito</span>
+<div class="card-title">Biblioteca P&#250;blica de Nueva York: Gu&#237;a de Genealog&#237;a Puertorrique&#241;a</div>
+<div class="card-desc">Gu&#237;a de investigaci&#243;n con puntos de partida, tipos de registros y estrategia de investigaci&#243;n. Excelente para principiantes. (En ingl&#233;s.)</div>
+<details class="card-more">
+<summary>M&#225;s detalles</summary>
+<p>Incluye conjuntos de registros clave y contexto hist&#243;rico. Desarrollada por bibliotecarios de la NYPL con experiencia en genealog&#237;a puertorrique&#241;a y caribe&#241;a. Tambi&#233;n cubre recursos disponibles en la propia NYPL.</p>
+</details>
+<div class="card-footer">
+<a href="https://libguides.nypl.org/puertoricogenealogy/atnypl" target="_blank" rel="noopener noreferrer" class="card-link">Visitar &#8594;</a>
+<a href="{{ '/es/contacto/' | relative_url }}" class="card-report">Reportar enlace roto</a>
+</div>
+</div>
+
+<div class="card resource-card" data-category="guide">
+<div class="card-lang">&#127482;&#127480;</div>
+<span class="badge badge-external">Gu&#237;a</span> <span class="badge badge-free">Gratuito</span>
+<div class="card-title">Biblioteca del Congreso: Genealog&#237;a e Historia Local de Puerto Rico</div>
+<div class="card-desc">Gu&#237;a de investigaci&#243;n con acceso a registros vitales, mapas hist&#243;ricos y listados de cat&#225;logo. (En ingl&#233;s.)</div>
+<div class="card-footer">
+<a href="https://guides.loc.gov/puerto-rico-local-history-genealogy" target="_blank" rel="noopener noreferrer" class="card-link">Visitar &#8594;</a>
+<a href="{{ '/es/contacto/' | relative_url }}" class="card-report">Reportar enlace roto</a>
+</div>
+</div>
+
+<div class="card resource-card" data-category="guide">
+<div class="card-lang">&#127482;&#127480; &#127477;&#127479;</div>
+<span class="badge badge-external">Gu&#237;a</span> <span class="badge badge-free">Gratuito</span>
+<div class="card-title">FamilySearch: Wiki de Genealog&#237;a de Puerto Rico</div>
+<div class="card-desc">Gu&#237;a gratuita y estructurada sobre registros civiles, parroquiales y censales espec&#237;ficos de Puerto Rico. Explica qu&#233; registros existen y c&#243;mo utilizarlos.</div>
+<div class="card-footer">
+<a href="https://www.familysearch.org/en/wiki/Puerto_Rico_Genealogy" target="_blank" rel="noopener noreferrer" class="card-link">Visitar &#8594;</a>
+<a href="{{ '/es/contacto/' | relative_url }}" class="card-report">Reportar enlace roto</a>
+</div>
+</div>
+
+<div class="card resource-card" data-category="guide">
+<div class="card-lang">&#127482;&#127480;</div>
+<span class="badge badge-external">Gu&#237;a</span> <span class="badge badge-free">Gratuito</span>
+<div class="card-title">BoricuaGenes: Primeros Pasos</div>
+<div class="card-desc">10 consejos pr&#225;cticos para comenzar tu viaje geneal&#243;gico con ra&#237;ces puertorrique&#241;as. (En ingl&#233;s.)</div>
+<div class="card-footer">
+<a href="https://boricuagenes.com/getting-started/" target="_blank" rel="noopener noreferrer" class="card-link">Visitar &#8594;</a>
+<a href="{{ '/es/contacto/' | relative_url }}" class="card-report">Reportar enlace roto</a>
+</div>
+</div>
+
+<div class="card resource-card" data-category="guide">
+<div class="card-lang">&#127482;&#127480;</div>
+<span class="badge badge-external">Gu&#237;a</span> <span class="badge badge-free">Gratuito</span>
+<div class="card-title">Latino Genealogy &amp; Beyond: Colecci&#243;n de Enlaces de Puerto Rico</div>
+<div class="card-desc">Lista curada de enlaces externos y recursos de aprendizaje &#250;tiles para la investigaci&#243;n caribe&#241;a y puertorrique&#241;a. (En ingl&#233;s.)</div>
+<div class="card-footer">
+<a href="https://latinogenealogyandbeyond.com/puerto-rico-link-list/" target="_blank" rel="noopener noreferrer" class="card-link">Visitar &#8594;</a>
+<a href="{{ '/es/contacto/' | relative_url }}" class="card-report">Reportar enlace roto</a>
+</div>
+</div>
+
+<!-- Archivos y Repositorios Oficiales -->
+
+<div class="card resource-card" data-category="archive">
+<div class="card-lang">&#127477;&#127479;</div>
+<span class="badge badge-external">Archivo</span> <span class="badge badge-free">Gratuito</span>
+<div class="card-title">Archivo General de Puerto Rico</div>
+<div class="card-desc">Repositorio oficial de registros hist&#243;ricos puertorrique&#241;os, incluyendo documentos coloniales y archivos gubernamentales.</div>
+<div class="card-footer">
+<a href="https://www.icp.pr.gov/archivo-general/" target="_blank" rel="noopener noreferrer" class="card-link">Visitar &#8594;</a>
+<a href="{{ '/es/contacto/' | relative_url }}" class="card-report">Reportar enlace roto</a>
+</div>
+</div>
+
+<div class="card resource-card" data-category="archive">
+<div class="card-lang">&#127477;&#127479;</div>
+<span class="badge badge-external">Archivo</span> <span class="badge badge-free">Gratuito</span>
+<div class="card-title">Registro Demogr&#225;fico de Puerto Rico</div>
+<div class="card-desc">Oficina de registros vitales de Puerto Rico para certificados de nacimiento, matrimonio y defunci&#243;n desde 1885 hasta el presente.</div>
+<div class="card-footer">
+<a href="https://www.salud.pr.gov/CMS/18" target="_blank" rel="noopener noreferrer" class="card-link">Visitar &#8594;</a>
+<a href="{{ '/es/contacto/' | relative_url }}" class="card-report">Reportar enlace roto</a>
+</div>
+</div>
+
+<div class="card resource-card" data-category="archive">
+<div class="card-lang">&#127482;&#127480;</div>
+<span class="badge badge-external">Archivo</span> <span class="badge badge-free">Gratuito</span>
+<div class="card-title">Archivos Nacionales de EE.UU. (NARA)</div>
+<div class="card-desc">Registros federales relacionados con Puerto Rico, incluyendo registros censales, militares y expedientes de naturalizaci&#243;n. (En ingl&#233;s.)</div>
+<div class="card-footer">
+<a href="https://www.archives.gov/" target="_blank" rel="noopener noreferrer" class="card-link">Visitar &#8594;</a>
+<a href="{{ '/es/contacto/' | relative_url }}" class="card-report">Reportar enlace roto</a>
+</div>
+</div>
+
+<div class="card resource-card" data-category="archive">
+<div class="card-lang">&#127482;&#127480;</div>
+<span class="badge badge-external">Gu&#237;a de Archivo</span> <span class="badge badge-free">Gratuito</span>
+<div class="card-title">Legacy Tree Genealogists: Know Before You Go</div>
+<div class="card-desc">Orientaci&#243;n pr&#225;ctica para investigadores que planifican una visita presencial a los principales archivos geneal&#243;gicos de Puerto Rico. (En ingl&#233;s.)</div>
+<details class="card-more">
+<summary>M&#225;s detalles</summary>
+<p>Escrito por Luis Ariel Rivera para Legacy Tree Genealogists. Cubre qu&#233; esperar al visitar el Archivo General de Puerto Rico y el Registro Demogr&#225;fico, incluyendo horarios, pol&#237;ticas de acceso y qu&#233; llevar.</p>
+</details>
+<div class="card-footer">
+<a href="https://www.legacytree.com/blog/important-puerto-rican-genealogy-archives" target="_blank" rel="noopener noreferrer" class="card-link">Visitar &#8594;</a>
+<a href="{{ '/es/contacto/' | relative_url }}" class="card-report">Reportar enlace roto</a>
+</div>
+</div>
+
+<!-- Colecciones Digitales y Bases de Datos -->
+
+<div class="card resource-card" data-category="digital">
+<div class="card-lang">&#127477;&#127479;</div>
+<span class="badge badge-external">Colecci&#243;n Digital</span> <span class="badge badge-free">Gratuito</span>
+<div class="card-title">Biblioteca Digital Puertorrique&#241;a (UPR)</div>
+<div class="card-desc">Biblioteca digital de la Universidad de Puerto Rico con documentos hist&#243;ricos, fotograf&#237;as y publicaciones.</div>
+<div class="card-footer">
+<a href="https://www.upr.edu/biblioteca-rrp/" target="_blank" rel="noopener noreferrer" class="card-link">Visitar &#8594;</a>
+<a href="{{ '/es/contacto/' | relative_url }}" class="card-report">Reportar enlace roto</a>
+</div>
+</div>
+
+<div class="card resource-card" data-category="digital">
+<div class="card-lang">&#127482;&#127480; &#127477;&#127479;</div>
+<span class="badge badge-external">Colecci&#243;n Digital</span> <span class="badge badge-free">Gratuito</span>
+<div class="card-title">FamilySearch &#8212; Colecciones de Puerto Rico</div>
+<div class="card-desc">Acceso gratuito a registros eclesi&#225;sticos digitalizados, registro civil y registros vitales de Puerto Rico. No requiere suscripci&#243;n.</div>
+<details class="card-more">
+<summary>M&#225;s detalles</summary>
+<p>Incluye el registro civil (1885&#8211;2001), registros de la iglesia cat&#243;lica (1645&#8211;2021) y registros censales. La cobertura var&#237;a seg&#250;n el municipio. Crea una cuenta gratuita en familysearch.org para acceder a la mayor&#237;a de las colecciones.</p>
+</details>
+<div class="card-footer">
+<a href="https://www.familysearch.org/search/collection/location/1927073" target="_blank" rel="noopener noreferrer" class="card-link">Visitar &#8594;</a>
+<a href="{{ '/es/contacto/' | relative_url }}" class="card-report">Reportar enlace roto</a>
+</div>
+</div>
+
+<!-- Sociedades y Organizaciones Geneal&#243;gicas -->
+
+<div class="card resource-card" data-category="society">
+<div class="card-lang">&#127477;&#127479;</div>
+<span class="badge badge-external">Sociedad</span> <span class="badge badge-free">Gratuito</span>
+<div class="card-title">Sociedad Puertorrique&#241;a de Genealog&#237;a (SPG)</div>
+<div class="card-desc">Sociedad geneal&#243;gica en San Juan que ofrece conferencias mensuales, talleres y la revista de investigaci&#243;n <em>Hereditas</em>.</div>
+<details class="card-more">
+<summary>M&#225;s detalles</summary>
+<p>Los eventos se comparten en su <a href="https://www.facebook.com/groups/spgpuertorico" target="_blank" rel="noopener noreferrer">grupo de Facebook</a> y su <a href="https://www.youtube.com/@sociedadpr" target="_blank" rel="noopener noreferrer">canal de YouTube</a>. Los miembros reciben dos ediciones anuales de <em>Hereditas</em>, que publica art&#237;culos de investigaci&#243;n, compilaciones de registros parroquiales y transcripciones de archivos municipales.</p>
+</details>
+<div class="card-footer">
+<a href="https://genealogiapr.com/" target="_blank" rel="noopener noreferrer" class="card-link">Visitar &#8594;</a>
+<a href="{{ '/es/contacto/' | relative_url }}" class="card-report">Reportar enlace roto</a>
+</div>
+</div>
+
+<div class="card resource-card" data-category="society">
+<div class="card-lang">&#127482;&#127480;</div>
+<span class="badge badge-external">Sociedad</span> <span class="badge badge-free">Gratuito</span>
+<div class="card-title">Puerto Rican Genealogy Northwest</div>
+<div class="card-desc">Lista de correo en Groups.io para investigadores de genealog&#237;a puertorrique&#241;a en el noroeste de EE.UU. (En ingl&#233;s.)</div>
+<div class="card-footer">
+<a href="https://groups.io/g/PRGENEALOGY-NW" target="_blank" rel="noopener noreferrer" class="card-link">Visitar &#8594;</a>
+<a href="{{ '/es/contacto/' | relative_url }}" class="card-report">Reportar enlace roto</a>
+</div>
+</div>
+
+<div class="card resource-card" data-category="society">
+<div class="card-lang">&#127482;&#127480;</div>
+<span class="badge badge-external">Sociedad</span> <span class="badge badge-subscription">Suscripci&#243;n</span>
+<div class="card-title">National Genealogical Society &#8212; Cursos de Genealog&#237;a</div>
+<div class="card-desc">Cursos en l&#237;nea autodidactas para genealogistas de todos los niveles, cubriendo metodolog&#237;as, ADN y est&#225;ndares de documentaci&#243;n. (En ingl&#233;s.)</div>
+<div class="card-footer">
+<a href="https://www.ngsgenealogy.org/genealogy-courses/" target="_blank" rel="noopener noreferrer" class="card-link">Visitar &#8594;</a>
+<a href="{{ '/es/contacto/' | relative_url }}" class="card-report">Reportar enlace roto</a>
+</div>
+</div>
+
+<div class="card resource-card" data-category="society">
+<div class="card-lang">&#127477;&#127479;</div>
+<span class="badge badge-external">Sociedad</span> <span class="badge badge-free">Gratuito</span>
+<div class="card-title">Asociaci&#243;n de Corsos de Puerto Rico</div>
+<div class="card-desc">Organizaci&#243;n que preserva la herencia corsa en Puerto Rico. Especialmente &#250;til para investigadores que rastrean ascendencia corsa en el &#225;rea de Ponce.</div>
+<details class="card-more">
+<summary>M&#225;s detalles</summary>
+<p>El grupo ha publicado libros &#250;tiles para la investigaci&#243;n de linajes corsos. Ver tambi&#233;n su <a href="https://www.facebook.com/groups/411629005851118/" target="_blank" rel="noopener noreferrer">grupo de Facebook</a>.</p>
+</details>
+<div class="card-footer">
+<a href="https://boricorsos.org/conocenos/" target="_blank" rel="noopener noreferrer" class="card-link">Visitar &#8594;</a>
+<a href="{{ '/es/contacto/' | relative_url }}" class="card-report">Reportar enlace roto</a>
+</div>
+</div>
+
+<div class="card resource-card" data-category="society">
+<div class="card-lang">&#127482;&#127480; &#127477;&#127479;</div>
+<span class="badge badge-external">Directorio de Sociedades</span> <span class="badge badge-free">Gratuito</span>
+<div class="card-title">Sociedades Geneal&#243;gicas de Habla Hispana</div>
+<div class="card-desc">Directorio de sociedades geneal&#243;gicas en Espa&#241;a (incluidas las Islas Canarias), el Caribe y Am&#233;rica Latina, con enlaces verificados.</div>
+<div class="card-footer">
+<a href="/es/recursos/sociedades-genealogicas-habla-hispana/" class="card-link">Ver Directorio &#8594;</a>
+<a href="{{ '/es/contacto/' | relative_url }}" class="card-report">Reportar enlace roto</a>
+</div>
+</div>
+
+<!-- Blogs y Recursos Educativos -->
+
+<div class="card resource-card" data-category="blog">
+<div class="card-lang">&#127482;&#127480;</div>
+<span class="badge badge-external">Blog</span> <span class="badge badge-free">Gratuito</span>
+<div class="card-title">Looking4MyRoots</div>
+<div class="card-desc">Nuestro blog complementario con consejos de investigaci&#243;n, estudios de casos y art&#237;culos de genealog&#237;a puertorrique&#241;a. (En ingl&#233;s.)</div>
+<div class="card-footer">
+<a href="https://looking4myroots.com" target="_blank" rel="noopener noreferrer" class="card-link">Visitar &#8594;</a>
+<a href="{{ '/es/contacto/' | relative_url }}" class="card-report">Reportar enlace roto</a>
+</div>
+</div>
+
+<div class="card resource-card" data-category="blog">
+<div class="card-lang">&#127482;&#127480;</div>
+<span class="badge badge-external">Blog</span> <span class="badge badge-free">Gratuito</span>
+<div class="card-title">BoricuaGenes Blog</div>
+<div class="card-desc">Documenta la genealog&#237;a puertorrique&#241;a y la investigaci&#243;n de ascendencia gen&#233;tica, explorando ra&#237;ces ta&#237;nas, africanas y espa&#241;olas con gu&#237;as pr&#225;cticas. (En ingl&#233;s.)</div>
+<div class="card-footer">
+<a href="https://boricuagenes.com/" target="_blank" rel="noopener noreferrer" class="card-link">Visitar &#8594;</a>
+<a href="{{ '/es/contacto/' | relative_url }}" class="card-report">Reportar enlace roto</a>
+</div>
+</div>
+
+<div class="card resource-card" data-category="blog">
+<div class="card-lang">&#127477;&#127479;</div>
+<span class="badge badge-external">Blog</span> <span class="badge badge-free">Gratuito</span>
+<div class="card-title">Genealog&#237;as e Historia del Suroeste de Puerto Rico</div>
+<div class="card-desc">Investigaci&#243;n geneal&#243;gica e historia local del suroeste de Puerto Rico: San Germ&#225;n, Cabo Rojo y Lajas. Por C&#233;sar A. Zapata Lozada.</div>
+<div class="card-footer">
+<a href="https://genus-meridiem-pr.blogspot.com/" target="_blank" rel="noopener noreferrer" class="card-link">Visitar &#8594;</a>
+<a href="{{ '/es/contacto/' | relative_url }}" class="card-report">Reportar enlace roto</a>
+</div>
+</div>
+
+<div class="card resource-card" data-category="blog">
+<div class="card-lang">&#127482;&#127480;</div>
+<span class="badge badge-external">Blog</span> <span class="badge badge-free">Gratuito</span>
+<div class="card-title">Latino Genealogy and Beyond</div>
+<div class="card-desc">Explora la genealog&#237;a caribe&#241;a con &#233;nfasis en Puerto Rico y la di&#225;spora, integrando ascendencia africana, ind&#237;gena y colonial. (En ingl&#233;s.)</div>
+<details class="card-more">
+<summary>M&#225;s detalles</summary>
+<p>Escrito por la Dra. Ellen Fernandez-Sacco. Integra narrativas hist&#243;ricas m&#225;s amplias junto a la metodolog&#237;a geneal&#243;gica. Ver tambi&#233;n la <a href="https://latinogenealogyandbeyond.com/puerto-rico-link-list/" target="_blank" rel="noopener noreferrer">Colecci&#243;n de Enlaces de Puerto Rico</a>.</p>
+</details>
+<div class="card-footer">
+<a href="https://latinogenealogyandbeyond.com/" target="_blank" rel="noopener noreferrer" class="card-link">Visitar &#8594;</a>
+<a href="{{ '/es/contacto/' | relative_url }}" class="card-report">Reportar enlace roto</a>
+</div>
+</div>
+
+<div class="card resource-card" data-category="blog">
+<div class="card-lang">&#127482;&#127480;</div>
+<span class="badge badge-external">Blog</span> <span class="badge badge-free">Gratuito</span>
+<div class="card-title">Puerto RiKin</div>
+<div class="card-desc">Blog de genealog&#237;a enfocado en parentesco puertorrique&#241;o y estrategias de investigaci&#243;n. (En ingl&#233;s.)</div>
+<div class="card-footer">
+<a href="https://puertorikin.com/" target="_blank" rel="noopener noreferrer" class="card-link">Visitar &#8594;</a>
+<a href="{{ '/es/contacto/' | relative_url }}" class="card-report">Reportar enlace roto</a>
+</div>
+</div>
+
+<div class="card resource-card" data-category="blog">
+<div class="card-lang">&#127482;&#127480;</div>
+<span class="badge badge-external">Blog</span> <span class="badge badge-free">Gratuito</span>
+<div class="card-title">Family Locket</div>
+<div class="card-desc">Presenta la metodolog&#237;a Research Like a Pro y gu&#237;as de genealog&#237;a gen&#233;tica de las genealogistas profesionales Diana Elder (AG) y Nicole Dyer. (En ingl&#233;s.)</div>
+<div class="card-footer">
+<a href="https://familylocket.com/" target="_blank" rel="noopener noreferrer" class="card-link">Visitar &#8594;</a>
+<a href="{{ '/es/contacto/' | relative_url }}" class="card-report">Reportar enlace roto</a>
+</div>
+</div>
+
+<div class="card resource-card" data-category="blog">
+<div class="card-lang">&#127482;&#127480; &#127477;&#127479;</div>
+<span class="badge badge-external">Blog</span> <span class="badge badge-free">Gratuito</span>
+<div class="card-title">Hijos de Coamo</div>
+<div class="card-desc">Recursos extensos enfocados en Coamo y la investigaci&#243;n genealogica puertorrique&#241;a.</div>
+<div class="card-footer">
+<a href="https://www.hijosdecoamopr.com/" target="_blank" rel="noopener noreferrer" class="card-link">Visitar &#8594;</a>
+<a href="{{ '/es/contacto/' | relative_url }}" class="card-report">Reportar enlace roto</a>
+</div>
+</div>
+
+<div class="card resource-card" data-category="blog">
+<div class="card-lang">&#127477;&#127479;</div>
+<span class="badge badge-external">Blog</span> <span class="badge badge-free">Gratuito</span>
+<div class="card-title">Genealog&#237;a Nuestra</div>
+<div class="card-desc">Registros eclesi&#225;sticos y censales organizados por municipio, con rutas directas a las colecciones caribe&#241;as de FamilySearch. Por Ana Bayala.</div>
+<details class="card-more">
+<summary>M&#225;s detalles</summary>
+<p>Incluye gu&#237;as pr&#225;cticas para investigar la ascendencia puertorrique&#241;a y un enlace directo a <a href="https://genealogianuestra.com/unlocking-church-records-for-mayaguez-new-19th-century-baptismal-transcriptions/" target="_blank" rel="noopener noreferrer">Registros Eclesi&#225;sticos de Mayag&#252;ez: Nuevas Transcripciones de Bautismo del Siglo XIX</a>.</p>
+</details>
+<div class="card-footer">
+<a href="https://genealogianuestra.com/" target="_blank" rel="noopener noreferrer" class="card-link">Visitar &#8594;</a>
+<a href="{{ '/es/contacto/' | relative_url }}" class="card-report">Reportar enlace roto</a>
+</div>
+</div>
+
+<div class="card resource-card" data-category="blog">
+<div class="card-lang">&#127482;&#127480;</div>
+<span class="badge badge-external">Video</span> <span class="badge badge-free">Gratuito</span>
+<div class="card-title">&#9654; Getting Started with Puerto Rican Genealogy</div>
+<div class="card-desc">Presentaci&#243;n en video por Luis Ariel Rivera: una introducci&#243;n a la investigaci&#243;n de registros y recursos puertorrique&#241;os. En YouTube. (En ingl&#233;s.)</div>
+<div class="card-footer">
+<a href="https://www.youtube.com/watch?v=9zQCT7bmsUQ" target="_blank" rel="noopener noreferrer" class="card-link">Ver en YouTube &#8594;</a>
+<a href="{{ '/es/contacto/' | relative_url }}" class="card-report">Reportar enlace roto</a>
+</div>
+</div>
+
+<!-- ADN y Genealog&#237;a Gen&#233;tica -->
+
+<div class="card resource-card" data-category="dna">
+<div class="card-lang">&#127482;&#127480;</div>
+<span class="badge badge-external">ADN</span> <span class="badge badge-subscription">Suscripci&#243;n</span>
+<div class="card-title">AncestryDNA</div>
+<div class="card-desc">Pruebas de ADN con la base de datos m&#225;s grande para encontrar parientes. Se requiere suscripci&#243;n para acceso completo al &#225;rbol y registros. (En ingl&#233;s.)</div>
+<div class="card-footer">
+<a href="https://www.ancestry.com/dna/" target="_blank" rel="noopener noreferrer" class="card-link">Visitar &#8594;</a>
+<a href="{{ '/es/contacto/' | relative_url }}" class="card-report">Reportar enlace roto</a>
+</div>
+</div>
+
+<div class="card resource-card" data-category="dna">
+<div class="card-lang">&#127482;&#127480;</div>
+<span class="badge badge-external">ADN</span> <span class="badge badge-subscription">Suscripci&#243;n</span>
+<div class="card-title">23andMe</div>
+<div class="card-desc">Pruebas de ADN con informes de salud y an&#225;lisis de composici&#243;n de ascendencia. Se requiere suscripci&#243;n para funciones de salud continuas. (En ingl&#233;s.)</div>
+<div class="card-footer">
+<a href="https://www.23andme.com/" target="_blank" rel="noopener noreferrer" class="card-link">Visitar &#8594;</a>
+<a href="{{ '/es/contacto/' | relative_url }}" class="card-report">Reportar enlace roto</a>
+</div>
+</div>
+
+<div class="card resource-card" data-category="dna">
+<div class="card-lang">&#127482;&#127480;</div>
+<span class="badge badge-external">ADN</span> <span class="badge badge-subscription">Suscripci&#243;n</span>
+<div class="card-title">Family Tree DNA</div>
+<div class="card-desc">Pruebas de ADN especializadas incluyendo Y-DNA y mtDNA para investigar l&#237;neas de ascendencia profunda. Los kits de prueba se compran por separado. (En ingl&#233;s.)</div>
+<div class="card-footer">
+<a href="https://www.familytreedna.com/" target="_blank" rel="noopener noreferrer" class="card-link">Visitar &#8594;</a>
+<a href="{{ '/es/contacto/' | relative_url }}" class="card-report">Reportar enlace roto</a>
+</div>
+</div>
+
+<div class="card resource-card" data-category="dna">
+<div class="card-lang">&#127482;&#127480;</div>
+<span class="badge badge-external">Herramienta de ADN</span> <span class="badge badge-free">Gratuito</span>
+<div class="card-title">GEDmatch</div>
+<div class="card-desc">Herramientas gratuitas para comparar resultados de ADN entre diferentes compa&#241;&#237;as. Sube tus resultados de cualquier proveedor para comparaci&#243;n entre plataformas. (En ingl&#233;s.)</div>
+<div class="card-footer">
+<a href="https://www.gedmatch.com/" target="_blank" rel="noopener noreferrer" class="card-link">Visitar &#8594;</a>
+<a href="{{ '/es/contacto/' | relative_url }}" class="card-report">Reportar enlace roto</a>
+</div>
+</div>
+
+<!-- Herramientas de Investigaci&#243;n -->
+
+<div class="card resource-card" data-category="tool">
+<div class="card-lang">&#127482;&#127480;</div>
+<span class="badge badge-external">Herramienta</span> <span class="badge badge-free">Gratuito</span>
+<div class="card-title">WikiTree</div>
+<div class="card-desc">&#193;rbol geneal&#243;gico colaborativo gratuito con proyectos de ascendencia puertorrique&#241;a y una gran comunidad de investigaci&#243;n. (En ingl&#233;s.)</div>
+<div class="card-footer">
+<a href="https://www.wikitree.com/" target="_blank" rel="noopener noreferrer" class="card-link">Visitar &#8594;</a>
+<a href="{{ '/es/contacto/' | relative_url }}" class="card-report">Reportar enlace roto</a>
+</div>
+</div>
+
+<div class="card resource-card" data-category="tool">
+<div class="card-lang">&#127482;&#127480;</div>
+<span class="badge badge-external">Herramienta</span> <span class="badge badge-free">Gratuito</span>
+<div class="card-title">Geni</div>
+<div class="card-desc">Proyecto del &#193;rbol Familiar Mundial para conectar con parientes lejanos a trav&#233;s de una base de datos colaborativa global. (En ingl&#233;s.)</div>
+<div class="card-footer">
+<a href="https://www.geni.com/" target="_blank" rel="noopener noreferrer" class="card-link">Visitar &#8594;</a>
+<a href="{{ '/es/contacto/' | relative_url }}" class="card-report">Reportar enlace roto</a>
+</div>
+</div>
+
+<div class="card resource-card" data-category="tool">
+<div class="card-lang">&#127482;&#127480;</div>
+<span class="badge badge-external">Herramienta</span> <span class="badge badge-free">Gratuito</span>
+<div class="card-title">Herramientas One-Step de Stephen P. Morse</div>
+<div class="card-desc">Herramientas de b&#250;squeda y utilidades para investigaci&#243;n geneal&#243;gica, incluyendo b&#250;squedas de registros censales y de inmigraci&#243;n. (En ingl&#233;s.)</div>
+<div class="card-footer">
+<a href="https://stevemorse.org/" target="_blank" rel="noopener noreferrer" class="card-link">Visitar &#8594;</a>
+<a href="{{ '/es/contacto/' | relative_url }}" class="card-report">Reportar enlace roto</a>
+</div>
+</div>
+
+<!-- Mapas Hist&#243;ricos y Geograf&#237;a -->
+
+<div class="card resource-card" data-category="map">
+<div class="card-lang">&#127482;&#127480;</div>
+<span class="badge badge-external">Mapas</span> <span class="badge badge-free">Gratuito</span>
+<div class="card-title">Colecci&#243;n de Mapas David Rumsey</div>
+<div class="card-desc">Mapas hist&#243;ricos de Puerto Rico a trav&#233;s de diferentes per&#237;odos. Escaneos de alta resoluci&#243;n disponibles gratuitamente y con b&#250;squeda. (En ingl&#233;s.)</div>
+<div class="card-footer">
+<a href="https://www.davidrumsey.com/" target="_blank" rel="noopener noreferrer" class="card-link">Visitar &#8594;</a>
+<a href="{{ '/es/contacto/' | relative_url }}" class="card-report">Reportar enlace roto</a>
+</div>
+</div>
+
+<div class="card resource-card" data-category="map">
+<div class="card-lang">&#127482;&#127480;</div>
+<span class="badge badge-external">Mapas</span> <span class="badge badge-free">Gratuito</span>
+<div class="card-title">Mapas de la Biblioteca del Congreso</div>
+<div class="card-desc">Mapas hist&#243;ricos de Puerto Rico de la colecci&#243;n de la Biblioteca del Congreso, incluyendo cartograf&#237;a de la era colonial. (En ingl&#233;s.)</div>
+<div class="card-footer">
+<a href="https://www.loc.gov/maps/" target="_blank" rel="noopener noreferrer" class="card-link">Visitar &#8594;</a>
+<a href="{{ '/es/contacto/' | relative_url }}" class="card-report">Reportar enlace roto</a>
+</div>
+</div>
+
+<div class="card resource-card" data-category="map">
+<div class="card-lang">&#127482;&#127480;</div>
+<span class="badge badge-external">Mapas</span> <span class="badge badge-free">Gratuito</span>
+<div class="card-title">PastMaps</div>
+<div class="card-desc">Superpone mapas hist&#243;ricos sobre mapas modernos para localizar barrios hist&#243;ricos y nombres de lugares antiguos. El uso gratuito es limitado. (En ingl&#233;s.)</div>
+<div class="card-footer">
+<a href="https://www.pastmaps.com/" target="_blank" rel="noopener noreferrer" class="card-link">Visitar &#8594;</a>
+<a href="{{ '/es/contacto/' | relative_url }}" class="card-report">Reportar enlace roto</a>
+</div>
+</div>
+
+</div>
 
 ---
 
-### Herramientas de Investigación
+### &#191;Tienes un Recurso para Agregar?
 
-| Recurso | Descripción |
-|---------|-------------|
-| <a href="https://www.wikitree.com/" target="_blank" rel="noopener noreferrer"><em>WikiTree</em></a> | Árbol genealógico colaborativo gratuito con proyectos de ascendencia puertorriqueña. |
-| <a href="https://www.geni.com/" target="_blank" rel="noopener noreferrer"><em>Geni</em></a> | Proyecto del Árbol Familiar Mundial para conectar con parientes lejanos. |
-| <a href="https://stevemorse.org/" target="_blank" rel="noopener noreferrer"><em>Herramientas One-Step de Stephen P. Morse</em></a> | Herramientas de búsqueda y utilidades para investigación genealógica. |
+&#191;Eres historiador de tu pueblo o conoces una colecci&#243;n local digitalizada? <a href="{{ '/es/contacto/' | relative_url }}">&#161;Cont&#225;ctanos</a> y lo consideraremos para incluirlo.
 
----
+*Nota: La inclusi&#243;n de enlaces externos no constituye respaldo. Siempre verifica la informaci&#243;n de m&#250;ltiples fuentes.*
 
-### Mapas Históricos y Geografía
+<p class="page-last-updated">&#218;ltima actualizaci&#243;n: 16 de marzo de 2026</p>
 
-| Recurso | Descripción |
-|---------|-------------|
-| <a href="https://www.davidrumsey.com/" target="_blank" rel="noopener noreferrer"><em>Colección de Mapas David Rumsey</em></a> | Mapas históricos incluyendo Puerto Rico a través de diferentes períodos. |
-| <a href="https://www.loc.gov/maps/" target="_blank" rel="noopener noreferrer"><em>Mapas de la Biblioteca del Congreso</em></a> | Mapas históricos de Puerto Rico de la colección de la Biblioteca del Congreso. |
-| <a href="https://www.pastmaps.com/" target="_blank" rel="noopener noreferrer"><em>PastMaps</em></a> | Superpón mapas históricos de Puerto Rico sobre mapas modernos — útil para localizar barrios históricos, nombres de lugares antiguos y zonas cuyas delimitaciones han cambiado. Nota: el uso gratuito es limitado. |
-
----
-
-### ¿Tienes un Recurso para Agregar?
-
-¿Conoces un recurso valioso que debería incluirse aquí? <a href="{{ '/es/contacto/' | relative_url }}">¡Contáctanos</a> con tu sugerencia!
-
-*Nota: La inclusión de enlaces externos no constituye respaldo. Siempre verifica la información de múltiples fuentes.*
+<script>
+document.querySelectorAll('.filter-chip').forEach(function(btn) {
+  btn.addEventListener('click', function() {
+    document.querySelectorAll('.filter-chip').forEach(function(b) { b.classList.remove('active'); });
+    btn.classList.add('active');
+    var cat = btn.getAttribute('data-filter');
+    document.querySelectorAll('.resource-card').forEach(function(card) {
+      card.style.display = (cat === 'all' || card.getAttribute('data-category') === cat) ? '' : 'none';
+    });
+  });
+});
+</script>
