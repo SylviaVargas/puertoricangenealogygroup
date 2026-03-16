@@ -16,7 +16,7 @@ A curated collection of archives, databases, and tools for researching Puerto Ri
 <div class="resource-quicklinks">
 <p>What are you looking for?</p>
 <div class="quicklink-buttons">
-<a href="/research-guides/getting-started-overview/" class="quicklink-btn">Just starting out</a>
+<a href="/research-guides/getting-started/" class="quicklink-btn">Just starting out</a>
 <a href="https://www.familysearch.org/en/search/collection/1682798" target="_blank" rel="noopener noreferrer" class="quicklink-btn">19th-century records</a>
 <a href="https://genealogianuestra.com/" target="_blank" rel="noopener noreferrer" class="quicklink-btn">Search by town</a>
 </div>

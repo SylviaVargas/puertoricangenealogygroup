@@ -16,7 +16,7 @@ Una colecci&#243;n curada de archivos, bases de datos y herramientas para invest
 <div class="resource-quicklinks">
 <p>&#191;Qu&#233; est&#225;s buscando?</p>
 <div class="quicklink-buttons">
-<a href="/research-guides/getting-started-overview/" class="quicklink-btn">Comenzando desde cero</a>
+<a href="/es/guias-investigacion/primeros-pasos/" class="quicklink-btn">Comenzando desde cero</a>
 <a href="https://www.familysearch.org/en/search/collection/1682798" target="_blank" rel="noopener noreferrer" class="quicklink-btn">Registros del siglo XIX</a>
 <a href="https://genealogianuestra.com/" target="_blank" rel="noopener noreferrer" class="quicklink-btn">Buscar por pueblo</a>
 </div>

@@ -133,6 +133,23 @@ permalink: /url/  # required for non-collection pages
 
 ---
 
+## Before Completing Any Website Change
+
+**Verify every internal link in new or modified files before finishing.** For each internal href (relative path or absolute path starting with `/`):
+
+1. Resolve the target: check `permalink:` in the matching `.md` file or `_research-guides/`/`_resources/` collection file.
+2. Confirm the file exists in the repo. If not, find the correct permalink and fix the link.
+3. Spanish pages must link to Spanish permalinks (e.g., `/es/guias-investigacion/...` not `/research-guides/...`).
+
+Common broken-link patterns to watch for:
+
+- Using a guessed slug like `/research-guides/getting-started-overview/` when the real permalink is `/research-guides/getting-started/`
+- English links copy-pasted into Spanish files without updating to the ES permalink
+
+External links do not need verification during editing (they change without notice), but must follow the `<a href="..." target="_blank" rel="noopener noreferrer"><em>text</em></a>` format.
+
+---
+
 ## After Every Website Change
 
 Append an entry to `../prgg-admin/CHANGELOG.md`:
