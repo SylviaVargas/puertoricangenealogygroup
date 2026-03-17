@@ -517,9 +517,11 @@
     "neighbors": ["Cabo Rojo", "Hormigueros", "Lajas", "Maricao", "Mayagüez", "Sabana Grande", "Yauco"],
     "record_gaps": [],
     "escudo": {
-      "image": null,
+      "image": "/assets/images/municipalities/escudos/san-german-1574.svg",
       "description": "The coat of arms of San Germán features a castle representing its status as the second Spanish colonial city in Puerto Rico, a lamb symbolizing the patron saint San Germán de Auxerre, and a key referencing its role as gateway to western Puerto Rico.",
-      "alt": "Coat of arms of San Germán, Puerto Rico"
+      "alt": "Coat of arms of San Germán, Puerto Rico",
+      "license": "CC BY-SA 4.0",
+      "attribution_url": "https://commons.wikimedia.org/wiki/File:Escudo_de_San_German,_Puerto_Rico.svg"
     },
     "historical_maps": [
       {

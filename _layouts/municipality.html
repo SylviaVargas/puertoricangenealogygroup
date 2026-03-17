@@ -79,7 +79,7 @@ layout: default
             <img src="{{ muni.escudo.image | relative_url }}" alt="{{ muni.escudo.alt }}" class="muni-escudo-img" loading="lazy">
             {% else %}
             <div class="muni-escudo-placeholder" aria-hidden="true">
-              <span class="muni-escudo-initial">{{ muni.name | slice: 0 }}</span>
+              <span class="muni-escudo-icon">&#x1F6E1;</span>
               <p>{% if page.lang == 'es' %}Escudo próximamente{% else %}Coat of arms coming soon{% endif %}</p>
             </div>
             {% endif %}
@@ -97,13 +97,13 @@ layout: default
             <h3>{% if page.lang == 'es' %}Registro Civil{% else %}Civil Records{% endif %}</h3>
             <p>{% if page.lang == 'es' %}Comenzaron en{% else %}Began in{% endif %} <strong>{{ muni.civil_registry_start }}</strong></p>
             <p class="muni-toolkit-note">{% if page.lang == 'es' %}Cubre nacimientos, matrimonios y defunciones.{% else %}Covers births, marriages, and deaths.{% endif %}</p>
-            <p><a href="https://www.familysearch.org/en/search/collection/1682798" target="_blank" rel="noopener noreferrer"><em>FamilySearch Civil Registration</em></a></p>
+            <a href="https://www.familysearch.org/en/search/collection/1682798" class="btn btn-primary muni-toolkit-btn" target="_blank" rel="noopener noreferrer">⬇ {% if page.lang == 'es' %}Buscar Registros Civiles{% else %}Search Civil Records{% endif %}</a>
           </div>
           <div class="muni-toolkit-card">
             <h3>{% if page.lang == 'es' %}Registros Parroquiales{% else %}Parish Records{% endif %}</h3>
             <p>{% if page.lang == 'es' %}Parroquia:{% else %}Parish:{% endif %} <strong>{{ muni.parish.name }}</strong></p>
             <p>{% if page.lang == 'es' %}Registros desde{% else %}Records from{% endif %} <strong>{{ muni.parish.records_start }}</strong></p>
-            <p><a href="https://www.familysearch.org/en/search/collection/1807092" target="_blank" rel="noopener noreferrer"><em>FamilySearch Catholic Records</em></a></p>
+            <a href="https://www.familysearch.org/en/search/collection/1807092" class="btn btn-primary muni-toolkit-btn" target="_blank" rel="noopener noreferrer">⬇ {% if page.lang == 'es' %}Buscar Registros Católicos{% else %}Search Catholic Records{% endif %}</a>
           </div>
         </div>
       </section>
@@ -310,7 +310,11 @@ layout: default
           <li><label><input type="checkbox"> Mother Town Parish</label></li>
           {% endif %}
         </ul>
-        <button class="muni-checklist-print" onclick="window.print()">{% if page.lang == 'es' %}Imprimir lista{% else %}Print checklist{% endif %}</button>
+        {% if page.lang == 'es' %}
+        <a href="/assets/pdfs/tools/ES_Lista_Verificacion_Municipios.pdf" class="btn btn-primary muni-checklist-dl" target="_blank" rel="noopener noreferrer">⬇ Descargar Lista (PDF)</a>
+        {% else %}
+        <a href="/assets/pdfs/tools/Municipality_Research_Checklist.pdf" class="btn btn-primary muni-checklist-dl" target="_blank" rel="noopener noreferrer">⬇ Download Checklist (PDF)</a>
+        {% endif %}
       </div>
 
     </aside>

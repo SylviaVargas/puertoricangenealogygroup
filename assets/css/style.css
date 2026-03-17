@@ -2045,12 +2045,11 @@ body.fc-modal-open {
   padding: var(--spacing-sm);
 }
 
-.muni-escudo-initial {
-  font-family: var(--font-heading);
-  font-size: 3rem;
-  color: var(--color-navy);
+.muni-escudo-icon {
+  font-size: 3.5rem;
   line-height: 1;
   margin-bottom: var(--spacing-xs);
+  color: var(--color-navy);
 }
 
 .muni-escudo-placeholder p {
@@ -2097,6 +2096,16 @@ body.fc-modal-open {
   font-style: italic;
 }
 
+.muni-toolkit-btn {
+  display: block;
+  width: 100%;
+  text-align: center;
+  margin-top: var(--spacing-sm);
+  font-size: 0.9rem;
+  padding: 0.4rem var(--spacing-md);
+  box-sizing: border-box;
+}
+
 /* Barrios grid */
 .muni-barrios-grid {
   list-style: none;
@@ -2108,12 +2117,13 @@ body.fc-modal-open {
 }
 
 .muni-barrio-tag {
-  background: var(--color-light-gray);
-  border: 1px solid #d0d7df;
+  background: rgba(201, 169, 98, 0.12);
+  border: 1px solid var(--color-gold);
   border-radius: 20px;
   padding: 0.25rem 0.75rem;
   font-size: 0.85rem;
-  color: var(--color-dark-gray);
+  color: var(--color-navy);
+  font-weight: 500;
 }
 
 /* Daughters and neighbors lists */
@@ -2122,18 +2132,18 @@ body.fc-modal-open {
   list-style: none;
   padding: 0;
   margin: 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: var(--spacing-sm);
 }
 
 .muni-daughters-list li,
 .muni-neighbors-list li {
-  padding: var(--spacing-xs) 0;
-  border-bottom: 1px solid var(--color-light-gray);
-  font-size: 0.92rem;
-}
-
-.muni-daughters-list li:last-child,
-.muni-neighbors-list li:last-child {
-  border-bottom: none;
+  background: var(--color-cream);
+  border-left: 3px solid var(--color-navy);
+  border-radius: 0 4px 4px 0;
+  padding: 0.5rem 0.75rem;
+  font-size: 0.9rem;
 }
 
 .muni-daughters-list a,
@@ -2363,22 +2373,14 @@ body.fc-modal-open {
   flex-shrink: 0;
 }
 
-.muni-checklist-print {
+.muni-checklist-dl {
   display: block;
   width: 100%;
-  padding: 0.4rem;
-  background: var(--color-navy);
-  color: var(--color-white);
-  border: none;
-  border-radius: 4px;
-  font-size: 0.82rem;
-  font-family: var(--font-body);
-  cursor: pointer;
   text-align: center;
-}
-
-.muni-checklist-print:hover {
-  background: var(--color-red);
+  font-size: 0.85rem;
+  padding: 0.4rem var(--spacing-md);
+  box-sizing: border-box;
+  margin-top: var(--spacing-sm);
 }
 
 /* Language bar */
@@ -2446,6 +2448,11 @@ body.fc-modal-open {
 
   .municipality-page {
     padding: var(--spacing-sm) var(--spacing-md);
+  }
+
+  .muni-daughters-list,
+  .muni-neighbors-list {
+    grid-template-columns: 1fr;
   }
 }
 
