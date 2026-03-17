@@ -1,0 +1,345 @@
+---
+layout: default
+---
+{% comment %}Look up municipality data by muni_id frontmatter field{% endcomment %}
+{% assign muni = site.data['pr-municipalities'] | where: "id", page.muni_id | first %}
+{% assign daughters = site.data['pr-municipalities'] | where_exp: "item", "item.mother_town contains muni.name" | sort: "founded" %}
+
+{% if muni %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Place",
+  "name": "{{ muni.name | escape }}",
+  "description": "{{ page.description | escape }}",
+  "containedInPlace": {
+    "@type": "AdministrativeArea",
+    "name": "Puerto Rico"
+  },
+  "foundingDate": "{{ muni.founded }}",
+  "url": "{{ page.url | absolute_url }}"
+}
+</script>
+
+<article class="municipality-page">
+
+  <nav class="breadcrumb" aria-label="{% if page.lang == 'es' %}Navegación de migas de pan{% else %}Breadcrumb{% endif %}">
+    {% if page.lang == 'es' %}
+    <a href="/es/">Inicio</a>
+    <span>/</span>
+    <a href="/es/herramientas/">Herramientas</a>
+    <span>/</span>
+    <a href="/es/guia-municipios/">Guía de Municipios</a>
+    {% else %}
+    <a href="/">Home</a>
+    <span>/</span>
+    <a href="/tools/">Tools</a>
+    <span>/</span>
+    <a href="/tools/municipality-guide/">Municipality Guide</a>
+    {% endif %}
+    <span>/</span>
+    <span aria-current="page">{{ muni.name }}</span>
+  </nav>
+
+  <header class="muni-hero">
+    <h1>{{ muni.name }}</h1>
+    <div class="muni-badges">
+      {% if muni.founded %}
+      <span class="muni-badge muni-badge--year">
+        {% if page.lang == 'es' %}Fundado en{% else %}Founded{% endif %} {{ muni.founded }}
+      </span>
+      {% endif %}
+      {% if muni.region %}
+      <span class="muni-badge muni-badge--region">{{ muni.region }}, Puerto Rico</span>
+      {% endif %}
+      {% if muni.is_mother_municipality %}
+      <span class="muni-badge muni-badge--origin">
+        {% if page.lang == 'es' %}Municipio de Origen{% else %}Municipality of Origin{% endif %}
+      </span>
+      {% endif %}
+    </div>
+  </header>
+
+  <div class="muni-layout">
+
+    <main class="muni-main">
+
+      {% if page.historical_overview %}
+      <section id="overview" class="muni-section">
+        <h2>{% if page.lang == 'es' %}Historia{% else %}Historical Overview{% endif %}</h2>
+        <p>{{ page.historical_overview }}</p>
+      </section>
+      {% endif %}
+
+      <section id="escudo" class="muni-section">
+        <h2>{% if page.lang == 'es' %}Escudo de Armas{% else %}Coat of Arms{% endif %}</h2>
+        <div class="muni-escudo">
+          {% if muni.escudo %}
+            {% if muni.escudo.image %}
+            <img src="{{ muni.escudo.image | relative_url }}" alt="{{ muni.escudo.alt }}" class="muni-escudo-img" loading="lazy">
+            {% else %}
+            <div class="muni-escudo-placeholder" aria-hidden="true">
+              <span class="muni-escudo-initial">{{ muni.name | slice: 0 }}</span>
+              <p>{% if page.lang == 'es' %}Escudo próximamente{% else %}Coat of arms coming soon{% endif %}</p>
+            </div>
+            {% endif %}
+            {% if muni.escudo.description %}
+            <p class="muni-escudo-caption">{{ muni.escudo.description }}</p>
+            {% endif %}
+          {% endif %}
+        </div>
+      </section>
+
+      <section id="toolkit" class="muni-section">
+        <h2>{% if page.lang == 'es' %}Recursos de Genealogía{% else %}Genealogy Toolkit{% endif %}</h2>
+        <div class="muni-toolkit-grid">
+          <div class="muni-toolkit-card">
+            <h3>{% if page.lang == 'es' %}Registro Civil{% else %}Civil Records{% endif %}</h3>
+            <p>{% if page.lang == 'es' %}Comenzaron en{% else %}Began in{% endif %} <strong>{{ muni.civil_registry_start }}</strong></p>
+            <p class="muni-toolkit-note">{% if page.lang == 'es' %}Cubre nacimientos, matrimonios y defunciones.{% else %}Covers births, marriages, and deaths.{% endif %}</p>
+            <p><a href="https://www.familysearch.org/en/search/collection/1682798" target="_blank" rel="noopener noreferrer"><em>FamilySearch Civil Registration</em></a></p>
+          </div>
+          <div class="muni-toolkit-card">
+            <h3>{% if page.lang == 'es' %}Registros Parroquiales{% else %}Parish Records{% endif %}</h3>
+            <p>{% if page.lang == 'es' %}Parroquia:{% else %}Parish:{% endif %} <strong>{{ muni.parish.name }}</strong></p>
+            <p>{% if page.lang == 'es' %}Registros desde{% else %}Records from{% endif %} <strong>{{ muni.parish.records_start }}</strong></p>
+            <p><a href="https://www.familysearch.org/en/search/collection/1807092" target="_blank" rel="noopener noreferrer"><em>FamilySearch Catholic Records</em></a></p>
+          </div>
+        </div>
+      </section>
+
+      {% if muni.barrios and muni.barrios.size > 0 %}
+      <section id="barrios" class="muni-section">
+        <h2>Barrios</h2>
+        <p class="muni-section-intro">{% if page.lang == 'es' %}Los registros genealógicos a menudo identifican al individuo por su barrio. {{ muni.name }} tiene {{ muni.barrios.size }} barrios:{% else %}Genealogical records often identify individuals by barrio. {{ muni.name }} has {{ muni.barrios.size }} barrios:{% endif %}</p>
+        <ul class="muni-barrios-grid">
+          {% for barrio in muni.barrios %}
+          <li class="muni-barrio-tag">{{ barrio }}</li>
+          {% endfor %}
+        </ul>
+      </section>
+      {% endif %}
+
+      {% if daughters.size > 0 %}
+      <section id="daughters" class="muni-section">
+        <h2>{% if page.lang == 'es' %}Municipios Hijos{% else %}Daughter Municipalities{% endif %}</h2>
+        <p class="muni-section-intro">{% if page.lang == 'es' %}Los siguientes municipios se separaron de {{ muni.name }}. Los habitantes registraban eventos antes de la fecha de fundación en la parroquia de {{ muni.name }}:{% else %}The following municipalities separated from {{ muni.name }}. Residents recorded events before their founding year in {{ muni.name }}'s parish:{% endif %}</p>
+        <ul class="muni-daughters-list">
+          {% for d in daughters %}
+          <li>
+            {% if d.has_detail_page %}<a href="/tools/municipality-guide/{{ d.id | replace: '_', '-' }}/">{% endif %}
+            <strong>{{ d.name }}</strong>
+            ({% if page.lang == 'es' %}fundado{% else %}founded{% endif %} {{ d.founded }}) — {{ d.parish.name }}
+            {% if d.has_detail_page %}</a>{% endif %}
+          </li>
+          {% endfor %}
+        </ul>
+      </section>
+      {% endif %}
+
+      {% if muni.neighbors and muni.neighbors.size > 0 %}
+      <section id="neighbors" class="muni-section">
+        <h2>{% if page.lang == 'es' %}Municipios Vecinos{% else %}Neighboring Municipalities{% endif %}</h2>
+        <p class="muni-section-intro">{% if page.lang == 'es' %}Revise también los registros de los municipios vecinos:{% else %}Also check records in neighboring municipalities:{% endif %}</p>
+        <ul class="muni-neighbors-list">
+          {% for neighbor in muni.neighbors %}
+          {% assign nbr = site.data['pr-municipalities'] | where: "name", neighbor | first %}
+          <li>
+            {% if nbr.has_detail_page %}<a href="/tools/municipality-guide/{{ nbr.id | replace: '_', '-' }}/">{% endif %}
+            <strong>{{ neighbor }}</strong>{% if nbr %} — {{ nbr.parish.name }}{% endif %}
+            {% if nbr.has_detail_page %}</a>{% endif %}
+          </li>
+          {% endfor %}
+        </ul>
+      </section>
+      {% endif %}
+
+      {% if muni.record_gaps and muni.record_gaps.size > 0 %}
+      <section id="gaps" class="muni-section">
+        <h2>{% if page.lang == 'es' %}Lagunas en los Registros{% else %}Record Gaps{% endif %}</h2>
+        {% for gap in muni.record_gaps %}
+        <div class="muni-record-gap">
+          <strong>{{ gap.years }}:</strong> {{ gap.reason }}
+        </div>
+        {% endfor %}
+      </section>
+      {% endif %}
+
+      <section id="maps" class="muni-section muni-maps-section">
+        <h2>{% if page.lang == 'es' %}Mapas Históricos{% else %}Historical Maps{% endif %}</h2>
+        <p class="muni-section-intro">{% if page.lang == 'es' %}Los mapas históricos ayudan a identificar barrios, límites y comunidades tal como existían en el pasado. Se prefieren mapas de los siglos XVIII y XIX.{% else %}Historical maps help identify barrios, boundaries, and communities as they existed in the past. Maps from the 18th and 19th centuries are preferred.{% endif %}</p>
+        <div class="muni-maps-grid">
+          {% if muni.historical_maps and muni.historical_maps.size > 0 %}
+            {% for map in muni.historical_maps %}
+            {% if map.image %}
+            <div class="muni-map-card">
+              <img src="{{ map.image | relative_url }}" alt="{{ map.caption }}" class="muni-map-img" loading="lazy">
+              <div class="muni-map-info">
+                <p class="muni-map-caption">{{ map.caption }}{% if map.year %} ({{ map.year }}){% endif %}</p>
+                {% if map.source and map.source != "TBD" %}
+                <p class="muni-map-source">
+                  {% if page.lang == 'es' %}Fuente:{% else %}Source:{% endif %}
+                  {% if map.source_url %}
+                  <a href="{{ map.source_url }}" target="_blank" rel="noopener noreferrer"><em>{{ map.source }}</em></a>
+                  {% else %}{{ map.source }}{% endif %}
+                </p>
+                {% endif %}
+              </div>
+            </div>
+            {% else %}
+            <div class="muni-map-placeholder">
+              <span class="muni-map-placeholder-icon">&#x1F5FA;</span>
+              <p>{% if page.lang == 'es' %}Mapa histórico próximamente{% else %}Historical map coming soon{% endif %}</p>
+            </div>
+            {% endif %}
+            {% endfor %}
+          {% else %}
+          <div class="muni-map-placeholder">
+            <span class="muni-map-placeholder-icon">&#x1F5FA;</span>
+            <p>{% if page.lang == 'es' %}Mapas históricos próximamente{% else %}Historical maps coming soon{% endif %}</p>
+          </div>
+          {% endif %}
+        </div>
+      </section>
+
+      <section id="archives" class="muni-section">
+        <h2>{% if page.lang == 'es' %}Archivos Digitales{% else %}Digital Archives{% endif %}</h2>
+        <ul class="muni-sources-list">
+          {% if muni.familysearch_url %}
+          <li>
+            <a href="{{ muni.familysearch_url }}" target="_blank" rel="noopener noreferrer"><em>FamilySearch: {{ muni.name }}</em></a>
+            <span class="muni-source-type">{% if page.lang == 'es' %}Registros civiles y parroquiales{% else %}Civil and parish records{% endif %}</span>
+          </li>
+          {% endif %}
+          {% if muni.findagrave_url %}
+          <li>
+            <a href="{{ muni.findagrave_url }}" target="_blank" rel="noopener noreferrer"><em>Find A Grave: {{ muni.name }}</em></a>
+            <span class="muni-source-type">{% if page.lang == 'es' %}Índice de cementerios{% else %}Cemetery index{% endif %}</span>
+          </li>
+          {% endif %}
+          <li>
+            <a href="https://www.familysearch.org/en/wiki/Puerto_Rico_Genealogy" target="_blank" rel="noopener noreferrer"><em>FamilySearch: {% if page.lang == 'es' %}Genealogía de Puerto Rico{% else %}Puerto Rico Genealogy{% endif %}</em></a>
+            <span class="muni-source-type">{% if page.lang == 'es' %}Guía completa de registros{% else %}Complete records guide{% endif %}</span>
+          </li>
+        </ul>
+      </section>
+
+      {% if muni.genealogy_sources and muni.genealogy_sources.size > 0 %}
+      <section id="sources" class="muni-section">
+        <h2>{% if page.lang == 'es' %}Fuentes y Lecturas Recomendadas{% else %}Sources and Further Reading{% endif %}</h2>
+        <ul class="muni-sources-list">
+          {% for source in muni.genealogy_sources %}
+          <li>
+            <strong>{{ source.title }}</strong>
+            {% if source.author %} — {{ source.author }}{% endif %}
+            {% if source.year %} ({{ source.year }}){% endif %}
+            {% if source.type %}<span class="muni-source-type">{{ source.type }}</span>{% endif %}
+          </li>
+          {% endfor %}
+        </ul>
+      </section>
+      {% endif %}
+
+    </main>
+
+    <aside class="muni-sidebar">
+
+      <nav class="muni-jump-nav" aria-label="{% if page.lang == 'es' %}Secciones de esta página{% else %}Page sections{% endif %}">
+        <h3>{% if page.lang == 'es' %}En esta página{% else %}On this page{% endif %}</h3>
+        <ul>
+          {% if page.historical_overview %}<li><a href="#overview">{% if page.lang == 'es' %}Historia{% else %}Historical Overview{% endif %}</a></li>{% endif %}
+          <li><a href="#escudo">{% if page.lang == 'es' %}Escudo de Armas{% else %}Coat of Arms{% endif %}</a></li>
+          <li><a href="#toolkit">{% if page.lang == 'es' %}Recursos de Genealogía{% else %}Genealogy Toolkit{% endif %}</a></li>
+          {% if muni.barrios %}<li><a href="#barrios">Barrios</a></li>{% endif %}
+          {% if daughters.size > 0 %}<li><a href="#daughters">{% if page.lang == 'es' %}Municipios Hijos{% else %}Daughter Municipalities{% endif %}</a></li>{% endif %}
+          {% if muni.neighbors %}<li><a href="#neighbors">{% if page.lang == 'es' %}Municipios Vecinos{% else %}Neighboring Municipalities{% endif %}</a></li>{% endif %}
+          {% if muni.record_gaps and muni.record_gaps.size > 0 %}<li><a href="#gaps">{% if page.lang == 'es' %}Lagunas en Registros{% else %}Record Gaps{% endif %}</a></li>{% endif %}
+          <li><a href="#maps">{% if page.lang == 'es' %}Mapas Históricos{% else %}Historical Maps{% endif %}</a></li>
+          <li><a href="#archives">{% if page.lang == 'es' %}Archivos Digitales{% else %}Digital Archives{% endif %}</a></li>
+          {% if muni.genealogy_sources %}<li><a href="#sources">{% if page.lang == 'es' %}Fuentes{% else %}Sources{% endif %}</a></li>{% endif %}
+          <li><a href="#research-checklist">{% if page.lang == 'es' %}Lista de Verificación{% else %}Research Checklist{% endif %}</a></li>
+        </ul>
+      </nav>
+
+      <div class="muni-sidebar-widget">
+        <h3>{% if page.lang == 'es' %}Recursos de Puerto Rico{% else %}Puerto Rico Resources{% endif %}</h3>
+        <ul>
+          <li><a href="https://www.familysearch.org/en/search/collection/1682798" target="_blank" rel="noopener noreferrer"><em>{% if page.lang == 'es' %}Registro Civil 1885–2001{% else %}Civil Registration 1885–2001{% endif %}</em></a></li>
+          <li><a href="https://www.familysearch.org/en/search/collection/1807092" target="_blank" rel="noopener noreferrer"><em>{% if page.lang == 'es' %}Registros Católicos 1645–2021{% else %}Catholic Records 1645–2021{% endif %}</em></a></li>
+          <li><a href="https://www.loc.gov/collections/?fa=subject:puerto+rico" target="_blank" rel="noopener noreferrer"><em>{% if page.lang == 'es' %}Biblioteca del Congreso{% else %}Library of Congress{% endif %}</em></a></li>
+          <li><a href="https://magic.lib.uconn.edu/puerto_rico_maps.html" target="_blank" rel="noopener noreferrer"><em>{% if page.lang == 'es' %}Mapas de Puerto Rico (UConn){% else %}Puerto Rico Maps (UConn){% endif %}</em></a></li>
+        </ul>
+      </div>
+
+      {% if muni.findagrave_url %}
+      <div class="muni-sidebar-widget">
+        <h3>{% if page.lang == 'es' %}Cementerios{% else %}Cemetery Index{% endif %}</h3>
+        <p><a href="{{ muni.findagrave_url }}" target="_blank" rel="noopener noreferrer"><em>Find A Grave: {{ muni.name }}</em></a></p>
+      </div>
+      {% endif %}
+
+      <div class="muni-sidebar-widget muni-checklist" id="research-checklist">
+        <h3>{% if page.lang == 'es' %}Lista de Verificación{% else %}Research Checklist{% endif %}</h3>
+        <p class="muni-checklist-intro">{% if page.lang == 'es' %}Marque los registros buscados para {{ muni.name }}:{% else %}Check off record types searched for {{ muni.name }}:{% endif %}</p>
+        <ul class="muni-checklist-list">
+          {% if page.lang == 'es' %}
+          <li><label><input type="checkbox"> Nacimientos (Registro Civil)</label></li>
+          <li><label><input type="checkbox"> Bautismos (Parroquia)</label></li>
+          <li><label><input type="checkbox"> Matrimonios (Civil y Parroquial)</label></li>
+          <li><label><input type="checkbox"> Defunciones (Registro Civil)</label></li>
+          <li><label><input type="checkbox"> Entierros (Parroquia)</label></li>
+          <li><label><input type="checkbox"> Censos (1910, 1920, 1930)</label></li>
+          <li><label><input type="checkbox"> Registros Militares</label></li>
+          <li><label><input type="checkbox"> Registros de Tierras</label></li>
+          <li><label><input type="checkbox"> Registros de Sucesión</label></li>
+          <li><label><input type="checkbox"> Registros de Inmigración</label></li>
+          <li><label><input type="checkbox"> Municipios Vecinos</label></li>
+          <li><label><input type="checkbox"> Parroquia del Municipio Madre</label></li>
+          {% else %}
+          <li><label><input type="checkbox"> Births (Civil Registry)</label></li>
+          <li><label><input type="checkbox"> Baptisms (Parish)</label></li>
+          <li><label><input type="checkbox"> Marriages (Civil and Parish)</label></li>
+          <li><label><input type="checkbox"> Deaths (Civil Registry)</label></li>
+          <li><label><input type="checkbox"> Burials (Parish)</label></li>
+          <li><label><input type="checkbox"> Census (1910, 1920, 1930)</label></li>
+          <li><label><input type="checkbox"> Military Records</label></li>
+          <li><label><input type="checkbox"> Land Records</label></li>
+          <li><label><input type="checkbox"> Probate Records</label></li>
+          <li><label><input type="checkbox"> Immigration Records</label></li>
+          <li><label><input type="checkbox"> Neighboring Municipalities</label></li>
+          <li><label><input type="checkbox"> Mother Town Parish</label></li>
+          {% endif %}
+        </ul>
+        <button class="muni-checklist-print" onclick="window.print()">{% if page.lang == 'es' %}Imprimir lista{% else %}Print checklist{% endif %}</button>
+      </div>
+
+    </aside>
+  </div>
+
+  <div class="muni-lang-bar">
+    {% if page.lang == 'es' %}
+    <a href="/tools/municipality-guide/{{ muni.id | replace: '_', '-' }}/">View in English</a>
+    {% else %}
+    <a href="/es/guia-municipios/{{ muni.id | replace: '_', '-' }}/">Ver en Español</a>
+    {% endif %}
+  </div>
+
+  <div class="muni-corrections">
+    <p>
+      {% if page.lang == 'es' %}
+      ¿Encontró un error o tiene información adicional?
+      <a href="mailto:{{ site.email }}?subject=Corrección: {{ muni.name }}">Contáctenos</a>
+      {% else %}
+      Found an error or have additional information?
+      <a href="mailto:{{ site.email }}?subject=Correction: {{ muni.name }}">Contact us</a>
+      {% endif %}
+    </p>
+  </div>
+
+</article>
+
+{% else %}
+<article class="page">
+  <p>Municipality data not found.</p>
+</article>
+{% endif %}

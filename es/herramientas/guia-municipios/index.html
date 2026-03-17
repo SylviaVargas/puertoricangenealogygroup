@@ -39,7 +39,14 @@ last_modified_at: 2026-03-01
       {% assign municipalities = site.data['pr-municipalities'] %}
       {% for m in municipalities %}
       <tr>
-        <td>{{ m.name }}{% if m.gaps %}<span class="gap-flag" title="Lagunas en registros: {% for g in m.gaps %}{{ g.years }} — {{ g.reason }}{% endfor %}">*</span>{% endif %}</td>
+        <td>
+          {% if m.has_detail_page %}
+          <a href="/es/guia-municipios/{{ m.id | replace: '_', '-' }}/" class="muni-detail-link">{{ m.name }}</a>
+          {% else %}
+          {{ m.name }}
+          {% endif %}
+          {% if m.gaps %}<span class="gap-flag" title="Lagunas en registros: {% for g in m.gaps %}{{ g.years }} — {{ g.reason }}{% endfor %}">*</span>{% endif %}
+        </td>
         <td>{{ m.founded }}</td>
         <td>{{ m.parish.name }}</td>
         <td>{{ m.parish.records_start }}</td>
@@ -162,6 +169,21 @@ last_modified_at: 2026-03-01
     font-size: 0.85rem;
     color: var(--color-gray);
     margin-top: 0.5rem;
+  }
+
+  .muni-detail-link {
+    color: var(--color-navy);
+    font-weight: 600;
+    text-decoration: none;
+  }
+  .muni-detail-link::after {
+    content: " \2192";
+    font-size: 0.8em;
+    opacity: 0.6;
+  }
+  .muni-detail-link:hover {
+    color: var(--color-red);
+    text-decoration: underline;
   }
 
   @media (max-width: 768px) {

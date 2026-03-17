@@ -13,6 +13,14 @@ This file provides focused context for Claude Code when working inside the `puer
 
 ---
 
+## Session Start Protocol
+
+At the start of every session and at the top of every planning or processing block, state the current date and time.
+
+**Format:** `Session: YYYY-MM-DD HH:MM` (local time)
+
+---
+
 ## Build & Serve
 
 ```bash
@@ -83,8 +91,10 @@ navigation:
 | `page` | Standard content pages with title header + breadcrumb | `layout: page` in frontmatter |
 | `guide` | Research guide modules | `_research-guides/*.md` (auto-applied) |
 | `resource` | Resource pages | `_resources/*.md` (auto-applied) |
+| `municipality` | Municipality detail pages | `_municipalities/*.md` (auto-applied) |
 
 Research guides output at `/research-guides/:name/`; resources at `/resources/:name/`.
+Municipality pages output at `/tools/municipality-guide/:name/` (EN) or explicit `permalink:` in frontmatter (ES, e.g., `/es/guia-municipios/san-german/`).
 
 ---
 
@@ -130,6 +140,27 @@ permalink: /url/  # required for non-collection pages
 - No em dashes (—) in generated content — use commas, semicolons, or colons instead
 - Spanish files: full diacritics always (á, é, í, ó, ú, ñ, ü, ¿, ¡) — run `check-spanish.sh` to verify
 - Copyright line at end of course `.md` files: `*© 2026 Sylvia Vargas. Teaching Genealogists AI™. All rights reserved.*`
+
+---
+
+## Municipality Images
+
+Coat of arms and historical map images follow a strict naming convention. Full details in `prgg-admin/municipality-pages/CONVENTIONS.md`.
+
+**Folders:**
+
+- Escudos: `assets/images/municipalities/escudos/`
+- Maps: `assets/images/municipalities/maps/`
+
+**Naming format:** `[municipality-id]-[year].[ext]`
+
+- `municipality-id`: JSON `id` field with underscores as hyphens (e.g., `san-german`, `cabo-rojo`)
+- `year`: escudo grant year (royal decree/resolution) or map depicted year; use `unknown` when unconfirmed
+- `ext`: `svg` preferred for escudos; `jpg` for maps
+
+**Examples:** `san-german-1574.svg`, `ponce-unknown.jpg`
+
+Before placing any image: verify the license on Wikimedia Commons manually (automated access returns 403). Update the `escudo.license` and `escudo.attribution_url` fields in `_data/pr-municipalities.json`.
 
 ---
 

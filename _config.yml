@@ -45,6 +45,9 @@ collections:
   resources:
     output: true
     permalink: /:collection/:name/
+  municipalities:
+    output: true
+    permalink: /tools/municipality-guide/:name/
 
 # Defaults for pages
 defaults:
@@ -65,6 +68,12 @@ defaults:
       path: "_resources"
     values:
       layout: resource
+  - scope:
+      path: ""
+      type: municipalities
+    values:
+      layout: municipality
+      lang: en
 
 # Navigation structure (used by includes/nav.html)
 navigation:

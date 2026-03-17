@@ -508,9 +508,35 @@
     "id": "san_german",
     "name": "San Germán",
     "founded": 1573,
+    "region": "Southwest",
+    "is_mother_municipality": true,
     "mother_town": ["Original Settlement"],
     "parish": { "name": "San Germán de Auxerre", "records_start": 1731 },
-    "civil_registry_start": 1885
+    "civil_registry_start": 1885,
+    "barrios": ["Ancones", "Caín Alto", "Caín Bajo", "Cotuy", "Duey Alto", "Duey Bajo", "Hoconuco Alto", "Hoconuco Bajo", "Maresúa", "Minillas", "Pueblo", "Retiro", "Rosario Alto", "Rosario Bajo", "Sabana Eneas", "Tortuguero"],
+    "neighbors": ["Cabo Rojo", "Hormigueros", "Lajas", "Maricao", "Mayagüez", "Sabana Grande", "Yauco"],
+    "record_gaps": [],
+    "escudo": {
+      "image": null,
+      "description": "The coat of arms of San Germán features a castle representing its status as the second Spanish colonial city in Puerto Rico, a lamb symbolizing the patron saint San Germán de Auxerre, and a key referencing its role as gateway to western Puerto Rico.",
+      "alt": "Coat of arms of San Germán, Puerto Rico"
+    },
+    "historical_maps": [
+      {
+        "image": null,
+        "year": null,
+        "caption": "Historical map to be identified",
+        "source": "TBD",
+        "source_url": null
+      }
+    ],
+    "familysearch_url": "https://www.familysearch.org/en/wiki/San_Germ%C3%A1n,_Puerto_Rico_Genealogy",
+    "findagrave_url": "https://www.findagrave.com/cemetery-browse/Puerto-Rico/San-German-Municipality?id=city_438531",
+    "genealogy_sources": [
+      { "title": "San Germán: Historia de sus instituciones", "author": "Eugenio Fernández Méndez", "year": 1966, "type": "book" },
+      { "title": "Puerto Rico: A Research Guide", "author": "Olivia Méndez Irizarry", "year": 2001, "type": "guide" }
+    ],
+    "has_detail_page": true
   },
   {
     "id": "san_juan",
