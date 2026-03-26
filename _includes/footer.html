@@ -68,18 +68,24 @@
   </div>
 
   <div class="footer-bottom">
-    <p>
-      &copy; {{ site.copyright_year_start }}&#8211;{{ site.time | date: '%Y' }}
-      {{ site.author.name }} / Puerto Rican Genealogy Group.
-      {% if page.lang == 'es' %}Todos los derechos reservados.{% else %}All rights reserved.{% endif %}
+    <p class="footer-legal">
+      &copy; {{ site.copyright_year_start }}&#8211;{{ site.time | date: '%Y' }} {{ site.author.name }}
+      &nbsp;|&nbsp;
+      {% if page.lang == 'es' %}
+      <a href="{{ '/es/derechos-de-autor/' | relative_url }}">Derechos de autor y uso</a>
+      &nbsp;|&nbsp;
+      <a href="{{ '/es/politica-de-privacidad/' | relative_url }}">Política de privacidad</a>
+      {% else %}
+      <a href="{{ '/copyright/' | relative_url }}">Copyright &amp; Usage</a>
+      &nbsp;|&nbsp;
+      <a href="{{ '/privacy-policy/' | relative_url }}">Privacy Policy</a>
+      {% endif %}
     </p>
     <p class="footer-trademark">
       {% if page.lang == 'es' %}
       <em>{{ site.trademark }}</em> es una marca registrada de {{ site.author.name }}.
-      <a href="{{ '/es/derechos-de-autor/' | relative_url }}">Derechos de autor y uso</a>
       {% else %}
       <em>{{ site.trademark }}</em> is a trademark of {{ site.author.name }}.
-      <a href="{{ '/copyright/' | relative_url }}">Copyright and usage</a>
       {% endif %}
     </p>
   </div>

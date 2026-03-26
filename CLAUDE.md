@@ -168,10 +168,11 @@ trademark: "Teaching Genealogists AI™"
 
 **Where copyright appears:**
 
-- **Footer (every page):** `_includes/footer.html` — shows `© 2024–[current year] Sylvia Vargas / Puerto Rican Genealogy Group` plus trademark notice and link to copyright page
+- **Footer (every page):** `_includes/footer.html` — single legal row: `© 2024–[year] Sylvia Vargas | Copyright & Usage | Privacy Policy`; trademark line in dimmer sub-row below
 - **`<head>` meta tags:** `_includes/head.html` — `author`, `copyright`, and `rights` meta tags; Schema.org `founder`, `copyrightHolder`, `copyrightYear`
 - **Course/guide files:** Hardcoded `© 2026 Sylvia Vargas. Teaching Genealogists AI™.` at end of each file — do NOT make these dynamic; 2026 is the year of first publication
 - **Copyright pages:** `copyright.md` (EN) and `es/derechos-de-autor.md` (ES) — full terms of use, linked from footer
+- **Privacy Policy pages:** `privacy-policy.md` (EN) and `es/politica-de-privacidad.md` (ES) — analytics disclosure, data practices, linked from footer
 
 ---
 
@@ -243,3 +244,5 @@ No exceptions.
 | `assets/pdfs/` | PDF course materials |
 | `copyright.md` | English copyright and terms of use page (`/copyright/`) |
 | `es/derechos-de-autor.md` | Spanish copyright and terms of use page (`/es/derechos-de-autor/`) |
+| `privacy-policy.md` | English privacy policy page (`/privacy-policy/`) |
+| `es/politica-de-privacidad.md` | Spanish privacy policy page (`/es/politica-de-privacidad/`) |
