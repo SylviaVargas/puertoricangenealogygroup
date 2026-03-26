@@ -141,20 +141,21 @@ a:hover {
 .logo-link {
   display: flex;
   align-items: center;
-  gap: 0.75rem;
+  gap: 1rem;
 }
 
 .logo-wordmark {
   display: flex;
   flex-direction: column;
-  line-height: 1.1;
+  line-height: 1.2;
 }
 
 .logo-title {
   font-family: var(--font-heading);
-  font-size: 1.15rem;
+  font-size: 1.2rem;
   font-weight: 700;
   color: var(--color-navy);
+  margin-bottom: 0.2rem;
 }
 
 .logo-tagline {
@@ -1155,8 +1156,12 @@ td:first-child {
   max-width: var(--max-width);
   margin: 0 auto;
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  grid-template-columns: 1.6fr 1fr 1.4fr;
   gap: var(--spacing-xl);
+}
+
+.footer-about {
+  margin-top: var(--spacing-lg);
 }
 
 .footer-logo {
@@ -1165,9 +1170,34 @@ td:first-child {
   margin-bottom: var(--spacing-md);
 }
 
-.footer-brand .tagline {
-  color: var(--color-gold);
-  font-style: italic;
+.footer-logo-link {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  text-decoration: none;
+}
+
+.footer-wordmark {
+  display: flex;
+  flex-direction: column;
+  line-height: 1.2;
+}
+
+.footer-logo-title {
+  font-family: var(--font-heading);
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: var(--color-white);
+  margin-bottom: 0.2rem;
+}
+
+.footer-logo-tagline {
+  display: flex;
+  flex-direction: column;
+  font-size: 0.75rem;
+  color: var(--color-red);
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
 }
 
 .site-footer h2 {

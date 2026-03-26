@@ -1,8 +1,28 @@
 <footer class="site-footer">
   <div class="footer-container">
     <div class="footer-brand">
-      <img src="{{ '/assets/images/logo-square.png' | relative_url }}" alt="Puerto Rican Genealogy Group" class="footer-logo">
-      <p class="tagline">{{ site.tagline }}</p>
+      <a href="{% if page.lang == 'es' %}{{ '/es/' | relative_url }}{% else %}{{ '/' | relative_url }}{% endif %}" class="footer-logo-link">
+        <img src="{{ '/assets/images/logo-square.png' | relative_url }}"
+             alt="Puerto Rican Genealogy Group"
+             class="footer-logo">
+        <span class="footer-wordmark">
+          <span class="footer-logo-title">Puerto Rican Genealogy</span>
+          <span class="footer-logo-tagline">
+            <span class="tagline-line1">Conectando Raíces,</span>
+            <span class="tagline-line2">    Celebrando Herencia</span>
+          </span>
+        </span>
+      </a>
+      <div class="footer-about">
+        <h2>{% if page.lang == 'es' %}Nuestra Misión{% else %}Our Mission{% endif %}</h2>
+        <p>
+          {% if page.lang == 'es' %}
+          Una comunidad dedicada a ayudar a las personas a explorar su ascendencia puertorriqueña.
+          {% else %}
+          A grassroots community dedicated to helping individuals explore their Puerto Rican ancestry.
+          {% endif %}
+        </p>
+      </div>
     </div>
 
     <div class="footer-links">
@@ -49,21 +69,10 @@
         </li>
         <li>
           <a href="https://www.facebook.com/groups/264285187436/" target="_blank" rel="noopener">
-            Facebook: Sociedad Puertorriqueña de Genealogía 
+            Facebook: Sociedad Puertorriqueña de Genealogía
           </a>
         </li>
       </ul>
-    </div>
-
-    <div class="footer-about">
-      <h2>{% if page.lang == 'es' %}Nuestra Misión{% else %}Our Mission{% endif %}</h2>
-      <p>
-        {% if page.lang == 'es' %}
-        Una comunidad dedicada a ayudar a las personas a explorar su ascendencia puertorriqueña.
-        {% else %}
-        A grassroots community dedicated to helping individuals explore their Puerto Rican ancestry.
-        {% endif %}
-      </p>
     </div>
   </div>
 
