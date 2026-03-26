@@ -10,6 +10,13 @@ baseurl: ""
 # Contact
 email: puertoricangenealogygroup@gmail.com
 
+# Author and copyright
+author:
+  name: "Sylvia Vargas"
+  url: "https://looking4myroots.com"
+copyright_year_start: "2024"
+trademark: "Teaching Genealogists AI™"
+
 # Related sites
 wordpress_site: "https://looking4myroots.com"
 

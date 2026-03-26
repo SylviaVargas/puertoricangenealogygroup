@@ -5,6 +5,9 @@
 
   <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
   <meta name="description" content="{{ page.description | default: site.description }}">
+  <meta name="author" content="{{ site.author.name }}">
+  <meta name="copyright" content="&copy; {{ site.time | date: '%Y' }} {{ site.author.name }}">
+  <meta name="rights" content="All rights reserved. {{ site.trademark }} is a trademark of {{ site.author.name }}.">
 
   <!-- Language -->
   <html lang="{{ page.lang | default: site.default_lang }}">
@@ -39,6 +42,16 @@
     "name": "{{ site.title | escape }}",
     "url": "{{ site.url }}",
     "logo": "{{ site.url }}/assets/images/logo-primary.png",
+    "founder": {
+      "@type": "Person",
+      "name": "{{ site.author.name }}",
+      "url": "{{ site.author.url }}"
+    },
+    "copyrightHolder": {
+      "@type": "Person",
+      "name": "{{ site.author.name }}"
+    },
+    "copyrightYear": "{{ site.copyright_year_start }}",
     "contactPoint": {
       "@type": "ContactPoint",
       "email": "{{ site.email }}",
