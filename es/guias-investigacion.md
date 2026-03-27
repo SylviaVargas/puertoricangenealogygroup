@@ -144,40 +144,19 @@ La genealogía puertorriqueña presenta desafíos únicos: documentos en españo
 
 ---
 
-## Censo Colonial Español {#censo-espanol}
-
-Puerto Rico estuvo bajo el dominio colonial español desde el siglo XVI hasta 1898. Durante este período, las autoridades españolas realizaron recuentos de población llamados *padrones* — registros anuales con nombres, edad, sexo y estado social de los residentes. Estos documentos son anteriores al registro civil y constituyen algunas de las fuentes documentales más antiguas para la historia familiar puertorriqueña.
-
-El principal repositorio de registros coloniales españoles es el **Archivo General de Puerto Rico (AGPR)**, que conserva materiales desde el siglo XVIII hasta 1898. No todo el acervo está digitalizado; los investigadores pueden necesitar contactar directamente al AGPR para acceder a los registros físicos.
-
-### Recursos Clave
-
-| Recurso | Lo Que Ofrece |
-|---------|---------------|
-| <a href="https://censo.estadisticas.pr/sites/default/files/Decenal/INE_CensodePoblacionyVivienda_1887.pdf" target="_blank" rel="noopener noreferrer"><em>Censo de la Isla de Puerto-Rico de 1887 (PDF)</em></a> | Último censo oficial de toda la isla durante la era española; PDF completo del portal oficial de estadísticas de Puerto Rico |
-| <a href="https://www.researchgate.net/publication/236819831_Puerto_Rico%27s_Population_Padrones_1779-1802" target="_blank" rel="noopener noreferrer"><em>Padrones de Población de Puerto Rico, 1779–1802</em></a> | Análisis académico de los padrones coloniales anuales — nombres, edad, sexo, estado social. Puede requerirse una cuenta gratuita en ResearchGate. |
-| <a href="https://hijosdecoamopr.com/puerto-rico-census-records-from-the-early-1800s/" target="_blank" rel="noopener noreferrer"><em>Registros Censales de Principios y Mediados del Siglo XIX</em></a> | Datos censales y de propiedad por municipio del siglo XIX. Recurso comunitario, no es un archivo oficial. |
-| <a href="https://www.familysearch.org/en/wiki/Puerto_Rico_Colonial_Records" target="_blank" rel="noopener noreferrer"><em>FamilySearch: Wiki de Registros Coloniales de Puerto Rico</em></a> | Resumen de los registros de la época española y orientación para localizar censos y padrones coloniales |
-
-### Censo de Transición de 1899
-
-El censo de 1899 fue el primero realizado después de que Puerto Rico pasó a ser territorio de los Estados Unidos. Sirve de puente entre el período colonial español y el federal estadounidense, y puede ayudar a los investigadores a rastrear familias a través de esa transición.
-
-<a href="https://censo.estadisticas.pr/censo-decenal/Puerto-Rico/1899" target="_blank" rel="noopener noreferrer"><em>Resumen del Censo de Puerto Rico de 1899</em></a> — Disponible en el portal oficial de estadísticas censales de Puerto Rico.
-
----
-
 ## Más Guías Próximamente
 
-Estamos desarrollando activamente guías adicionales sobre:
+Estamos desarrollando activamente guías adicionales. Temas en desarrollo:
 
-- Pruebas de ADN para Ascendencia Puertorriqueña
-- Patrones de Migración y Registros del Continente
-- Antepasados Esclavos y Negros Libres
-- Registros Militares Coloniales Españoles
-- Registros Notariales (Protocolos Notariales)
-- Registros de Tierras y Propiedades
-- Inmigración y Emigración
+<div style="display:flex; flex-wrap:wrap; gap:0.5rem; margin:1rem 0 1.5rem;">
+  <span class="filter-chip" style="opacity:0.5; cursor:default;">Pruebas de ADN para Ascendencia Puertorriqueña</span>
+  <span class="filter-chip" style="opacity:0.5; cursor:default;">Patrones de Migración y Registros del Continente</span>
+  <span class="filter-chip" style="opacity:0.5; cursor:default;">Antepasados Esclavos y Negros Libres</span>
+  <span class="filter-chip" style="opacity:0.5; cursor:default;">Registros Militares Coloniales Españoles</span>
+  <span class="filter-chip" style="opacity:0.5; cursor:default;">Registros Notariales (Protocolos Notariales)</span>
+  <span class="filter-chip" style="opacity:0.5; cursor:default;">Registros de Tierras y Propiedades</span>
+  <span class="filter-chip" style="opacity:0.5; cursor:default;">Inmigración y Emigración</span>
+</div>
 
 **¿Quieres contribuir?** Si tienes experiencia en un área particular de la genealogía puertorriqueña, <a href="{{ '/es/contacto/' | relative_url }}">contáctanos</a> para escribir una guía.
 
