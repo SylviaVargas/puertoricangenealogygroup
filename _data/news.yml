@@ -9,9 +9,30 @@
 #
 # Maintenance: add new entries at the top. Move old featured to non-featured.
 # To archive: move entries older than ~12 months to _data/news_archive_YYYY.yml
-- date: 2026-03-13
+- date: 2026-04-07
   category: features
   featured: true
+  title: "Updated: Family Group Sheet — New Fields for Puerto Rican Research"
+  body: "The Family Group Sheet now includes Occupation, Parish (Christening/Burial), and Cause of Death fields for each parent, per-parent source citations, and Sex and Still Living columns for children."
+  link: /tools/family-group-sheet/
+
+- date: 2026-03-17
+  category: features
+  featured: false
+  title: "New: San Germán Municipality Detail Page"
+  body: "The first full municipality detail page is live for San Germán — covering parish records, civil registry dates, barrios, neighboring towns, coat of arms, and a complete genealogy research toolkit."
+  link: /tools/municipality-guide/san-german/
+
+- date: 2026-03-16
+  category: features
+  featured: false
+  title: "Updated: Resources Page — Now with Filters and Badges"
+  body: "The Resources page has been redesigned with category filter chips, Free/Subscription badges, and a Top Picks section to help you find the most useful tools faster."
+  link: /resources/
+
+- date: 2026-03-13
+  category: features
+  featured: false
   title: "New: Funeral Cards Collection — Rincón, Puerto Rico"
   body: "Browse and search ~154 funeral card images from Rincón and surrounding towns, 1965-2020. Cards include names, birth and death dates, birthplaces, and funeral home information."
   link: /funeral-cards/
