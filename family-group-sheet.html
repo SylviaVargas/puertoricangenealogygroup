@@ -255,6 +255,11 @@ last_modified_at: 2026-02-25
     <input type="text" class="fgs-input fgs-input-lg">
   </div>
 
+  <div class="fgs-field">
+    <label class="fgs-label">Occupation / Oficio</label>
+    <input type="text" class="fgs-input" placeholder="e.g., Agricultor, Jornalero, Comerciante">
+  </div>
+
   <table class="fgs-events">
     <thead>
       <tr>
@@ -271,6 +276,15 @@ last_modified_at: 2026-02-25
     </tbody>
   </table>
 
+  <div class="fgs-field" style="margin-top:0.5rem;">
+    <label class="fgs-label">Parish (Christening / Burial) / Parroquia (Bautismo / Entierro)</label>
+    <input type="text" class="fgs-input" placeholder="e.g., Parroquia San Germán de Auxerre">
+  </div>
+  <div class="fgs-field">
+    <label class="fgs-label">Cause of Death / Causa de Muerte</label>
+    <input type="text" class="fgs-input">
+  </div>
+
   <div class="fgs-field">
     <label class="fgs-label">Husband&rsquo;s Father</label>
     <input type="text" class="fgs-input">
@@ -278,6 +292,10 @@ last_modified_at: 2026-02-25
   <div class="fgs-field">
     <label class="fgs-label">Husband&rsquo;s Mother (Maiden Name)</label>
     <input type="text" class="fgs-input">
+  </div>
+  <div class="fgs-field">
+    <label class="fgs-label">Father&rsquo;s Source Citations / Fuentes (Padre)</label>
+    <textarea class="fgs-textarea" style="height:4rem;" placeholder="e.g., Puerto Rico, Registro Civil, Mayagüez, Nacimientos, 1893, entry 47, Juan Rivera Colón, FamilySearch."></textarea>
   </div>
 
   <!-- ── Wife / Mother ── -->
@@ -288,6 +306,11 @@ last_modified_at: 2026-02-25
     <input type="text" class="fgs-input fgs-input-lg">
   </div>
 
+  <div class="fgs-field">
+    <label class="fgs-label">Occupation / Oficio</label>
+    <input type="text" class="fgs-input" placeholder="e.g., Lavandera, Costurera, Comerciante">
+  </div>
+
   <table class="fgs-events">
     <thead>
       <tr>
@@ -304,6 +327,15 @@ last_modified_at: 2026-02-25
     </tbody>
   </table>
 
+  <div class="fgs-field" style="margin-top:0.5rem;">
+    <label class="fgs-label">Parish (Christening / Burial) / Parroquia (Bautismo / Entierro)</label>
+    <input type="text" class="fgs-input" placeholder="e.g., Parroquia de Nuestra Señora de la Candelaria">
+  </div>
+  <div class="fgs-field">
+    <label class="fgs-label">Cause of Death / Causa de Muerte</label>
+    <input type="text" class="fgs-input">
+  </div>
+
   <div class="fgs-field">
     <label class="fgs-label">Wife&rsquo;s Father</label>
     <input type="text" class="fgs-input">
@@ -311,6 +343,10 @@ last_modified_at: 2026-02-25
   <div class="fgs-field">
     <label class="fgs-label">Wife&rsquo;s Mother (Maiden Name)</label>
     <input type="text" class="fgs-input">
+  </div>
+  <div class="fgs-field">
+    <label class="fgs-label">Mother&rsquo;s Source Citations / Fuentes (Madre)</label>
+    <textarea class="fgs-textarea" style="height:4rem;" placeholder="e.g., Puerto Rico, Registro Civil, Mayagüez, Nacimientos, 1893, entry 47, Juan Rivera Colón, FamilySearch."></textarea>
   </div>
 
   <!-- ── Marriage ── -->
@@ -326,6 +362,10 @@ last_modified_at: 2026-02-25
       <input type="text" class="fgs-input">
     </div>
   </div>
+  <div class="fgs-field" style="margin-top:0.75rem;">
+    <label class="fgs-label">Parish / Parroquia</label>
+    <input type="text" class="fgs-input" placeholder="e.g., Parroquia de Nuestra Señora de la Candelaria">
+  </div>
 
   <!-- ── Children ── -->
   <div class="fgs-section">
@@ -338,6 +378,8 @@ last_modified_at: 2026-02-25
       <tr>
         <th>#</th>
         <th>Full Name</th>
+        <th style="width:48px;">Sex</th>
+        <th style="width:64px;">Living?</th>
         <th style="width:150px;">Birth Date</th>
         <th>Spouse</th>
         <th style="width:2rem;"></th>
@@ -347,6 +389,8 @@ last_modified_at: 2026-02-25
       <tr class="fgs-child-row">
         <td>1</td>
         <td><input type="text" class="fgs-input"></td>
+        <td><select class="fgs-input" style="font-size:0.85rem;padding:0.1rem;"><option value=""></option><option>M</option><option>F</option><option>U</option></select></td>
+        <td style="text-align:center;"><input type="checkbox" title="Still Living / Aún Vive"></td>
         <td><input type="text" class="fgs-input"></td>
         <td><input type="text" class="fgs-input"></td>
         <td><button class="fgs-del-btn" onclick="removeChild(this)" title="Remove">&#10006;</button></td>
@@ -355,7 +399,7 @@ last_modified_at: 2026-02-25
   </table>
 
   <!-- ── Sources ── -->
-  <div class="fgs-section">Source Citations &amp; Notes</div>
+  <div class="fgs-section">General / Marriage &amp; Children Sources / Fuentes Generales</div>
 
   <label class="fgs-label">Registro Civil / Parish Records / Census / Other</label>
   <textarea class="fgs-textarea" placeholder="Enter full citations here. Example: Puerto Rico, Registro Civil, Mayagüez, Nacimientos, 1893, entry 47, Juan Rivera Colón, FamilySearch image 12 of 340, accessed 20 Nov 2023."></textarea>
@@ -384,6 +428,8 @@ last_modified_at: 2026-02-25
     tr.innerHTML =
       '<td>' + n + '</td>' +
       '<td><input type="text" class="fgs-input"></td>' +
+      '<td><select class="fgs-input" style="font-size:0.85rem;padding:0.1rem;"><option value=""></option><option>M</option><option>F</option><option>U</option></select></td>' +
+      '<td style="text-align:center;"><input type="checkbox" title="Still Living / Aún Vive"></td>' +
       '<td><input type="text" class="fgs-input"></td>' +
       '<td><input type="text" class="fgs-input"></td>' +
       '<td><button class="fgs-del-btn" onclick="removeChild(this)" title="Remove">&#10006;</button></td>';
