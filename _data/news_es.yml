@@ -19,21 +19,21 @@
 
 - date: 2026-03-17
   category: funciones
-  featured: false
+  featured: true 
   title: "Nuevo: Página de Detalle del Municipio San Germán"
   body: "La primera página de detalle completa está disponible para San Germán — con registros parroquiales, fechas del registro civil, barrios, pueblos vecinos, escudo de armas y una guía completa de investigación genealógica."
   link: /es/guia-municipios/san-german/
 
 - date: 2026-03-16
   category: funciones
-  featured: false
+  featured: true
   title: "Actualizado: Página de Recursos — Con Filtros y Clasificaciones"
   body: "La página de Recursos fue rediseñada con filtros por categoría, insignias de Gratuito/Suscripción y una sección de Mejores Opciones para encontrar las herramientas más útiles más rápido."
   link: /es/recursos/
 
 - date: 2026-03-13
   category: funciones
-  featured: false
+  featured: true
   title: "Nuevo: Colección de Tarjetas Funerarias — Rincón, Puerto Rico"
   body: "Busca y visualiza ~154 imágenes de tarjetas funerarias de Rincón y pueblos cercanos, 1965-2020. Las tarjetas incluyen nombres, fechas de nacimiento y fallecimiento, lugares de origen e información sobre funerarias."
   link: /es/tarjetas-funerarias/
