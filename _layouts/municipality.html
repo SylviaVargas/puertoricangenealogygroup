@@ -90,24 +90,6 @@ layout: default
         </div>
       </section>
 
-      <section id="toolkit" class="muni-section">
-        <h2>{% if page.lang == 'es' %}Recursos de Genealogía{% else %}Genealogy Toolkit{% endif %}</h2>
-        <div class="muni-toolkit-grid">
-          <div class="muni-toolkit-card">
-            <h3>{% if page.lang == 'es' %}Registro Civil{% else %}Civil Records{% endif %}</h3>
-            <p>{% if page.lang == 'es' %}Comenzaron en{% else %}Began in{% endif %} <strong>{{ muni.civil_registry_start }}</strong></p>
-            <p class="muni-toolkit-note">{% if page.lang == 'es' %}Cubre nacimientos, matrimonios y defunciones.{% else %}Covers births, marriages, and deaths.{% endif %}</p>
-            <a href="https://www.familysearch.org/en/search/collection/1682798" class="btn btn-primary muni-toolkit-btn" target="_blank" rel="noopener noreferrer">⬇ {% if page.lang == 'es' %}Buscar Registros Civiles{% else %}Search Civil Records{% endif %}</a>
-          </div>
-          <div class="muni-toolkit-card">
-            <h3>{% if page.lang == 'es' %}Registros Parroquiales{% else %}Parish Records{% endif %}</h3>
-            <p>{% if page.lang == 'es' %}Parroquia:{% else %}Parish:{% endif %} <strong>{{ muni.parish.name }}</strong></p>
-            <p>{% if page.lang == 'es' %}Registros desde{% else %}Records from{% endif %} <strong>{{ muni.parish.records_start }}</strong></p>
-            <a href="https://www.familysearch.org/en/search/collection/1807092" class="btn btn-primary muni-toolkit-btn" target="_blank" rel="noopener noreferrer">⬇ {% if page.lang == 'es' %}Buscar Registros Católicos{% else %}Search Catholic Records{% endif %}</a>
-          </div>
-        </div>
-      </section>
-
       {% if muni.barrios and muni.barrios.size > 0 %}
       <section id="barrios" class="muni-section">
         <h2>Barrios</h2>
@@ -202,6 +184,24 @@ layout: default
         </div>
       </section>
 
+      <section id="toolkit" class="muni-section">
+        <h2>{% if page.lang == 'es' %}Recursos de Genealogía{% else %}Genealogy Toolkit{% endif %}</h2>
+        <div class="muni-toolkit-grid">
+          <div class="muni-toolkit-card">
+            <h3>{% if page.lang == 'es' %}Registro Civil{% else %}Civil Records{% endif %}</h3>
+            <p>{% if page.lang == 'es' %}Comenzaron en{% else %}Began in{% endif %} <strong>{{ muni.civil_registry_start }}</strong></p>
+            <p class="muni-toolkit-note">{% if page.lang == 'es' %}Cubre nacimientos, matrimonios y defunciones.{% else %}Covers births, marriages, and deaths.{% endif %}</p>
+            <a href="https://www.familysearch.org/en/search/collection/1682798" class="btn btn-primary muni-toolkit-btn" target="_blank" rel="noopener noreferrer">⬇ {% if page.lang == 'es' %}Buscar Registros Civiles{% else %}Search Civil Records{% endif %}</a>
+          </div>
+          <div class="muni-toolkit-card">
+            <h3>{% if page.lang == 'es' %}Registros Parroquiales{% else %}Parish Records{% endif %}</h3>
+            <p>{% if page.lang == 'es' %}Parroquia:{% else %}Parish:{% endif %} <strong>{{ muni.parish.name }}</strong></p>
+            <p>{% if page.lang == 'es' %}Registros desde{% else %}Records from{% endif %} <strong>{{ muni.parish.records_start }}</strong></p>
+            <a href="https://www.familysearch.org/en/search/collection/1807092" class="btn btn-primary muni-toolkit-btn" target="_blank" rel="noopener noreferrer">⬇ {% if page.lang == 'es' %}Buscar Registros Católicos{% else %}Search Catholic Records{% endif %}</a>
+          </div>
+        </div>
+      </section>
+
       <section id="archives" class="muni-section">
         <h2>{% if page.lang == 'es' %}Archivos Digitales{% else %}Digital Archives{% endif %}</h2>
         <ul class="muni-sources-list">
@@ -258,12 +258,12 @@ layout: default
         <ul>
           {% if page.historical_overview %}<li><a href="#overview">{% if page.lang == 'es' %}Historia{% else %}Historical Overview{% endif %}</a></li>{% endif %}
           <li><a href="#escudo">{% if page.lang == 'es' %}Escudo de Armas{% else %}Coat of Arms{% endif %}</a></li>
-          <li><a href="#toolkit">{% if page.lang == 'es' %}Recursos de Genealogía{% else %}Genealogy Toolkit{% endif %}</a></li>
           {% if muni.barrios %}<li><a href="#barrios">Barrios</a></li>{% endif %}
           {% if daughters.size > 0 %}<li><a href="#daughters">{% if page.lang == 'es' %}Municipios Hijos{% else %}Daughter Municipalities{% endif %}</a></li>{% endif %}
           {% if muni.neighbors %}<li><a href="#neighbors">{% if page.lang == 'es' %}Municipios Vecinos{% else %}Neighboring Municipalities{% endif %}</a></li>{% endif %}
           {% if muni.record_gaps and muni.record_gaps.size > 0 %}<li><a href="#gaps">{% if page.lang == 'es' %}Lagunas en Registros{% else %}Record Gaps{% endif %}</a></li>{% endif %}
           <li><a href="#maps">{% if page.lang == 'es' %}Mapas Históricos{% else %}Historical Maps{% endif %}</a></li>
+          <li><a href="#toolkit">{% if page.lang == 'es' %}Recursos de Genealogía{% else %}Genealogy Toolkit{% endif %}</a></li>
           <li><a href="#archives">{% if page.lang == 'es' %}Archivos Digitales{% else %}Digital Archives{% endif %}</a></li>
           {% if muni.genealogy_sources %}<li><a href="#sources">{% if page.lang == 'es' %}Fuentes{% else %}Sources{% endif %}</a></li>{% endif %}
           <li><a href="#research-checklist">{% if page.lang == 'es' %}Lista de Verificación{% else %}Research Checklist{% endif %}</a></li>

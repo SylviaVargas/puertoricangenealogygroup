@@ -11,9 +11,43 @@
     "id": "aguada",
     "name": "Aguada",
     "founded": 1639,
+    "region": "Northwest",
     "mother_town": ["San Germán"],
+    "is_mother_municipality": true,
+    "has_detail_page": true,
     "parish": { "name": "San Francisco de Asís", "records_start": 1690 },
-    "civil_registry_start": 1885
+    "civil_registry_start": 1885,
+    "barrios": [
+      "Aguada Pueblo",
+      "Asomante",
+      "Atalaya",
+      "Carrizal",
+      "Cerro Gordo",
+      "Cruces",
+      "Espinar",
+      "Guanábano",
+      "Guaniquilla",
+      "Guayabo",
+      "Jagüey",
+      "Lagunas",
+      "Mal Paso",
+      "Mamey",
+      "Marías",
+      "Naranjo",
+      "Piedras Blancas",
+      "Río Grande"
+    ],
+    "neighbors": ["Aguadilla", "Rincón", "Moca", "Añasco"],
+    "familysearch_url": "https://www.familysearch.org/en/wiki/Aguada,_Puerto_Rico_Genealogy",
+    "escudo": {
+      "image": "",
+      "alt": "Coat of arms of Aguada, Puerto Rico",
+      "description": "The coat of arms reflects Aguada's religious and colonial heritage. The crown represents the title of Muy Leal Villa, while the crossed arms of the Redeemer and Saint Francis honor its patronal devotion and Franciscan history. Five ships in the lower portion recall Columbus's second voyage and the town's maritime significance. The colors carry meanings of fraternity, Spanish royalty, hope, fertility, purity, and peace; the red field also recalls the martyrdom of the Franciscan friars at Espinal.",
+      "license": "",
+      "attribution_url": ""
+    },
+    "historical_maps": [],
+    "genealogy_sources": []
   },
   {
     "id": "aguadilla",
@@ -419,9 +453,62 @@
     "id": "luquillo",
     "name": "Luquillo",
     "founded": 1797,
+    "region": "Northeast",
     "mother_town": ["Fajardo"],
+    "has_detail_page": true,
     "parish": { "name": "San José", "records_start": 1797 },
-    "civil_registry_start": 1885
+    "civil_registry_start": 1885,
+    "barrios": [
+      "Juan Martín",
+      "Luquillo Pueblo",
+      "Mameyes I",
+      "Mata de Plátano",
+      "Pitahaya",
+      "Sabana"
+    ],
+    "neighbors": ["Fajardo", "Ceiba", "Río Grande"],
+    "familysearch_url": "https://www.familysearch.org/en/wiki/Luquillo,_Puerto_Rico_Genealogy",
+    "online_resources": [
+      {
+        "title": "Notas para su Historia: Luquillo (OECH)",
+        "url": "https://docs.pr.gov/files/OECH/Publicaciones%20y%20Recursos/Libros%20Notas%20para%20su%20Historia/Notas%20para%20su%20Historia%20Luquillo.pdf",
+        "type": "Government History (PDF)",
+        "description": "Exhaustive government-curated history of Luquillo published by the Office of Historic Preservation of Puerto Rico."
+      },
+      {
+        "title": "Civil Registration 1885–2001 (FamilySearch Catalog)",
+        "url": "https://www.familysearch.org/search/catalog/1049618",
+        "type": "Civil Records",
+        "description": "Birth, marriage, and death certificates for Luquillo."
+      },
+      {
+        "title": "Parish Registers 1797–1940 (FamilySearch Catalog)",
+        "url": "https://www.familysearch.org/search/catalog/292495",
+        "type": "Parish Records",
+        "description": "Catholic Church baptisms and marriages for the parish of San José de Luquillo."
+      },
+      {
+        "title": "Nuestra Historia — Municipio de Luquillo",
+        "url": "https://luquillo.pr/nuestra-historia/",
+        "type": "Municipal Repository",
+        "description": "Official municipal history portal maintained by the Municipality of Luquillo."
+      },
+      {
+        "title": "Luquillo: un pueblo marcado por la resistencia y la conquista (YouTube)",
+        "url": "https://www.youtube.com/watch?v=ksIn87wspT0",
+        "type": "Video",
+        "description": "Documentary covering Luquillo's history from its Taíno origins and early Spanish settlement to its temporary dissolution after 1898."
+      }
+    ],
+    "escudo": {
+      "image": "",
+      "alt": "Coat of arms of Luquillo, Puerto Rico",
+      "description": "Officially adopted on December 8, 1978. The gold field represents Luquillo's sun-drenched beaches. Three mountains symbolize the Sierra de Luquillo and its proximity to El Yunque rainforest. Lilies honor San José, the town's patron saint. The mural crown signals municipal status. Coconut palms surrounding the shield represent local flora and the town's nickname Los Come Cocos.",
+      "license": "",
+      "attribution_url": ""
+    },
+    "historical_maps": [],
+    "genealogy_sources": []
   },
   {
     "id": "manati",
@@ -532,9 +619,58 @@
     "id": "rincon",
     "name": "Rincón",
     "founded": 1771,
+    "region": "Northwest",
     "mother_town": ["Aguada"],
+    "has_detail_page": true,
     "parish": { "name": "Santa Rosa de Lima", "records_start": 1771 },
-    "civil_registry_start": 1885
+    "civil_registry_start": 1885,
+    "barrios": [
+      "Atalaya",
+      "Barrero",
+      "Calvache",
+      "Ensenada",
+      "Jagüey",
+      "Puntas",
+      "Rincón Pueblo",
+      "Río Grande"
+    ],
+    "neighbors": ["Aguada", "Añasco"],
+    "familysearch_url": "https://www.familysearch.org/en/wiki/Rinc%C3%B3n,_Puerto_Rico_Genealogy",
+    "online_resources": [
+      {
+        "title": "Notas para su Historia: Rincón (OECH)",
+        "url": "https://docs.pr.gov/files/OECH/Publicaciones%20y%20Recursos/Libros%20Notas%20para%20su%20Historia/Notas%20para%20su%20Historia%20Rinc%C3%B3n.pdf",
+        "type": "Government History (PDF)",
+        "description": "Comprehensive government-curated PDF covering Rincón's geographic, indigenous, and colonial history, published by the Office of Historic Preservation of Puerto Rico."
+      },
+      {
+        "title": "Colecciones Digitales — ADNPR",
+        "url": "https://adnpr.net/colecciones-digitales/",
+        "type": "Digital Archive",
+        "description": "Hub for historical documents, maps, and municipal records from across the western region of Puerto Rico."
+      },
+      {
+        "title": "Colección Puertorriqueña — Issuu",
+        "url": "https://issuu.com/coleccionpuertorriquena",
+        "type": "Digital Library",
+        "description": "Digitized historical newspapers and scholarly materials covering the development of Rincón and surrounding towns."
+      },
+      {
+        "title": "Portal de Colecciones — Instituto de Cultura Puertorriqueña",
+        "url": "https://www.coleccionesicp.pr.gov/",
+        "type": "Cultural Repository",
+        "description": "Official government records and cultural history artifacts categorized by region."
+      }
+    ],
+    "escudo": {
+      "image": "",
+      "alt": "Coat of arms of Rincón, Puerto Rico",
+      "description": "The shield is divided into green, representing the mountains and vegetation, and orange, representing Rincón's famous sunsets. A silver star at the top center honors Santa Rosa de Lima, the patron saint. A Spanish galleon represents the discovery of the island and the town's coastal identity. A central cross reflects the Christian faith of the early settlers. The shield is topped by a three-towered mural crown signifying independent municipal status.",
+      "license": "",
+      "attribution_url": ""
+    },
+    "historical_maps": [],
+    "genealogy_sources": []
   },
   {
     "id": "rio_grande",
