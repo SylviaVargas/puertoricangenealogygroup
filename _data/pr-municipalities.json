@@ -19,9 +19,57 @@
     "id": "aguadilla",
     "name": "Aguadilla",
     "founded": 1775,
+    "region": "Northwest",
     "mother_town": ["Aguada"],
+    "is_mother_municipality": true,
+    "has_detail_page": true,
     "parish": { "name": "San Carlos Borromeo", "records_start": 1780 },
-    "civil_registry_start": 1885
+    "civil_registry_start": 1885,
+    "barrios": [
+      "Aguacate",
+      "Aguadilla Pueblo",
+      "Arenales",
+      "Borinquén",
+      "Caimital Alto",
+      "Caimital Bajo",
+      "Camaceyes",
+      "Ceiba Alta",
+      "Ceiba Baja",
+      "Corrales",
+      "Guerrero",
+      "Maleza Alta",
+      "Maleza Baja",
+      "Montaña",
+      "Palmar",
+      "Victoria"
+    ],
+    "neighbors": ["Aguada", "Moca", "Isabela"],
+    "familysearch_url": "https://www.familysearch.org/en/wiki/Aguadilla,_Puerto_Rico_Genealogy",
+    "findagrave_url": "https://www.findagrave.com/cemetery/search?cemetery-name=&cemetery-location=Aguadilla%2C+Puerto+Rico&cemetery-postal=&cemetery-country=PR&cemetery-state=PR&cemetery-county=&cemetery-city=Aguadilla&cemetery-latitude=&cemetery-longitude=&GA_type=N&orderby=N&submit=Search",
+    "online_resources": [
+      {
+        "title": "Libros Parroquiales de Aguadilla 1780–1843",
+        "url": "https://archivoaguadilla.org/2022/12/libros-parroquiales-de-aguadilla-1780-1843/",
+        "type": "Parish Records",
+        "description": "Published online December 2022. Contains baptisms, marriages, and burials for the parish of Aguadilla (1780–1843)."
+      }
+    ],
+    "escudo": {
+      "image": "",
+      "alt": "Coat of arms of Aguadilla, Puerto Rico",
+      "description": "The coat of arms features the Ojo de Agua, a ship representing Aguadilla's maritime past, a tower recalling coastal fortifications, and a star for civic and intellectual contributions. Green branches refer to palms associated with the Virgen de la Victoria. The mural crown with four towers signals villa status, and the inscription honors the title of Leal Villa granted by Queen Isabel II in 1860.",
+      "license": "",
+      "attribution_url": ""
+    },
+    "historical_maps": [],
+    "genealogy_sources": [
+      {
+        "title": "Libros Parroquiales de Aguadilla 1780–1843",
+        "author": "Archivo Histórico Diocesano de Aguadilla",
+        "year": "2022",
+        "type": "Digital archive"
+      }
+    ]
   },
   {
     "id": "aguas_buenas",
@@ -552,6 +600,12 @@
         "url": "https://www.familysearch.org/en/search/catalog/426894",
         "description": "Municipal records including population registers, slave census, cemetery inscriptions, electoral records, and cholera health statistics. 6 reels of 16mm microfilm filmed by the Genealogical Society of Utah in 1991. Available for use at the FamilySearch Library.",
         "type": "microfilm catalog"
+      },
+      {
+        "title": "El poblamiento de la Villa de San Germán — Aurelio Tió (1978)",
+        "url": "https://academiaprhistoria.org/wp-content/uploads/2019/11/1978-07-01.pdf",
+        "description": "Historical study of the settlement of the Villa de San Germán by Puerto Rican historian Aurelio Tió. Published by the Academia Puertorriqueña de la Historia.",
+        "type": "historical article (PDF)"
       }
     ],
     "has_detail_page": true
