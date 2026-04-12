@@ -211,7 +211,14 @@ layout: default
             <span class="muni-source-type">{% if page.lang == 'es' %}Registros civiles y parroquiales{% else %}Civil and parish records{% endif %}</span>
           </li>
           {% endif %}
-          {% if muni.findagrave_url %}
+          {% if muni.findagrave_cemeteries %}
+          {% for cemetery in muni.findagrave_cemeteries %}
+          <li>
+            <a href="{{ cemetery.url }}" target="_blank" rel="noopener noreferrer"><em>Find A Grave: {{ cemetery.name }}</em></a>
+            <span class="muni-source-type">{% if page.lang == 'es' %}Índice de cementerios{% else %}Cemetery index{% endif %}</span>
+          </li>
+          {% endfor %}
+          {% elsif muni.findagrave_url %}
           <li>
             <a href="{{ muni.findagrave_url }}" target="_blank" rel="noopener noreferrer"><em>Find A Grave: {{ muni.name }}</em></a>
             <span class="muni-source-type">{% if page.lang == 'es' %}Índice de cementerios{% else %}Cemetery index{% endif %}</span>
@@ -285,10 +292,18 @@ layout: default
         </ul>
       </div>
 
-      {% if muni.findagrave_url %}
+      {% if muni.findagrave_cemeteries or muni.findagrave_url %}
       <div class="muni-sidebar-widget">
         <h3>{% if page.lang == 'es' %}Cementerios{% else %}Cemetery Index{% endif %}</h3>
+        {% if muni.findagrave_cemeteries %}
+        <ul>
+          {% for cemetery in muni.findagrave_cemeteries %}
+          <li><a href="{{ cemetery.url }}" target="_blank" rel="noopener noreferrer"><em>{{ cemetery.name }}</em></a></li>
+          {% endfor %}
+        </ul>
+        {% else %}
         <p><a href="{{ muni.findagrave_url }}" target="_blank" rel="noopener noreferrer"><em>Find A Grave: {{ muni.name }}</em></a></p>
+        {% endif %}
       </div>
       {% endif %}
 

@@ -79,7 +79,16 @@
     ],
     "neighbors": ["Aguada", "Moca", "Isabela"],
     "familysearch_url": "https://www.familysearch.org/en/wiki/Aguadilla,_Puerto_Rico_Genealogy",
-    "findagrave_url": "https://www.findagrave.com/cemetery/search?cemetery-name=&cemetery-location=Aguadilla%2C+Puerto+Rico&cemetery-postal=&cemetery-country=PR&cemetery-state=PR&cemetery-county=&cemetery-city=Aguadilla&cemetery-latitude=&cemetery-longitude=&GA_type=N&orderby=N&submit=Search",
+    "findagrave_cemeteries": [
+      {
+        "name": "Monte Cristo Memorial Park",
+        "url": "https://www.findagrave.com/cemetery/1982038/monte-cristo-memorial-park"
+      },
+      {
+        "name": "Histórico Cementerio Urbano",
+        "url": "https://www.findagrave.com/cemetery/2517171/hist%C3%B3rico-cementerio-urbano"
+      }
+    ],
     "online_resources": [
       {
         "title": "Libros Parroquiales de Aguadilla 1780–1843",
