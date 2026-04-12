@@ -778,7 +778,20 @@
     "findagrave_url": "https://www.findagrave.com/cemetery/2450110/cementerio-porta-coeli",
     "genealogy_sources": [
       { "title": "San Germán: Historia de sus instituciones", "author": "Eugenio Fernández Méndez", "year": 1966, "type": "book" },
-      { "title": "Puerto Rico: A Research Guide", "author": "Olivia Méndez Irizarry", "year": 2001, "type": "guide" }
+      { "title": "Puerto Rico: A Research Guide", "author": "Olivia Méndez Irizarry", "year": 2001, "type": "guide" },
+      {
+        "title": "Historia de Puerto Rico: Partido de San Germán",
+        "url": "https://www.betterworldbooks.com/product/detail/historia-de-puerto-rico-partido-de-san-german-9781678139018",
+        "type": "Book",
+        "description": "A historical book focused on the Partido de San Germán, useful for understanding the early colonial structure of western Puerto Rico."
+      },
+      {
+        "title": "San Germán, Puerto Rico: The Real Deal",
+        "author": "Roberto S.",
+        "url": "https://robertospuertorico.com/san-german-puerto-rico-the-real-deal/",
+        "type": "Web Article",
+        "description": "A historical overview of San Germán's early settlement history, colonial divisions, and major landmarks."
+      }
     ],
     "online_resources": [
       {
