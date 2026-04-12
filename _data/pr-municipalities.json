@@ -101,7 +101,15 @@
     "founded": 1775,
     "mother_town": ["Loíza", "San Mateo de Cangrejos"],
     "parish": { "name": "Dulce Nombre de Jesús", "records_start": 1775 },
-    "civil_registry_start": 1885
+    "civil_registry_start": 1885,
+    "online_resources": [
+      {
+        "title": "Documentos Archivo Histórico de Caguas",
+        "url": "https://adnpr.net/documentos-archivo-historico-de-caguas/",
+        "description": "Over 150 boxes of digitized documents from the Caguas Municipal Historical Archive (1806–1955), including government correspondence, administrative records, and maps. More than 800,000 images available, with additional boxes being released.",
+        "type": "digital archive"
+      }
+    ]
   },
   {
     "id": "camuy",
@@ -537,6 +545,14 @@
     "genealogy_sources": [
       { "title": "San Germán: Historia de sus instituciones", "author": "Eugenio Fernández Méndez", "year": 1966, "type": "book" },
       { "title": "Puerto Rico: A Research Guide", "author": "Olivia Méndez Irizarry", "year": 2001, "type": "guide" }
+    ],
+    "online_resources": [
+      {
+        "title": "Documentos municipales, 1860–1983",
+        "url": "https://www.familysearch.org/en/search/catalog/426894",
+        "description": "Municipal records including population registers, slave census, cemetery inscriptions, electoral records, and cholera health statistics. 6 reels of 16mm microfilm filmed by the Genealogical Society of Utah in 1991. Available for use at the FamilySearch Library.",
+        "type": "microfilm catalog"
+      }
     ],
     "has_detail_page": true
   },

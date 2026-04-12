@@ -21,6 +21,17 @@ last_modified_at: 2026-02-07
   </div>
 </section>
 
+<section class="section bg-navy-callout">
+  <div class="section-container">
+    <div class="muni-callout">
+      <div class="muni-callout-icon">🗺️</div>
+      <h2>Guía de Municipios de Puerto Rico</h2>
+      <p>Los 78 municipios en una tabla con búsqueda — nombres de parroquias, fechas de inicio de registros, barrios, pueblos madre y enlaces directos a archivos genealógicos. Empieza aquí cuando no sabes dónde se encuentran los registros de tu ancestro.</p>
+      <a href="{{ '/es/herramientas/guia-municipios/' | relative_url }}" class="btn btn-callout">Abrir la Guía de Municipios</a>
+    </div>
+  </div>
+</section>
+
 <section class="section bg-light">
   <div class="section-container">
     <div class="section-title">

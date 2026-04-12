@@ -21,6 +21,17 @@ last_modified_at: 2026-02-07
   </div>
 </section>
 
+<section class="section bg-navy-callout">
+  <div class="section-container">
+    <div class="muni-callout">
+      <div class="muni-callout-icon">🗺️</div>
+      <h2>Puerto Rico Municipality Guide</h2>
+      <p>All 78 municipalities in one searchable table — parish names, record start dates, barrios, mother towns, and direct links to genealogical archives. Start here when you do not know where your ancestor's records are held.</p>
+      <a href="{{ '/tools/municipality-guide/' | relative_url }}" class="btn btn-callout">Open the Municipality Guide</a>
+    </div>
+  </div>
+</section>
+
 <section class="section bg-light">
   <div class="section-container">
     <div class="section-title">

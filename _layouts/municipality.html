@@ -217,6 +217,15 @@ layout: default
             <span class="muni-source-type">{% if page.lang == 'es' %}Índice de cementerios{% else %}Cemetery index{% endif %}</span>
           </li>
           {% endif %}
+          {% if muni.online_resources %}
+          {% for resource in muni.online_resources %}
+          <li>
+            <a href="{{ resource.url }}" target="_blank" rel="noopener noreferrer"><em>{{ resource.title }}</em></a>
+            {% if resource.type %}<span class="muni-source-type">{{ resource.type }}</span>{% endif %}
+            {% if resource.description %}<span class="muni-source-desc">{{ resource.description }}</span>{% endif %}
+          </li>
+          {% endfor %}
+          {% endif %}
           <li>
             <a href="https://www.familysearch.org/en/wiki/Puerto_Rico_Genealogy" target="_blank" rel="noopener noreferrer"><em>FamilySearch: {% if page.lang == 'es' %}Genealogía de Puerto Rico{% else %}Puerto Rico Genealogy{% endif %}</em></a>
             <span class="muni-source-type">{% if page.lang == 'es' %}Guía completa de registros{% else %}Complete records guide{% endif %}</span>
