@@ -235,14 +235,19 @@ layout: default
 
       {% if muni.genealogy_sources and muni.genealogy_sources.size > 0 %}
       <section id="sources" class="muni-section">
-        <h2>{% if page.lang == 'es' %}Fuentes y Lecturas Recomendadas{% else %}Sources and Further Reading{% endif %}</h2>
+        <h2>{% if page.lang == 'es' %}Lecturas Recomendadas{% else %}Further Reading{% endif %}</h2>
         <ul class="muni-sources-list">
           {% for source in muni.genealogy_sources %}
           <li>
+            {% if source.url %}
+            <a href="{{ source.url }}" target="_blank" rel="noopener noreferrer"><em>{{ source.title }}</em></a>
+            {% else %}
             <strong>{{ source.title }}</strong>
+            {% endif %}
             {% if source.author %} — {{ source.author }}{% endif %}
             {% if source.year %} ({{ source.year }}){% endif %}
             {% if source.type %}<span class="muni-source-type">{{ source.type }}</span>{% endif %}
+            {% if source.description %}<span class="muni-source-desc">{{ source.description }}</span>{% endif %}
           </li>
           {% endfor %}
         </ul>
@@ -265,7 +270,7 @@ layout: default
           <li><a href="#maps">{% if page.lang == 'es' %}Mapas Históricos{% else %}Historical Maps{% endif %}</a></li>
           <li><a href="#toolkit">{% if page.lang == 'es' %}Recursos de Genealogía{% else %}Genealogy Toolkit{% endif %}</a></li>
           <li><a href="#archives">{% if page.lang == 'es' %}Archivos Digitales{% else %}Digital Archives{% endif %}</a></li>
-          {% if muni.genealogy_sources %}<li><a href="#sources">{% if page.lang == 'es' %}Fuentes{% else %}Sources{% endif %}</a></li>{% endif %}
+          {% if muni.genealogy_sources %}<li><a href="#sources">{% if page.lang == 'es' %}Lecturas Recomendadas{% else %}Further Reading{% endif %}</a></li>{% endif %}
           <li><a href="#research-checklist">{% if page.lang == 'es' %}Lista de Verificación{% else %}Research Checklist{% endif %}</a></li>
         </ul>
       </nav>

@@ -102,6 +102,48 @@
         "author": "Archivo Histórico Diocesano de Aguadilla",
         "year": "2022",
         "type": "Digital archive"
+      },
+      {
+        "title": "Aguadilla: el pueblo que le dio la espalda al mar, su desarrollo social ante el cambio de soberanía de 1895–1910",
+        "author": "Álvaro M. Rivera Ruiz",
+        "url": "https://www.islanegra.com/index.php?option=com_virtuemart&view=productdetails&virtuemart_product_id=184&virtuemart_category_id=1",
+        "type": "Book",
+        "description": "A historical essay on Aguadilla's social development during the transition from Spanish to U.S. sovereignty, with a microhistorical focus on the town's transformation after 1898."
+      },
+      {
+        "title": "Historia de Aguadilla: 1775–1899",
+        "author": "Benjamín Nieves Acevedo",
+        "url": "https://www.lulu.com/es/shop/benjam%C3%ADn-nieves-acevedo/historia-de-aguadilla-1775-1899/paperback/product-18725323.html",
+        "type": "Book",
+        "description": "A socio-economic history of Aguadilla covering the town's development from its founding era through the end of the 19th century."
+      },
+      {
+        "title": "Asedios militares al puerto de Aguadilla 1779–1825",
+        "author": "Haydée E. Reichard de Cardona",
+        "url": "https://eladoquintimes.com/2022/01/22/lanzan-libro-sobre-los-asedios-militares-al-puerto-de-aguadilla-entre-1779-y-1825/",
+        "type": "Book",
+        "description": "A study of the military attacks and assaults on Aguadilla's port between 1779 and 1825."
+      },
+      {
+        "title": "Notas para su Historia: Aguadilla (OECH)",
+        "author": "Oficina Estatal de Conservación Histórica / Gobierno de Puerto Rico",
+        "url": "https://docs.pr.gov/files/OECH/Publicaciones%20y%20Recursos/Libros%20Notas%20para%20su%20Historia/Notas%20para%20su%20Historia%20Aguadilla.pdf",
+        "type": "Government History (PDF)",
+        "description": "A historical reference PDF with notes on Aguadilla's past, useful as a concise background source for local history research."
+      },
+      {
+        "title": "UPRAG Colección Aguadillana",
+        "author": "Biblioteca UPR Aguadilla",
+        "url": "https://www.upr.edu/biblioteca-uprag/uprag-coleccion-aguadillana/",
+        "type": "Bibliographic Collection",
+        "description": "A curated collection of books, documents, and resources about Aguadilla's historical, economic, social, and cultural life."
+      },
+      {
+        "title": "Aguadilla, 250 años: Antología conmemorativa de su Fundación (1775–2025)",
+        "author": "Compiled by Haydée E. Reichard de Cardona",
+        "url": "https://academiaprhistoria.org/presentacion-del-libro-aguadilla-250-anos-antologia-conmemorativa-de-su-fundacion-1775-2025/",
+        "type": "Book",
+        "description": "A commemorative anthology for Aguadilla's 250th anniversary, bringing together historical essays and local memory tied to the town's founding."
       }
     ]
   },
@@ -670,7 +712,15 @@
       "attribution_url": ""
     },
     "historical_maps": [],
-    "genealogy_sources": []
+    "genealogy_sources": [
+      {
+        "title": "Rincón Histórico: Special Edition",
+        "author": "Peter Aviles",
+        "url": "https://www.blurb.com/b/11322781-rinc-n-hist-rico-special-edition",
+        "type": "Book",
+        "description": "A bilingual photographic history of Rincón, Puerto Rico, with more than 100 black-and-white and color images tracing the town's history from 1896 to the present."
+      }
+    ]
   },
   {
     "id": "rio_grande",
