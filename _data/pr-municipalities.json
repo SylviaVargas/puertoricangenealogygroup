@@ -47,7 +47,28 @@
       "attribution_url": ""
     },
     "historical_maps": [],
-    "genealogy_sources": []
+    "genealogy_sources": [
+      {
+        "title": "Historia de Aguada: Siglos XVI–XIX",
+        "author": "Benjamín Nieves Acevedo",
+        "url": "https://www.lulu.com/shop/benjam%C3%ADn-nieves-acevedo/historia-de-aguada-siglos-xvi-xix/hardcover/product-155vmvg.html",
+        "type": "Book",
+        "description": "A historical study of Aguada from the 16th through the 19th centuries, covering the town's colonial development."
+      },
+      {
+        "title": "Aguada, Puerto Rico Church Transcriptions 1804 to 1851",
+        "url": "https://hijosdecoamopr.com/aguada-puerto-rico-church-transcriptions/",
+        "type": "Transcription Project",
+        "description": "A genealogical transcription resource for Aguada church books, especially useful for parish research and family history."
+      },
+      {
+        "title": "Aguada, Puerto Rico Genealogy",
+        "author": "FamilySearch Wiki contributors",
+        "url": "https://www.familysearch.org/en/wiki/Aguada,_Puerto_Rico_Genealogy",
+        "type": "Research Guide",
+        "description": "A research guide with historical background and genealogy pointers for Aguada."
+      }
+    ]
   },
   {
     "id": "aguadilla",
@@ -106,12 +127,6 @@
     },
     "historical_maps": [],
     "genealogy_sources": [
-      {
-        "title": "Libros Parroquiales de Aguadilla 1780–1843",
-        "author": "Archivo Histórico Diocesano de Aguadilla",
-        "year": "2022",
-        "type": "Digital archive"
-      },
       {
         "title": "Aguadilla: el pueblo que le dio la espalda al mar, su desarrollo social ante el cambio de soberanía de 1895–1910",
         "author": "Álvaro M. Rivera Ruiz",
@@ -176,9 +191,50 @@
     "id": "anasco",
     "name": "Añasco",
     "founded": 1733,
+    "region": "West",
     "mother_town": ["San Germán", "Aguada"],
+    "has_detail_page": true,
     "parish": { "name": "San Antonio Abad", "records_start": 1733 },
-    "civil_registry_start": 1885
+    "civil_registry_start": 1885,
+    "barrios": [
+      "Añasco Abajo",
+      "Añasco Arriba",
+      "Añasco barrio-pueblo",
+      "Caguabo",
+      "Carreras",
+      "Cerro Gordo",
+      "Corcovada",
+      "Hatillo",
+      "Miraflores",
+      "Río Arriba"
+    ],
+    "neighbors": ["Aguada", "Las Marías", "Mayagüez", "Moca", "Rincón", "San Sebastián"],
+    "familysearch_url": "https://www.familysearch.org/en/wiki/A%C3%B1asco,_Puerto_Rico_Genealogy",
+    "online_resources": [
+      {
+        "title": "Notas para su Historia: Añasco (OECH)",
+        "url": "https://docs.pr.gov/files/OECH/Publicaciones%20y%20Recursos/Libros%20Notas%20para%20su%20Historia/Notas%20para%20su%20Historia%20A%C3%B1asco.pdf",
+        "type": "Government History (PDF)",
+        "description": "Historical reference PDF with notes on Añasco's past, published by the Office of Historic Preservation of Puerto Rico."
+      }
+    ],
+    "escudo": {
+      "image": "",
+      "alt": "Coat of arms of Añasco, Puerto Rico",
+      "description": "The shield has a green field with a black saber cross outlined in silver and gold scallop shells in each quadrant. A gold mural crown with three towers sits above the shield, indicating municipal status. The symbols are linked to the town's colonial heritage and to the founding figure of Captain Luis de Añasco, representing faith, local identity, and Añasco's founding-era traditions.",
+      "license": "",
+      "attribution_url": ""
+    },
+    "historical_maps": [],
+    "genealogy_sources": [
+      {
+        "title": "Añasco: Notas para su Historia",
+        "author": "Oficina Estatal de Conservación Histórica / Gobierno de Puerto Rico",
+        "url": "https://docs.pr.gov/files/OECH/Publicaciones%20y%20Recursos/Libros%20Notas%20para%20su%20Historia/Notas%20para%20su%20Historia%20A%C3%B1asco.pdf",
+        "type": "Government History (PDF)",
+        "description": "Historical reference PDF with notes on Añasco's past, published by the Office of Historic Preservation of Puerto Rico."
+      }
+    ]
   },
   {
     "id": "arecibo",
@@ -519,6 +575,12 @@
     ],
     "neighbors": ["Fajardo", "Ceiba", "Río Grande"],
     "familysearch_url": "https://www.familysearch.org/en/wiki/Luquillo,_Puerto_Rico_Genealogy",
+    "findagrave_cemeteries": [
+      {
+        "name": "Old Luquillo Municipal Cemetery",
+        "url": "https://www.findagrave.com/cemetery/2197237/old-luquillo-municipal-cemetery"
+      }
+    ],
     "online_resources": [
       {
         "title": "Notas para su Historia: Luquillo (OECH)",
@@ -786,8 +848,6 @@
     "familysearch_url": "https://www.familysearch.org/en/wiki/San_Germ%C3%A1n,_Puerto_Rico_Genealogy",
     "findagrave_url": "https://www.findagrave.com/cemetery/2450110/cementerio-porta-coeli",
     "genealogy_sources": [
-      { "title": "San Germán: Historia de sus instituciones", "author": "Eugenio Fernández Méndez", "year": 1966, "type": "book" },
-      { "title": "Puerto Rico: A Research Guide", "author": "Olivia Méndez Irizarry", "year": 2001, "type": "guide" },
       {
         "title": "Historia de Puerto Rico: Partido de San Germán",
         "url": "https://www.betterworldbooks.com/product/detail/historia-de-puerto-rico-partido-de-san-german-9781678139018",

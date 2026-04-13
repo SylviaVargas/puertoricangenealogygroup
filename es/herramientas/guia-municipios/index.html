@@ -13,6 +13,19 @@ last_modified_at: 2026-03-01
   <p><strong>El registro civil</strong> comenzó en 1885 para todos los municipios existentes antes de ese año. Para registros anteriores a 1885, consulta la parroquia. Si los registros parroquiales comienzan después del año de fundación, los registros más antiguos suelen estar en la parroquia del pueblo madre.</p>
 </div>
 
+<div class="muni-tool-cards">
+  <div class="muni-tool-card">
+    <h3>Tabla de Municipios</h3>
+    <p>Consulta los 78 municipios por nombre, parroquia o pueblo de origen.</p>
+    <a href="#muni-table" class="muni-tool-link">Ir a la tabla ↓</a>
+  </div>
+  <div class="muni-tool-card">
+    <h3>Relaciones con el Pueblo Madre</h3>
+    <p>Encuentra dónde se guardaron los registros antes de que existiera tu municipio.</p>
+    <a href="#mother-town-section" class="muni-tool-link">Ir al árbol ↓</a>
+  </div>
+</div>
+
 <hr>
 
 <div class="muni-toolbar">
@@ -268,7 +281,7 @@ last_modified_at: 2026-03-01
 
 <hr>
 
-<h2>Relaciones con el Pueblo Madre</h2>
+<h2 id="mother-town-section">Relaciones con el Pueblo Madre</h2>
 
 <div class="muni-context">
   <p>Antes de que existiera un municipio, sus habitantes registraban bautismos, matrimonios y entierros en la parroquia del pueblo madre. Si no encuentras un registro en tu pueblo, busca en el pueblo madre, especialmente para eventos anteriores o cercanos al año de fundación.</p>
@@ -418,6 +431,43 @@ last_modified_at: 2026-03-01
     font-style: italic;
     padding: 0.3rem 0;
   }
+
+  .muni-tool-cards {
+    display: flex;
+    gap: 1rem;
+    margin: 1.25rem 0;
+    flex-wrap: wrap;
+  }
+  .muni-tool-card {
+    flex: 1 1 200px;
+    border: 1px solid var(--color-gold);
+    border-left: 4px solid var(--color-gold);
+    background: var(--color-cream);
+    padding: 0.85rem 1rem;
+    border-radius: 3px;
+  }
+  .muni-tool-card h3 {
+    margin: 0 0 0.4rem;
+    font-size: 1rem;
+    color: var(--navy);
+  }
+  .muni-tool-card p {
+    margin: 0 0 0.6rem;
+    font-size: 0.9rem;
+  }
+  .muni-tool-link {
+    font-size: 0.875rem;
+    font-weight: 600;
+    color: var(--navy);
+    text-decoration: underline;
+  }
+  .mother-town-link {
+    color: var(--navy);
+    text-decoration: underline;
+  }
+  .mother-town-link:hover {
+    color: var(--color-red);
+  }
 </style>
 
 <script>
@@ -549,5 +599,24 @@ last_modified_at: 2026-03-01
   document.getElementById('tree-collapse-all').addEventListener('click', function () {
     document.querySelectorAll('.tree-root, .tree-child').forEach(function (el) { el.classList.remove('open'); });
   });
+
+  // Link mother-town names in table to their tree entries
+  (function linkMotherTowns() {
+    var nameToId = {};
+    munis.forEach(function (m) { nameToId[m.name] = m.id; });
+    document.querySelectorAll('#muni-table tbody tr').forEach(function (row) {
+      var cell = row.cells[5];
+      if (!cell) return;
+      var names = cell.textContent.split(',').map(function (s) { return s.trim(); });
+      cell.innerHTML = names.map(function (name) {
+        var id = nameToId[name];
+        if (id && name !== 'Original Settlement') {
+          return '<a href="#root-' + id + '" class="mother-town-link">' + name + '</a>';
+        }
+        return name;
+      }).join(', ');
+    });
+  })();
+
 })();
 </script>

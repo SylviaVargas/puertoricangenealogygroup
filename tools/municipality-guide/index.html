@@ -13,6 +13,19 @@ last_modified_at: 2026-03-01
   <p><strong>Civil registration</strong> began in 1885 for all municipalities existing before that year. For records before 1885, consult the parish. If parish records start after the founding year, earlier records are typically held in the mother town's parish.</p>
 </div>
 
+<div class="muni-tool-cards">
+  <div class="muni-tool-card">
+    <h3>Municipality Table</h3>
+    <p>Look up any of the 78 municipalities by name, parish, or mother town.</p>
+    <a href="#muni-table" class="muni-tool-link">Go to table ↓</a>
+  </div>
+  <div class="muni-tool-card">
+    <h3>Mother-Town Relationships</h3>
+    <p>Find where pre-founding records were kept before your town existed.</p>
+    <a href="#mother-town-section" class="muni-tool-link">Go to tree ↓</a>
+  </div>
+</div>
+
 <hr>
 
 <div class="muni-toolbar">
@@ -268,7 +281,7 @@ last_modified_at: 2026-03-01
 
 <hr>
 
-<h2>Mother-Town Relationships</h2>
+<h2 id="mother-town-section">Mother-Town Relationships</h2>
 
 <div class="muni-context">
   <p>Before a new municipality existed, its residents recorded baptisms, marriages, and burials in the mother town's parish. If you cannot find a record in your town, check the mother town, especially for events before or near the founding year.</p>
@@ -418,6 +431,43 @@ last_modified_at: 2026-03-01
     font-style: italic;
     padding: 0.3rem 0;
   }
+
+  .muni-tool-cards {
+    display: flex;
+    gap: 1rem;
+    margin: 1.25rem 0;
+    flex-wrap: wrap;
+  }
+  .muni-tool-card {
+    flex: 1 1 200px;
+    border: 1px solid var(--color-gold);
+    border-left: 4px solid var(--color-gold);
+    background: var(--color-cream);
+    padding: 0.85rem 1rem;
+    border-radius: 3px;
+  }
+  .muni-tool-card h3 {
+    margin: 0 0 0.4rem;
+    font-size: 1rem;
+    color: var(--navy);
+  }
+  .muni-tool-card p {
+    margin: 0 0 0.6rem;
+    font-size: 0.9rem;
+  }
+  .muni-tool-link {
+    font-size: 0.875rem;
+    font-weight: 600;
+    color: var(--navy);
+    text-decoration: underline;
+  }
+  .mother-town-link {
+    color: var(--navy);
+    text-decoration: underline;
+  }
+  .mother-town-link:hover {
+    color: var(--color-red);
+  }
 </style>
 
 <script>
@@ -549,5 +599,24 @@ last_modified_at: 2026-03-01
   document.getElementById('tree-collapse-all').addEventListener('click', function () {
     document.querySelectorAll('.tree-root, .tree-child').forEach(function (el) { el.classList.remove('open'); });
   });
+
+  // Link mother-town names in table to their tree entries
+  (function linkMotherTowns() {
+    var nameToId = {};
+    munis.forEach(function (m) { nameToId[m.name] = m.id; });
+    document.querySelectorAll('#muni-table tbody tr').forEach(function (row) {
+      var cell = row.cells[5];
+      if (!cell) return;
+      var names = cell.textContent.split(',').map(function (s) { return s.trim(); });
+      cell.innerHTML = names.map(function (name) {
+        var id = nameToId[name];
+        if (id && name !== 'Original Settlement') {
+          return '<a href="#root-' + id + '" class="mother-town-link">' + name + '</a>';
+        }
+        return name;
+      }).join(', ');
+    });
+  })();
+
 })();
 </script>
