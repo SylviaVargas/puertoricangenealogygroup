@@ -166,15 +166,17 @@ last_modified_at: 2026-03-01
     -webkit-overflow-scrolling: touch;
   }
   #muni-table {
-    min-width: 1000px;
+    min-width: 780px;
     width: 100%;
     font-size: 0.875rem;
+    table-layout: fixed;
   }
 
   /* Override global td:first-child width for this table */
+  #muni-table th:first-child,
   #muni-table td:first-child {
-    width: auto;
-    min-width: 130px;
+    width: 110px;
+    overflow-wrap: break-word;
   }
   /* Keep numeric and short columns from hogging space */
   #muni-table th:nth-child(2),
@@ -186,10 +188,28 @@ last_modified_at: 2026-03-01
   #muni-table th:nth-child(7),
   #muni-table td:nth-child(7) { width: 90px; white-space: nowrap; }
 
+  /* Parish column — constrain width so long names wrap */
+  #muni-table th:nth-child(3),
+  #muni-table td:nth-child(3) {
+    width: 170px;
+    overflow-wrap: break-word;
+  }
+
+  /* Mother Town(s) column — constrain width so multiple towns wrap */
+  #muni-table th:nth-child(6),
+  #muni-table td:nth-child(6) {
+    width: 140px;
+    overflow-wrap: break-word;
+  }
+
   /* Tighter cell padding for 7-column layout */
   #muni-table th,
   #muni-table td {
-    padding: 0.45rem 0.6rem;
+    padding: 0.4rem 0.4rem;
+  }
+
+  #muni-table th {
+    text-align: center;
   }
 
   /* Sticky first column — Municipio stays visible during horizontal scroll */
@@ -276,7 +296,7 @@ last_modified_at: 2026-03-01
   }
 
   @media (max-width: 768px) {
-    #muni-table { font-size: 0.82rem; min-width: 780px; }
+    #muni-table { font-size: 0.82rem; min-width: 660px; }
     #muni-search { width: 100%; }
     .muni-toolbar { flex-direction: column; align-items: flex-start; }
   }
