@@ -33,6 +33,19 @@ last_modified_at: 2026-03-01
     <label for="muni-search">Search:</label>
     <input type="search" id="muni-search" placeholder="Municipality name, parish, or mother town..." autocomplete="off">
   </div>
+  <div class="muni-filter-wrap">
+    <label for="muni-region-filter">Region:</label>
+    <select id="muni-region-filter">
+      <option value="">All Regions</option>
+      <option value="Central">Central</option>
+      <option value="East">East</option>
+      <option value="Island Municipality">Island Municipality</option>
+      <option value="Metro">Metro</option>
+      <option value="North">North</option>
+      <option value="South">South</option>
+      <option value="West">West</option>
+    </select>
+  </div>
   <span id="muni-count" class="muni-count"></span>
 </div>
 
@@ -46,12 +59,13 @@ last_modified_at: 2026-03-01
         <th class="sortable" data-col="3">Parish<br>Records <span class="sort-icon" aria-hidden="true">↕</span></th>
         <th class="sortable" data-col="4">Civil<br>Records <span class="sort-icon" aria-hidden="true">↕</span></th>
         <th>Mother<br>Town(s)</th>
+        <th class="sortable" data-col="6">Region <span class="sort-icon" aria-hidden="true">↕</span></th>
       </tr>
     </thead>
     <tbody>
       {% assign municipalities = site.data['pr-municipalities'] %}
       {% for m in municipalities %}
-      <tr>
+      <tr data-region="{{ m.region }}">
         <td>
           {% if m.has_detail_page %}
           <a href="/tools/municipality-guide/{{ m.id | replace: '_', '-' }}/" class="muni-detail-link">{{ m.name }}</a>
@@ -65,6 +79,7 @@ last_modified_at: 2026-03-01
         <td>{{ m.parish.records_start }}</td>
         <td>{{ m.civil_registry_start }}</td>
         <td>{{ m.mother_town | join: ", " }}</td>
+        <td>{{ m.region }}</td>
       </tr>
       {% endfor %}
     </tbody>
@@ -117,6 +132,29 @@ last_modified_at: 2026-03-01
     border-color: var(--color-gold);
     box-shadow: 0 0 0 2px rgba(201,169,98,0.25);
   }
+  .muni-filter-wrap {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+  .muni-filter-wrap label {
+    font-weight: 600;
+    white-space: nowrap;
+  }
+  #muni-region-filter {
+    padding: 0.42rem 0.65rem;
+    font-size: 1rem;
+    border: 2px solid var(--color-navy);
+    border-radius: 4px;
+    font-family: var(--font-body);
+    background: #fff;
+    cursor: pointer;
+  }
+  #muni-region-filter:focus {
+    outline: none;
+    border-color: var(--color-gold);
+    box-shadow: 0 0 0 2px rgba(201,169,98,0.25);
+  }
   .muni-count {
     color: var(--color-gray);
     font-size: 0.9rem;
@@ -128,7 +166,7 @@ last_modified_at: 2026-03-01
     -webkit-overflow-scrolling: touch;
   }
   #muni-table {
-    min-width: 720px;
+    min-width: 820px;
     width: 100%;
     font-size: 0.875rem;
   }
@@ -208,34 +246,40 @@ last_modified_at: 2026-03-01
 
 <script>
   (function () {
-    const search  = document.getElementById('muni-search');
-    const table   = document.getElementById('muni-table');
-    const tbody   = table.querySelector('tbody');
-    const rows    = Array.from(tbody.querySelectorAll('tr'));
-    const countEl = document.getElementById('muni-count');
-    const noRes   = document.getElementById('muni-no-results');
-    const clearBtn = document.getElementById('muni-clear');
-    const total   = rows.length;
+    const search       = document.getElementById('muni-search');
+    const regionFilter = document.getElementById('muni-region-filter');
+    const table        = document.getElementById('muni-table');
+    const tbody        = table.querySelector('tbody');
+    const rows         = Array.from(tbody.querySelectorAll('tr'));
+    const countEl      = document.getElementById('muni-count');
+    const noRes        = document.getElementById('muni-no-results');
+    const clearBtn     = document.getElementById('muni-clear');
+    const total        = rows.length;
 
     function setCount(n) {
       countEl.textContent = n === total ? total + ' municipalities' : n + ' of ' + total + ' municipalities';
     }
 
     function applySearch() {
-      const term = search.value.toLowerCase().trim();
-      let visible = 0;
+      const term   = search.value.toLowerCase().trim();
+      const region = regionFilter.value;
+      let visible  = 0;
       rows.forEach(function (row) {
-        const show = !term || row.textContent.toLowerCase().includes(term);
+        const matchText   = !term   || row.textContent.toLowerCase().includes(term);
+        const matchRegion = !region || row.dataset.region === region;
+        const show = matchText && matchRegion;
         row.style.display = show ? '' : 'none';
         if (show) visible++;
       });
-      noRes.style.display  = visible === 0 ? '' : 'none';
+      noRes.style.display = visible === 0 ? '' : 'none';
       setCount(visible);
     }
 
     search.addEventListener('input', applySearch);
+    regionFilter.addEventListener('change', applySearch);
     clearBtn.addEventListener('click', function () {
       search.value = '';
+      regionFilter.value = '';
       applySearch();
     });
     setCount(total);
