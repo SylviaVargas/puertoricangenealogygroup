@@ -214,6 +214,25 @@ External links do not need verification during editing (they change without noti
 
 ---
 
+## Required Verification — Before Marking Any Task Done
+
+**This is mandatory. Do not report a task complete without running these steps.**
+
+1. Start the Jekyll server (from `puertoricangenealogygroup/`):
+
+   ```bash
+   bundle exec jekyll serve
+   ```
+
+2. Visit the affected page(s) at `http://localhost:4000`
+3. Confirm the change is correct and nothing is visually broken
+4. Visit the Spanish counterpart and confirm parity
+5. Resize to mobile width (~375px) if the change is CSS or layout
+
+Full per-type checklists are in `prgg-admin/FAQ.md` under "Verification & Testing".
+
+---
+
 ## After Every Website Change
 
 Append an entry to `../prgg-admin/CHANGELOG.md`:
