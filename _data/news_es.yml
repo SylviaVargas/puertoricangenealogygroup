@@ -10,9 +10,16 @@
 # Mantenimiento: agregar entradas nuevas al inicio. Cambiar featured anterior a false.
 # Para archivar: mover entradas con más de ~12 meses a _data/news_es_archive_YYYY.yml
 
-- date: 2026-04-07
+- date: 2026-04-12
   category: funciones
   featured: true
+  title: "Nuevo: Página de Detalle del Municipio Cabo Rojo"
+  body: "La página de detalle de Cabo Rojo ya está disponible — con la historia de su fundación en 1771, sus ocho barrios, fechas de los registros parroquiales y civiles, el simbolismo del escudo municipal, y una guía completa de investigación genealógica con enlaces al PDF histórico de la OECH, registros de FamilySearch y libros clave sobre Betances y Cofresí."
+  link: /es/guia-municipios/cabo-rojo/
+
+- date: 2026-04-07
+  category: funciones
+  featured: false
   title: "Actualizado: Hoja de Grupo Familiar — Nuevos Campos para la Investigación"
   body: "La Hoja de Grupo Familiar ahora incluye campos de Ocupación, Parroquia (Bautismo/Entierro) y Causa de Muerte para cada progenitor, citas de fuentes individuales por progenitor, y columnas de Sexo y Estado de Vida para los hijos."
   link: /es/hoja-de-grupo-familiar/

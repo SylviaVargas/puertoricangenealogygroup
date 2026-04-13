@@ -9,9 +9,16 @@
 #
 # Maintenance: add new entries at the top. Move old featured to non-featured.
 # To archive: move entries older than ~12 months to _data/news_archive_YYYY.yml
-- date: 2026-04-07
+- date: 2026-04-12
   category: features
   featured: true
+  title: "New: Cabo Rojo Municipality Detail Page"
+  body: "The Cabo Rojo detail page is now live — covering the town's 1771 founding, its eight barrios, parish and civil registry dates, coat of arms symbolism, and a full genealogy research toolkit including links to the OECH history PDF, FamilySearch records, and key books on Betances and Cofresí."
+  link: /tools/municipality-guide/cabo-rojo/
+
+- date: 2026-04-07
+  category: features
+  featured: false
   title: "Updated: Family Group Sheet — New Fields for Puerto Rican Research"
   body: "The Family Group Sheet now includes Occupation, Parish (Christening/Burial), and Cause of Death fields for each parent, per-parent source citations, and Sex and Still Living columns for children."
   link: /tools/family-group-sheet/
