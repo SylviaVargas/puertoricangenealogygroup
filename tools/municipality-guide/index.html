@@ -56,8 +56,8 @@ last_modified_at: 2026-03-01
         <th class="sortable" data-col="0">Municipality <span class="sort-icon" aria-hidden="true">↕</span></th>
         <th class="sortable" data-col="1">Founded <span class="sort-icon" aria-hidden="true">↕</span></th>
         <th>Parish</th>
-        <th class="sortable" data-col="3">Parish<br>Records <span class="sort-icon" aria-hidden="true">↕</span></th>
-        <th class="sortable" data-col="4">Civil<br>Records <span class="sort-icon" aria-hidden="true">↕</span></th>
+        <th class="sortable" data-col="3"><abbr title="Parish Records">Par.<br>Records</abbr> <span class="sort-icon" aria-hidden="true">↕</span></th>
+        <th class="sortable" data-col="4"><abbr title="Civil Records">Civil<br>Rec.</abbr> <span class="sort-icon" aria-hidden="true">↕</span></th>
         <th>Mother<br>Town(s)</th>
         <th class="sortable" data-col="6">Region <span class="sort-icon" aria-hidden="true">↕</span></th>
       </tr>
@@ -182,9 +182,38 @@ last_modified_at: 2026-03-01
   #muni-table th:nth-child(4),
   #muni-table td:nth-child(4),
   #muni-table th:nth-child(5),
-  #muni-table td:nth-child(5) { width: 72px; }
+  #muni-table td:nth-child(5) { width: 68px; }
   #muni-table th:nth-child(7),
   #muni-table td:nth-child(7) { width: 90px; white-space: nowrap; }
+
+  /* Tighter cell padding for 7-column layout */
+  #muni-table th,
+  #muni-table td {
+    padding: 0.45rem 0.6rem;
+  }
+
+  /* Sticky first column — Municipality stays visible during horizontal scroll */
+  #muni-table th:first-child {
+    position: sticky;
+    left: 0;
+    z-index: 3;
+    background-color: var(--color-navy);
+    border-right: 2px solid #5a7fa0;
+  }
+  #muni-table td:first-child {
+    position: sticky;
+    left: 0;
+    z-index: 2;
+    background-color: #fff;
+    border-right: 2px solid #d0d7df;
+  }
+  #muni-table tr:hover td:first-child {
+    background-color: var(--color-cream);
+  }
+  #muni-table th.sort-asc:first-child,
+  #muni-table th.sort-desc:first-child {
+    background-color: #14527a;
+  }
   #muni-table th.sortable {
     cursor: pointer;
     user-select: none;
@@ -247,7 +276,7 @@ last_modified_at: 2026-03-01
   }
 
   @media (max-width: 768px) {
-    #muni-table { font-size: 0.85rem; }
+    #muni-table { font-size: 0.82rem; min-width: 780px; }
     #muni-search { width: 100%; }
     .muni-toolbar { flex-direction: column; align-items: flex-start; }
   }
