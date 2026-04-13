@@ -78,6 +78,13 @@
         "url": "https://www.familysearch.org/en/wiki/Aguada,_Puerto_Rico_Genealogy",
         "type": "Research Guide",
         "description": "A research guide with historical background and genealogy pointers for Aguada."
+      },
+      {
+        "title": "Notas Por su Historia: Aguada",
+        "author": "Walter A. Cardona Bonet",
+        "url": "https://docs.pr.gov/files/OECH/Publicaciones%20y%20Recursos/Libros%20Notas%20para%20su%20Historia/Notas%20para%20su%20Historia%20Aguada.pdf",
+        "type": "Book",
+        "description": "A historical overview of Aguada published by the Puerto Rico Office of Historic Preservation."
       }
     ]
   },
@@ -254,7 +261,13 @@
       "Rincón",
       "San Sebastián"
     ],
-    "familysearch_url": "https://www.familysearch.org/en/wiki/A%C3%B1asco,_Puerto_Rico_Genealogy",
+    "familysearch_url": "https://www.familysearch.org/en/wiki/Añasco,_Puerto_Rico_Genealogy",
+    "findagrave_cemeteries": [
+      {
+        "name": "Cementerio Municipal de Anasco",
+        "url": "https://www.findagrave.com/cemetery/301120/cementerio-municipal-de-anasco"
+      }
+    ],
     "online_resources": [
       {
         "title": "Notas para su Historia: Añasco (OECH)",
