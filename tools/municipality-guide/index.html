@@ -166,7 +166,7 @@ last_modified_at: 2026-03-01
     -webkit-overflow-scrolling: touch;
   }
   #muni-table {
-    min-width: 820px;
+    min-width: 1000px;
     width: 100%;
     font-size: 0.875rem;
   }
@@ -176,6 +176,15 @@ last_modified_at: 2026-03-01
     width: auto;
     min-width: 130px;
   }
+  /* Keep numeric and short columns from hogging space */
+  #muni-table th:nth-child(2),
+  #muni-table td:nth-child(2) { width: 68px; }
+  #muni-table th:nth-child(4),
+  #muni-table td:nth-child(4),
+  #muni-table th:nth-child(5),
+  #muni-table td:nth-child(5) { width: 72px; }
+  #muni-table th:nth-child(7),
+  #muni-table td:nth-child(7) { width: 90px; white-space: nowrap; }
   #muni-table th.sortable {
     cursor: pointer;
     user-select: none;
