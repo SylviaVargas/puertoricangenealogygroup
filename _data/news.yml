@@ -12,6 +12,13 @@
 - date: 2026-04-12
   category: features
   featured: true
+  title: "New: San Sebastián Municipality Detail Page"
+  body: "The San Sebastián detail page is now live — covering the town's 1752 founding as Las Vegas del Pepino, its 22 barrios, the revolutionary role it played in the Grito de Lares, parish and civil registry dates, coat of arms symbolism, and a full genealogy research toolkit with links to FamilySearch records and key historical books."
+  link: /tools/municipality-guide/san-sebastian/
+
+- date: 2026-04-12
+  category: features
+  featured: false
   title: "New: Cabo Rojo Municipality Detail Page"
   body: "The Cabo Rojo detail page is now live — covering the town's 1771 founding, its eight barrios, parish and civil registry dates, coat of arms symbolism, and a full genealogy research toolkit including links to the OECH history PDF, FamilySearch records, and key books on Betances and Cofresí."
   link: /tools/municipality-guide/cabo-rojo/

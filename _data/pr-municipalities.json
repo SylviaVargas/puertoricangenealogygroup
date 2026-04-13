@@ -1543,15 +1543,123 @@
     "id": "san_sebastian",
     "name": "San Sebastián",
     "founded": 1752,
+    "founder": "Don Cristóbal González de la Cruz",
+    "nicknames": [
+      "San Sebastián del Pepino",
+      "El Pueblo del Pepino",
+      "Los Patrulleros"
+    ],
+    "patron_saint": "San Sebastián Mártir",
     "region": "West",
     "mother_town": [
       "Aguada"
     ],
+    "has_detail_page": true,
     "parish": {
       "name": "San Sebastián Mártir",
       "records_start": 1752
     },
-    "civil_registry_start": 1885
+    "civil_registry_start": 1885,
+    "barrios": [
+      "Alto Sano",
+      "Bahomamey",
+      "Calabazas",
+      "Cibao",
+      "Culebrinas",
+      "Eneas",
+      "Guacio",
+      "Guajataca",
+      "Guatemala",
+      "Hato Arriba",
+      "Hoyamala",
+      "Magos",
+      "Mirabales",
+      "Perchas 1",
+      "Perchas 2",
+      "Piedras Blancas",
+      "Pozas",
+      "Robles",
+      "Saltos",
+      "San Sebastián Pueblo",
+      "Sonador",
+      "Vicentes"
+    ],
+    "neighbors": [
+      "Isabela",
+      "Quebradillas",
+      "Camuy",
+      "Las Marías",
+      "Lares",
+      "Moca",
+      "Añasco"
+    ],
+    "escudo": {
+      "image": null,
+      "year": null,
+      "description": "The coat of arms reflects the religious and geographical identity of the town. The silver field represents the purity of the waters from the Culebrinas River. The red border symbolizes the blood of the martyrs and the revolutionary spirit of the Grito de Lares. Five black arrows represent the martyrdom of Saint Sebastian, the patron saint. A central green mountain symbolizes the Pepino hill that gave the town its original name. A three-towered gold mural crown denotes its status as an autonomous municipality.",
+      "alt": "Coat of arms of San Sebastián, Puerto Rico",
+      "attribution_url": null,
+      "license": ""
+    },
+    "historical_maps": [
+      {
+        "image": null,
+        "year": null,
+        "caption": "Historical map coming soon.",
+        "source": null,
+        "source_url": null
+      }
+    ],
+    "familysearch_url": "https://www.familysearch.org/en/wiki/San_Sebasti%C3%A1n,_Puerto_Rico_Genealogy",
+    "online_resources": [
+      {
+        "title": "Civil Registry: San Sebastián Records (1885–1996)",
+        "url": "https://www.familysearch.org/search/catalog/465063",
+        "type": "Civil Records",
+        "description": "Digitized birth, marriage, and death records for San Sebastián on FamilySearch."
+      },
+      {
+        "title": "Parish Records — San Sebastián Mártir",
+        "url": "https://www.familysearch.org/en/search/collection/1807092",
+        "type": "Church Records",
+        "description": "Catholic parish registers including some of the oldest baptismal records in the western interior of Puerto Rico."
+      },
+      {
+        "title": "ADNPR — San Sebastián Collections",
+        "url": "https://adnpr.net/",
+        "type": "Digital Archive",
+        "description": "High-quality maps and colonial documents related to the Las Vegas del Pepino era."
+      },
+      {
+        "title": "Notas para su Historia: San Sebastián (OECH)",
+        "url": "https://docs.pr.gov/files/OECH/Publicaciones%20y%20Recursos/Libros%20Notas%20para%20su%20Historia/Notas%20para%20su%20Historia%20San%20Sebastian.pdf",
+        "type": "Government History (PDF)",
+        "description": "Detailed PDF summary of San Sebastián's foundation and geography, part of the official OECH historical series."
+      }
+    ],
+    "genealogy_sources": [
+      {
+        "title": "San Sebastián del Pepino: Notas para su historia",
+        "author": "Carlos Gaztambide Arrillaga",
+        "url": "https://rutgers.app.box.com/s/67ytr28x4602e11kuyd4nicji1k2n9l6",
+        "type": "Book",
+        "description": "A vital historical text covering the town's socioeconomic development and the 1869 name change from Las Vegas del Pepino to San Sebastián."
+      },
+      {
+        "title": "Historia de San Sebastián del Pepino",
+        "author": "Federico Cedó Alzamora",
+        "url": "https://issuu.com/coleccionpuertorriquena",
+        "type": "Book",
+        "description": "A definitive cultural history of the town, detailing the lives of prominent families and political shifts."
+      },
+      {
+        "title": "El Grito de Lares y San Sebastián",
+        "author": "Félix Ojeda Reyes",
+        "url": "https://www.coleccionesicp.pr.gov/",
+        "type": "Book",
+        "description": "A specialized study on the clandestine revolutionary cells that operated in San Sebastián leading up to the Grito de Lares in 1868."
+      }
+    ]
   },
   {
     "id": "santa_isabel",
