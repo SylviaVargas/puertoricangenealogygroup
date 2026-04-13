@@ -183,6 +183,21 @@ Una colecci&#243;n curada de archivos, bases de datos y herramientas para invest
 </div>
 </div>
 
+<div class="card resource-card" data-category="archive">
+<div class="card-lang">&#127466;&#127480;</div>
+<span class="badge badge-external">Archivo</span> <span class="badge badge-free">Gratuito</span>
+<div class="card-title">PARES: Portal de Archivos de España</div>
+<div class="card-desc">Portal nacional de archivos de España con acceso gratuito a documentos de la época colonial relevantes para la investigación puertorriqueña, incluyendo registros del Archivo General de Indias.</div>
+<details class="card-more">
+<summary>Más detalles</summary>
+<p>PARES ofrece acceso gratuito a documentos digitalizados de los archivos estatales españoles, muchos anteriores al registro civil de Puerto Rico. Consulta también la <a href="https://www.familysearch.org/en/wiki/PARES,_The_Portal_de_Archivos_Espa%C3%B1oles" target="_blank" rel="noopener noreferrer">guía de FamilySearch sobre cómo usar PARES</a> para investigación genealógica. Próximamente: una guía dedicada para investigadores puertorriqueños.</p>
+</details>
+<div class="card-footer">
+<a href="https://pares.mcu.es/" target="_blank" rel="noopener noreferrer" class="card-link">Visitar PARES &#8594;</a>
+<a href="{{ '/es/contacto/' | relative_url }}" class="card-report">Reportar enlace roto</a>
+</div>
+</div>
+
 <!-- Colecciones Digitales y Bases de Datos -->
 
 <div class="card resource-card" data-category="digital">

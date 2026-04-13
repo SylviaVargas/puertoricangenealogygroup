@@ -183,6 +183,21 @@ A curated collection of archives, databases, and tools for researching Puerto Ri
 </div>
 </div>
 
+<div class="card resource-card" data-category="archive">
+<div class="card-lang">&#127466;&#127480;</div>
+<span class="badge badge-external">Archive</span> <span class="badge badge-free">Free</span>
+<div class="card-title">PARES: Portal de Archivos de España</div>
+<div class="card-desc">Spain's national archive portal with free access to colonial-era documents relevant to Puerto Rican research, including records from the Archivo General de Indias.</div>
+<details class="card-more">
+<summary>More details</summary>
+<p>PARES provides free access to digitized documents from Spanish state archives, many predating Puerto Rico's civil registry. See also the <a href="https://www.familysearch.org/en/wiki/PARES,_The_Portal_de_Archivos_Espa%C3%B1oles" target="_blank" rel="noopener noreferrer">FamilySearch guide to using PARES</a> for genealogy research. A dedicated how-to guide for Puerto Rican researchers is coming soon.</p>
+</details>
+<div class="card-footer">
+<a href="https://pares.mcu.es/" target="_blank" rel="noopener noreferrer" class="card-link">Visit PARES &#8594;</a>
+<a href="{{ '/contact/' | relative_url }}" class="card-report">Report broken link</a>
+</div>
+</div>
+
 <!-- Digital Collections & Databases -->
 
 <div class="card resource-card" data-category="digital">

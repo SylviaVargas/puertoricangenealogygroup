@@ -1371,6 +1371,12 @@
         "url": "https://www.coleccionesicp.pr.gov/",
         "type": "Cultural Repository",
         "description": "Official government records and cultural history artifacts categorized by region."
+      },
+      {
+        "title": "Trasfondo Histórico de Rincón",
+        "url": "https://rincon.gov.pr/transfondo-historico/",
+        "type": "Municipal Website",
+        "description": "Official municipal history page from the Municipality of Rincón, covering the town's founding and early settlement, including the account of Don Pablo de Arroyo."
       }
     ],
     "escudo": {
