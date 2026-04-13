@@ -18,7 +18,7 @@
 
 - date: 2026-04-07
   category: features
-  featured: false
+  featured: true
   title: "Updated: Family Group Sheet — New Fields for Puerto Rican Research"
   body: "The Family Group Sheet now includes Occupation, Parish (Christening/Burial), and Cause of Death fields for each parent, per-parent source citations, and Sex and Still Living columns for children."
   link: /tools/family-group-sheet/

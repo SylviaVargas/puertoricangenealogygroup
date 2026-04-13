@@ -228,6 +228,41 @@ No exceptions.
 
 ---
 
+## What's New — Required Update (Required)
+
+**Any new page, new feature, or significant enhancement** must be added to both news files before the session ends:
+
+- `_data/news.yml` — English entry
+- `_data/news_es.yml` — Spanish entry
+
+**What counts as a What's New entry:**
+
+- New municipality detail page
+- New research guide or course module
+- New tool or interactive feature
+- Significant enhancement to an existing page (new fields, redesigned sections, new data)
+
+**Entry format:**
+
+```yaml
+- date: YYYY-MM-DD
+  category: features        # features | courses | guides
+  featured: true            # true for ONE entry at a time — demote the previous featured to false
+  title: "New: Short Title"
+  body: "1-2 sentences describing what was added and why it matters to researchers."
+  link: /internal/path/
+```
+
+**Spanish entry rules:**
+
+- Use `category: funciones` (not `features`)
+- `link:` must point to the Spanish permalink (e.g., `/es/guia-municipios/cabo-rojo/`)
+- Full diacritics required
+
+**No exceptions.** If you add a municipality page, guide, tool, or enhancement and do not update these files, the session is incomplete.
+
+---
+
 ## Key File Paths
 
 | File | Purpose |
