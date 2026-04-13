@@ -3,6 +3,7 @@
     "id": "adjuntas",
     "name": "Adjuntas",
     "founded": 1815,
+    "region": "Central",
     "mother_town": ["Utuado", "Coamo"],
     "parish": { "name": "San Joaquín", "records_start": 1815 },
     "civil_registry_start": 1885
@@ -11,7 +12,7 @@
     "id": "aguada",
     "name": "Aguada",
     "founded": 1639,
-    "region": "Northwest",
+    "region": "West",
     "mother_town": ["San Germán"],
     "is_mother_municipality": true,
     "has_detail_page": true,
@@ -56,12 +57,6 @@
         "description": "A historical study of Aguada from the 16th through the 19th centuries, covering the town's colonial development."
       },
       {
-        "title": "Aguada, Puerto Rico Church Transcriptions 1804 to 1851",
-        "url": "https://hijosdecoamopr.com/aguada-puerto-rico-church-transcriptions/",
-        "type": "Transcription Project",
-        "description": "A genealogical transcription resource for Aguada church books, especially useful for parish research and family history."
-      },
-      {
         "title": "Aguada, Puerto Rico Genealogy",
         "author": "FamilySearch Wiki contributors",
         "url": "https://www.familysearch.org/en/wiki/Aguada,_Puerto_Rico_Genealogy",
@@ -74,7 +69,7 @@
     "id": "aguadilla",
     "name": "Aguadilla",
     "founded": 1775,
-    "region": "Northwest",
+    "region": "West",
     "mother_town": ["Aguada"],
     "is_mother_municipality": true,
     "has_detail_page": true,
@@ -175,6 +170,7 @@
     "id": "aguas_buenas",
     "name": "Aguas Buenas",
     "founded": 1838,
+    "region": "Central",
     "mother_town": ["Caguas"],
     "parish": { "name": "Los Santos Reyes", "records_start": 1838 },
     "civil_registry_start": 1885
@@ -183,6 +179,7 @@
     "id": "aibonito",
     "name": "Aibonito",
     "founded": 1824,
+    "region": "Central",
     "mother_town": ["Coamo"],
     "parish": { "name": "San José", "records_start": 1824 },
     "civil_registry_start": 1885
@@ -240,6 +237,7 @@
     "id": "arecibo",
     "name": "Arecibo",
     "founded": 1616,
+    "region": "North",
     "mother_town": ["San Juan"],
     "parish": { "name": "San Felipe Apóstol", "records_start": 1708 },
     "civil_registry_start": 1885
@@ -248,6 +246,7 @@
     "id": "arroyo",
     "name": "Arroyo",
     "founded": 1855,
+    "region": "South",
     "mother_town": ["Guayama"],
     "parish": { "name": "Nuestra Señora del Carmen", "records_start": 1855 },
     "civil_registry_start": 1885
@@ -256,6 +255,7 @@
     "id": "barceloneta",
     "name": "Barceloneta",
     "founded": 1881,
+    "region": "North",
     "mother_town": ["Manatí"],
     "parish": { "name": "Nuestra Señora del Carmen", "records_start": 1881 },
     "civil_registry_start": 1885
@@ -264,6 +264,7 @@
     "id": "barranquitas",
     "name": "Barranquitas",
     "founded": 1803,
+    "region": "Central",
     "mother_town": ["Coamo"],
     "parish": { "name": "San Antonio de Padua", "records_start": 1803 },
     "civil_registry_start": 1885
@@ -272,6 +273,7 @@
     "id": "bayamon",
     "name": "Bayamón",
     "founded": 1772,
+    "region": "Metro",
     "mother_town": ["San Juan"],
     "parish": { "name": "Invención de la Santa Cruz", "records_start": 1772 },
     "civil_registry_start": 1885
@@ -280,6 +282,7 @@
     "id": "cabo_rojo",
     "name": "Cabo Rojo",
     "founded": 1771,
+    "region": "West",
     "mother_town": ["San Germán"],
     "parish": { "name": "San Miguel Arcángel", "records_start": 1771 },
     "civil_registry_start": 1885
@@ -288,6 +291,7 @@
     "id": "caguas",
     "name": "Caguas",
     "founded": 1775,
+    "region": "Metro",
     "mother_town": ["Loíza", "San Mateo de Cangrejos"],
     "parish": { "name": "Dulce Nombre de Jesús", "records_start": 1775 },
     "civil_registry_start": 1885,
@@ -304,6 +308,7 @@
     "id": "camuy",
     "name": "Camuy",
     "founded": 1807,
+    "region": "North",
     "mother_town": ["Arecibo"],
     "parish": { "name": "San José", "records_start": 1807 },
     "civil_registry_start": 1885
@@ -312,6 +317,7 @@
     "id": "canovanas",
     "name": "Canóvanas",
     "founded": 1909,
+    "region": "Metro",
     "mother_town": ["Loíza"],
     "parish": { "name": "Nuestra Señora del Pilar", "records_start": 1910 },
     "civil_registry_start": 1909
@@ -320,6 +326,7 @@
     "id": "carolina",
     "name": "Carolina",
     "founded": 1816,
+    "region": "Metro",
     "mother_town": ["Trujillo Alto"],
     "parish": { "name": "San Fernando", "records_start": 1816 },
     "civil_registry_start": 1885
@@ -328,6 +335,7 @@
     "id": "catano",
     "name": "Cataño",
     "founded": 1927,
+    "region": "Metro",
     "mother_town": ["Bayamón"],
     "parish": { "name": "Nuestra Señora del Carmen", "records_start": 1927 },
     "civil_registry_start": 1927
@@ -336,6 +344,7 @@
     "id": "cayey",
     "name": "Cayey",
     "founded": 1773,
+    "region": "Central",
     "mother_town": ["Coamo"],
     "parish": { "name": "Nuestra Señora de la Asunción", "records_start": 1773 },
     "civil_registry_start": 1885
@@ -344,6 +353,7 @@
     "id": "ceiba",
     "name": "Ceiba",
     "founded": 1838,
+    "region": "East",
     "mother_town": ["Fajardo"],
     "parish": { "name": "San Antonio de Padua", "records_start": 1838 },
     "civil_registry_start": 1885
@@ -352,6 +362,7 @@
     "id": "ciales",
     "name": "Ciales",
     "founded": 1820,
+    "region": "Central",
     "mother_town": ["Manatí"],
     "parish": { "name": "Nuestra Señora del Rosario", "records_start": 1820 },
     "civil_registry_start": 1885
@@ -360,6 +371,7 @@
     "id": "cidra",
     "name": "Cidra",
     "founded": 1809,
+    "region": "Central",
     "mother_town": ["Cayey"],
     "parish": { "name": "Nuestra Señora del Carmen", "records_start": 1812 },
     "civil_registry_start": 1885
@@ -368,6 +380,7 @@
     "id": "coamo",
     "name": "Coamo",
     "founded": 1579,
+    "region": "South",
     "mother_town": ["San Germán"],
     "parish": { "name": "San Blas de Illescas", "records_start": 1701 },
     "civil_registry_start": 1885
@@ -376,6 +389,7 @@
     "id": "comerio",
     "name": "Comerío",
     "founded": 1826,
+    "region": "Central",
     "mother_town": ["Bayamon", "Barranquitas"],
     "parish": { "name": "Santo Cristo de la Salud", "records_start": 1826 },
     "civil_registry_start": 1885
@@ -384,6 +398,7 @@
     "id": "corozal",
     "name": "Corozal",
     "founded": 1795,
+    "region": "Central",
     "mother_town": ["Manatí"],
     "parish": { "name": "La Sagrada Familia", "records_start": 1795 },
     "civil_registry_start": 1885
@@ -392,6 +407,7 @@
     "id": "culebra",
     "name": "Culebra",
     "founded": 1880,
+    "region": "Island Municipality",
     "mother_town": ["Vieques"],
     "parish": { "name": "Nuestra Señora del Carmen", "records_start": 1880 },
     "civil_registry_start": 1885
@@ -400,6 +416,7 @@
     "id": "dorado",
     "name": "Dorado",
     "founded": 1842,
+    "region": "North",
     "mother_town": ["Toa Baja"],
     "parish": { "name": "San Antonio de Padua", "records_start": 1842 },
     "civil_registry_start": 1885
@@ -408,6 +425,7 @@
     "id": "fajardo",
     "name": "Fajardo",
     "founded": 1772,
+    "region": "East",
     "mother_town": ["Loíza"],
     "parish": { "name": "Santiago Apóstol", "records_start": 1772 },
     "civil_registry_start": 1885
@@ -416,6 +434,7 @@
     "id": "florida",
     "name": "Florida",
     "founded": 1971,
+    "region": "North",
     "mother_town": ["Barceloneta"],
     "parish": { "name": "Nuestra Señora de la Merced", "records_start": 1971 },
     "civil_registry_start": 1971
@@ -424,6 +443,7 @@
     "id": "guanica",
     "name": "Guánica",
     "founded": 1914,
+    "region": "South",
     "mother_town": ["Yauco"],
     "parish": { "name": "San Antonio Abad", "records_start": 1914 },
     "civil_registry_start": 1914
@@ -432,6 +452,7 @@
     "id": "guayama",
     "name": "Guayama",
     "founded": 1736,
+    "region": "South",
     "mother_town": ["Coamo"],
     "parish": { "name": "San Antonio de Padua", "records_start": 1736 },
     "civil_registry_start": 1885
@@ -440,6 +461,7 @@
     "id": "guayanilla",
     "name": "Guayanilla",
     "founded": 1833,
+    "region": "South",
     "mother_town": ["Yauco"],
     "parish": { "name": "Inmaculada Concepción", "records_start": 1833 },
     "civil_registry_start": 1885
@@ -448,6 +470,7 @@
     "id": "guaynabo",
     "name": "Guaynabo",
     "founded": 1769,
+    "region": "Metro",
     "mother_town": ["Bayamón", "San Juan"],
     "parish": { "name": "San Pedro Mártir", "records_start": 1769 },
     "civil_registry_start": 1885
@@ -456,6 +479,7 @@
     "id": "gurabo",
     "name": "Gurabo",
     "founded": 1815,
+    "region": "Metro",
     "mother_town": ["Caguas"],
     "parish": { "name": "San José", "records_start": 1815 },
     "civil_registry_start": 1885
@@ -464,6 +488,7 @@
     "id": "hatillo",
     "name": "Hatillo",
     "founded": 1823,
+    "region": "North",
     "mother_town": ["Arecibo"],
     "parish": { "name": "Nuestra Señora del Carmen", "records_start": 1823 },
     "civil_registry_start": 1885
@@ -472,6 +497,7 @@
     "id": "hormigueros",
     "name": "Hormigueros",
     "founded": 1874,
+    "region": "West",
     "mother_town": ["San Germán", "Mayagüez"],
     "parish": { "name": "Nuestra Señora de la Monserrate", "records_start": 1874 },
     "civil_registry_start": 1885
@@ -480,6 +506,7 @@
     "id": "humacao",
     "name": "Humacao",
     "founded": 1722,
+    "region": "East",
     "mother_town": ["Loíza"],
     "parish": { "name": "Dulce Nombre de Jesús", "records_start": 1775 },
     "civil_registry_start": 1885
@@ -488,6 +515,7 @@
     "id": "isabela",
     "name": "Isabela",
     "founded": 1819,
+    "region": "West",
     "mother_town": ["Aguadilla"],
     "parish": { "name": "San Antonio de Padua", "records_start": 1819 },
     "civil_registry_start": 1885
@@ -496,6 +524,7 @@
     "id": "jayuya",
     "name": "Jayuya",
     "founded": 1911,
+    "region": "Central",
     "mother_town": ["Utuado"],
     "parish": { "name": "Nuestra Señora de la Monserrate", "records_start": 1911 },
     "civil_registry_start": 1911
@@ -504,6 +533,7 @@
     "id": "juana_diaz",
     "name": "Juana Díaz",
     "founded": 1798,
+    "region": "South",
     "mother_town": ["Coamo"],
     "parish": { "name": "San Ramón Nonato", "records_start": 1798 },
     "civil_registry_start": 1885
@@ -512,6 +542,7 @@
     "id": "juncos",
     "name": "Juncos",
     "founded": 1797,
+    "region": "East",
     "mother_town": ["Las Piedras"],
     "parish": { "name": "Inmaculada Concepción", "records_start": 1797 },
     "civil_registry_start": 1885
@@ -520,6 +551,7 @@
     "id": "lajas",
     "name": "Lajas",
     "founded": 1883,
+    "region": "West",
     "mother_town": ["San Germán"],
     "parish": { "name": "Nuestra Señora de la Candelaria", "records_start": 1883 },
     "civil_registry_start": 1885
@@ -528,6 +560,7 @@
     "id": "lares",
     "name": "Lares",
     "founded": 1827,
+    "region": "Central",
     "mother_town": ["San Sebastián", "Utuado"],
     "parish": { "name": "San José", "records_start": 1827 },
     "civil_registry_start": 1885
@@ -536,6 +569,7 @@
     "id": "las_marias",
     "name": "Las Marías",
     "founded": 1871,
+    "region": "West",
     "mother_town": ["Mayagüez"],
     "parish": { "name": "Inmaculada Concepción", "records_start": 1871 },
     "civil_registry_start": 1885
@@ -544,6 +578,7 @@
     "id": "las_piedras",
     "name": "Las Piedras",
     "founded": 1773,
+    "region": "East",
     "mother_town": ["Humacao"],
     "parish": { "name": "Inmaculada Concepción", "records_start": 1773 },
     "civil_registry_start": 1885
@@ -552,6 +587,7 @@
     "id": "loiza",
     "name": "Loíza",
     "founded": 1719,
+    "region": "Metro",
     "mother_town": ["San Juan"],
     "parish": { "name": "San Patricio", "records_start": 1751 },
     "civil_registry_start": 1885
@@ -560,7 +596,7 @@
     "id": "luquillo",
     "name": "Luquillo",
     "founded": 1797,
-    "region": "Northeast",
+    "region": "East",
     "mother_town": ["Fajardo"],
     "has_detail_page": true,
     "parish": { "name": "San José", "records_start": 1797 },
@@ -627,6 +663,7 @@
     "id": "manati",
     "name": "Manatí",
     "founded": 1738,
+    "region": "North",
     "mother_town": ["Arecibo"],
     "parish": { "name": "Nuestra Señora de la Candelaria", "records_start": 1738 },
     "civil_registry_start": 1885
@@ -635,6 +672,7 @@
     "id": "maricao",
     "name": "Maricao",
     "founded": 1874,
+    "region": "West",
     "mother_town": ["San Germán", "Mayagüez"],
     "parish": { "name": "San Juan Bautista", "records_start": 1874 },
     "civil_registry_start": 1885
@@ -643,6 +681,7 @@
     "id": "maunabo",
     "name": "Maunabo",
     "founded": 1799,
+    "region": "East",
     "mother_town": ["Guayama"],
     "parish": { "name": "San Isidro Labrador", "records_start": 1799 },
     "civil_registry_start": 1885
@@ -651,6 +690,7 @@
     "id": "mayaguez",
     "name": "Mayagüez",
     "founded": 1760,
+    "region": "West",
     "mother_town": ["Añasco", "San Germán"],
     "parish": { "name": "Nuestra Señora de la Candelaria", "records_start": 1760 },
     "civil_registry_start": 1885,
@@ -660,6 +700,7 @@
     "id": "moca",
     "name": "Moca",
     "founded": 1772,
+    "region": "West",
     "mother_town": ["Aguada"],
     "parish": { "name": "Nuestra Señora de la Monserrate", "records_start": 1772 },
     "civil_registry_start": 1885
@@ -668,6 +709,7 @@
     "id": "morovis",
     "name": "Morovis",
     "founded": 1818,
+    "region": "Central",
     "mother_town": ["Manatí"],
     "parish": { "name": "Nuestra Señora del Carmen", "records_start": 1818 },
     "civil_registry_start": 1885
@@ -676,6 +718,7 @@
     "id": "naguabo",
     "name": "Naguabo",
     "founded": 1821,
+    "region": "East",
     "mother_town": ["Humacao"],
     "parish": { "name": "Nuestra Señora del Rosario", "records_start": 1821 },
     "civil_registry_start": 1885
@@ -684,6 +727,7 @@
     "id": "naranjito",
     "name": "Naranjito",
     "founded": 1824,
+    "region": "Central",
     "mother_town": ["Toa Alta"],
     "parish": { "name": "San Miguel Arcángel", "records_start": 1824 },
     "civil_registry_start": 1885
@@ -692,6 +736,7 @@
     "id": "orocovis",
     "name": "Orocovis",
     "founded": 1825,
+    "region": "Central",
     "mother_town": ["Barranquitas", "Coamo"],
     "parish": { "name": "San Juan Bautista", "records_start": 1825 },
     "civil_registry_start": 1885
@@ -700,6 +745,7 @@
     "id": "patillas",
     "name": "Patillas",
     "founded": 1811,
+    "region": "South",
     "mother_town": ["Guayama"],
     "parish": { "name": "San Benito Abad", "records_start": 1811 },
     "civil_registry_start": 1885
@@ -708,6 +754,7 @@
     "id": "penuelas",
     "name": "Peñuelas",
     "founded": 1793,
+    "region": "South",
     "mother_town": ["Ponce"],
     "parish": { "name": "San José", "records_start": 1793 },
     "civil_registry_start": 1885
@@ -716,6 +763,7 @@
     "id": "ponce",
     "name": "Ponce",
     "founded": 1692,
+    "region": "South",
     "mother_town": ["San Germán"],
     "parish": { "name": "Nuestra Señora de la Guadalupe", "records_start": 1740 },
     "civil_registry_start": 1885
@@ -724,6 +772,7 @@
     "id": "quebradillas",
     "name": "Quebradillas",
     "founded": 1823,
+    "region": "North",
     "mother_town": ["Camuy"],
     "parish": { "name": "San Rafael Arcángel", "records_start": 1823 },
     "civil_registry_start": 1885
@@ -732,7 +781,7 @@
     "id": "rincon",
     "name": "Rincón",
     "founded": 1771,
-    "region": "Northwest",
+    "region": "West",
     "mother_town": ["Aguada"],
     "has_detail_page": true,
     "parish": { "name": "Santa Rosa de Lima", "records_start": 1771 },
@@ -797,6 +846,7 @@
     "id": "rio_grande",
     "name": "Río Grande",
     "founded": 1840,
+    "region": "East",
     "mother_town": ["Loíza"],
     "parish": { "name": "Nuestra Señora del Carmen", "records_start": 1840 },
     "civil_registry_start": 1885
@@ -805,6 +855,7 @@
     "id": "sabana_grande",
     "name": "Sabana Grande",
     "founded": 1813,
+    "region": "West",
     "mother_town": ["San Germán"],
     "parish": { "name": "San Isidro Labrador", "records_start": 1813 },
     "civil_registry_start": 1885
@@ -813,6 +864,7 @@
     "id": "salinas",
     "name": "Salinas",
     "founded": 1851,
+    "region": "South",
     "mother_town": ["Coamo"],
     "parish": { "name": "Nuestra Señora de la Monserrate", "records_start": 1851 },
     "civil_registry_start": 1885
@@ -821,7 +873,7 @@
     "id": "san_german",
     "name": "San Germán",
     "founded": 1573,
-    "region": "Southwest",
+    "region": "West",
     "is_mother_municipality": true,
     "mother_town": ["Original Settlement"],
     "parish": { "name": "San Germán de Auxerre", "records_start": 1731 },
@@ -882,6 +934,7 @@
     "id": "san_juan",
     "name": "San Juan",
     "founded": 1521,
+    "region": "Metro",
     "mother_town": ["Original Settlement"],
     "parish": { "name": "San Juan Bautista (Catedral)", "records_start": 1645 },
     "civil_registry_start": 1885
@@ -890,6 +943,7 @@
     "id": "san_lorenzo",
     "name": "San Lorenzo",
     "founded": 1811,
+    "region": "East",
     "mother_town": ["Caguas"],
     "parish": { "name": "Nuestra Señora de las Mercedes", "records_start": 1811 },
     "civil_registry_start": 1885
@@ -898,6 +952,7 @@
     "id": "san_sebastian",
     "name": "San Sebastián",
     "founded": 1752,
+    "region": "West",
     "mother_town": ["Aguada"],
     "parish": { "name": "San Sebastián Mártir", "records_start": 1752 },
     "civil_registry_start": 1885
@@ -906,6 +961,7 @@
     "id": "santa_isabel",
     "name": "Santa Isabel",
     "founded": 1842,
+    "region": "South",
     "mother_town": ["Coamo"],
     "parish": { "name": "Santiago Apóstol", "records_start": 1842 },
     "civil_registry_start": 1885
@@ -914,6 +970,7 @@
     "id": "toa_alta",
     "name": "Toa Alta",
     "founded": 1751,
+    "region": "Metro",
     "mother_town": ["San Juan"],
     "parish": { "name": "San Fernando Rey", "records_start": 1751 },
     "civil_registry_start": 1885
@@ -922,6 +979,7 @@
     "id": "toa_baja",
     "name": "Toa Baja",
     "founded": 1745,
+    "region": "Metro",
     "mother_town": ["San Juan"],
     "parish": { "name": "Nuestra Señora de la Concepción", "records_start": 1745 },
     "civil_registry_start": 1885
@@ -930,6 +988,7 @@
     "id": "trujillo_alto",
     "name": "Trujillo Alto",
     "founded": 1801,
+    "region": "Metro",
     "mother_town": ["San Juan"],
     "parish": { "name": "Santa Cruz", "records_start": 1801 },
     "civil_registry_start": 1885
@@ -938,6 +997,7 @@
     "id": "utuado",
     "name": "Utuado",
     "founded": 1739,
+    "region": "Central",
     "mother_town": ["Arecibo"],
     "parish": { "name": "San Miguel", "records_start": 1740 },
     "civil_registry_start": 1885
@@ -946,6 +1006,7 @@
     "id": "vega_alta",
     "name": "Vega Alta",
     "founded": 1775,
+    "region": "North",
     "mother_town": ["Vega Baja"],
     "parish": { "name": "Inmaculada Concepción", "records_start": 1775 },
     "civil_registry_start": 1885
@@ -954,6 +1015,7 @@
     "id": "vega_baja",
     "name": "Vega Baja",
     "founded": 1776,
+    "region": "North",
     "mother_town": ["Manatí"],
     "parish": { "name": "Nuestra Señora del Rosario", "records_start": 1776 },
     "civil_registry_start": 1885
@@ -962,6 +1024,7 @@
     "id": "vieques",
     "name": "Vieques",
     "founded": 1852,
+    "region": "Island Municipality",
     "mother_town": ["Humacao"],
     "parish": { "name": "Inmaculada Concepción", "records_start": 1844 },
     "civil_registry_start": 1885
@@ -970,6 +1033,7 @@
     "id": "villalba",
     "name": "Villalba",
     "founded": 1917,
+    "region": "Central",
     "mother_town": ["Juana Díaz"],
     "parish": { "name": "Nuestra Señora del Carmen", "records_start": 1917 },
     "civil_registry_start": 1917
@@ -978,6 +1042,7 @@
     "id": "yabucoa",
     "name": "Yabucoa",
     "founded": 1793,
+    "region": "East",
     "mother_town": ["Humacao"],
     "parish": { "name": "Santos Ángeles Custodios", "records_start": 1793 },
     "civil_registry_start": 1885
@@ -986,6 +1051,7 @@
     "id": "yauco",
     "name": "Yauco",
     "founded": 1756,
+    "region": "South",
     "mother_town": ["San Germán"],
     "parish": { "name": "Nuestra Señora del Rosario", "records_start": 1756 },
     "civil_registry_start": 1885
