@@ -11,9 +11,23 @@ last_modified_at: 2026-03-14
 
 El Puerto Rican Genealogy Group organiza reuniones virtuales regulares donde los miembros pueden aprender, compartir y conectarse con otros investigadores.
 
----
+<div class="meetings-hero">
 
-<div class="meeting-card">
+<nav class="page-toc" aria-label="En esta página">
+  <strong>En Esta Página</strong>
+  <ul>
+    <li><a href="#proxima-reunion">Próxima Reunión</a></li>
+    <li><a href="#encuesta-miembros">Encuesta de Miembros</a></li>
+    <li><a href="#que-esperar">¿Por Qué Unirte?</a></li>
+    <li><a href="#como-registrarse">Cómo Registrarse</a></li>
+    <li><a href="#temas-anteriores">Temas de Reuniones Anteriores</a></li>
+    <li><a href="#sugiere-tema">Sugiere un Tema</a></li>
+  </ul>
+</nav>
+
+<div>
+
+<div id="proxima-reunion" class="meeting-card">
   <div class="meeting-card-label">Próxima Reunión</div>
   <h3><a href="{{ '/es/reunion-mayo-2026/' | relative_url }}">Reunión de Mayo 2026</a></h3>
   <p>Fred Rodríguez Segarra, miembro de la junta de la Sociedad Puertorriqueña de Genealogía, presenta "De Cabo Rojo a San Francisco." Después de la presentación, tendremos una animada discusión y los miembros compartirán sus propios obstáculos y avances en la investigación.</p>
@@ -24,66 +38,56 @@ El Puerto Rican Genealogy Group organiza reuniones virtuales regulares donde los
   <a href="https://us06web.zoom.us/meeting/register/chSyaQqxRzSxOaeXxJmM0Q" class="btn btn-primary" target="_blank" rel="noopener noreferrer">Regístrate Ahora</a>
 </div>
 
-<div class="poll-callout">
+<div id="encuesta-miembros" class="poll-callout">
   <h3>Ayuda a Dar Forma a Nuestro Grupo</h3>
   <p>¿Qué temas te interesan más? ¿Qué formatos funcionan mejor? Cuéntanos cómo podemos servir mejor a nuestra comunidad.</p>
   <a href="https://docs.google.com/forms/d/e/1FAIpQLSdfbrukgdx6v3fAxKiKS2ZwKb0d38DT12axvA3fXZXk_nN81g/viewform?usp=header" class="btn btn-primary" target="_blank" rel="noopener noreferrer">Completa la Encuesta</a>
 </div>
 
----
-
-### Qué Esperar
-
-- **Presentaciones de Expertos**: Aprende de genealogistas experimentados especializados en investigación puertorriqueña
-- **Sesiones de Preguntas y Respuestas**: Obtén respuestas a tus preguntas de expertos y otros investigadores
-- **Intercambio de Investigaciones**: Los miembros comparten sus descubrimientos, obstáculos y avances
-- **Apoyo para Principiantes**: ¿Nuevo en genealogía? Proporcionamos orientación para ayudarte a comenzar
-
-### Horario de Reuniones
-
-Nuestras reuniones se realizan virtualmente para acomodar a miembros en diferentes zonas horarias. Consulta aquí las próximas fechas y temas de reuniones.
-
-### Cómo Registrarse
-
-Nuestras reuniones se realizan a través de Zoom. Sigue estos pasos para registrarte y recibir tu enlace de reunión.
-
-#### Paso 1: Completa el Formulario de Registro
-
-En la página de registro de Zoom, completa los tres campos requeridos:
-
-- **Nombre** (First Name)
-- **Apellido** (Last Name)
-- **Correo Electrónico** (Email Address) — asegúrate de que sea correcto, ya que tu enlace de reunión se enviará aquí
-
-Luego haz clic en el botón **Register** en la parte inferior del formulario.
-
-#### Paso 2: Obtén Tu Enlace de Reunión
-
-Después de hacer clic en Register, el proceso es automático:
-
-- **Confirmación Inmediata**: Serás redirigido a una página de "Registration Successful" que contiene el enlace de la reunión de inmediato.
-- **Correo de Confirmación**: Zoom también enviará un correo electrónico de confirmación a la dirección que proporcionaste.
-- **El Enlace de Conexión**: Dentro de ese correo, busca un botón o enlace que diga **"Join Meeting."** Este es un enlace único vinculado a tu registro.
-- **Integración con Calendario**: El correo incluye enlaces para agregar el evento a tu calendario de Google, Outlook o Yahoo, lo cual también guardará el enlace de conexión para acceso fácil.
-
-<div class="tip-callout" markdown="1">
-
-**Consejo:** Si no ves el correo de confirmación dentro de unos minutos después de registrarte, revisa tu carpeta de **Spam** o **Correo no deseado** — los correos automáticos de registro a veces se filtran allí.
+</div>
 
 </div>
 
-### Temas de Reuniones Anteriores
+---
+
+### ¿Por Qué Unirte a Nuestras Reuniones? {#que-esperar}
+
+- **APRENDE**: Domina la investigación puertorriqueña con presentaciones de expertos.
+- **RESUELVE**: Obtén respuestas directas durante sesiones interactivas de preguntas y respuestas.
+- **CONÉCTATE**: Comparte avances y "paredes de ladrillo" con otros miembros.
+- **COMIENZA**: Orientación amigable y recursos para quienes están dando sus primeros pasos.
+
+### Cómo Registrarse {#como-registrarse}
+
+Nuestras reuniones se realizan a través de Zoom. <a href="https://us06web.zoom.us/meeting/register/chSyaQqxRzSxOaeXxJmM0Q" target="_blank" rel="noopener noreferrer"><em>Regístrate aquí.</em></a>
+
+<details class="registration-help">
+<summary><strong>¿Necesitas ayuda para registrarte? Haz clic para ver las instrucciones paso a paso</strong></summary>
+<ol>
+<li><strong>Completa el formulario</strong> — Ingresa tu nombre y correo electrónico en la página de registro de Zoom, luego haz clic en <strong>Register</strong>.</li>
+<li><strong>Obtén tu enlace al instante</strong> — Serás redirigido a una página de confirmación con el enlace de la reunión de inmediato.</li>
+<li><strong>Revisa tu correo</strong> — Zoom envía una confirmación con un botón <strong>"Join Meeting"</strong> y enlaces de calendario.</li>
+</ol>
+<div class="tip-callout"><strong>Consejo:</strong> Revisa tu carpeta de Spam si el correo no llega dentro de unos minutos.</div>
+</details>
+
+### Temas de Reuniones Anteriores {#temas-anteriores}
+
+#### 2026
 
 - Abril 2026: Resúmenes de RootsTech 2026 e Intercambio entre Miembros
 - Marzo 2026: "Revisitando un matrimonio consanguíneo" con Luis Ariel Rivera (BoricuaGenes)
 - Febrero 2026: "Las Actas de Cabildo como Fuente para la Investigación Genealógica: El Caso de la Paternidad de Ramón Ramírez de Arellano (San Germán, 1814)" con César Zapata-Lozada
+
+#### Reuniones Anteriores
+
 - Introducción a los Registros Civiles de Puerto Rico
 - Navegando los Registros Eclesiásticos en Puerto Rico
 - Pruebas de ADN para Ascendencia Puertorriqueña
 - Encontrando a tus Antepasados en los Registros Coloniales Españoles
 - Patrones de Migración Puertorriqueña a Estados Unidos
 
-### Sugiere un Tema
+### Sugiere un Tema {#sugiere-tema}
 
 ¿Tienes un tema que te gustaría que cubramos? <a href="{{ '/es/contacto/' | relative_url }}">¡Contáctanos</a> con tus sugerencias!
 

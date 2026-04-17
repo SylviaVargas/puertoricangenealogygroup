@@ -11,9 +11,23 @@ last_modified_at: 2026-03-14
 
 The Puerto Rican Genealogy Group hosts regular virtual meetings where members can learn, share, and connect with fellow researchers.
 
----
+<div class="meetings-hero">
 
-<div class="meeting-card">
+<nav class="page-toc" aria-label="On this page">
+  <strong>On This Page</strong>
+  <ul>
+    <li><a href="#upcoming-meeting">Upcoming Meeting</a></li>
+    <li><a href="#member-poll">Member Poll</a></li>
+    <li><a href="#what-to-expect">Why Join Our Meetings?</a></li>
+    <li><a href="#how-to-register">How to Register</a></li>
+    <li><a href="#past-meeting-topics">Past Meeting Topics</a></li>
+    <li><a href="#suggest-a-topic">Suggest a Topic</a></li>
+  </ul>
+</nav>
+
+<div>
+
+<div id="upcoming-meeting" class="meeting-card">
   <div class="meeting-card-label">Upcoming Meeting</div>
   <h3><a href="{{ '/meeting-may-2026/' | relative_url }}">May 2026 Meeting</a></h3>
   <p>Fred Rodríguez Segarra, board member of the Sociedad Puertorriqueña de Genealogía, presents "From Cabo Rojo to San Francisco." After the presentation, we will have a lively discussion and members will share their own brick walls and breakthroughs.</p>
@@ -24,66 +38,56 @@ The Puerto Rican Genealogy Group hosts regular virtual meetings where members ca
   <a href="https://us06web.zoom.us/meeting/register/chSyaQqxRzSxOaeXxJmM0Q" class="btn btn-primary" target="_blank" rel="noopener noreferrer">Register Now</a>
 </div>
 
-<div class="poll-callout">
+<div id="member-poll" class="poll-callout">
   <h3>Help Shape Our Group</h3>
   <p>What topics interest you most? What formats work best? Tell us how we can better serve our community.</p>
   <a href="https://docs.google.com/forms/d/e/1FAIpQLSdfbrukgdx6v3fAxKiKS2ZwKb0d38DT12axvA3fXZXk_nN81g/viewform?usp=header" class="btn btn-primary" target="_blank" rel="noopener noreferrer">Take the Member Poll</a>
 </div>
 
----
-
-### What to Expect
-
-- **Expert Presentations**: Learn from experienced genealogists specializing in Puerto Rican research
-- **Q&A Sessions**: Get your questions answered by experts and fellow researchers
-- **Research Sharing**: Members share their discoveries, brick walls, and breakthroughs
-- **Beginner Support**: New to genealogy? We provide guidance to help you get started
-
-### Meeting Schedule
-
-Our meetings are held virtually to accommodate members across different time zones. Check back for upcoming meeting dates and topics.
-
-### How to Register
-
-Our meetings are hosted on Zoom. Follow these steps to register and receive your meeting link.
-
-#### Step 1: Complete the Registration Form
-
-On the Zoom registration page, fill out the three required fields:
-
-- **First Name**
-- **Last Name**
-- **Email Address** (make sure this is accurate — your meeting link will be sent here)
-
-Then click the **Register** button at the bottom of the form.
-
-#### Step 2: Get Your Meeting Link
-
-After clicking Register, the process is automated:
-
-- **Instant Confirmation**: You will be redirected to a "Registration Successful" page that contains the meeting link immediately.
-- **Email Delivery**: Zoom will also send a confirmation email to the address you provided.
-- **The Connection Link**: Inside that email, look for a button or link labeled **"Join Meeting."** This is a unique link tied to your registration.
-- **Calendar Integration**: The email includes links to add the event to your Google, Outlook, or Yahoo calendar, which will also save the connection link for easy access later.
-
-<div class="tip-callout" markdown="1">
-
-**Tip:** If you don't see the confirmation email within a few minutes of registering, check your **Spam** or **Junk** folder — automated registration emails are sometimes filtered there.
+</div>
 
 </div>
 
-### Past Meeting Topics
+---
+
+### Why Join Our Meetings? {#what-to-expect}
+
+- **LEARN**: Master Puerto Rican research with expert-led presentations.
+- **SOLVE**: Get direct answers during interactive Q&A sessions.
+- **CONNECT**: Share breakthroughs and "brick walls" with fellow members.
+- **BEGIN**: Friendly guidance and resources for those just starting out.
+
+### How to Register {#how-to-register}
+
+Our meetings are hosted on Zoom. <a href="https://us06web.zoom.us/meeting/register/chSyaQqxRzSxOaeXxJmM0Q" target="_blank" rel="noopener noreferrer"><em>Register here.</em></a>
+
+<details class="registration-help">
+<summary><strong>Need help registering? Click for step-by-step instructions</strong></summary>
+<ol>
+<li><strong>Fill out the form</strong> — Enter your name and email on the Zoom registration page, then click <strong>Register</strong>.</li>
+<li><strong>Get your link instantly</strong> — You will be redirected to a confirmation page with the meeting link right away.</li>
+<li><strong>Check your email</strong> — Zoom sends a confirmation with a <strong>"Join Meeting"</strong> button and calendar links.</li>
+</ol>
+<div class="tip-callout"><strong>Tip:</strong> Check your Spam folder if the email does not arrive within a few minutes.</div>
+</details>
+
+### Past Meeting Topics {#past-meeting-topics}
+
+#### 2026
 
 - April 2026: RootsTech 2026 Recaps and Member Sharing
 - March 2026: "Revisiting a Consanguineous Marriage" with Luis Ariel Rivera (BoricuaGenes)
 - February 2026: "Las Actas de Cabildo como Fuente para la Investigación Genealógica: El Caso de la Paternidad de Ramón Ramírez de Arellano (San Germán, 1814)" with César Zapata-Lozada
+
+#### Earlier Meetings
+
 - Introduction to Puerto Rican Civil Registry Records
 - Navigating Church Records in Puerto Rico
 - DNA Testing for Puerto Rican Ancestry
 - Finding Your Ancestors in the Spanish Colonial Records
 - Puerto Rican Migration Patterns to the U.S.
 
-### Suggest a Topic
+### Suggest a Topic {#suggest-a-topic}
 
 Have a topic you'd like us to cover? <a href="{{ '/contact/' | relative_url }}">Contact us</a> with your suggestions!
 
