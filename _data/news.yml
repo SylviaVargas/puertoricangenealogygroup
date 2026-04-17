@@ -9,16 +9,23 @@
 #
 # Maintenance: add new entries at the top. Move old featured to non-featured.
 # To archive: move entries older than ~12 months to _data/news_archive_YYYY.yml
-- date: 2026-04-12
+- date: 2026-04-16
   category: features
   featured: true
+  title: "Upcoming: May 2026 Meeting — From Cabo Rojo to San Francisco"
+  body: "Our May meeting is now open for registration. Fred Rodríguez Segarra, board member of the Sociedad Puertorriqueña de Genealogía, presents 'From Cabo Rojo to San Francisco,' tracing a Puerto Rican family across generations and geography, followed by member brick walls and breakthroughs."
+  link: /meeting-may-2026/
+
+- date: 2026-04-12
+  category: features
+  featured: false
   title: "New: San Sebastián Municipality Detail Page"
   body: "The San Sebastián detail page is now live — covering the town's 1752 founding as Las Vegas del Pepino, its 22 barrios, the revolutionary role it played in the Grito de Lares, parish and civil registry dates, coat of arms symbolism, and a full genealogy research toolkit with links to FamilySearch records and key historical books."
   link: /tools/municipality-guide/san-sebastian/
 
 - date: 2026-04-12
   category: features
-  featured: false
+  featured: true
   title: "New: Cabo Rojo Municipality Detail Page"
   body: "The Cabo Rojo detail page is now live — covering the town's 1771 founding, its eight barrios, parish and civil registry dates, coat of arms symbolism, and a full genealogy research toolkit including links to the OECH history PDF, FamilySearch records, and key books on Betances and Cofresí."
   link: /tools/municipality-guide/cabo-rojo/

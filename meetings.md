@@ -15,10 +15,10 @@ The Puerto Rican Genealogy Group hosts regular virtual meetings where members ca
 
 <div class="meeting-card">
   <div class="meeting-card-label">Upcoming Meeting</div>
-  <h3><a href="{{ '/meeting-april-2026/' | relative_url }}">April 2026 Meeting</a></h3>
-  <p>Join us for an open community session featuring RootsTech 2026 recaps and member sharing. Members will discuss their experiences from the world's largest genealogy conference, and share their own discoveries, brick walls, and breakthroughs.</p>
+  <h3><a href="{{ '/meeting-may-2026/' | relative_url }}">May 2026 Meeting</a></h3>
+  <p>Fred Rodríguez Segarra, board member of the Sociedad Puertorriqueña de Genealogía, presents "From Cabo Rojo to San Francisco." After the presentation, we will have a lively discussion and members will share their own brick walls and breakthroughs.</p>
   <div class="meeting-card-details">
-    <span>Monday, April 13, 2026</span>
+    <span>Monday, May 11, 2026</span>
     <span>7:00 PM EDT / 8:00 PM PR / 4:00 PM PDT</span>
   </div>
   <a href="https://us06web.zoom.us/meeting/register/chSyaQqxRzSxOaeXxJmM0Q" class="btn btn-primary" target="_blank" rel="noopener noreferrer">Register Now</a>
@@ -74,6 +74,7 @@ After clicking Register, the process is automated:
 
 ### Past Meeting Topics
 
+- April 2026: RootsTech 2026 Recaps and Member Sharing
 - March 2026: "Revisiting a Consanguineous Marriage" with Luis Ariel Rivera (BoricuaGenes)
 - February 2026: "Las Actas de Cabildo como Fuente para la Investigación Genealógica: El Caso de la Paternidad de Ramón Ramírez de Arellano (San Germán, 1814)" with César Zapata-Lozada
 - Introduction to Puerto Rican Civil Registry Records
