@@ -10,9 +10,16 @@
 # Mantenimiento: agregar entradas nuevas al inicio. Cambiar featured anterior a false.
 # Para archivar: mover entradas con más de ~12 meses a _data/news_es_archive_YYYY.yml
 
+- date: 2026-04-20
+  category: cursos
+  featured: true
+  title: "Nuevo Curso: Buscando Antepasados en Periódicos Históricos Puertorriqueños"
+  body: "Un curso intermedio gratuito de 5 lecciones sobre cómo encontrar y usar periódicos históricos digitalizados de Puerto Rico para la genealogía. Cubre Chronicling America, ADNPR, dLOC, El Mundo y más. Incluye un caso real de 1872 en Rincón y términos de búsqueda para registros relacionados con la esclavitud."
+  link: /research-guides/pr-newspapers/
+
 - date: 2026-04-16
   category: funciones
-  featured: true
+  featured: false
   title: "Próxima Reunión: Mayo 2026 — De Cabo Rojo a San Francisco"
   body: "Nuestra reunión de mayo ya está abierta para registro. Fred Rodríguez Segarra, miembro de la junta de la Sociedad Puertorriqueña de Genealogía, presenta 'De Cabo Rojo a San Francisco', trazando una familia puertorriqueña a través de generaciones y geografías, seguido de obstáculos y avances de los miembros."
   link: /es/reunion-mayo-2026/

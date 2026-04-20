@@ -9,9 +9,16 @@
 #
 # Maintenance: add new entries at the top. Move old featured to non-featured.
 # To archive: move entries older than ~12 months to _data/news_archive_YYYY.yml
+- date: 2026-04-20
+  category: courses
+  featured: true
+  title: "New Course: Looking for Ancestors in Historical Puerto Rican Newspapers"
+  body: "A free 5-lesson intermediate course on finding and using digitized Puerto Rican historical newspapers for genealogy. Covers Chronicling America, ADNPR, dLOC, El Mundo, and more. Includes a real 1872 Rincón case study and search terms for slavery-related records."
+  link: /research-guides/pr-newspapers/
+
 - date: 2026-04-16
   category: features
-  featured: true
+  featured: false
   title: "Upcoming: May 2026 Meeting — From Cabo Rojo to San Francisco"
   body: "Our May meeting is now open for registration. Fred Rodríguez Segarra, board member of the Sociedad Puertorriqueña de Genealogía, presents 'From Cabo Rojo to San Francisco,' tracing a Puerto Rican family across generations and geography, followed by member brick walls and breakthroughs."
   link: /meeting-may-2026/
