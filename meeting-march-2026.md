@@ -13,7 +13,9 @@ parent_url: /meetings/
 
 **Monday, March 9, 2026**
 
-Topic to be announced. Stay tuned for details!
+### Guest Speaker: Luis Ariel Rivera
+
+Luis Ariel Rivera, a professional genealogist specializing in Puerto Rican and Caribbean family history and creator of the genealogy blog <a href="https://boricuagenes.com" target="_blank" rel="noopener noreferrer"><em>BoricuaGenes</em></a>, will share insights from his blog post, "Revisiting a Consanguineous Marriage." His presentation examines an 1860 marriage in Maunabo, Puerto Rico, and explores the genealogical implications of consanguinity in Puerto Rican families.
 
 ---
 

@@ -1,96 +1,85 @@
 ---
-layout: page
+layout: guide
 title: IA Responsable en Genealogía
+description: Cómo las herramientas de IA como Gemini y Claude pueden ayudar con la transcripción, traducción, planificación de investigación y más, y cómo usarlas de forma segura.
+difficulty: beginner
 lang: es
 permalink: /es/ia-genealogia/
 ref: ai-genealogy
-last_modified_at: 2026-02-07
+last_modified_at: 2026-03-05
 ---
 
-## Uso Responsable de la IA en la Investigación Genealógica
+## Uso Responsable de la IA en la Investigación Genealógica {#intro}
 
-La Inteligencia Artificial está transformando muchos campos, incluyendo la genealogía. Aunque las herramientas de IA pueden ayudar con la transcripción, traducción y análisis, es importante usarlas responsablemente y entender sus limitaciones.
+La Inteligencia Artificial está transformando muchos campos, incluyendo la genealogía. Herramientas como Gemini y Claude pueden ayudarte a transcribir documentos manuscritos, traducir registros históricos, redactar biografías y planificar tu investigación. Usada con cuidado, la IA puede ahorrarte horas de trabajo.
 
-### Cómo Puede Ayudar la IA
-
-| Capacidad de IA | Qué Hace | Ejemplo de Uso |
-| --- | --- | --- |
-| Reconocimiento de Escritura | Lee documentos manuscritos antiguos | Registros eclesiásticos coloniales españoles — <a href="https://looking4myroots.com/es/2025/12/31/como-transcribir-registros-antiguos-en-espanol-con-confianza/" target="_blank" rel="noopener noreferrer"><em>Cómo Transcribir Registros Antiguos en Español con Confianza</em></a> |
-| OCR | Convierte texto impreso en texto buscable | Periódicos digitalizados, registros civiles |
-| Procesamiento por Lotes | Procesa muchos documentos a la vez | Grandes colecciones de registros parroquiales |
-| Traducción | Traduce documentos históricos | Documentos coloniales españoles, términos arcaicos |
-| Búsqueda Multilingüe | Encuentra referencias entre idiomas | Nombres en registros en español e inglés |
-| Reconocimiento de Patrones | Identifica datos recurrentes en registros | Grupos de apellidos, patrones migratorios |
-| Coincidencia de Registros | Sugiere posibles conexiones | Vincular bautismos con registros matrimoniales |
-| Organización de Datos | Estructura grandes conjuntos de datos | Ordenar cientos de nombres y fechas extraídos |
-
-### Mejores Prácticas para la IA en Genealogía
-
-#### Siempre Verifica el Resultado de la IA
-
-Las herramientas de IA pueden cometer errores, especialmente con:
-- Estilos de escritura antiguos
-- Documentos dañados o desvanecidos
-- Nombres inusuales o variaciones de ortografía
-- Contexto histórico y terminología
-
-**Nunca aceptes transcripciones o traducciones de IA como definitivas sin verificación humana.**
-
-#### Cita Tus Fuentes Correctamente
-
-Al usar herramientas asistidas por IA:
-1. Documenta qué herramienta de IA usaste
-2. Anota la fecha de uso
-3. Incluye la información de la fuente original
-4. Indica que se utilizó asistencia de IA
-5. Registra cualquier corrección que hayas hecho al resultado de la IA
-
-#### Entiende las Limitaciones de la IA
-
-| Limitación | Riesgo | Qué Debes Hacer |
-| --- | --- | --- |
-| No puede verificar hechos | Puede presentar información falsa como verdadera | Siempre verifica contra fuentes originales |
-| Alucinación | Crea detalles plausibles pero inventados | Verifica nombres, fechas y lugares independientemente |
-| Sin contexto histórico | Malinterpreta términos de la época | Consulta diccionarios de época e historias locales |
-| Sin análisis genealógico | No puede evaluar calidad de evidencia | Aplica el estándar GPS a todas las conclusiones |
-
-### El Estándar GPS Aún Aplica
-
-La IA es una herramienta, no un reemplazo del Estándar de Prueba Genealógica (GPS). Cada conclusión debe cumplir con los cinco elementos del GPS:
-
-| Elemento GPS | Rol de la IA | Tu Responsabilidad |
-| --- | --- | --- |
-| Investigación Exhaustiva | Ayuda a buscar y descubrir registros | Determinar cuándo la investigación está completa |
-| Citas Completas | Puede formatear citas | Documentar el uso de herramientas de IA en la metodología |
-| Análisis de Evidencia | No puede evaluar calidad | Evaluar tipos de fuente, información y evidencia |
-| Resolución de Conflictos | No puede sopesar conflictos | Aplicar preponderancia y razonamiento |
-| Conclusión Escrita | Puede redactar texto | Escribir tu propia conclusión razonada y basada en evidencia |
-
-### Enfoque Recomendado
-
-1. **Usa la IA como punto de partida**, no como punto final
-2. **Verifica cada transcripción** contra el documento original
-3. **Cruza referencias de traducciones** con múltiples fuentes
-4. **Aplica pensamiento crítico** a todas las sugerencias de IA
-5. **Documenta tu metodología** incluyendo el uso de herramientas de IA
-
-### Consideraciones de Privacidad
-
-Al usar herramientas de IA con datos genealógicos:
-
-| Preocupación | Nivel de Riesgo | Recomendación |
-| --- | --- | --- |
-| Datos de personas vivas | Alto | Nunca subas documentos con información personal de personas vivas |
-| Políticas de privacidad de servicios de IA | Medio | Lee y comprende las políticas de retención de datos |
-| Documentos sensibles | Alto | Usa herramientas de IA locales/sin conexión cuando sea posible |
-| Datos de ADN | Alto | Nunca compartas con servicios de IA no confiables |
-
-### Aprende Más
-
-- Únete a nuestras reuniones para discutir aplicaciones de IA en genealogía
-- Comparte tus experiencias con herramientas de IA en nuestra comunidad
-- Mantente actualizado sobre las mejores prácticas emergentes
+La palabra clave es *con cuidado.* El resultado de la IA es siempre un borrador. Cada dato debe verificarse contra fuentes originales, y tus conclusiones deben seguir cumpliendo con el Estándar de Prueba Genealógica. La IA te asiste; no reemplaza tu criterio.
 
 ---
 
-*El Puerto Rican Genealogy Group fomenta el uso reflexivo y responsable de todas las herramientas—incluyendo la IA—al servicio de una investigación genealógica precisa y bien documentada.*
+<div class="card-grid-2col">
+
+<div class="card">
+<h3>Introducción: Comienza Rápidamente</h3>
+<span class="badge badge-available">✓ Disponible</span>
+<p>¿Nueva en las herramientas de IA para genealogía? Empieza aquí. Descarga la guía de inicio rápido de una página o consulta la versión web para comenzar a usar Gemini o Claude en tu investigación hoy mismo.</p>
+<ul>
+  <li><a href="/assets/pdfs/ai/ai-quick-reference-es.pdf" target="_blank">⬇ Guía de Inicio Rápido (PDF)</a></li>
+  <li><a href="/es/recursos/inicio-rapido-gemini-claude/">Gemini y Claude: Inicio Rápido para Genealogistas</a></li>
+</ul>
+</div>
+
+<div class="card">
+<h3>Análisis de Documentos</h3>
+<span class="badge badge-available">✓ Disponible</span>
+<p>Las herramientas de IA son excelentes para leer y convertir documentos que tomarían horas procesar manualmente.</p>
+<ul>
+  <li><strong>Reconocimiento de Escritura</strong> — lee documentos manuscritos antiguos. Ver: <a href="https://looking4myroots.com/es/2025/12/31/como-transcribir-registros-antiguos-en-espanol-con-confianza/" target="_blank" rel="noopener noreferrer"><em>Cómo Transcribir Registros Antiguos en Español con Confianza</em></a></li>
+  <li><strong>OCR</strong> — convierte texto impreso en texto buscable</li>
+  <li><strong>Procesamiento por Lotes</strong> — procesa grandes colecciones a la vez</li>
+</ul>
+</div>
+
+<div class="card">
+<h3>Herramientas de IA para Investigación y Organización</h3>
+<span class="badge badge-available">✓ Curso Completo Disponible</span>
+<p>Un curso de cuatro módulos sobre cómo usar herramientas de IA como Gemini y Claude para comparar registros, organizar datos y planificar investigación genealógica -- con buenas prácticas alineadas con el GPS en cada módulo.</p>
+<ul>
+  <li><a href="/es/guias-investigacion/ia-investigacion-organizacion/">Descripción del Curso</a></li>
+  <li><a href="/es/guias-investigacion/ia-investigacion-organizacion-modulo-1/">Módulo 1 — La IA como Asistente de Investigación: Qué Puede y Qué No Puede Hacer</a></li>
+  <li><a href="/es/guias-investigacion/ia-investigacion-organizacion-modulo-2/">Módulo 2 — Coincidencia de Registros: Resolver el Problema de los Nombres Comunes</a></li>
+  <li><a href="/es/guias-investigacion/ia-investigacion-organizacion-modulo-3/">Módulo 3 — Organiza Tus Datos con IA</a></li>
+  <li><a href="/es/guias-investigacion/ia-investigacion-organizacion-modulo-4/">Módulo 4 — Planificación de la Investigación: Superar Muros de Ladrillo</a></li>
+</ul>
+</div>
+
+<div class="card">
+<h3>Mejores Prácticas de IA</h3>
+<span class="badge badge-available">✓ Disponible</span>
+<p>Usa las herramientas de IA de forma segura y responsable. Cubre verificación, citas, limitaciones, cumplimiento del GPS y privacidad de datos.</p>
+<ul>
+  <li><strong>Siempre Verifica el Resultado de la IA</strong> — contrasta transcripciones y traducciones con los originales</li>
+  <li><strong>Cita Tus Fuentes</strong> — documenta el uso de herramientas de IA en tu metodología de investigación</li>
+  <li><strong>Comprende las Limitaciones de la IA</strong> — alucinaciones, falta de contexto histórico, sin análisis del GPS</li>
+  <li><strong>El GPS Sigue Aplicando</strong> — la IA asiste pero no puede reemplazar los cinco elementos del GPS</li>
+  <li><strong>Consideraciones de Privacidad</strong> — personas vivas, datos de ADN, documentos sensibles</li>
+  <li><a href="/es/ia-mejores-practicas/">Mejores Prácticas de IA para Genealogistas →</a></li>
+</ul>
+</div>
+
+<div class="card">
+<h3>Idioma y Descubrimiento</h3>
+<span class="badge badge-coming-soon">Próximamente</span>
+<p>Supera las barreras del idioma y encuentra conexiones entre registros en múltiples lenguas.</p>
+<ul>
+  <li><strong>Traducción</strong> — traduce documentos históricos y términos arcaicos</li>
+  <li><strong>Búsqueda Multilingüe</strong> — encuentra referencias en registros en español e inglés</li>
+  <li><strong>Reconocimiento de Patrones</strong> — identifica grupos de apellidos y patrones migratorios</li>
+</ul>
+</div>
+
+</div>
+
+---
+
+*El Puerto Rican Genealogy Group fomenta el uso reflexivo y responsable de todas las herramientas---incluyendo la IA---al servicio de una investigación genealógica precisa y bien documentada.*

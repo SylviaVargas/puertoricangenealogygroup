@@ -1,96 +1,85 @@
 ---
-layout: page
+layout: guide
 title: Responsible AI in Genealogy
+description: How AI tools like Gemini and Claude can help with transcription, translation, research planning, and more — and how to use them safely.
+difficulty: beginner
 lang: en
 permalink: /ai-genealogy/
 ref: ai-genealogy
-last_modified_at: 2026-02-07
+last_modified_at: 2026-03-05
 ---
 
-## Using AI Responsibly in Genealogical Research
+## Using AI Responsibly in Genealogical Research {#intro}
 
-Artificial Intelligence is transforming many fields, including genealogy. While AI tools can assist with transcription, translation, and analysis, it's important to use them responsibly and understand their limitations.
+Artificial Intelligence is transforming many fields, including genealogy. Tools like Gemini and Claude can help you transcribe handwritten documents, translate historical records, draft biographies, and plan your research. Used carefully, AI can save hours of work.
 
-### How AI Can Help
-
-| AI Capability | What It Does | Example Use Case |
-| --- | --- | --- |
-| Handwriting Recognition | Reads old handwritten documents | Spanish colonial church records — <a href="https://looking4myroots.com/2025/12/31/how-to-transcribe-old-spanish-records-with-confidence/" target="_blank" rel="noopener noreferrer"><em>How to Transcribe Old Spanish Records with Confidence</em></a> |
-| OCR | Converts printed text to searchable text | Digitized newspapers, civil registries |
-| Batch Processing | Processes many documents at once | Large collections of parish records |
-| Translation | Translates historical documents | Spanish colonial documents, archaic terms |
-| Cross-Language Search | Finds references across languages | Names appearing in both Spanish and English records |
-| Pattern Recognition | Identifies recurring data in records | Family name clusters, migration patterns |
-| Record Matching | Suggests possible connections | Linking baptism to marriage records |
-| Data Organization | Structures large datasets | Sorting hundreds of extracted names and dates |
-
-### Best Practices for AI in Genealogy
-
-#### Always Verify AI Output
-
-AI tools can make mistakes, especially with:
-- Old handwriting styles
-- Damaged or faded documents
-- Unusual names or spelling variations
-- Historical context and terminology
-
-**Never accept AI transcriptions or translations as final without human verification.**
-
-#### Cite Your Sources Properly
-
-When using AI-assisted tools:
-1. Document which AI tool you used
-2. Note the date of use
-3. Include the original source information
-4. Indicate that AI assistance was used
-5. Record any corrections you made to AI output
-
-#### Understand AI Limitations
-
-| Limitation | Risk | What You Should Do |
-| --- | --- | --- |
-| Cannot verify facts | May present false info as true | Always cross-check against original sources |
-| Hallucination | Creates plausible but invented details | Verify names, dates, and places independently |
-| No historical context | Misinterprets period-specific terms | Consult period dictionaries and local histories |
-| No genealogical analysis | Cannot weigh evidence quality | Apply GPS standard to all conclusions |
-
-### The GPS Standard Still Applies
-
-AI is a tool, not a replacement for the Genealogical Proof Standard. Every conclusion must still meet the five GPS elements:
-
-| GPS Element | AI's Role | Your Responsibility |
-| --- | --- | --- |
-| Exhaustive Research | Helps search and discover records | Determine when research is complete |
-| Complete Citations | Can format citations | Document AI tool usage in methodology |
-| Analysis of Evidence | Cannot evaluate quality | Assess source, information, and evidence types |
-| Conflict Resolution | Cannot weigh conflicts | Apply preponderance and reasoning |
-| Written Conclusion | Can draft text | Write your own reasoned, evidence-based conclusion |
-
-### Recommended Approach
-
-1. **Use AI as a starting point**, not an endpoint
-2. **Verify every transcription** against the original document
-3. **Cross-reference translations** with multiple sources
-4. **Apply critical thinking** to all AI suggestions
-5. **Document your methodology** including AI tool usage
-
-### Privacy Considerations
-
-When using AI tools with genealogical data:
-
-| Concern | Risk Level | Recommendation |
-| --- | --- | --- |
-| Living persons' data | High | Never upload documents with living persons' PII |
-| AI service privacy policies | Medium | Read and understand data retention policies |
-| Sensitive documents | High | Use local/offline AI tools when possible |
-| DNA data | High | Never share with untrusted AI services |
-
-### Learn More
-
-- Join our meetings to discuss AI applications in genealogy
-- Share your experiences with AI tools in our community
-- Stay updated on emerging best practices
+The key word is *carefully.* AI output is always a draft. Every fact must be verified against original sources, and your conclusions must still meet the Genealogical Proof Standard. AI assists you; it does not replace your judgment.
 
 ---
 
-*The Puerto Rican Genealogy Group encourages thoughtful, responsible use of all tools—including AI—in service of accurate, well-documented genealogical research.*
+<div class="card-grid-2col">
+
+<div class="card">
+<h3>Introduction: Get Started Quickly</h3>
+<span class="badge badge-available">✓ Available</span>
+<p>New to AI tools for genealogy? Start here. Download the one-page quick start guide or browse the web version to begin using Gemini or Claude in your research today.</p>
+<ul>
+  <li><a href="/assets/pdfs/ai/ai-quick-reference-en.pdf" target="_blank">⬇ Quick Start Guide (PDF)</a></li>
+  <li><a href="/resources/ai-quick-reference-gemini-claude/">Gemini and Claude: Quick Start for Genealogists</a></li>
+</ul>
+</div>
+
+<div class="card">
+<h3>Document Analysis</h3>
+<span class="badge badge-available">✓ Available</span>
+<p>AI tools excel at reading and converting documents that would take hours to process manually.</p>
+<ul>
+  <li><strong>Handwriting Recognition</strong> — reads old handwritten documents. See: <a href="https://looking4myroots.com/2025/12/31/how-to-transcribe-old-spanish-records-with-confidence/" target="_blank" rel="noopener noreferrer"><em>How to Transcribe Old Spanish Records with Confidence</em></a></li>
+  <li><strong>OCR</strong> — converts printed text to searchable text</li>
+  <li><strong>Batch Processing</strong> — processes large collections at once</li>
+</ul>
+</div>
+
+<div class="card">
+<h3>AI Tools for Research and Organization</h3>
+<span class="badge badge-available">✓ Full Course Available</span>
+<p>A four-module course on using AI tools like Gemini and Claude to match records, organize data, and plan genealogical research -- with GPS-aligned best practices throughout.</p>
+<ul>
+  <li><a href="/research-guides/ai-research-organization/">Course Overview</a></li>
+  <li><a href="/research-guides/ai-research-organization-module-1/">Module 1 — AI as a Research Assistant: What It Can and Cannot Do</a></li>
+  <li><a href="/research-guides/ai-research-organization-module-2/">Module 2 — Record Matching: Solving Common-Name Problems</a></li>
+  <li><a href="/research-guides/ai-research-organization-module-3/">Module 3 — Organizing Your Data with AI</a></li>
+  <li><a href="/research-guides/ai-research-organization-module-4/">Module 4 — Research Planning: Breaking Through Brick Walls</a></li>
+</ul>
+</div>
+
+<div class="card">
+<h3>AI Best Practices</h3>
+<span class="badge badge-available">✓ Available</span>
+<p>Use AI tools safely and responsibly. Covers verification, citation, limitations, GPS compliance, and data privacy.</p>
+<ul>
+  <li><strong>Always Verify AI Output</strong> — cross-check transcriptions and translations against originals</li>
+  <li><strong>Cite Your Sources</strong> — document AI tool usage in your research methodology</li>
+  <li><strong>Understand AI Limitations</strong> — hallucination, missing historical context, no GPS analysis</li>
+  <li><strong>GPS Still Applies</strong> — AI assists but cannot replace the five GPS elements</li>
+  <li><strong>Privacy Considerations</strong> — living persons, DNA data, sensitive documents</li>
+  <li><a href="/ai-best-practices/">AI Best Practices for Genealogists →</a></li>
+</ul>
+</div>
+
+<div class="card">
+<h3>Language and Discovery</h3>
+<span class="badge badge-coming-soon">Coming Soon</span>
+<p>Break through language barriers and find connections across records in multiple languages.</p>
+<ul>
+  <li><strong>Translation</strong> — translates historical documents and archaic terms</li>
+  <li><strong>Cross-Language Search</strong> — finds references across Spanish and English records</li>
+  <li><strong>Pattern Recognition</strong> — identifies family name clusters and migration patterns</li>
+</ul>
+</div>
+
+</div>
+
+---
+
+*The Puerto Rican Genealogy Group encourages thoughtful, responsible use of all tools---including AI---in service of accurate, well-documented genealogical research.*
