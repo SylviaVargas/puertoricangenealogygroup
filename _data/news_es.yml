@@ -10,13 +10,6 @@
 # Mantenimiento: agregar entradas nuevas al inicio. Cambiar featured anterior a false.
 # Para archivar: mover entradas con más de ~12 meses a _data/news_es_archive_YYYY.yml
 
-- date: 2026-04-20
-  category: cursos
-  featured: true
-  title: "Nuevo Curso: Buscando Antepasados en Periódicos Históricos Puertorriqueños"
-  body: "Un curso intermedio gratuito de 5 lecciones sobre cómo encontrar y usar periódicos históricos digitalizados de Puerto Rico para la genealogía. Cubre Chronicling America, ADNPR, dLOC, El Mundo y más. Incluye un caso real de 1872 en Rincón y términos de búsqueda para registros relacionados con la esclavitud."
-  link: /research-guides/pr-newspapers/
-
 - date: 2026-04-16
   category: funciones
   featured: true
@@ -26,7 +19,7 @@
 
 - date: 2026-04-12
   category: funciones
-  featured: true 
+  featured: false
   title: "Nuevo: Página de Detalle del Municipio San Sebastián"
   body: "La página de detalle de San Sebastián ya está disponible — con la historia de su fundación en 1752 como Las Vegas del Pepino, sus 22 barrios, el papel revolucionario que desempeñó en el Grito de Lares, las fechas de registros parroquiales y civiles, el simbolismo del escudo municipal y una guía completa de investigación genealógica con enlaces a FamilySearch y libros históricos clave."
   link: /es/guia-municipios/san-sebastian/
