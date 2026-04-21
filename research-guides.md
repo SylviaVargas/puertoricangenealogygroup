@@ -140,6 +140,23 @@ Puerto Rican genealogy comes with unique challenges — Spanish-language records
 </ul>
 </div>
 
+<div class="card">
+<h3>Historical Newspapers</h3>
+<span class="badge badge-available">✓ Full Course Available</span>
+<p>A five-lesson intermediate course on finding and using digitized Puerto Rican historical newspapers for genealogy. All free platforms. Includes a real 1872 Rincón case study and search strategies for slavery-related records.</p>
+<ul>
+  <li><a href="/research-guides/pr-newspapers/">Course Overview</a></li>
+  <li><a href="/research-guides/pr-newspapers-lesson-1/">Lesson 1 — Why Puerto Rican Newspapers Matter for Genealogy</a></li>
+  <li><a href="/research-guides/pr-newspapers-lesson-2/">Lesson 2 — The Gaceta de Puerto Rico and Chronicling America</a></li>
+  <li><a href="/research-guides/pr-newspapers-lesson-3/">Lesson 3 — Puerto Rico's Own Free Portals</a></li>
+  <li><a href="/research-guides/pr-newspapers-lesson-4/">Lesson 4 — Search Strategies and a Case Study</a></li>
+  <li><a href="/research-guides/pr-newspapers-lesson-5/">Lesson 5 — What's Not Online and Planning On-Site Research</a></li>
+  <li><a href="/assets/pdfs/pr-newspapers/WS_01_Newspaper_Search_Log.pdf" target="_blank">⬇ WS-01: Newspaper Search Log (PDF)</a></li>
+  <li><a href="/assets/pdfs/pr-newspapers/WS_02_Esquela_Extraction_Form.pdf" target="_blank">⬇ WS-02: Esquela Extraction Form (PDF)</a></li>
+  <li><a href="/assets/pdfs/pr-newspapers/Quick_Reference_Card.pdf" target="_blank">⬇ Quick Reference Card (PDF)</a></li>
+</ul>
+</div>
+
 </div>
 
 ---

@@ -140,6 +140,23 @@ La genealogía puertorriqueña presenta desafíos únicos: documentos en españo
 </ul>
 </div>
 
+<div class="card">
+<h3>Periódicos Históricos</h3>
+<span class="badge badge-available">✓ Curso Completo Disponible</span>
+<p>Un curso intermedio de cinco lecciones sobre cómo encontrar y usar periódicos históricos digitalizados de Puerto Rico para la genealogía. Todas las plataformas son gratuitas. Incluye un caso de estudio real de Rincón en 1872 y estrategias de búsqueda para registros relacionados con la esclavitud.</p>
+<ul>
+  <li><a href="/es/guias-investigacion/periodicos-pr/">Descripción del Curso</a></li>
+  <li><a href="/es/guias-investigacion/periodicos-pr-leccion-1/">Lección 1 — Por Qué los Periódicos Puertorriqueños Son Importantes para la Genealogía</a></li>
+  <li><a href="/es/guias-investigacion/periodicos-pr-leccion-2/">Lección 2 — La Gaceta de Puerto Rico y Chronicling America</a></li>
+  <li><a href="/es/guias-investigacion/periodicos-pr-leccion-3/">Lección 3 — Los Portales Gratuitos de Puerto Rico</a></li>
+  <li><a href="/es/guias-investigacion/periodicos-pr-leccion-4/">Lección 4 — Estrategias de Búsqueda y un Caso de Estudio</a></li>
+  <li><a href="/es/guias-investigacion/periodicos-pr-leccion-5/">Lección 5 — Lo Que No Está en Línea y Cómo Planificar una Visita de Investigación</a></li>
+  <li><a href="/assets/pdfs/pr-newspapers/ES_HT_01_Registro_Busqueda_Periodicos.pdf" target="_blank">⬇ HT-01: Registro de Búsqueda en Periódicos (PDF)</a></li>
+  <li><a href="/assets/pdfs/pr-newspapers/ES_HT_02_Formulario_Extraccion_Esquelas.pdf" target="_blank">⬇ HT-02: Formulario de Extracción de Esquelas (PDF)</a></li>
+  <li><a href="/assets/pdfs/pr-newspapers/ES_Tarjeta_de_Referencia_Rapida.pdf" target="_blank">⬇ Tarjeta de Referencia Rápida (PDF)</a></li>
+</ul>
+</div>
+
 </div>
 
 ---
