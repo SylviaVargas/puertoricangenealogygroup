@@ -69,7 +69,8 @@
       <div class="language-switcher">
         {% if page.lang == 'es' %}
           {% assign defined_target = false %}
-          {% for p in site.pages %}
+          {% assign all_content = site.pages | concat: site.documents %}
+          {% for p in all_content %}
             {% if p.ref == page.ref and p.lang == 'en' %}
               <a href="{{ p.url | relative_url }}" title="Switch to English">EN</a>
               {% assign defined_target = true %}
@@ -83,7 +84,8 @@
         {% else %}
           <span class="active">EN</span>
           {% assign defined_target = false %}
-          {% for p in site.pages %}
+          {% assign all_content = site.pages | concat: site.documents %}
+          {% for p in all_content %}
             {% if p.ref == page.ref and p.lang == 'es' %}
               <a href="{{ p.url | relative_url }}" title="Cambiar a Español">ES</a>
               {% assign defined_target = true %}
