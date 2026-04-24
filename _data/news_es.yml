@@ -13,6 +13,13 @@
 - date: 2026-04-24
   category: funciones
   featured: true
+  title: "Nuevo: Página de Detalle del Municipio Coamo"
+  body: "La página de detalle de Coamo ya está disponible — con la historia de su fundación en 1579 como el tercer pueblo más antiguo de Puerto Rico, sus 11 barrios, registros parroquiales desde 1701, fechas del registro civil, el simbolismo del escudo municipal y una guía completa de investigación genealógica. Coamo fue pueblo matriz de seis municipios, entre ellos Juana Díaz, Aibonito y Salinas."
+  link: /es/guia-municipios/coamo/
+
+- date: 2026-04-24
+  category: funciones
+  featured: false
   title: "Nuevo: Página de Detalle del Municipio Ponce"
   body: "La página de detalle de Ponce ya está disponible — con la historia de su fundación en 1692 como La Perla del Sur, sus 27 barrios, fechas de los registros parroquiales y civiles, el simbolismo del escudo municipal y una guía completa de investigación genealógica con enlaces a FamilySearch. Ponce también fue pueblo matriz de Peñuelas, Juana Díaz y Adjuntas."
   link: /es/guia-municipios/ponce/

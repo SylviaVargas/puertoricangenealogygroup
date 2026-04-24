@@ -12,6 +12,13 @@
 - date: 2026-04-24
   category: features
   featured: true
+  title: "New: Coamo Municipality Detail Page"
+  body: "The Coamo detail page is now live — covering the town's 1579 founding as the third oldest town in Puerto Rico, its 11 barrios, parish records dating to 1701, civil registry dates, coat of arms symbolism, and a full genealogy research toolkit. Coamo served as mother town to six municipalities including Juana Díaz, Aibonito, and Salinas."
+  link: /tools/municipality-guide/coamo/
+
+- date: 2026-04-24
+  category: features
+  featured: false
   title: "New: Ponce Municipality Detail Page"
   body: "The Ponce detail page is now live — covering the city's 1692 founding as La Perla del Sur, its 27 barrios, parish and civil registry dates, coat of arms symbolism, and a full genealogy research toolkit with links to FamilySearch records. Ponce also served as mother town to Peñuelas, Juana Díaz, and Adjuntas."
   link: /tools/municipality-guide/ponce/

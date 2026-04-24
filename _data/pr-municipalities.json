@@ -612,11 +612,69 @@
     "mother_town": [
       "San Germán"
     ],
+    "is_mother_municipality": true,
+    "has_detail_page": true,
     "parish": {
-      "name": "San Blas de Illescas",
+      "name": "Parroquia San Blas de Illescas",
       "records_start": 1701
     },
-    "civil_registry_start": 1885
+    "civil_registry_start": 1885,
+    "barrios": [
+      "Coamo Pueblo",
+      "Cuyón",
+      "Hayales",
+      "Los Llanos",
+      "Palmarejo",
+      "Pasto",
+      "Pedro García",
+      "Pulguillas",
+      "San Ildefonso",
+      "Santa Catalina",
+      "Coamo Arriba"
+    ],
+    "neighbors": [
+      "Orocovis",
+      "Barranquitas",
+      "Santa Isabel",
+      "Aibonito",
+      "Salinas",
+      "Villalba",
+      "Juana Díaz"
+    ],
+    "familysearch_url": "https://www.familysearch.org/search/catalog/151336",
+    "findagrave_url": "https://www.findagrave.com/cemetery/2579572/cementerio-municipal-civil-de-coamo",
+    "online_resources": [
+      {
+        "title": "Notas para su Historia: Coamo (OECH)",
+        "url": "https://docs.pr.gov/files/OECH/Publicaciones%20y%20Recursos/Libros%20Notas%20para%20su%20Historia/Notas%20para%20su%20Historia%20Coamo.pdf",
+        "type": "Government History (PDF)",
+        "description": "Historical reference PDF covering Coamo's founding, geographic history, and cultural heritage, published by the Office of Historic Preservation of Puerto Rico."
+      }
+    ],
+    "escudo": {
+      "image": "",
+      "alt": "Coat of arms of Coamo, Puerto Rico",
+      "description": "Divided into four quarters: the top left shows an episcopal miter on a red field, representing the patron saint San Blas; the top right shows two gold bells on a red field, symbolizing the original parish and the calling of the faithful; the bottom left shows two gold flames on a red field, representing the famous thermal springs (Los Baños de Coamo); the bottom right shows a golden cross-crowned orb (globus cruciger) on a red field, representing the town's historic Villa status and historical jurisdiction. Topped by a three-towered mural crown signifying its status as a town.",
+      "license": "",
+      "attribution_url": ""
+    },
+    "historical_maps": [],
+    "genealogy_sources": [
+      {
+        "title": "Historia de Coamo: La Villa Añeja",
+        "author": "Rivera Bermúdez, Ramón",
+        "url": "https://www.amazon.com/Historia-Coamo-Edici%C3%B3n-restaurada-Spanish/dp/B0GTX769XF",
+        "type": "Book",
+        "description": "The definitive historical text for Coamo settlers and local development. Coamo, Puerto Rico: Imprenta Coamo, 1980."
+      },
+      {
+        "title": "Las encarnaciones de un pueblo: San Blas de Illescas de Coamo",
+        "author": "Dávila, Arturo V.",
+        "url": "",
+        "type": "Book",
+        "description": "San Juan: Instituto de Cultura Puertorriqueña, 1979."
+      }
+    ]
   },
   {
     "id": "comerio",
@@ -1342,6 +1400,15 @@
       "Utuado"
     ],
     "familysearch_url": "https://www.familysearch.org/en/wiki/Ponce,_Puerto_Rico_Genealogy",
+    "findagrave_url": "https://www.findagrave.com/cemetery-browse/USA/Puerto-Rico/Ponce-Municipality/Ponce?id=city_125379",
+    "online_resources": [
+      {
+        "title": "Notas para su Historia: Ponce (OECH)",
+        "url": "https://docs.pr.gov/files/OECH/Publicaciones%20y%20Recursos/Libros%20Notas%20para%20su%20Historia/Notas%20para%20su%20Historia%20Ponce.pdf",
+        "type": "Government History (PDF)",
+        "description": "Historical reference PDF covering Ponce's founding, geographic history, and cultural heritage, published by the Office of Historic Preservation of Puerto Rico."
+      }
+    ],
     "escudo": {
       "image": "",
       "alt": "Coat of arms of Ponce, Puerto Rico",
@@ -1352,16 +1419,9 @@
     "historical_maps": [],
     "genealogy_sources": [
       {
-        "title": "Ponce, el teatro de mi memoria",
-        "author": "Socorro Girón",
-        "url": "",
-        "type": "Book",
-        "description": "A foundational text for understanding the social and familial structures of Ponce, essential for reconstructing the city's community networks."
-      },
-      {
         "title": "Génesis de la fundación de Ponce",
         "author": "Eduardo Neumann Gandía",
-        "url": "",
+        "url": "https://search.worldcat.org/title/20092001",
         "type": "Book",
         "description": "Essential for 19th-century historical context and early settler families of Ponce and the surrounding southern region."
       },
