@@ -1298,11 +1298,81 @@
     "mother_town": [
       "San Germán"
     ],
+    "is_mother_municipality": true,
+    "has_detail_page": true,
     "parish": {
-      "name": "Nuestra Señora de la Guadalupe",
-      "records_start": 1740
+      "name": "Catedral Nuestra Señora de la Guadalupe",
+      "records_start": 1754
     },
-    "civil_registry_start": 1885
+    "civil_registry_start": 1885,
+    "barrios": [
+      "Primero",
+      "Segundo",
+      "Tercero",
+      "Cuarto",
+      "Quinto",
+      "Sexto",
+      "Anón",
+      "Bucaná",
+      "Canas",
+      "Capitanejo",
+      "Cerrillos",
+      "Coto Laurel",
+      "Guaraguao",
+      "Machuelo Abajo",
+      "Machuelo Arriba",
+      "Magueyes",
+      "Maragüez",
+      "Marueño",
+      "Montes Llanos",
+      "Playa",
+      "Portugués",
+      "Quebrada Limón",
+      "Real",
+      "Sabanetas",
+      "San Patricio",
+      "Tibes",
+      "Vayas"
+    ],
+    "neighbors": [
+      "Adjuntas",
+      "Jayuya",
+      "Juana Díaz",
+      "Peñuelas",
+      "Utuado"
+    ],
+    "familysearch_url": "https://www.familysearch.org/en/wiki/Ponce,_Puerto_Rico_Genealogy",
+    "escudo": {
+      "image": "",
+      "alt": "Coat of arms of Ponce, Puerto Rico",
+      "description": "The shield is divided diagonally: the upper left field is red, symbolizing the fire and valor of the citizens; the lower right field is black, representing the ashes of the legendary fire of 1899 and the enduring determination of the people. A gold lion walking over a bridge occupies the central position, directly referencing the surname of the city's founder, Juan Ponce de León. The shield is surrounded by stalks of sugar cane and branches of coffee, representing the two primary agricultural pillars of the Ponce economy during the 19th century.",
+      "license": "",
+      "attribution_url": ""
+    },
+    "historical_maps": [],
+    "genealogy_sources": [
+      {
+        "title": "Ponce, el teatro de mi memoria",
+        "author": "Socorro Girón",
+        "url": "",
+        "type": "Book",
+        "description": "A foundational text for understanding the social and familial structures of Ponce, essential for reconstructing the city's community networks."
+      },
+      {
+        "title": "Génesis de la fundación de Ponce",
+        "author": "Eduardo Neumann Gandía",
+        "url": "",
+        "type": "Book",
+        "description": "Essential for 19th-century historical context and early settler families of Ponce and the surrounding southern region."
+      },
+      {
+        "title": "Familias de Ponce",
+        "author": "Eliut Flores Caraballo",
+        "url": "",
+        "type": "Book",
+        "description": "Provides specific genealogical reconstructions for prominent and local families of the Ponce region, directly useful for surname research."
+      }
+    ]
   },
   {
     "id": "quebradillas",

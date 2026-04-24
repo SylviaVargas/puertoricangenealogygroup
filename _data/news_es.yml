@@ -10,9 +10,16 @@
 # Mantenimiento: agregar entradas nuevas al inicio. Cambiar featured anterior a false.
 # Para archivar: mover entradas con más de ~12 meses a _data/news_es_archive_YYYY.yml
 
+- date: 2026-04-24
+  category: funciones
+  featured: true
+  title: "Nuevo: Página de Detalle del Municipio Ponce"
+  body: "La página de detalle de Ponce ya está disponible — con la historia de su fundación en 1692 como La Perla del Sur, sus 27 barrios, fechas de los registros parroquiales y civiles, el simbolismo del escudo municipal y una guía completa de investigación genealógica con enlaces a FamilySearch. Ponce también fue pueblo matriz de Peñuelas, Juana Díaz y Adjuntas."
+  link: /es/guia-municipios/ponce/
+
 - date: 2026-04-20
   category: cursos
-  featured: true
+  featured: false
   title: "Nuevo Curso: Buscando Antepasados en Periódicos Históricos Puertorriqueños"
   body: "Un curso intermedio gratuito de 5 lecciones sobre cómo encontrar y usar periódicos históricos digitalizados de Puerto Rico para la genealogía. Cubre Chronicling America, ADNPR, dLOC, El Mundo y más. Incluye un caso real de 1872 en Rincón y términos de búsqueda para registros relacionados con la esclavitud."
   link: /es/guias-investigacion/periodicos-pr/
