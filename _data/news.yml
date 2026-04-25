@@ -12,6 +12,20 @@
 - date: 2026-04-24
   category: features
   featured: true
+  title: "New: Moca Municipality Detail Page"
+  body: "The Moca detail page is now live — covering the town's 1772 founding in northwestern Puerto Rico, its 12 barrios, parish records from 1775 at Nuestra Señora de la Monserrate, civil registry dates, coat of arms symbolism, and a full genealogy research toolkit. Moca is also celebrated as the birthplace of Puerto Rico's mundillo lacemaking tradition."
+  link: /tools/municipality-guide/moca/
+
+- date: 2026-04-24
+  category: features
+  featured: false
+  title: "New: Sabana Grande Municipality Detail Page"
+  body: "The Sabana Grande detail page is now live — covering the town's 1813 founding as the 'Pueblo de los Prodigios,' its 8 barrios, parish records dating to before 1808, civil registry dates, coat of arms symbolism, and a full genealogy research toolkit with links to FamilySearch records."
+  link: /tools/municipality-guide/sabana-grande/
+
+- date: 2026-04-24
+  category: features
+  featured: false
   title: "New: Coamo Municipality Detail Page"
   body: "The Coamo detail page is now live — covering the town's 1579 founding as the third oldest town in Puerto Rico, its 11 barrios, parish records dating to 1701, civil registry dates, coat of arms symbolism, and a full genealogy research toolkit. Coamo served as mother town to six municipalities including Juana Díaz, Aibonito, and Salinas."
   link: /tools/municipality-guide/coamo/

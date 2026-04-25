@@ -1253,15 +1253,64 @@
     "id": "moca",
     "name": "Moca",
     "founded": 1772,
-    "region": "West",
+    "region": "Northwest",
     "mother_town": [
       "Aguada"
     ],
+    "is_mother_municipality": false,
+    "has_detail_page": true,
     "parish": {
       "name": "Nuestra Señora de la Monserrate",
-      "records_start": 1772
+      "records_start": 1775
     },
-    "civil_registry_start": 1885
+    "civil_registry_start": 1885,
+    "barrios": [
+      "Aceitunas",
+      "Capá",
+      "Centro",
+      "Cerro Gordo",
+      "Cruz",
+      "Cuchillas",
+      "Marías",
+      "Naranjo",
+      "Plata",
+      "Pueblo",
+      "Rocha",
+      "Voladoras"
+    ],
+    "neighbors": [
+      "Aguada",
+      "Aguadilla",
+      "Añasco",
+      "Isabela",
+      "San Sebastián"
+    ],
+    "record_gaps": [],
+    "escudo": {
+      "image": "",
+      "alt": "Coat of arms of Moca, Puerto Rico",
+      "description": "The coat of arms of Moca features the moca tree, which gives the municipality its name, alongside symbols representing the religious heritage of the Virgen de la Monserrate, patron saint of the parish founded in 1775. Spanish colonial roots are reflected in the heraldic design, honoring the town's 1772 founding as a daughter municipality of Aguada.",
+      "license": "",
+      "attribution_url": ""
+    },
+    "historical_maps": [],
+    "familysearch_url": "https://www.familysearch.org/search/catalog/results?count=20&placeId=194312",
+    "findagrave_url": "https://www.findagrave.com/cemetery/search?cemetery-name=&cemetery-loc=Moca+Municipality%2C+Puerto+Rico%2C+USA&only-with-cemeteries=cemOnly&locationId=county_3354",
+    "genealogy_sources": [
+      {
+        "title": "Notas para su Historia: Moca",
+        "author": "Rubén Sánchez Babilonia",
+        "url": "https://docs.pr.gov/files/OECH/Publicaciones%20y%20Recursos/Libros%20Notas%20para%20su%20Historia/Notas%20para%20su%20Historia%20Moca.pdf",
+        "type": "Book (PDF)",
+        "description": "Official municipal history of Moca published by the Puerto Rico Office of Historic Preservation. Covers the town's founding, development, and local heritage."
+      },
+      {
+        "title": "FamilySearch Catalog — Moca, Puerto Rico",
+        "url": "https://www.familysearch.org/search/catalog/results?count=20&placeId=194312",
+        "type": "Web Resource",
+        "description": "FamilySearch catalog access point for all records related to Moca, including civil registration, church records, land, and probate."
+      }
+    ]
   },
   {
     "id": "morovis",
@@ -1545,15 +1594,74 @@
     "id": "sabana_grande",
     "name": "Sabana Grande",
     "founded": 1813,
-    "region": "West",
+    "region": "Southwest",
     "mother_town": [
       "San Germán"
     ],
+    "is_mother_municipality": false,
+    "has_detail_page": true,
     "parish": {
-      "name": "San Isidro Labrador",
-      "records_start": 1813
+      "name": "San Isidro Labrador y Santa María de la Cabeza",
+      "records_start": 1808
     },
-    "civil_registry_start": 1885
+    "civil_registry_start": 1885,
+    "barrios": [
+      "Callejones",
+      "Machuchal",
+      "Pueblo",
+      "Rincón",
+      "Sabana Eneas",
+      "Santana",
+      "Susúa",
+      "Tolosita"
+    ],
+    "neighbors": [
+      "Guánica",
+      "Lajas",
+      "Maricao",
+      "San Germán",
+      "Yauco"
+    ],
+    "record_gaps": [],
+    "escudo": {
+      "image": "",
+      "alt": "Coat of arms of Sabana Grande, Puerto Rico",
+      "description": "The coat of arms of Sabana Grande features a rake and shovel representing patron saint San Isidro Labrador, and a jug symbolizing Santa María de la Cabeza. A palm leaf reflects local agricultural tradition, while a three-towered crown indicates town status, civic solidarity, and common defense. The shield's gold and green colors reflect the town's traditional identity, and the motto 'Pueblo de los Prodigios' recalls the town's legendary reputation for extraordinary and historical events.",
+      "license": "",
+      "attribution_url": ""
+    },
+    "historical_maps": [],
+    "familysearch_url": "https://www.familysearch.org/en/wiki/Sabana_Grande,_Puerto_Rico_Genealogy",
+    "findagrave_url": "https://www.findagrave.com/cemetery-browse/USA/Puerto-Rico/Sabana-Grande-Municipality/Sabana-Grande?id=city_125461",
+    "genealogy_sources": [
+      {
+        "title": "Notas para su Historia: Sabana Grande",
+        "author": "Luis R. Negrón Hernández",
+        "url": "https://docs.pr.gov/files/OECH/Publicaciones%20y%20Recursos/Libros%20Notas%20para%20su%20Historia/Notas%20para%20su%20Historia%20Sabana%20Grande.pdf",
+        "type": "Book (PDF)",
+        "description": "Official municipal history of Sabana Grande published by the Puerto Rico Office of Historic Preservation. Covers the town's founding, development, and local heritage."
+      },
+      {
+        "title": "Sabana Grande Genealogy — FamilySearch Wiki",
+        "url": "https://www.familysearch.org/en/wiki/Sabana_Grande,_Puerto_Rico_Genealogy",
+        "type": "Web Resource",
+        "description": "FamilySearch research guide covering civil registration, Catholic church records, census records, and available browse image sets for Sabana Grande."
+      },
+      {
+        "title": "Sabana Grande — Genealogía Nuestra",
+        "url": "https://genealogianuestra.com/puerto-rico-genealogy/sabana-grande/",
+        "type": "Web Article",
+        "description": "Supplemental genealogy reference page for Sabana Grande with historical context and research guidance."
+      }
+    ],
+    "online_resources": [
+      {
+        "title": "Puerto Rico Slave Census — Sabana Grande",
+        "url": "https://dd.archivespuertorico.com/product/slave-census-sabana-grande/",
+        "description": "Slave census records for Sabana Grande available through the Puerto Rico Archives storefront. Useful for colonial-era research.",
+        "type": "archival records"
+      }
+    ]
   },
   {
     "id": "salinas",
