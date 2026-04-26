@@ -971,13 +971,64 @@
     "founded": 1797,
     "region": "East",
     "mother_town": [
-      "Las Piedras"
+      "Humacao"
     ],
+    "is_mother_municipality": false,
+    "has_detail_page": true,
     "parish": {
       "name": "Inmaculada Concepción",
       "records_start": 1797
     },
-    "civil_registry_start": 1885
+    "civil_registry_start": 1885,
+    "barrios": [
+      "Ceiba Norte",
+      "Ceiba Sur",
+      "Gurabo Abajo",
+      "Gurabo Arriba",
+      "Juncos Pueblo",
+      "Lirios",
+      "Mamey",
+      "Valenciano Abajo",
+      "Valenciano Arriba"
+    ],
+    "neighbors": [
+      "Canóvanas",
+      "Gurabo",
+      "Las Piedras",
+      "San Lorenzo"
+    ],
+    "record_gaps": [],
+    "escudo": {
+      "image": "",
+      "alt": "Coat of arms of Juncos, Puerto Rico",
+      "description": "The coat of arms of Juncos features reeds (juncos), a canting symbol representing the town's name, alongside a blue cross symbolizing the Immaculate Conception, patron saint of the municipality. The colors blue and gold reflect the Valencian heritage of its early settlers.",
+      "license": "",
+      "attribution_url": ""
+    },
+    "historical_maps": [],
+    "familysearch_url": "https://www.familysearch.org/en/wiki/Juncos,_Puerto_Rico_Genealogy",
+    "findagrave_url": "https://www.findagrave.com/cemetery-browse/USA/Puerto-Rico/Juncos-Municipality/Juncos?id=city_125063",
+    "genealogy_sources": [
+      {
+        "title": "Notas para su Historia: Juncos",
+        "author": "State Historic Preservation Office (OECH)",
+        "url": "https://docs.pr.gov/files/OECH/Publicaciones%20y%20Recursos/Libros%20Notas%20para%20su%20Historia/Notas%20para%20su%20Historia%20Juncos.pdf",
+        "type": "Book (PDF)",
+        "description": "Official municipal history of Juncos published by the Puerto Rico Office of Historic Preservation. Covers the town's founding, development, and Valencian settler heritage."
+      },
+      {
+        "title": "FamilySearch Wiki — Juncos, Puerto Rico Genealogy",
+        "url": "https://www.familysearch.org/en/wiki/Juncos,_Puerto_Rico_Genealogy",
+        "type": "Web Resource",
+        "description": "Comprehensive guide to genealogical resources for Juncos, including civil registration, Catholic church records, and links to digitized collections on FamilySearch."
+      },
+      {
+        "title": "Archivo Histórico Municipal de Juncos (AHMJ)",
+        "url": "https://archivonacional.com/Collection/AHMJ/Default.aspx?t=1BwviM49Z",
+        "type": "Archive",
+        "description": "Municipal historical archive for Juncos, containing local government records and documents relevant to genealogical research."
+      }
+    ]
   },
   {
     "id": "lajas",
