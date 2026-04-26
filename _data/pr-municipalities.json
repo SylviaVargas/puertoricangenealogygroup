@@ -879,15 +879,63 @@
     "id": "isabela",
     "name": "Isabela",
     "founded": 1819,
-    "region": "West",
-    "mother_town": [
-      "Aguadilla"
-    ],
+    "region": "Northwest",
+    "mother_town": [],
+    "is_mother_municipality": false,
+    "has_detail_page": true,
     "parish": {
       "name": "San Antonio de Padua",
-      "records_start": 1819
+      "records_start": 1818
     },
-    "civil_registry_start": 1885
+    "civil_registry_start": 1885,
+    "barrios": [
+      "Arenales Altos",
+      "Arenales Bajos",
+      "Bajura",
+      "Bejucos",
+      "Coto",
+      "Galateo Alto",
+      "Galateo Bajo",
+      "Guayabos",
+      "Guerrero",
+      "Isabela Pueblo",
+      "Jobos",
+      "Llanadas",
+      "Mora",
+      "Planas"
+    ],
+    "neighbors": [
+      "Aguadilla",
+      "Moca",
+      "Quebradillas",
+      "San Sebastián"
+    ],
+    "record_gaps": [],
+    "escudo": {
+      "image": "",
+      "alt": "Coat of arms of Isabela, Puerto Rico",
+      "description": "The coat of arms of Isabela features a bell between prickly pears representing the Hermitage of San Antonio de la Tuna, the town's founding settlement; olive green stripes honoring the Igneri Indians, ancient inhabitants of the region; gold symbolizing the Taínos; roosters representing the bravery of the Isabelinos and the tradition of breeding fighting cocks; and a horse symbolizing livestock wealth and Isabela's fame for its Paso Fino breed.",
+      "license": "",
+      "attribution_url": ""
+    },
+    "historical_maps": [],
+    "familysearch_url": "https://www.familysearch.org/en/wiki/Isabela,_Puerto_Rico_Genealogy",
+    "findagrave_url": "https://www.findagrave.com/cemetery/1650007/isabela-municipal-cemetery",
+    "genealogy_sources": [
+      {
+        "title": "Notas para su Historia: Isabela",
+        "author": "State Historic Preservation Office (OECH)",
+        "url": "https://docs.pr.gov/files/OECH/Publicaciones%20y%20Recursos/Libros%20Notas%20para%20su%20Historia/Notas%20para%20su%20Historia%20Isabela.pdf",
+        "type": "Book (PDF)",
+        "description": "Official municipal history of Isabela published by the Puerto Rico Office of Historic Preservation. Covers the town's founding, development, and social heritage from San Antonio de la Tuna onward."
+      },
+      {
+        "title": "FamilySearch Wiki — Isabela, Puerto Rico Genealogy",
+        "url": "https://www.familysearch.org/en/wiki/Isabela,_Puerto_Rico_Genealogy",
+        "type": "Web Resource",
+        "description": "Comprehensive guide to genealogical resources for Isabela, including civil registration, Catholic church records, and links to digitized collections on FamilySearch."
+      }
+    ]
   },
   {
     "id": "jayuya",

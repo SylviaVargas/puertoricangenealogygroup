@@ -9,9 +9,16 @@
 #
 # Maintenance: add new entries at the top. Move old featured to non-featured.
 # To archive: move entries older than ~12 months to _data/news_archive_YYYY.yml
-- date: 2026-04-24
+- date: 2026-04-25
   category: features
   featured: true
+  title: "New: Isabela Municipality Detail Page"
+  body: "The Isabela detail page is now live — covering the town's 1819 founding as the successor to the historic settlement of San Antonio de la Tuna, its 14 barrios, parish records dating to 1818 at San Antonio de Padua, civil registry dates, coat of arms symbolism, and a full genealogy research toolkit with links to FamilySearch records."
+  link: /tools/municipality-guide/isabela/
+
+- date: 2026-04-24
+  category: features
+  featured: false
   title: "New: Moca Municipality Detail Page"
   body: "The Moca detail page is now live — covering the town's 1772 founding in northwestern Puerto Rico, its 12 barrios, parish records from 1775 at Nuestra Señora de la Monserrate, civil registry dates, coat of arms symbolism, and a full genealogy research toolkit. Moca is also celebrated as the birthplace of Puerto Rico's mundillo lacemaking tradition."
   link: /tools/municipality-guide/moca/
