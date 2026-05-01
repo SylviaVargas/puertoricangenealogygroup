@@ -1981,8 +1981,8 @@
     ],
     "has_detail_page": true,
     "parish": {
-      "name": "San Sebastián Mártir",
-      "records_start": 1752
+      "name": "Parroquia San Sebastián Mártir",
+      "records_start": 1765
     },
     "civil_registry_start": 1885,
     "barrios": [
@@ -2036,6 +2036,12 @@
       }
     ],
     "familysearch_url": "https://www.familysearch.org/en/wiki/San_Sebasti%C3%A1n,_Puerto_Rico_Genealogy",
+    "findagrave_cemeteries": [
+      {
+        "name": "Cementerio Municipal de San Sebastián",
+        "url": "https://www.findagrave.com/cemetery/2430695/cementerio-municipal-de-san-sebastian"
+      }
+    ],
     "online_resources": [
       {
         "title": "Civil Registry: San Sebastián Records (1885–1996)",
