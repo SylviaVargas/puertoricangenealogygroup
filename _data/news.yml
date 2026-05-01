@@ -12,6 +12,13 @@
 - date: 2026-05-01
   category: features
   featured: true
+  title: "New: Maricao Municipality Detail Page"
+  body: "The Maricao detail page is now live — covering the town's 1874 founding from San Germán, its 7 barrios in the Cordillera Central coffee zone, Parroquia San Juan Bautista records dating to 1864, civil registry from 1885, coat of arms symbolism, and a full genealogy research toolkit with links to FamilySearch records."
+  link: /tools/municipality-guide/maricao/
+
+- date: 2026-05-01
+  category: features
+  featured: false
   title: "New: Lajas Municipality Detail Page"
   body: "The Lajas detail page is now live — covering the town's 1883 founding from San Germán, its 9 barrios, the critical jurisdictional shift for pre-1883 records, parish and civil registry dates, coat of arms symbolism, and a full genealogy research toolkit with links to FamilySearch records."
   link: /tools/municipality-guide/lajas/

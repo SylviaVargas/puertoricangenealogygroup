@@ -1234,7 +1234,16 @@
       "name": "San José",
       "records_start": 1827
     },
-    "civil_registry_start": 1885
+    "civil_registry_start": 1885,
+    "genealogy_sources": [
+      {
+        "title": "Memoria 60 — Lares, 1955",
+        "author": "Universidad de Puerto Rico, Recinto de Ciencias Médicas, Departamento de Demografía",
+        "url": "https://rcm1.rcm.upr.edu/demografia/wp-content/uploads/sites/30/2020/04/Memoria_60_Lares-1955.pdf",
+        "type": "Local History",
+        "description": "Demographic census memory for Lares published by UPR's RCM Demography Department, 1955. Useful for population context and mid-century historical data."
+      }
+    ]
   },
   {
     "id": "las_marias",
@@ -1374,14 +1383,79 @@
     "founded": 1874,
     "region": "West",
     "mother_town": [
+      "San Germán"
+    ],
+    "is_mother_municipality": false,
+    "has_detail_page": true,
+    "parish": {
+      "name": "San Juan Bautista",
+      "records_start": 1864
+    },
+    "civil_registry_start": 1885,
+    "barrios": [
+      "Bucarabones",
+      "Indiera Alta",
+      "Indiera Baja",
+      "Indiera Fría",
+      "Maricao barrio-pueblo",
+      "Maricao Afuera",
+      "Montoso"
+    ],
+    "neighbors": [
+      "Las Marías",
+      "Lares",
+      "Adjuntas",
+      "Yauco",
+      "Sabana Grande",
       "San Germán",
       "Mayagüez"
     ],
-    "parish": {
-      "name": "San Juan Bautista",
-      "records_start": 1874
+    "familysearch_url": "https://www.familysearch.org/search/catalog/694896",
+    "escudo": {
+      "image": "",
+      "alt": "Coat of arms of Maricao, Puerto Rico",
+      "description": "The Maricao coat of arms is divided into three sections: white upper and lower sections with flowering branches of the maricao tree, referring to the town name; a green central chevron with five bohíos symbolizing the Taíno population of the region; coffee branches around the shield representing the municipality's place in Puerto Rico's coffee-growing zone; and a mural crown marking municipal status.",
+      "license": "",
+      "attribution_url": ""
     },
-    "civil_registry_start": 1885
+    "historical_maps": [],
+    "genealogy_sources": [
+      {
+        "title": "Registros civiles, 1885–1983, Maricao",
+        "author": "FamilySearch",
+        "url": "https://www.familysearch.org/search/catalog/694896",
+        "type": "Digital Collection",
+        "description": "FamilySearch catalog record for Maricao civil registration, including births, marriages, and deaths from 1885."
+      },
+      {
+        "title": "Puerto Rico Civil Registration, 1805–2002",
+        "author": "FamilySearch",
+        "url": "https://www.familysearch.org/en/search/collection/1682798",
+        "type": "Digital Collection",
+        "description": "Searchable collection of Puerto Rico civil records including Maricao."
+      },
+      {
+        "title": "Puerto Rico Catholic Church Records, 1645–2021",
+        "author": "FamilySearch",
+        "url": "https://www.familysearch.org/en/search/collection/1807092",
+        "type": "Digital Collection",
+        "description": "General Puerto Rico Catholic collection including baptisms, confirmations, marriages, deaths, and parish censuses."
+      },
+      {
+        "title": "Notas para su Historia — Maricao",
+        "author": "Oficina Estatal de Conservación Histórica",
+        "url": "https://docs.pr.gov/files/OECH/Publicaciones%20y%20Recursos/Libros%20Notas%20para%20su%20Historia/Notas%20para%20su%20Historia%20Maricao.pdf",
+        "type": "Local History",
+        "description": "Local history of Maricao in the Notas para su Historia series."
+      },
+      {
+        "title": "EnciclopediaPR — Municipio de Maricao",
+        "author": "EnciclopediaPR",
+        "url": "https://enciclopediapr.org/content/municipio-de-maricao/",
+        "type": "Reference",
+        "description": "Overview of Maricao history, geography, coat of arms, and municipal context."
+      }
+    ]
   },
   {
     "id": "maunabo",
