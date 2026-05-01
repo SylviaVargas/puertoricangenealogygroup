@@ -299,14 +299,83 @@
     "name": "Arecibo",
     "founded": 1616,
     "region": "North",
-    "mother_town": [
-      "San Juan"
-    ],
+    "mother_town": [],
+    "is_mother_municipality": true,
+    "has_detail_page": true,
     "parish": {
-      "name": "San Felipe Apóstol",
+      "name": "Catedral San Felipe Apóstol",
       "records_start": 1708
     },
-    "civil_registry_start": 1885
+    "civil_registry_start": 1885,
+    "barrios": [
+      "Arecibo barrio-pueblo",
+      "Cambalache",
+      "Capita",
+      "Coto",
+      "Dominguito",
+      "Factor",
+      "Garrochales",
+      "Hato Viejo",
+      "Islote",
+      "Miraflores",
+      "Río Arriba",
+      "Sabana Hoyos",
+      "Santana",
+      "Tiburones",
+      "Trembladora",
+      "Vega",
+      "Viví Abajo",
+      "Viví Arriba"
+    ],
+    "neighbors": [
+      "Barceloneta",
+      "Ciales",
+      "Florida",
+      "Hatillo",
+      "Utuado"
+    ],
+    "familysearch_url": "https://www.familysearch.org/en/wiki/Arecibo,_Puerto_Rico_Genealogy",
+    "findagrave_cemeteries": [
+      {
+        "name": "Cementerio Municipal de Arecibo",
+        "url": "https://www.findagrave.com/cemetery/330696/cementerio-municipal-de-arecibo"
+      },
+      {
+        "name": "Cementerio Nuevo Municipal Urbano #3 - Arecibo",
+        "url": "https://www.findagrave.com/cemetery/2139742/cementerio-nuevo-municipal-urbano-%233"
+      }
+    ],
+    "escudo": {
+      "image": "",
+      "alt": "Coat of arms of Arecibo, Puerto Rico",
+      "description": "The coat of arms combines Taíno, colonial, and civic symbolism. The crown at the top references Taíno heritage and the town's indigenous roots. Blue and gold lozenges in the central field honor Governor Felipe de Beaumont y Navarro and the Spanish foundation era. A belt or banda running across the shield commemorates Captain Antonio de los Reyes Correa, whose 1702 defense of the town against British forces earned Arecibo the honorific Muy Leal Villa.",
+      "license": "",
+      "attribution_url": ""
+    },
+    "historical_maps": [],
+    "genealogy_sources": [
+      {
+        "title": "Arecibo, Puerto Rico Genealogy",
+        "author": "FamilySearch Wiki contributors",
+        "url": "https://www.familysearch.org/en/wiki/Arecibo,_Puerto_Rico_Genealogy",
+        "type": "Research Guide",
+        "description": "A comprehensive municipal guide covering civil registration, Catholic church records, cemetery resources, and census research for Arecibo."
+      },
+      {
+        "title": "Notas para su Historia: Arecibo",
+        "author": "Oficina Estatal de Conservación Histórica / Gobierno de Puerto Rico",
+        "url": "https://docs.pr.gov/files/OECH/Publicaciones%20y%20Recursos/Libros%20Notas%20para%20su%20Historia/Notas%20para%20su%20Historia%20Arecibo.pdf",
+        "type": "Government History (PDF)",
+        "description": "An official historical reference booklet for Arecibo published by the Puerto Rico Office of Historic Preservation."
+      },
+      {
+        "title": "Puerto Rico Catholic Church Records, 1645-1969",
+        "author": "FamilySearch",
+        "url": "https://www.familysearch.org/en/wiki/Puerto_Rico_Catholic_Church_Records_-_FamilySearch_Historical_Records",
+        "type": "Record Collection",
+        "description": "FamilySearch collection covering Catholic baptisms, confirmations, marriages, and burials for Puerto Rico, including Arecibo."
+      }
+    ]
   },
   {
     "id": "arroyo",

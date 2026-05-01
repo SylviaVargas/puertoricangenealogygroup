@@ -10,9 +10,16 @@
 # Mantenimiento: agregar entradas nuevas al inicio. Cambiar featured anterior a false.
 # Para archivar: mover entradas con más de ~12 meses a _data/news_es_archive_YYYY.yml
 
-- date: 2026-04-26
+- date: 2026-05-01
   category: funciones
   featured: true
+  title: "Nuevo: Página de Detalle del Municipio Arecibo"
+  body: "La página de detalle de Arecibo ya está disponible — con la historia de su fundación en 1616 como uno de los municipios más antiguos de Puerto Rico, sus 18 barrios, registros parroquiales en la Catedral San Felipe Apóstol desde 1708, fechas del registro civil, el simbolismo del escudo que honra al Capitán Correa y el título de Muy Leal Villa, y una guía completa de investigación genealógica con enlaces a FamilySearch."
+  link: /es/guia-municipios/arecibo/
+
+- date: 2026-04-26
+  category: funciones
+  featured: false
   title: "Nuevo: Página de Detalle del Municipio Juncos"
   body: "La página de detalle de Juncos ya está disponible — con la historia de su fundación en 1797 como 'La Ciudad del Valenciano,' sus 9 barrios, registros parroquiales desde 1797 en la Parroquia Inmaculada Concepción, fechas del registro civil, el simbolismo del escudo municipal y una guía completa de investigación genealógica que incluye el Archivo Histórico Municipal de Juncos."
   link: /es/guia-municipios/juncos/

@@ -9,9 +9,16 @@
 #
 # Maintenance: add new entries at the top. Move old featured to non-featured.
 # To archive: move entries older than ~12 months to _data/news_archive_YYYY.yml
-- date: 2026-04-26
+- date: 2026-05-01
   category: features
   featured: true
+  title: "New: Arecibo Municipality Detail Page"
+  body: "The Arecibo detail page is now live — covering the town's 1616 founding as one of Puerto Rico's oldest municipalities, its 18 barrios, parish records at the Catedral San Felipe Apóstol dating to 1708, civil registry dates, the coat of arms honoring Captain Correa and the Muy Leal Villa honorific, and a full genealogy research toolkit with links to FamilySearch records."
+  link: /tools/municipality-guide/arecibo/
+
+- date: 2026-04-26
+  category: features
+  featured: false
   title: "New: Juncos Municipality Detail Page"
   body: "The Juncos detail page is now live — covering the town's 1797 founding as the 'City of the Valencian,' its 9 barrios, parish records dating to 1797 at the Parroquia Inmaculada Concepción, civil registry dates, coat of arms symbolism, and a full genealogy research toolkit including the Archivo Histórico Municipal de Juncos."
   link: /tools/municipality-guide/juncos/
