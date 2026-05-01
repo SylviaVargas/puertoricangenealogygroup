@@ -13,6 +13,13 @@
 - date: 2026-05-01
   category: funciones
   featured: true
+  title: "Nuevo: Página de Detalle del Municipio Lajas"
+  body: "La página de detalle de Lajas ya está disponible — con la historia de su fundación en 1883 tras separarse de San Germán, sus 9 barrios, el cambio jurisdiccional clave para los registros anteriores a 1883, fechas de los registros parroquiales y civiles, el simbolismo del escudo municipal y una guía completa de investigación genealógica con enlaces a FamilySearch."
+  link: /es/guia-municipios/lajas/
+
+- date: 2026-05-01
+  category: funciones
+  featured: false
   title: "Nuevo: Página de Detalle del Municipio Hormigueros"
   body: "La página de detalle de Hormigueros ya está disponible — con la historia de su fundación en 1874, su separación de San Germán, el histórico Santuario Diocesano Nuestra Señora de la Monserrate, fechas de los registros parroquiales y civiles, el simbolismo del escudo municipal y una guía completa de investigación genealógica con enlaces a FamilySearch."
   link: /es/guia-municipios/hormigueros/

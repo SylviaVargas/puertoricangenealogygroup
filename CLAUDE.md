@@ -176,6 +176,28 @@ trademark: "Teaching Genealogists AI™"
 
 ---
 
+## Municipality Data Integrity (`_data/pr-municipalities.json`)
+
+**`mother_town` must never be an empty array.**
+
+Every entry must have at least one value. The Mother-Town Relationships tree on the website is built entirely from this field; an empty array silently drops that municipality and all its descendants from the tree.
+
+| Value | When to use |
+| --- | --- |
+| `["Original Settlement"]` | Only for the three original Spanish settlements: San Juan (1521), San Germán (1573), Arecibo (1616). |
+| `["Town A"]` | Municipality split from one earlier town. |
+| `["Town A", "Town B"]` | Municipality split from two earlier towns. |
+
+To find the correct parent town: look at the founding year and cross-reference with neighboring municipalities that were founded earlier. If uncertain, check the Notas para su Historia for that municipality.
+
+**Before saving any new or updated entry, verify:**
+
+```python
+assert m["mother_town"] != [], f"{m['name']} has empty mother_town"
+```
+
+---
+
 ## Municipality Images
 
 Coat of arms and historical map images follow a strict naming convention. Full details in `prgg-admin/municipality-pages/CONVENTIONS.md`.

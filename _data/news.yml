@@ -12,6 +12,13 @@
 - date: 2026-05-01
   category: features
   featured: true
+  title: "New: Lajas Municipality Detail Page"
+  body: "The Lajas detail page is now live — covering the town's 1883 founding from San Germán, its 9 barrios, the critical jurisdictional shift for pre-1883 records, parish and civil registry dates, coat of arms symbolism, and a full genealogy research toolkit with links to FamilySearch records."
+  link: /tools/municipality-guide/lajas/
+
+- date: 2026-05-01
+  category: features
+  featured: false
   title: "New: Hormigueros Municipality Detail Page"
   body: "The Hormigueros detail page is now live — covering the town's 1874 founding, its separation from San Germán, the historic Santuario Diocesano Nuestra Señora de la Monserrate, parish and civil registry dates, coat of arms symbolism, and a full genealogy research toolkit with links to FamilySearch records."
   link: /tools/municipality-guide/hormigueros/

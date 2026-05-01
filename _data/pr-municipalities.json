@@ -143,6 +143,18 @@
         "url": "https://archivoaguadilla.org/2022/12/libros-parroquiales-de-aguadilla-1780-1843/",
         "type": "Parish Records",
         "description": "Published online December 2022. Contains baptisms, marriages, and burials for the parish of Aguadilla (1780–1843)."
+      },
+      {
+        "title": "Church Transcriptions for Aguadilla — Hijos de Coamo",
+        "url": "https://hijosdecoamopr.com/church-transcriptions-for-aguadilla-puerto-rico/",
+        "type": "Church Transcriptions",
+        "description": "Volunteer-transcribed Catholic church records for Aguadilla, Puerto Rico, compiled and published by Hijos de Coamo PR."
+      },
+      {
+        "title": "Aguadilla Municipio — U.S. Census Bureau Profile",
+        "url": "https://data.census.gov/profile/Aguadilla_Municipio,_Puerto_Rico?g=050XX00US72005#populations-and-people",
+        "type": "Census Profile",
+        "description": "Official U.S. Census Bureau demographic profile for Aguadilla Municipio, including population data useful for contextualizing genealogical research."
       }
     ],
     "escudo": {
@@ -299,7 +311,9 @@
     "name": "Arecibo",
     "founded": 1616,
     "region": "North",
-    "mother_town": [],
+    "mother_town": [
+      "Original Settlement"
+    ],
     "is_mother_municipality": true,
     "has_detail_page": true,
     "parish": {
@@ -990,7 +1004,9 @@
     "name": "Isabela",
     "founded": 1819,
     "region": "Northwest",
-    "mother_town": [],
+    "mother_town": [
+      "Aguadilla"
+    ],
     "is_mother_municipality": false,
     "has_detail_page": true,
     "parish": {
@@ -1148,11 +1164,62 @@
     "mother_town": [
       "San Germán"
     ],
+    "is_mother_municipality": false,
+    "has_detail_page": true,
     "parish": {
-      "name": "Nuestra Señora de la Candelaria",
-      "records_start": 1883
+      "name": "San José",
+      "records_start": 1885
     },
-    "civil_registry_start": 1885
+    "civil_registry_start": 1885,
+    "barrios": [
+      "Candelaria",
+      "Costa",
+      "Lajas Arriba",
+      "Llanos",
+      "Palmarejo",
+      "París",
+      "Plata",
+      "Sabana Yeguas",
+      "Lajas barrio-pueblo"
+    ],
+    "neighbors": [
+      "Cabo Rojo",
+      "San Germán",
+      "Sabana Grande",
+      "Guánica"
+    ],
+    "familysearch_url": "https://www.familysearch.org/search/catalog/results?count=20&placeId=180675&query=%2Bplace%3A%22Puerto%20Rico%2C%20Lajas%22",
+    "escudo": {
+      "image": "",
+      "alt": "Coat of arms of Lajas, Puerto Rico",
+      "description": "The coat of arms features agricultural imagery reflecting the fertile plains of the Lajas Valley, religious symbolism tied to the municipality's Catholic heritage, and geographic references to the region's coastal and inland identity.",
+      "license": "",
+      "attribution_url": ""
+    },
+    "historical_maps": [],
+    "genealogy_sources": [
+      {
+        "title": "Puerto Rico Civil Registration, 1885–2001",
+        "author": "FamilySearch",
+        "url": "https://www.familysearch.org/search/collection/1682798",
+        "type": "Digital Collection",
+        "description": "Birth, marriage, and death records for Lajas beginning in 1885. The most reliable source for post-1885 vital records."
+      },
+      {
+        "title": "Puerto Rico, Catholic Church Records, 1645–1969",
+        "author": "FamilySearch",
+        "url": "https://www.familysearch.org/search/collection/1807092",
+        "type": "Digital Collection",
+        "description": "Sacramental records including baptism, marriage, and burial. Coverage for Lajas may overlap with San Germán parish records for the pre-1883 period."
+      },
+      {
+        "title": "Lajas — Enciclopedia de Puerto Rico",
+        "author": "Enciclopedia de Puerto Rico",
+        "url": "https://enciclopediapr.org/en/encyclopedia/lajas/",
+        "type": "Reference",
+        "description": "Historical overview and coat of arms symbolism for Lajas, useful for contextualizing genealogical research."
+      }
+    ]
   },
   {
     "id": "lares",
@@ -1765,6 +1832,12 @@
         "url": "https://rincon.gov.pr/transfondo-historico/",
         "type": "Municipal Website",
         "description": "Official municipal history page from the Municipality of Rincón, covering the town's founding and early settlement, including the account of Don Pablo de Arroyo."
+      },
+      {
+        "title": "Rincón, Puerto Rico — Google Maps",
+        "url": "https://www.google.com/maps/place/Rinc%C3%B3n+00677,+Puerto+Rico/@18.3361975,-67.2265646,13z/data=!3m1!4b1!4m6!3m5!1s0x8c02a58300c0f521:0xc76b95b98110b40a!8m2!3d18.3317391!4d-67.2311584!16zL20vMDJfenQ3?entry=ttu&g_ep=EgoyMDI2MDQyOS4wIKXMDSoASAFQAw%3D%3D",
+        "type": "Google Maps",
+        "description": "Interactive Google Maps view of Rincón, Puerto Rico — useful for locating barrios, landmarks, and geographic context for research."
       }
     ],
     "escudo": {
