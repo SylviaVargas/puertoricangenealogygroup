@@ -921,14 +921,55 @@
     "founded": 1874,
     "region": "West",
     "mother_town": [
-      "San Germán",
-      "Mayagüez"
+      "San Germán"
     ],
+    "is_mother_municipality": false,
+    "has_detail_page": true,
     "parish": {
-      "name": "Nuestra Señora de la Monserrate",
-      "records_start": 1874
+      "name": "Parroquia Nuestra Señora de la Monserrate",
+      "records_start": null
     },
-    "civil_registry_start": 1885
+    "civil_registry_start": 1885,
+    "barrios": [
+      "Benavente",
+      "Guanajibo",
+      "Hormigueros Pueblo",
+      "Jaguitas",
+      "Lavadero"
+    ],
+    "neighbors": [
+      "Mayagüez",
+      "San Germán",
+      "Cabo Rojo"
+    ],
+    "familysearch_url": "https://www.familysearch.org/en/wiki/Hormigueros,_Puerto_Rico_Genealogy",
+    "escudo": {
+      "image": "",
+      "alt": "Coat of arms of Hormigueros, Puerto Rico",
+      "description": "The coat of arms features a blue rhombus at center, representing the night sky and devotion to Our Lady of Monserrate. A silver border frames the shield. A hill surmounted by the sanctuary image occupies the central field, referencing the historic pilgrimage site. Black ants appear on the shield, recalling the town's name derived from the Spanish word for ant colony (hormiguero). A three-towered wall crown denotes its status as an autonomous municipality.",
+      "license": "",
+      "attribution_url": "https://es.wikipedia.org/wiki/Archivo:Escudo_de_Hormigueros,_Puerto_Rico.svg"
+    },
+    "historical_maps": [
+      {
+        "image": "/assets/images/municipalities/maps/hormigueros-2010.svg",
+        "year": 2010,
+        "caption": "Barrios and sectors of Hormigueros, Puerto Rico",
+        "source": "Wikimedia Commons / U.S. Census Bureau",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Hormigueros,_Puerto_Rico_barrios_and_sectors_map.svg"
+      }
+    ],
+    "findagrave_cemeteries": [
+      {
+        "name": "Cementerio Municipal de Hormigueros",
+        "url": "https://www.findagrave.com/cemetery/2154180/cementerio-municipal-de-hormigueros"
+      },
+      {
+        "name": "Cementerio Municipal De Hormugueros",
+        "url": "https://www.findagrave.com/cemetery/2682853/cementerio-municipal-de-hormugueros"
+      }
+    ],
+    "genealogy_sources": []
   },
   {
     "id": "humacao",

@@ -12,6 +12,13 @@
 - date: 2026-05-01
   category: features
   featured: true
+  title: "New: Hormigueros Municipality Detail Page"
+  body: "The Hormigueros detail page is now live — covering the town's 1874 founding, its separation from San Germán, the historic Santuario Diocesano Nuestra Señora de la Monserrate, parish and civil registry dates, coat of arms symbolism, and a full genealogy research toolkit with links to FamilySearch records."
+  link: /tools/municipality-guide/hormigueros/
+
+- date: 2026-05-01
+  category: features
+  featured: false
   title: "New: Utuado Municipality Detail Page"
   body: "The Utuado detail page is now live — covering the town's 1739 founding, its 24 barrios, Taíno heritage at the Caguana ceremonial site, parish records at San Miguel Arcángel dating to 1792, civil registry dates, coat of arms symbolism, and a full genealogy research toolkit with links to FamilySearch records."
   link: /tools/municipality-guide/utuado/
