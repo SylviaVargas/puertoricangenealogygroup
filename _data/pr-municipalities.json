@@ -2150,11 +2150,94 @@
     "mother_town": [
       "Arecibo"
     ],
+    "is_mother_municipality": true,
+    "has_detail_page": true,
     "parish": {
-      "name": "San Miguel",
-      "records_start": 1740
+      "name": "Parroquia San Miguel Arcángel",
+      "records_start": 1792
     },
-    "civil_registry_start": 1885
+    "civil_registry_start": 1885,
+    "barrios": [
+      "Ángeles",
+      "Arenas",
+      "Caguana",
+      "Caníaco",
+      "Caonillas Abajo",
+      "Caonillas Arriba",
+      "Consejo",
+      "Don Alonso",
+      "Guaonico",
+      "Las Palmas",
+      "Limón",
+      "Mameyes Abajo",
+      "Paso Palma",
+      "Río Abajo",
+      "Roncador",
+      "Sabana Grande",
+      "Salto Abajo",
+      "Salto Arriba",
+      "Santa Isabel",
+      "Santa Rosa",
+      "Tetuán",
+      "Utuado barrio-pueblo",
+      "Viví Abajo",
+      "Viví Arriba"
+    ],
+    "neighbors": [
+      "Adjuntas",
+      "Arecibo",
+      "Ciales",
+      "Hatillo",
+      "Jayuya",
+      "Lares",
+      "Ponce"
+    ],
+    "familysearch_url": "https://www.familysearch.org/en/search/catalog/770973",
+    "findagrave_cemeteries": [
+      {
+        "name": "Utuado Municipal Cemetery",
+        "url": "https://www.findagrave.com/cemetery/2534172/utuado-municipal-cemetery"
+      },
+      {
+        "name": "Cementerio Municipal de Utuado, Barrio los Angeles",
+        "url": "https://www.findagrave.com/cemetery/2430707/cementerio-municipal-de-utuado%2C-barrio-los-angeles"
+      },
+      {
+        "name": "Cementerio Municipal Monte Calvario",
+        "url": "https://www.findagrave.com/cemetery/2442958/cementerio-municipal-monte-calvario"
+      }
+    ],
+    "escudo": {
+      "image": "",
+      "alt": "Coat of arms of Utuado, Puerto Rico",
+      "description": "The Utuado coat of arms features a cemí representing Taíno spiritual and ancestral heritage, a silver sword with a gold hilt recalling the town's patron saint San Miguel Arcángel, and a Taíno female figure associated with the Caguana ceremonial site. Mining symbols recall the mineral history of the interior highlands. The blue field represents the sky, and a white lower stripe represents the Río Viví.",
+      "license": "",
+      "attribution_url": ""
+    },
+    "historical_maps": [],
+    "genealogy_sources": [
+      {
+        "title": "Utuado: Notas para su Historia",
+        "author": "Pedro H. Hernández Paralitici / Oficina Estatal de Conservación Histórica",
+        "url": "https://docs.pr.gov/files/OECH/Publicaciones%20y%20Recursos/Libros%20Notas%20para%20su%20Historia/Notas%20para%20su%20Historia%20Utuado.pdf",
+        "type": "Government History (PDF)",
+        "description": "An official historical reference booklet for Utuado published by the Puerto Rico Office of Historic Preservation."
+      },
+      {
+        "title": "Utuado Civil Registration, 1885-1996",
+        "author": "FamilySearch",
+        "url": "https://www.familysearch.org/en/search/catalog/770973",
+        "type": "Record Collection",
+        "description": "FamilySearch catalog entry for Utuado civil registration on 45 microfilm reels, including indexes; notes damaged and out-of-order records in some films."
+      },
+      {
+        "title": "Puerto Rico Local History and Genealogy — Vital Records",
+        "author": "Library of Congress",
+        "url": "https://guides.loc.gov/puerto-rico-local-history-genealogy/vital-records",
+        "type": "Research Guide",
+        "description": "Library of Congress guide explaining Puerto Rico vital records and the relationship between parish and civil registration."
+      }
+    ]
   },
   {
     "id": "vega_alta",

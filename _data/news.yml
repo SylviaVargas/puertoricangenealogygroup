@@ -12,6 +12,13 @@
 - date: 2026-05-01
   category: features
   featured: true
+  title: "New: Utuado Municipality Detail Page"
+  body: "The Utuado detail page is now live — covering the town's 1739 founding, its 24 barrios, Taíno heritage at the Caguana ceremonial site, parish records at San Miguel Arcángel dating to 1792, civil registry dates, coat of arms symbolism, and a full genealogy research toolkit with links to FamilySearch records."
+  link: /tools/municipality-guide/utuado/
+
+- date: 2026-05-01
+  category: features
+  featured: false
   title: "New: Arecibo Municipality Detail Page"
   body: "The Arecibo detail page is now live — covering the town's 1616 founding as one of Puerto Rico's oldest municipalities, its 18 barrios, parish records at the Catedral San Felipe Apóstol dating to 1708, civil registry dates, the coat of arms honoring Captain Correa and the Muy Leal Villa honorific, and a full genealogy research toolkit with links to FamilySearch records."
   link: /tools/municipality-guide/arecibo/

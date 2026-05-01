@@ -13,6 +13,13 @@
 - date: 2026-05-01
   category: funciones
   featured: true
+  title: "Nuevo: Página de Detalle del Municipio Utuado"
+  body: "La página de detalle de Utuado ya está disponible — con la historia de su fundación en 1739, sus 24 barrios, la herencia taína en el sitio ceremonial de Caguana, registros parroquiales de San Miguel Arcángel desde 1792, fechas del registro civil, el simbolismo del escudo municipal y una guía completa de investigación genealógica con enlaces a FamilySearch."
+  link: /es/guia-municipios/utuado/
+
+- date: 2026-05-01
+  category: funciones
+  featured: false
   title: "Nuevo: Página de Detalle del Municipio Arecibo"
   body: "La página de detalle de Arecibo ya está disponible — con la historia de su fundación en 1616 como uno de los municipios más antiguos de Puerto Rico, sus 18 barrios, registros parroquiales en la Catedral San Felipe Apóstol desde 1708, fechas del registro civil, el simbolismo del escudo que honra al Capitán Correa y el título de Muy Leal Villa, y una guía completa de investigación genealógica con enlaces a FamilySearch."
   link: /es/guia-municipios/arecibo/
