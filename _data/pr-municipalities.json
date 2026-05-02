@@ -1227,14 +1227,46 @@
     "founded": 1827,
     "region": "Central",
     "mother_town": [
-      "San Sebastián",
-      "Utuado"
+      "San Sebastián"
     ],
+    "is_mother_municipality": false,
+    "has_detail_page": true,
     "parish": {
       "name": "San José",
       "records_start": 1827
     },
     "civil_registry_start": 1885,
+    "barrios": [
+      "Bartolo",
+      "Buenos Aires",
+      "Callejones",
+      "Espino",
+      "La Torre",
+      "Lares barrio-pueblo",
+      "Mirasol",
+      "Pezuela",
+      "Piletas",
+      "Río Prieto"
+    ],
+    "neighbors": [
+      "Adjuntas",
+      "Camuy",
+      "Hatillo",
+      "Las Marías",
+      "Maricao",
+      "San Sebastián",
+      "Utuado",
+      "Yauco"
+    ],
+    "familysearch_url": "https://www.familysearch.org/en/search/catalog/711381",
+    "escudo": {
+      "image": "",
+      "alt": "Coat of arms of Lares, Puerto Rico",
+      "description": "",
+      "license": "",
+      "attribution_url": ""
+    },
+    "historical_maps": [],
     "genealogy_sources": [
       {
         "title": "Memoria 60 — Lares, 1955",
@@ -1242,6 +1274,27 @@
         "url": "https://rcm1.rcm.upr.edu/demografia/wp-content/uploads/sites/30/2020/04/Memoria_60_Lares-1955.pdf",
         "type": "Local History",
         "description": "Demographic census memory for Lares published by UPR's RCM Demography Department, 1955. Useful for population context and mid-century historical data."
+      },
+      {
+        "title": "Registros civiles, 1885–1994 — Lares",
+        "author": "FamilySearch",
+        "url": "https://www.familysearch.org/en/search/catalog/711381",
+        "type": "Civil Registration",
+        "description": "FamilySearch catalog entry for Lares civil registration records, 1885–1994. Includes birth, marriage, and death records."
+      },
+      {
+        "title": "Documentos municipales, 1842–1927 — Lares",
+        "author": "FamilySearch",
+        "url": "https://www.familysearch.org/en/search/catalog/609597",
+        "type": "Municipal Records",
+        "description": "Catalog entry for Lares municipal documents including marriages, deaths, census, slave contracts, register of free slaves, and census of slaves, 1842–1927."
+      },
+      {
+        "title": "Puerto Rico, Catholic Church Records, 1645–1969",
+        "author": "FamilySearch",
+        "url": "https://www.familysearch.org/search/collection/1807092",
+        "type": "Parish Records",
+        "description": "FamilySearch digitized Catholic Church records for Puerto Rico, including Lares parish registers from the Parroquia San José."
       }
     ]
   },
@@ -1670,11 +1723,69 @@
     "mother_town": [
       "Manatí"
     ],
+    "is_mother_municipality": false,
+    "has_detail_page": true,
     "parish": {
       "name": "Nuestra Señora del Carmen",
       "records_start": 1818
     },
-    "civil_registry_start": 1885
+    "civil_registry_start": 1885,
+    "barrios": [
+      "Barahona",
+      "Cuchillas",
+      "Fránquez",
+      "Monte Llano",
+      "Morovis barrio-pueblo",
+      "Morovis Norte",
+      "Morovis Sur",
+      "Pasto",
+      "Perchas",
+      "Río Grande",
+      "San Lorenzo",
+      "Torrecillas",
+      "Unibón",
+      "Vaga"
+    ],
+    "neighbors": [
+      "Ciales",
+      "Corozal",
+      "Manatí",
+      "Orocovis",
+      "Vega Alta",
+      "Vega Baja"
+    ],
+    "familysearch_url": "https://www.familysearch.org/en/search/collection/1682798",
+    "escudo": {
+      "image": "",
+      "alt": "Coat of arms of Morovis, Puerto Rico",
+      "description": "The Morovis coat of arms is divided into three sections: a gold left field bearing a sable eagle with red beak and claws, its head encircled by a halo, representing Saint John the Evangelist and honoring the town's principal founder Don Juan Evangelista Rivera; a red right field bearing five cuatros (the traditional Puerto Rican string instrument), honoring Morovis as the principal center of cuatro production on the island; and a center emblem of the Order of Carmelite Nuns, honoring the patron saint Nuestra Señora del Carmen. A three-towered castle crowns the top, marking municipal status.",
+      "license": "",
+      "attribution_url": ""
+    },
+    "historical_maps": [],
+    "genealogy_sources": [
+      {
+        "title": "Los primeros grupos familiares moroveños en la fundación del poblado",
+        "author": "Dra. Raquel Rosario-Rivera",
+        "url": "http://www.raquelrosario.net/Primeros%20grupos%20familiares%20Morove%C3%B1os%20_Incluye%20lista_.pdf",
+        "type": "Genealogy Article",
+        "description": "Article from La Revista de Genealogía Puertorriqueña (Año 4, Núm. 2, octubre 2003) documenting the founding families of Morovis, with a list of early family groups."
+      },
+      {
+        "title": "Puerto Rico, Civil Registrations, 1885–2001",
+        "author": "FamilySearch",
+        "url": "https://www.familysearch.org/en/search/collection/1682798",
+        "type": "Civil Registration",
+        "description": "FamilySearch collection for Puerto Rico civil registration records, including birth, marriage, and death records for Morovis from 1885 onward."
+      },
+      {
+        "title": "Puerto Rico, Catholic Church Records, 1645–1969",
+        "author": "FamilySearch",
+        "url": "https://www.familysearch.org/search/collection/1807092",
+        "type": "Parish Records",
+        "description": "FamilySearch digitized Catholic Church records for Puerto Rico, including Morovis parish registers from the Parroquia Nuestra Señora del Carmen."
+      }
+    ]
   },
   {
     "id": "naguabo",

@@ -9,9 +9,23 @@
 #
 # Maintenance: add new entries at the top. Move old featured to non-featured.
 # To archive: move entries older than ~12 months to _data/news_archive_YYYY.yml
-- date: 2026-05-01
+- date: 2026-05-02
   category: features
   featured: true
+  title: "New: Morovis Municipality Detail Page"
+  body: "The Morovis detail page is now live — covering the town's 1818 founding from Manatí, its 14 barrios in the central highlands, Parroquia Nuestra Señora del Carmen records dating to 1818, civil registry from 1885, coat of arms honoring the cuatro tradition and founder Don Juan Evangelista Rivera, and a full genealogy research toolkit with links to FamilySearch records."
+  link: /tools/municipality-guide/morovis/
+
+- date: 2026-05-02
+  category: features
+  featured: false
+  title: "New: Lares Municipality Detail Page"
+  body: "The Lares detail page is now live — covering the town's 1827 founding from San Sebastián, its 10 barrios in the Cordillera Central, its role as the site of the 1868 Grito de Lares, Parroquia San José records dating to 1827, civil registry from 1885, and a full genealogy research toolkit with links to FamilySearch records."
+  link: /tools/municipality-guide/lares/
+
+- date: 2026-05-01
+  category: features
+  featured: false
   title: "New: Maricao Municipality Detail Page"
   body: "The Maricao detail page is now live — covering the town's 1874 founding from San Germán, its 7 barrios in the Cordillera Central coffee zone, Parroquia San Juan Bautista records dating to 1864, civil registry from 1885, coat of arms symbolism, and a full genealogy research toolkit with links to FamilySearch records."
   link: /tools/municipality-guide/maricao/

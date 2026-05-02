@@ -10,9 +10,23 @@
 # Mantenimiento: agregar entradas nuevas al inicio. Cambiar featured anterior a false.
 # Para archivar: mover entradas con más de ~12 meses a _data/news_es_archive_YYYY.yml
 
-- date: 2026-05-01
+- date: 2026-05-02
   category: funciones
   featured: true
+  title: "Nuevo: Página de Detalle del Municipio Morovis"
+  body: "La página de detalle de Morovis ya está disponible — con la historia de su fundación en 1818 al separarse de Manatí, sus 14 barrios en las montañas centrales, los registros de la Parroquia Nuestra Señora del Carmen desde 1818, el registro civil desde 1885, el simbolismo del escudo que honra la tradición del cuatro y al fundador Don Juan Evangelista Rivera, y una guía completa de investigación genealógica con enlaces a FamilySearch."
+  link: /es/guia-municipios/morovis/
+
+- date: 2026-05-02
+  category: funciones
+  featured: false
+  title: "Nuevo: Página de Detalle del Municipio Lares"
+  body: "La página de detalle de Lares ya está disponible — con la historia de su fundación en 1827 al separarse de San Sebastián, sus 10 barrios en la Cordillera Central, su papel como escenario del Grito de Lares de 1868, los registros de la Parroquia San José desde 1827, el registro civil desde 1885 y una guía completa de investigación genealógica con enlaces a FamilySearch."
+  link: /es/guia-municipios/lares/
+
+- date: 2026-05-01
+  category: funciones
+  featured: false
   title: "Nuevo: Página de Detalle del Municipio Maricao"
   body: "La página de detalle de Maricao ya está disponible — con la historia de su fundación en 1874 tras separarse de San Germán, sus 7 barrios en la zona cafetalera de la Cordillera Central, los registros de la Parroquia San Juan Bautista desde 1864, el registro civil desde 1885, el simbolismo del escudo municipal y una guía completa de investigación genealógica con enlaces a FamilySearch."
   link: /es/guia-municipios/maricao/
