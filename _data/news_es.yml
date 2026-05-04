@@ -13,6 +13,20 @@
 - date: 2026-05-04
   category: funciones
   featured: true
+  title: "Mejorado: Página de Detalle del Municipio Guaynabo"
+  body: "La página de detalle de Guaynabo ha sido ampliada con cuatro nuevas fuentes genealógicas: el perfil del Municipio del Censo de EE. UU., el catálogo de registro civil de FamilySearch (1886), los Padrones de Esclavos de 1872 para las jurisdicciones del norte, y los registros de cementerios de Find A Grave. La investigación en Guaynabo requiere navegar tres épocas: registros previos a 1769 en San Juan y Bayamón, la era parroquial independiente (1769-1885) y la laguna de supresión (1875-1912) cuando los barrios fueron absorbidos por Bayamón y Río Piedras."
+  link: /es/guia-municipios/guaynabo/
+
+- date: 2026-05-04
+  category: funciones
+  featured: false
+  title: "Nuevo: Página de Detalle del Municipio Toa Baja"
+  body: "La página de detalle de Toa Baja ya está disponible — con la historia de la 'Ciudad de los Llanos' y su fundación en 1745 en tierras de la jurisdicción de San Juan, sus 5 barrios, registros parroquiales en San Pedro Apóstol desde 1781, registro civil desde 1885, simbolismo del escudo municipal y una guía completa de investigación genealógica. Toa Baja es pueblo matriz de Dorado (1842), lo que hace sus registros esenciales para investigadores que rastrean antepasados en la llanura costera norte."
+  link: /es/guia-municipios/toa-baja/
+
+- date: 2026-05-04
+  category: funciones
+  featured: false
   title: "Nuevo: Página de Detalle del Municipio Manatí"
   body: "La página de detalle de Manatí ya está disponible — con la historia de la 'Atenas de Puerto Rico' y su fundación en 1738 en tierras de la jurisdicción de Arecibo, sus 9 barrios, registros parroquiales en Nuestra Señora de la Candelaria y San Matías desde 1758, registro civil desde 1885, simbolismo del escudo municipal y una guía completa de investigación genealógica. Manatí es pueblo matriz de Ciales (1820) y Barceloneta (1881), lo que hace sus registros esenciales para investigadores que rastrean antepasados de esos municipios."
   link: /es/guia-municipios/manati/

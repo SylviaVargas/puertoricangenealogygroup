@@ -12,6 +12,20 @@
 - date: 2026-05-04
   category: features
   featured: true
+  title: "Enhanced: Guaynabo Municipality Detail Page"
+  body: "The Guaynabo detail page has been expanded with four new genealogy sources: the U.S. Census Bureau municipio profile, the FamilySearch civil registration catalog (1886), the 1872 Slave Schedules for the northern jurisdictions, and Find A Grave cemetery records. Guaynabo's research requires navigating three eras — pre-1769 San Juan/Bayamón records, the independent parish era (1769-1885), and the suppression gap (1875-1912) when barrios were absorbed by Bayamón and Río Piedras."
+  link: /tools/municipality-guide/guaynabo/
+
+- date: 2026-05-04
+  category: features
+  featured: false
+  title: "New: Toa Baja Municipality Detail Page"
+  body: "The Toa Baja detail page is now live — covering the 'Ciudad de los Llanos' and its 1745 founding on former San Juan territory, its 5 barrios, parish records at San Pedro Apóstol from 1781, civil registry from 1885, coat of arms symbolism, and a full genealogy research toolkit. Toa Baja is the mother town of Dorado (1842), making its records essential for researchers tracing ancestors across the northern coastal plain."
+  link: /tools/municipality-guide/toa-baja/
+
+- date: 2026-05-04
+  category: features
+  featured: false
   title: "New: Manatí Municipality Detail Page"
   body: "The Manatí detail page is now live — covering the 'Atenas de Puerto Rico' and its 1738 founding on former Arecibo territory, its 9 barrios, parish records at Nuestra Señora de la Candelaria y San Matías from 1758, civil registry from 1885, coat of arms symbolism, and a full genealogy research toolkit. Manatí is the mother town of both Ciales (1820) and Barceloneta (1881), making its records essential for researchers tracing ancestors in those municipalities."
   link: /tools/municipality-guide/manati/
