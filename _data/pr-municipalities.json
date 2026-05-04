@@ -12,7 +12,17 @@
       "name": "San Joaquín",
       "records_start": 1815
     },
-    "civil_registry_start": 1885
+    "civil_registry_start": 1885,
+    "historical_maps": [
+      {
+        "municipality": "Adjuntas",
+        "year": 2026,
+        "caption": "Adjuntas",
+        "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+        "image": "assets/images/municipalities/maps/adjuntas-2026.png",
+        "url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ]
   },
   {
     "id": "aguada",
@@ -63,7 +73,16 @@
       "license": "",
       "attribution_url": ""
     },
-    "historical_maps": [],
+    "historical_maps": [
+      {
+        "municipality": "Aguada",
+        "year": 2026,
+        "caption": "Aguada",
+        "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+        "image": "assets/images/municipalities/maps/aguada-2026.png",
+        "url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ],
     "genealogy_sources": [
       {
         "title": "Historia de Aguada: Siglos XVI–XIX",
@@ -164,14 +183,16 @@
       "license": "",
       "attribution_url": ""
     },
-    "historical_maps": [{
-    "municipality": "Aguadilla",
-    "year": 2026,
-    "caption": "Aguadilla",
-    "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
-    "image": "assets/images/municipalities/maps/aguadilla-2026.png",
-    "url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
-  }],
+    "historical_maps": [
+      {
+        "municipality": "Aguadilla",
+        "year": 2026,
+        "caption": "Aguadilla",
+        "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+        "image": "assets/images/municipalities/maps/aguadilla-2026.png",
+        "url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ],
     "genealogy_sources": [
       {
         "title": "Aguadilla: el pueblo que le dio la espalda al mar, su desarrollo social ante el cambio de soberanía de 1895–1910",
@@ -229,15 +250,17 @@
       "name": "Los Santos Reyes",
       "records_start": 1838
     },
-    "civil_registry_start": 1885
-    ,"historical_maps": [ {
-    "municipality": "Aguas-buenas",
-    "year": 2026,
-    "caption": "Aguas-buenas",
-    "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
-    "image": "assets/images/municipalities/maps/aguas-buenas-2026.png",
-    "url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
-    } ]  
+    "civil_registry_start": 1885,
+    "historical_maps": [
+      {
+        "municipality": "Aguas-buenas",
+        "year": 2026,
+        "caption": "Aguas-buenas",
+        "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+        "image": "assets/images/municipalities/maps/aguas-buenas-2026.png",
+        "url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ]
   },
   {
     "id": "aibonito",
@@ -251,14 +274,16 @@
       "name": "San José",
       "records_start": 1824
     },
-    "civil_registry_start": 1885
-    ,"historical_maps": [{
-    "municipality": "Aibonito",
-    "year": 2026,
-    "caption": "Aibonito",
-    "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
-    "image": "assets/images/municipalities/maps/aibonito-2026.png",
-    "url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"}
+    "civil_registry_start": 1885,
+    "historical_maps": [
+      {
+        "municipality": "Aibonito",
+        "year": 2026,
+        "caption": "Aibonito",
+        "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+        "image": "assets/images/municipalities/maps/aibonito-2026.png",
+        "url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
     ]
   },
   {
@@ -319,13 +344,13 @@
       "attribution_url": ""
     },
     "historical_maps": [
-    {
-      "municipality": "Añasco",
-      "year": 2026,
-      "caption": "Añasco",
-      "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
-      "image": "assets/images/municipalities/maps/añasco-2026.png",
-      "url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      {
+        "municipality": "Añasco",
+        "year": 2026,
+        "caption": "Añasco",
+        "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+        "image": "assets/images/municipalities/maps/añasco-2026.png",
+        "url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
       }
     ],
     "genealogy_sources": [
@@ -400,12 +425,12 @@
     },
     "historical_maps": [
       {
-    "municipality": "Arecibo",
-    "year": 2026,
-    "caption": "Arecibo",
-    "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
-    "image": "assets/images/municipalities/maps/arecibo-2026.png",
-    "url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+        "municipality": "Arecibo",
+        "year": 2026,
+        "caption": "Arecibo",
+        "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+        "image": "assets/images/municipalities/maps/arecibo-2026.png",
+        "url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
       }
     ],
     "genealogy_sources": [
@@ -444,15 +469,17 @@
       "name": "Nuestra Señora del Carmen",
       "records_start": 1855
     },
-    "civil_registry_start": 1885
-    ,"historical_maps": [{
-       "municipality": "Arroyo",
+    "civil_registry_start": 1885,
+    "historical_maps": [
+      {
+        "municipality": "Arroyo",
         "year": 2026,
         "caption": "Arroyo",
         "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
         "image": "assets/images/municipalities/maps/arroyo-2026.png",
         "url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
-     }]
+      }
+    ]
   },
   {
     "id": "barceloneta",
@@ -467,15 +494,17 @@
       "records_start": 1881
     },
     "civil_registry_start": 1885,
-    "historical_maps": [  {
+    "historical_maps": [
+      {
         "municipality": "Barceloneta",
         "year": 2026,
         "caption": "Barceloneta",
         "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
         "image": "assets/images/municipalities/maps/barceloneta-2026.png",
         "url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
-        }] 
-      },
+      }
+    ]
+  },
   {
     "id": "barranquitas",
     "name": "Barranquitas",
@@ -488,7 +517,17 @@
       "name": "San Antonio de Padua",
       "records_start": 1803
     },
-    "civil_registry_start": 1885
+    "civil_registry_start": 1885,
+    "historical_maps": [
+      {
+        "municipality": "Barranquitas",
+        "year": 2026,
+        "caption": "Barranquitas",
+        "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+        "image": "assets/images/municipalities/maps/barranquitas-2026.png",
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ]
   },
   {
     "id": "bayamon",
@@ -502,7 +541,17 @@
       "name": "Invención de la Santa Cruz",
       "records_start": 1772
     },
-    "civil_registry_start": 1885
+    "civil_registry_start": 1885,
+    "historical_maps": [
+      {
+        "municipality": "Bayamón",
+        "year": 2026,
+        "caption": "Bayamón",
+        "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+        "image": "assets/images/municipalities/maps/bayamón-2026.png",
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ]
   },
   {
     "id": "cabo_rojo",
@@ -570,11 +619,13 @@
       "license": ""
     },
     "historical_maps": [
-      {  "year": 2026,
-          "caption": "Cabo-rojo",
-          "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
-          "image": "assets/images/municipalities/maps/cabo-rojo-2026.png",
-          "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      {
+        "municipality": "Cabo-rojo",
+        "year": 2026,
+        "caption": "Cabo-rojo",
+        "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+        "image": "assets/images/municipalities/maps/cabo-rojo-2026.png",
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
       }
     ],
     "genealogy_sources": [
@@ -629,6 +680,16 @@
         "description": "Over 150 boxes of digitized documents from the Caguas Municipal Historical Archive (1806–1955), including government correspondence, administrative records, and maps. More than 800,000 images available, with additional boxes being released.",
         "type": "digital archive"
       }
+    ],
+    "historical_maps": [
+      {
+        "municipality": "Caguas",
+        "year": 2026,
+        "caption": "Caguas",
+        "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+        "image": "assets/images/municipalities/maps/caguas-2026.png",
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
     ]
   },
   {
@@ -643,7 +704,17 @@
       "name": "San José",
       "records_start": 1807
     },
-    "civil_registry_start": 1885
+    "civil_registry_start": 1885,
+    "historical_maps": [
+      {
+        "municipality": "Camuy",
+        "year": 2026,
+        "caption": "Camuy",
+        "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+        "image": "assets/images/municipalities/maps/camuy-2026.png",
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ]
   },
   {
     "id": "canovanas",
@@ -657,7 +728,17 @@
       "name": "Nuestra Señora del Pilar",
       "records_start": 1910
     },
-    "civil_registry_start": 1909
+    "civil_registry_start": 1909,
+    "historical_maps": [
+      {
+        "municipality": "Canóvanas",
+        "year": 2026,
+        "caption": "Canóvanas",
+        "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+        "image": "assets/images/municipalities/maps/canóvanas-2026.png",
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ]
   },
   {
     "id": "carolina",
@@ -671,7 +752,17 @@
       "name": "San Fernando",
       "records_start": 1816
     },
-    "civil_registry_start": 1885
+    "civil_registry_start": 1885,
+    "historical_maps": [
+      {
+        "municipality": "Carolina",
+        "year": 2026,
+        "caption": "Carolina",
+        "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+        "image": "assets/images/municipalities/maps/carolina-2026.png",
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ]
   },
   {
     "id": "catano",
@@ -685,7 +776,17 @@
       "name": "Nuestra Señora del Carmen",
       "records_start": 1927
     },
-    "civil_registry_start": 1927
+    "civil_registry_start": 1927,
+    "historical_maps": [
+      {
+        "municipality": "Cataño",
+        "year": 2026,
+        "caption": "Cataño",
+        "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+        "image": "assets/images/municipalities/maps/cataño-2026.png",
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ]
   },
   {
     "id": "cayey",
@@ -699,7 +800,17 @@
       "name": "Nuestra Señora de la Asunción",
       "records_start": 1773
     },
-    "civil_registry_start": 1885
+    "civil_registry_start": 1885,
+    "historical_maps": [
+      {
+        "municipality": "Cayey",
+        "year": 2026,
+        "caption": "Cayey",
+        "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+        "image": "assets/images/municipalities/maps/cayey-2026.png",
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ]
   },
   {
     "id": "ceiba",
@@ -713,7 +824,17 @@
       "name": "San Antonio de Padua",
       "records_start": 1838
     },
-    "civil_registry_start": 1885
+    "civil_registry_start": 1885,
+    "historical_maps": [
+      {
+        "municipality": "Ceiba",
+        "year": 2026,
+        "caption": "Ceiba",
+        "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+        "image": "assets/images/municipalities/maps/ceiba-2026.png",
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ]
   },
   {
     "id": "ciales",
@@ -727,7 +848,17 @@
       "name": "Nuestra Señora del Rosario",
       "records_start": 1820
     },
-    "civil_registry_start": 1885
+    "civil_registry_start": 1885,
+    "historical_maps": [
+      {
+        "municipality": "Ciales",
+        "year": 2026,
+        "caption": "Ciales",
+        "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+        "image": "assets/images/municipalities/maps/ciales-2026.png",
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ]
   },
   {
     "id": "cidra",
@@ -741,7 +872,17 @@
       "name": "Nuestra Señora del Carmen",
       "records_start": 1812
     },
-    "civil_registry_start": 1885
+    "civil_registry_start": 1885,
+    "historical_maps": [
+      {
+        "municipality": "Cidra",
+        "year": 2026,
+        "caption": "Cidra",
+        "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+        "image": "assets/images/municipalities/maps/cidra-2026.png",
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ]
   },
   {
     "id": "coamo",
@@ -799,12 +940,12 @@
     },
     "historical_maps": [
       {
-      "municipality": "Coamo",
-      "year": 2026,
-      "caption": "Coamo",
-      "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
-      "image": "assets/images/municipalities/maps/coamo-2026.png",
-      "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+        "municipality": "Coamo",
+        "year": 2026,
+        "caption": "Coamo",
+        "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+        "image": "assets/images/municipalities/maps/coamo-2026.png",
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
       }
     ],
     "genealogy_sources": [
@@ -837,7 +978,17 @@
       "name": "Santo Cristo de la Salud",
       "records_start": 1826
     },
-    "civil_registry_start": 1885
+    "civil_registry_start": 1885,
+    "historical_maps": [
+      {
+        "municipality": "Comerío",
+        "year": 2026,
+        "caption": "Comerío",
+        "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+        "image": "assets/images/municipalities/maps/comerío-2026.png",
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ]
   },
   {
     "id": "corozal",
@@ -851,7 +1002,17 @@
       "name": "La Sagrada Familia",
       "records_start": 1795
     },
-    "civil_registry_start": 1885
+    "civil_registry_start": 1885,
+    "historical_maps": [
+      {
+        "municipality": "Corozal",
+        "year": 2026,
+        "caption": "Corozal",
+        "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+        "image": "assets/images/municipalities/maps/corozal-2026.png",
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ]
   },
   {
     "id": "culebra",
@@ -865,7 +1026,17 @@
       "name": "Nuestra Señora del Carmen",
       "records_start": 1880
     },
-    "civil_registry_start": 1885
+    "civil_registry_start": 1885,
+    "historical_maps": [
+      {
+        "municipality": "Culebra",
+        "year": 2026,
+        "caption": "Culebra",
+        "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+        "image": "assets/images/municipalities/maps/culebra-2026.png",
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ]
   },
   {
     "id": "dorado",
@@ -879,7 +1050,17 @@
       "name": "San Antonio de Padua",
       "records_start": 1842
     },
-    "civil_registry_start": 1885
+    "civil_registry_start": 1885,
+    "historical_maps": [
+      {
+        "municipality": "Dorado",
+        "year": 2026,
+        "caption": "Dorado",
+        "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+        "image": "assets/images/municipalities/maps/dorado-2026.png",
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ]
   },
   {
     "id": "fajardo",
@@ -893,7 +1074,17 @@
       "name": "Santiago Apóstol",
       "records_start": 1772
     },
-    "civil_registry_start": 1885
+    "civil_registry_start": 1885,
+    "historical_maps": [
+      {
+        "municipality": "Fajardo",
+        "year": 2026,
+        "caption": "Fajardo",
+        "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+        "image": "assets/images/municipalities/maps/fajardo-2026.png",
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ]
   },
   {
     "id": "florida",
@@ -907,7 +1098,17 @@
       "name": "Nuestra Señora de la Merced",
       "records_start": 1971
     },
-    "civil_registry_start": 1971
+    "civil_registry_start": 1971,
+    "historical_maps": [
+      {
+        "municipality": "Florida",
+        "year": 2026,
+        "caption": "Florida",
+        "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+        "image": "assets/images/municipalities/maps/florida-2026.png",
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ]
   },
   {
     "id": "guanica",
@@ -921,7 +1122,17 @@
       "name": "San Antonio Abad",
       "records_start": 1914
     },
-    "civil_registry_start": 1914
+    "civil_registry_start": 1914,
+    "historical_maps": [
+      {
+        "municipality": "Guánica",
+        "year": 2026,
+        "caption": "Guánica",
+        "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+        "image": "assets/images/municipalities/maps/guánica-2026.png",
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ]
   },
   {
     "id": "guayama",
@@ -935,7 +1146,17 @@
       "name": "San Antonio de Padua",
       "records_start": 1736
     },
-    "civil_registry_start": 1885
+    "civil_registry_start": 1885,
+    "historical_maps": [
+      {
+        "municipality": "Guayama",
+        "year": 2026,
+        "caption": "Guayama",
+        "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+        "image": "assets/images/municipalities/maps/guayama-2026.png",
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ]
   },
   {
     "id": "guayanilla",
@@ -949,7 +1170,17 @@
       "name": "Inmaculada Concepción",
       "records_start": 1833
     },
-    "civil_registry_start": 1885
+    "civil_registry_start": 1885,
+    "historical_maps": [
+      {
+        "municipality": "Guayanilla",
+        "year": 2026,
+        "caption": "Guayanilla",
+        "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+        "image": "assets/images/municipalities/maps/guayanilla-2026.png",
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ]
   },
   {
     "id": "guaynabo",
@@ -964,7 +1195,17 @@
       "name": "San Pedro Mártir",
       "records_start": 1769
     },
-    "civil_registry_start": 1885
+    "civil_registry_start": 1885,
+    "historical_maps": [
+      {
+        "municipality": "Guaynabo",
+        "year": 2026,
+        "caption": "Guaynabo",
+        "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+        "image": "assets/images/municipalities/maps/guaynabo-2026.png",
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ]
   },
   {
     "id": "gurabo",
@@ -978,7 +1219,17 @@
       "name": "San José",
       "records_start": 1815
     },
-    "civil_registry_start": 1885
+    "civil_registry_start": 1885,
+    "historical_maps": [
+      {
+        "municipality": "Gurabo",
+        "year": 2026,
+        "caption": "Gurabo",
+        "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+        "image": "assets/images/municipalities/maps/gurabo-2026.png",
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ]
   },
   {
     "id": "hatillo",
@@ -992,7 +1243,17 @@
       "name": "Nuestra Señora del Carmen",
       "records_start": 1823
     },
-    "civil_registry_start": 1885
+    "civil_registry_start": 1885,
+    "historical_maps": [
+      {
+        "municipality": "Hatillo",
+        "year": 2026,
+        "caption": "Hatillo",
+        "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+        "image": "assets/images/municipalities/maps/hatillo-2026.png",
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ]
   },
   {
     "id": "hormigueros",
@@ -1036,6 +1297,14 @@
         "caption": "Barrios and sectors of Hormigueros, Puerto Rico",
         "source": "Wikimedia Commons / U.S. Census Bureau",
         "source_url": "https://commons.wikimedia.org/wiki/File:Hormigueros,_Puerto_Rico_barrios_and_sectors_map.svg"
+      },
+      {
+        "municipality": "Hormigueros",
+        "year": 2026,
+        "caption": "Hormigueros",
+        "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+        "image": "assets/images/municipalities/maps/hormigueros-2026.png",
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
       }
     ],
     "findagrave_cemeteries": [
@@ -1093,7 +1362,16 @@
       "license": "",
       "attribution_url": ""
     },
-    "historical_maps": [],
+    "historical_maps": [
+      {
+        "municipality": "Humacao",
+        "year": 2026,
+        "caption": "Humacao",
+        "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+        "image": "assets/images/municipalities/maps/humacao-2026.png",
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ],
     "genealogy_sources": [
       {
         "title": "Apuntes para la historia de Humacao",
@@ -1156,7 +1434,16 @@
       "license": "",
       "attribution_url": ""
     },
-    "historical_maps": [],
+    "historical_maps": [
+      {
+        "municipality": "Isabela",
+        "year": 2026,
+        "caption": "Isabela",
+        "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+        "image": "assets/images/municipalities/maps/isabela-2026.png",
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ],
     "familysearch_url": "https://www.familysearch.org/en/wiki/Isabela,_Puerto_Rico_Genealogy",
     "findagrave_url": "https://www.findagrave.com/cemetery/1650007/isabela-municipal-cemetery",
     "genealogy_sources": [
@@ -1187,7 +1474,17 @@
       "name": "Nuestra Señora de la Monserrate",
       "records_start": 1911
     },
-    "civil_registry_start": 1911
+    "civil_registry_start": 1911,
+    "historical_maps": [
+      {
+        "municipality": "Jayuya",
+        "year": 2026,
+        "caption": "Jayuya",
+        "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+        "image": "assets/images/municipalities/maps/jayuya-2026.png",
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ]
   },
   {
     "id": "juana_diaz",
@@ -1201,7 +1498,17 @@
       "name": "San Ramón Nonato",
       "records_start": 1798
     },
-    "civil_registry_start": 1885
+    "civil_registry_start": 1885,
+    "historical_maps": [
+      {
+        "municipality": "Juana-díaz",
+        "year": 2026,
+        "caption": "Juana-díaz",
+        "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+        "image": "assets/images/municipalities/maps/juana-díaz-2026.png",
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ]
   },
   {
     "id": "juncos",
@@ -1243,7 +1550,16 @@
       "license": "",
       "attribution_url": ""
     },
-    "historical_maps": [],
+    "historical_maps": [
+      {
+        "municipality": "Juncos",
+        "year": 2026,
+        "caption": "Juncos",
+        "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+        "image": "assets/images/municipalities/maps/juncos-2026.png",
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ],
     "familysearch_url": "https://www.familysearch.org/en/wiki/Juncos,_Puerto_Rico_Genealogy",
     "findagrave_url": "https://www.findagrave.com/cemetery-browse/USA/Puerto-Rico/Juncos-Municipality/Juncos?id=city_125063",
     "genealogy_sources": [
@@ -1308,7 +1624,16 @@
       "license": "",
       "attribution_url": ""
     },
-    "historical_maps": [],
+    "historical_maps": [
+      {
+        "municipality": "Lajas",
+        "year": 2026,
+        "caption": "Lajas",
+        "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+        "image": "assets/images/municipalities/maps/lajas-2026.png",
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ],
     "genealogy_sources": [
       {
         "title": "Puerto Rico Civil Registration, 1885–2001",
@@ -1378,7 +1703,16 @@
       "license": "",
       "attribution_url": ""
     },
-    "historical_maps": [],
+    "historical_maps": [
+      {
+        "municipality": "Lares",
+        "year": 2026,
+        "caption": "Lares",
+        "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+        "image": "assets/images/municipalities/maps/lares-2026.png",
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ],
     "genealogy_sources": [
       {
         "title": "Memoria 60 — Lares, 1955",
@@ -1422,7 +1756,17 @@
       "name": "Inmaculada Concepción",
       "records_start": 1871
     },
-    "civil_registry_start": 1885
+    "civil_registry_start": 1885,
+    "historical_maps": [
+      {
+        "municipality": "Las-marías",
+        "year": 2026,
+        "caption": "Las-marías",
+        "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+        "image": "assets/images/municipalities/maps/las-marías-2026.png",
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ]
   },
   {
     "id": "las_piedras",
@@ -1436,7 +1780,17 @@
       "name": "Inmaculada Concepción",
       "records_start": 1773
     },
-    "civil_registry_start": 1885
+    "civil_registry_start": 1885,
+    "historical_maps": [
+      {
+        "municipality": "Las-piedras",
+        "year": 2026,
+        "caption": "Las-piedras",
+        "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+        "image": "assets/images/municipalities/maps/las-piedras-2026.png",
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ]
   },
   {
     "id": "loiza",
@@ -1476,14 +1830,14 @@
     },
     "historical_maps": [
       {
-      "municipality": "Loíza",
-      "year": 2026,
-      "caption": "Loíza",
-      "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
-      "image": "assets/images/municipalities/maps/loíza-2026.png",
-      "url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+        "municipality": "Loíza",
+        "year": 2026,
+        "caption": "Loíza",
+        "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+        "image": "assets/images/municipalities/maps/loíza-2026.png",
+        "url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
       }
- ],
+    ],
     "genealogy_sources": [
       {
         "title": "Loíza Parish Registers, 1792–1919",
@@ -1581,7 +1935,16 @@
       "license": "",
       "attribution_url": ""
     },
-    "historical_maps": [],
+    "historical_maps": [
+      {
+        "municipality": "Luquillo",
+        "year": 2026,
+        "caption": "Luquillo",
+        "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+        "image": "assets/images/municipalities/maps/luquillo-2026.png",
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ],
     "genealogy_sources": []
   },
   {
@@ -1596,7 +1959,17 @@
       "name": "Nuestra Señora de la Candelaria",
       "records_start": 1738
     },
-    "civil_registry_start": 1885
+    "civil_registry_start": 1885,
+    "historical_maps": [
+      {
+        "municipality": "Manatí",
+        "year": 2026,
+        "caption": "Manatí",
+        "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+        "image": "assets/images/municipalities/maps/manatí-2026.png",
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ]
   },
   {
     "id": "maricao",
@@ -1639,7 +2012,16 @@
       "license": "",
       "attribution_url": ""
     },
-    "historical_maps": [],
+    "historical_maps": [
+      {
+        "municipality": "Maricao",
+        "year": 2026,
+        "caption": "Maricao",
+        "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+        "image": "assets/images/municipalities/maps/maricao-2026.png",
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ],
     "genealogy_sources": [
       {
         "title": "Registros civiles, 1885–1983, Maricao",
@@ -1690,7 +2072,17 @@
       "name": "San Isidro Labrador",
       "records_start": 1799
     },
-    "civil_registry_start": 1885
+    "civil_registry_start": 1885,
+    "historical_maps": [
+      {
+        "municipality": "Maunabo",
+        "year": 2026,
+        "caption": "Maunabo",
+        "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+        "image": "assets/images/municipalities/maps/maunabo-2026.png",
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ]
   },
   {
     "id": "mayaguez",
@@ -1788,7 +2180,16 @@
       "license": "",
       "attribution_url": ""
     },
-    "historical_maps": [],
+    "historical_maps": [
+      {
+        "municipality": "Mayagüez",
+        "year": 2026,
+        "caption": "Mayagüez",
+        "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+        "image": "assets/images/municipalities/maps/mayagüez-2026.png",
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ],
     "genealogy_sources": [
       {
         "title": "Mayagüez: Notas para su historia",
@@ -1864,7 +2265,16 @@
       "license": "",
       "attribution_url": ""
     },
-    "historical_maps": [],
+    "historical_maps": [
+      {
+        "municipality": "Moca",
+        "year": 2026,
+        "caption": "Moca",
+        "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+        "image": "assets/images/municipalities/maps/moca-2026.png",
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ],
     "familysearch_url": "https://www.familysearch.org/search/catalog/results?count=20&placeId=194312",
     "findagrave_url": "https://www.findagrave.com/cemetery/search?cemetery-name=&cemetery-loc=Moca+Municipality%2C+Puerto+Rico%2C+USA&only-with-cemeteries=cemOnly&locationId=county_3354",
     "genealogy_sources": [
@@ -1930,7 +2340,16 @@
       "license": "",
       "attribution_url": ""
     },
-    "historical_maps": [],
+    "historical_maps": [
+      {
+        "municipality": "Morovis",
+        "year": 2026,
+        "caption": "Morovis",
+        "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+        "image": "assets/images/municipalities/maps/morovis-2026.png",
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ],
     "genealogy_sources": [
       {
         "title": "Los primeros grupos familiares moroveños en la fundación del poblado",
@@ -1967,7 +2386,17 @@
       "name": "Nuestra Señora del Rosario",
       "records_start": 1821
     },
-    "civil_registry_start": 1885
+    "civil_registry_start": 1885,
+    "historical_maps": [
+      {
+        "municipality": "Naguabo",
+        "year": 2026,
+        "caption": "Naguabo",
+        "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+        "image": "assets/images/municipalities/maps/naguabo-2026.png",
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ]
   },
   {
     "id": "naranjito",
@@ -1981,7 +2410,17 @@
       "name": "San Miguel Arcángel",
       "records_start": 1824
     },
-    "civil_registry_start": 1885
+    "civil_registry_start": 1885,
+    "historical_maps": [
+      {
+        "municipality": "Naranjito",
+        "year": 2026,
+        "caption": "Naranjito",
+        "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+        "image": "assets/images/municipalities/maps/naranjito-2026.png",
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ]
   },
   {
     "id": "orocovis",
@@ -2005,6 +2444,16 @@
         "type": "Local History",
         "description": "Official municipal history published by Puerto Rico's State Historic Preservation Office (OECH). Covers the founding, historical development, and cultural heritage of Orocovis."
       }
+    ],
+    "historical_maps": [
+      {
+        "municipality": "Orocovis",
+        "year": 2026,
+        "caption": "Orocovis",
+        "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+        "image": "assets/images/municipalities/maps/orocovis-2026.png",
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
     ]
   },
   {
@@ -2019,7 +2468,17 @@
       "name": "San Benito Abad",
       "records_start": 1811
     },
-    "civil_registry_start": 1885
+    "civil_registry_start": 1885,
+    "historical_maps": [
+      {
+        "municipality": "Patillas",
+        "year": 2026,
+        "caption": "Patillas",
+        "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+        "image": "assets/images/municipalities/maps/patillas-2026.png",
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ]
   },
   {
     "id": "penuelas",
@@ -2033,7 +2492,17 @@
       "name": "San José",
       "records_start": 1793
     },
-    "civil_registry_start": 1885
+    "civil_registry_start": 1885,
+    "historical_maps": [
+      {
+        "municipality": "Peñuelas",
+        "year": 2026,
+        "caption": "Peñuelas",
+        "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+        "image": "assets/images/municipalities/maps/peñuelas-2026.png",
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ]
   },
   {
     "id": "ponce",
@@ -2103,7 +2572,16 @@
       "license": "",
       "attribution_url": ""
     },
-    "historical_maps": [],
+    "historical_maps": [
+      {
+        "municipality": "Ponce",
+        "year": 2026,
+        "caption": "Ponce",
+        "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+        "image": "assets/images/municipalities/maps/ponce-2026.png",
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ],
     "genealogy_sources": [
       {
         "title": "Génesis de la fundación de Ponce",
@@ -2133,7 +2611,17 @@
       "name": "San Rafael Arcángel",
       "records_start": 1823
     },
-    "civil_registry_start": 1885
+    "civil_registry_start": 1885,
+    "historical_maps": [
+      {
+        "municipality": "Quebradillas",
+        "year": 2026,
+        "caption": "Quebradillas",
+        "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+        "image": "assets/images/municipalities/maps/quebradillas-2026.png",
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ]
   },
   {
     "id": "rincon",
@@ -2209,7 +2697,16 @@
       "license": "",
       "attribution_url": ""
     },
-    "historical_maps": [],
+    "historical_maps": [
+      {
+        "municipality": "Rincón",
+        "year": 2026,
+        "caption": "Rincón",
+        "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+        "image": "assets/images/municipalities/maps/rincón-2026.png",
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ],
     "genealogy_sources": [
       {
         "title": "Rincón Histórico: Special Edition",
@@ -2232,7 +2729,17 @@
       "name": "Nuestra Señora del Carmen",
       "records_start": 1840
     },
-    "civil_registry_start": 1885
+    "civil_registry_start": 1885,
+    "historical_maps": [
+      {
+        "municipality": "Río-grande",
+        "year": 2026,
+        "caption": "Río-grande",
+        "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+        "image": "assets/images/municipalities/maps/río-grande-2026.png",
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ]
   },
   {
     "id": "sabana_grande",
@@ -2274,7 +2781,16 @@
       "license": "",
       "attribution_url": ""
     },
-    "historical_maps": [],
+    "historical_maps": [
+      {
+        "municipality": "Sabana-grande",
+        "year": 2026,
+        "caption": "Sabana-grande",
+        "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+        "image": "assets/images/municipalities/maps/sabana-grande-2026.png",
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ],
     "familysearch_url": "https://www.familysearch.org/en/wiki/Sabana_Grande,_Puerto_Rico_Genealogy",
     "findagrave_url": "https://www.findagrave.com/cemetery-browse/USA/Puerto-Rico/Sabana-Grande-Municipality/Sabana-Grande?id=city_125461",
     "genealogy_sources": [
@@ -2319,7 +2835,17 @@
       "name": "Nuestra Señora de la Monserrate",
       "records_start": 1851
     },
-    "civil_registry_start": 1885
+    "civil_registry_start": 1885,
+    "historical_maps": [
+      {
+        "municipality": "Salinas",
+        "year": 2026,
+        "caption": "Salinas",
+        "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+        "image": "assets/images/municipalities/maps/salinas-2026.png",
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ]
   },
   {
     "id": "san_german",
@@ -2371,11 +2897,13 @@
       "attribution_url": "https://commons.wikimedia.org/wiki/File:Escudo_de_San_German,_Puerto_Rico.svg"
     },
     "historical_maps": [
-      {  "year": 2026,
-         "caption": "San-germán",
-         "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
-         "image": "assets/images/municipalities/maps/san-germán-2026.png",
-         "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      {
+        "municipality": "San-germán",
+        "year": 2026,
+        "caption": "San-germán",
+        "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+        "image": "assets/images/municipalities/maps/san-germán-2026.png",
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
       }
     ],
     "familysearch_url": "https://www.familysearch.org/en/wiki/San_Germ%C3%A1n,_Puerto_Rico_Genealogy",
@@ -2423,7 +2951,17 @@
       "name": "San Juan Bautista (Catedral)",
       "records_start": 1645
     },
-    "civil_registry_start": 1885
+    "civil_registry_start": 1885,
+    "historical_maps": [
+      {
+        "municipality": "San-juan",
+        "year": 2026,
+        "caption": "San-juan",
+        "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+        "image": "assets/images/municipalities/maps/san-juan-2026.png",
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ]
   },
   {
     "id": "san_lorenzo",
@@ -2437,7 +2975,17 @@
       "name": "Nuestra Señora de las Mercedes",
       "records_start": 1811
     },
-    "civil_registry_start": 1885
+    "civil_registry_start": 1885,
+    "historical_maps": [
+      {
+        "municipality": "San-lorenzo",
+        "year": 2026,
+        "caption": "San-lorenzo",
+        "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+        "image": "assets/images/municipalities/maps/san-lorenzo-2026.png",
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ]
   },
   {
     "id": "san_sebastian",
@@ -2508,6 +3056,14 @@
         "caption": "Historical map coming soon.",
         "source": null,
         "source_url": null
+      },
+      {
+        "municipality": "San-sebastián",
+        "year": 2026,
+        "caption": "San-sebastián",
+        "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+        "image": "assets/images/municipalities/maps/san-sebastián-2026.png",
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
       }
     ],
     "familysearch_url": "https://www.familysearch.org/en/wiki/San_Sebasti%C3%A1n,_Puerto_Rico_Genealogy",
@@ -2579,7 +3135,17 @@
       "name": "Santiago Apóstol",
       "records_start": 1842
     },
-    "civil_registry_start": 1885
+    "civil_registry_start": 1885,
+    "historical_maps": [
+      {
+        "municipality": "Santa-isabel",
+        "year": 2026,
+        "caption": "Santa-isabel",
+        "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+        "image": "assets/images/municipalities/maps/santa-isabel-2026.png",
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ]
   },
   {
     "id": "toa_alta",
@@ -2593,7 +3159,17 @@
       "name": "San Fernando Rey",
       "records_start": 1751
     },
-    "civil_registry_start": 1885
+    "civil_registry_start": 1885,
+    "historical_maps": [
+      {
+        "municipality": "Toa-alta",
+        "year": 2026,
+        "caption": "Toa-alta",
+        "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+        "image": "assets/images/municipalities/maps/toa-alta-2026.png",
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ]
   },
   {
     "id": "toa_baja",
@@ -2607,7 +3183,17 @@
       "name": "Nuestra Señora de la Concepción",
       "records_start": 1745
     },
-    "civil_registry_start": 1885
+    "civil_registry_start": 1885,
+    "historical_maps": [
+      {
+        "municipality": "Toa-baja",
+        "year": 2026,
+        "caption": "Toa-baja",
+        "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+        "image": "assets/images/municipalities/maps/toa-baja-2026.png",
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ]
   },
   {
     "id": "trujillo_alto",
@@ -2621,7 +3207,17 @@
       "name": "Santa Cruz",
       "records_start": 1801
     },
-    "civil_registry_start": 1885
+    "civil_registry_start": 1885,
+    "historical_maps": [
+      {
+        "municipality": "Trujillo-alto",
+        "year": 2026,
+        "caption": "Trujillo-alto",
+        "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+        "image": "assets/images/municipalities/maps/trujillo-alto-2026.png",
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ]
   },
   {
     "id": "utuado",
@@ -2695,7 +3291,16 @@
       "license": "",
       "attribution_url": ""
     },
-    "historical_maps": [],
+    "historical_maps": [
+      {
+        "municipality": "Utuado",
+        "year": 2026,
+        "caption": "Utuado",
+        "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+        "image": "assets/images/municipalities/maps/utuado-2026.png",
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ],
     "genealogy_sources": [
       {
         "title": "Utuado: Notas para su Historia",
@@ -2732,7 +3337,17 @@
       "name": "Inmaculada Concepción",
       "records_start": 1775
     },
-    "civil_registry_start": 1885
+    "civil_registry_start": 1885,
+    "historical_maps": [
+      {
+        "municipality": "Vega-alta",
+        "year": 2026,
+        "caption": "Vega-alta",
+        "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+        "image": "assets/images/municipalities/maps/vega-alta-2026.png",
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ]
   },
   {
     "id": "vega_baja",
@@ -2746,7 +3361,17 @@
       "name": "Nuestra Señora del Rosario",
       "records_start": 1776
     },
-    "civil_registry_start": 1885
+    "civil_registry_start": 1885,
+    "historical_maps": [
+      {
+        "municipality": "Vega-baja",
+        "year": 2026,
+        "caption": "Vega-baja",
+        "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+        "image": "assets/images/municipalities/maps/vega-baja-2026.png",
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ]
   },
   {
     "id": "vieques",
@@ -2760,7 +3385,17 @@
       "name": "Inmaculada Concepción",
       "records_start": 1844
     },
-    "civil_registry_start": 1885
+    "civil_registry_start": 1885,
+    "historical_maps": [
+      {
+        "municipality": "Vieques",
+        "year": 2026,
+        "caption": "Vieques",
+        "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+        "image": "assets/images/municipalities/maps/vieques-2026.png",
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ]
   },
   {
     "id": "villalba",
@@ -2774,7 +3409,17 @@
       "name": "Nuestra Señora del Carmen",
       "records_start": 1917
     },
-    "civil_registry_start": 1917
+    "civil_registry_start": 1917,
+    "historical_maps": [
+      {
+        "municipality": "Villalba",
+        "year": 2026,
+        "caption": "Villalba",
+        "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+        "image": "assets/images/municipalities/maps/villalba-2026.png",
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ]
   },
   {
     "id": "yabucoa",
@@ -2788,7 +3433,17 @@
       "name": "Santos Ángeles Custodios",
       "records_start": 1793
     },
-    "civil_registry_start": 1885
+    "civil_registry_start": 1885,
+    "historical_maps": [
+      {
+        "municipality": "Yabucoa",
+        "year": 2026,
+        "caption": "Yabucoa",
+        "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+        "image": "assets/images/municipalities/maps/yabucoa-2026.png",
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ]
   },
   {
     "id": "yauco",
@@ -2802,6 +3457,16 @@
       "name": "Nuestra Señora del Rosario",
       "records_start": 1756
     },
-    "civil_registry_start": 1885
+    "civil_registry_start": 1885,
+    "historical_maps": [
+      {
+        "municipality": "Yauco",
+        "year": 2026,
+        "caption": "Yauco",
+        "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+        "image": "assets/images/municipalities/maps/yauco-2026.png",
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ]
   }
 ]
