@@ -12,6 +12,13 @@
 - date: 2026-05-04
   category: features
   featured: true
+  title: "New: Bayamón Municipality Detail Page"
+  body: "The Bayamón detail page is now live — covering the 'Ciudad del Chicharrón' and its 1772 founding on former San Juan territory, its 12 barrios, parish records at La Invención de la Santa Cruz from 1772, civil registry from 1885, coat of arms symbolism, and a full genealogy research toolkit including the Puerto Rico National Cemetery and guidance for tracing families across Bayamón's three daughter towns: Guaynabo, Comerío, and Cataño."
+  link: /tools/municipality-guide/bayamon/
+
+- date: 2026-05-04
+  category: features
+  featured: false
   title: "New: Yauco Municipality Detail Page"
   body: "The Yauco detail page is now live — covering the town's 1756 founding by Fernando Pacheco, its 21 barrios, parish records from 1751 at Nuestra Señora del Rosario (predating the town charter), civil registry from 1885, coat of arms symbolism, and a full genealogy research toolkit including Corsican immigration records and guidance for tracing Guánica ancestors before 1914."
   link: /tools/municipality-guide/yauco/

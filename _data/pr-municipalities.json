@@ -537,11 +537,44 @@
     "mother_town": [
       "San Juan"
     ],
+    "is_mother_municipality": true,
+    "has_detail_page": true,
     "parish": {
       "name": "Invención de la Santa Cruz",
       "records_start": 1772
     },
     "civil_registry_start": 1885,
+    "barrios": [
+      "Bayamón Pueblo",
+      "Buena Vista",
+      "Cerro Gordo",
+      "Dajaos",
+      "Guaraguao Abajo",
+      "Guaraguao Arriba",
+      "Hato Tejas",
+      "Juan Sánchez",
+      "Minillas",
+      "Nuevo",
+      "Pájaros",
+      "Santa Olaya"
+    ],
+    "neighbors": [
+      "Aguas Buenas",
+      "Cataño",
+      "Comerío",
+      "Guaynabo",
+      "Naranjito",
+      "Toa Alta",
+      "Toa Baja"
+    ],
+    "familysearch_url": "https://www.familysearch.org/en/wiki/Bayam%C3%B3n,_Puerto_Rico_Genealogy",
+    "escudo": {
+      "image": "",
+      "alt": "Coat of arms of Bayamón, Puerto Rico",
+      "description": "The Bayamón coat of arms features a cross at center representing the Invención de la Santa Cruz, the town's patron. Blue and silver waves across the lower field represent the Bayamón River. A sugar mill recalls the early ingenios that drove the town's founding and economic life. Green fields symbolize the agricultural fertility that made Bayamón's separation from San Juan viable.",
+      "license": "",
+      "attribution_url": ""
+    },
     "historical_maps": [
       {
         "municipality": "Bayamón",
@@ -550,6 +583,36 @@
         "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
         "image": "assets/images/municipalities/maps/bayamón-2026.png",
         "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ],
+    "genealogy_sources": [
+      {
+        "title": "U.S. Census Bureau: Bayamón Municipio Profile",
+        "author": "U.S. Census Bureau",
+        "url": "https://data.census.gov/profile/Bayam%C3%B3n_Municipio,_Puerto_Rico?g=050XX00US72021",
+        "type": "Census Data",
+        "description": "Authoritative 2020 Census profile for Bayamón, including official barrio list, population data, and geographic boundary information."
+      },
+      {
+        "title": "Notas para su Historia: Bayamón (PDF)",
+        "author": "Fr. Mario A. Rodríguez León, O.P.",
+        "url": "https://docs.pr.gov/files/OECH/Publicaciones%20y%20Recursos/Libros%20Notas%20para%20su%20Historia/Notas%20para%20su%20Historia%20Bayam%C3%B3n%20Vol%201.pdf",
+        "type": "Book",
+        "description": "Essential scholarly text covering Bayamón's history, rooted in the sugar industry and its evolution into a major industrial center."
+      },
+      {
+        "title": "Puerto Rico National Cemetery",
+        "author": "U.S. Department of Veterans Affairs",
+        "url": "https://www.cem.va.gov/cems/nchp/PuertoRico.asp",
+        "type": "Cemetery Records",
+        "description": "Major national cemetery located in Bayamón serving veterans island-wide. Use the Gravesite Locator at gravelocator.cem.va.gov for individual searches."
+      },
+      {
+        "title": "Find A Grave: Bayamón",
+        "author": "Find A Grave",
+        "url": "https://www.findagrave.com/cemetery-browse/Puerto-Rico/Bayamon-Municipio?id=county_2984",
+        "type": "Cemetery Records",
+        "description": "Crowdsourced index of interments for municipal and private cemeteries in Bayamón."
       }
     ]
   },
