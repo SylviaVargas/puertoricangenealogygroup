@@ -12,6 +12,13 @@
 - date: 2026-05-04
   category: features
   featured: true
+  title: "New: Yauco Municipality Detail Page"
+  body: "The Yauco detail page is now live — covering the town's 1756 founding by Fernando Pacheco, its 21 barrios, parish records from 1751 at Nuestra Señora del Rosario (predating the town charter), civil registry from 1885, coat of arms symbolism, and a full genealogy research toolkit including Corsican immigration records and guidance for tracing Guánica ancestors before 1914."
+  link: /tools/municipality-guide/yauco/
+
+- date: 2026-05-04
+  category: features
+  featured: false
   title: "New: Guaynabo Municipality Detail Page"
   body: "The Guaynabo detail page is now live — covering the town's 1769 founding on the site of Caparra (Puerto Rico's first European settlement), its 10 barrios, parish records from 1765 at San Pedro Mártir de Verona, civil registry from 1886, coat of arms symbolism, and a full genealogy research toolkit with links to FamilySearch records. Includes guidance for tracing ancestors during the 1875–1912 suppression period."
   link: /tools/municipality-guide/guaynabo/
