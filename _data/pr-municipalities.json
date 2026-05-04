@@ -2062,11 +2062,40 @@
     "mother_town": [
       "Arecibo"
     ],
+    "is_mother_municipality": true,
+    "has_detail_page": true,
     "parish": {
-      "name": "Nuestra Señora de la Candelaria",
-      "records_start": 1738
+      "name": "Nuestra Señora de la Candelaria y San Matías",
+      "records_start": 1758
     },
     "civil_registry_start": 1885,
+    "barrios": [
+      "Manatí Barrio-Pueblo",
+      "Bajura Adentro",
+      "Bajura Afuera",
+      "Coto Norte",
+      "Coto Sur",
+      "Río Arriba Poniente",
+      "Río Arriba Saliente",
+      "Tierras Nuevas Poniente",
+      "Tierras Nuevas Saliente"
+    ],
+    "neighbors": [
+      "Vega Baja",
+      "Barceloneta",
+      "Florida",
+      "Morovis",
+      "Ciales",
+      "Vega Alta"
+    ],
+    "familysearch_url": "https://www.familysearch.org/en/wiki/Manati,_Puerto_Rico_Genealogy",
+    "escudo": {
+      "image": "",
+      "alt": "Coat of arms of Manatí, Puerto Rico",
+      "description": "A divided shield with four quarters and a central escutcheon. The first and fourth quarters display Greek temples representing the town's nickname 'Atenas de Puerto Rico,' honoring its 19th-century intellectual and cultural heritage. The second and third quarters feature manatees as a heraldic reference to the municipality's name. The central escutcheon bears flames honoring the Fiestas Patronales of the Virgin of Candelaria. The shield is surmounted by a three-towered mural crown, denoting the municipality's city status.",
+      "license": "",
+      "attribution_url": ""
+    },
     "historical_maps": [
       {
         "municipality": "Manatí",
@@ -2075,6 +2104,50 @@
         "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
         "image": "assets/images/municipalities/maps/manatí-2026.png",
         "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ],
+    "genealogy_sources": [
+      {
+        "title": "U.S. Census Bureau: Manatí Municipio Profile",
+        "author": "U.S. Census Bureau",
+        "url": "https://data.census.gov/profile/Manat%C3%AD_Municipio,_Puerto_Rico?g=050XX00US72091",
+        "type": "Census Data",
+        "description": "Authoritative 2020 Census profile for Manatí, including official barrio list, population data, and geographic boundary information."
+      },
+      {
+        "title": "FamilySearch Wiki: Manatí Genealogy",
+        "author": "FamilySearch",
+        "url": "https://www.familysearch.org/en/wiki/Manati,_Puerto_Rico_Genealogy",
+        "type": "Research Guide",
+        "description": "Centralized research portal listing all available record collections for Manatí, including links to digitized parish registers, civil records, and census materials."
+      },
+      {
+        "title": "Registros parroquiales, 1758–1939",
+        "author": "Parroquia Nuestra Señora de la Candelaria y San Matías",
+        "url": "https://www.familysearch.org/search/catalog/13809",
+        "type": "Church Records",
+        "description": "Digitized parish registers including baptisms (from 1761), marriages (from 1758), burials (from 1784), and confirmations (from 1785) for Manatí."
+      },
+      {
+        "title": "Registros civiles, 1885–1998",
+        "author": "Registro Civil de Manatí",
+        "url": "https://www.familysearch.org/search/catalog/736143",
+        "type": "Civil Registration",
+        "description": "Civil registration of births (1885–1928), marriages (1885–1936), and deaths (1885–1998) for Manatí."
+      },
+      {
+        "title": "Documentos municipales de Manatí, 1845–1867",
+        "author": "Municipio de Manatí",
+        "url": "https://www.familysearch.org/search/catalog/612909",
+        "type": "Municipal Records",
+        "description": "19th-century municipal records including the Censo de Jornaleros (day laborer census), listing laborers by name, age, barrio, and hacienda employer."
+      },
+      {
+        "title": "Cédulas de vecindad y padrones de población, 1850–1876",
+        "author": "Municipio de Manatí",
+        "url": "https://www.familysearch.org/search/catalog/609715",
+        "type": "Identification Records",
+        "description": "Residency identification cards listing name, age, marital status, and often physical description — essential for tracking migrants to Manatí."
       }
     ]
   },
