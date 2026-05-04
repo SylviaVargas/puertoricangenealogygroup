@@ -230,6 +230,14 @@
       "records_start": 1838
     },
     "civil_registry_start": 1885
+    ,"historical_maps": [ {
+    "municipality": "Aguas-buenas",
+    "year": 2026,
+    "caption": "Aguas-buenas",
+    "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+    "image": "assets/images/municipalities/maps/aguas-buenas-2026.png",
+    "url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+    } ]  
   },
   {
     "id": "aibonito",
@@ -244,6 +252,14 @@
       "records_start": 1824
     },
     "civil_registry_start": 1885
+    ,"historical_maps": [{
+    "municipality": "Aibonito",
+    "year": 2026,
+    "caption": "Aibonito",
+    "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+    "image": "assets/images/municipalities/maps/aibonito-2026.png",
+    "url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"}
+    ]
   },
   {
     "id": "anasco",
@@ -303,14 +319,14 @@
       "attribution_url": ""
     },
     "historical_maps": [
-       {
-    "municipality": "Aguas-buenas",
-    "year": 2026,
-    "caption": "Aguas-buenas",
-    "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
-    "image": "assets/images/municipalities/maps/aguas-buenas-2026.png",
-    "url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
-  }
+    {
+      "municipality": "Añasco",
+      "year": 2026,
+      "caption": "Añasco",
+      "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+      "image": "assets/images/municipalities/maps/añasco-2026.png",
+      "url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
     ],
     "genealogy_sources": [
       {
@@ -382,7 +398,16 @@
       "license": "",
       "attribution_url": ""
     },
-    "historical_maps": [],
+    "historical_maps": [
+      {
+    "municipality": "Arecibo",
+    "year": 2026,
+    "caption": "Arecibo",
+    "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+    "image": "assets/images/municipalities/maps/arecibo-2026.png",
+    "url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ],
     "genealogy_sources": [
       {
         "title": "Arecibo, Puerto Rico Genealogy",
@@ -420,6 +445,14 @@
       "records_start": 1855
     },
     "civil_registry_start": 1885
+    ,"historical_maps": [{
+       "municipality": "Arroyo",
+        "year": 2026,
+        "caption": "Arroyo",
+        "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+        "image": "assets/images/municipalities/maps/arroyo-2026.png",
+        "url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+     }]
   },
   {
     "id": "barceloneta",
@@ -433,8 +466,16 @@
       "name": "Nuestra Señora del Carmen",
       "records_start": 1881
     },
-    "civil_registry_start": 1885
-  },
+    "civil_registry_start": 1885,
+    "historical_maps": [  {
+        "municipality": "Barceloneta",
+        "year": 2026,
+        "caption": "Barceloneta",
+        "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+        "image": "assets/images/municipalities/maps/barceloneta-2026.png",
+        "url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+        }] 
+      },
   {
     "id": "barranquitas",
     "name": "Barranquitas",
@@ -529,12 +570,11 @@
       "license": ""
     },
     "historical_maps": [
-      {
-        "image": null,
-        "year": null,
-        "caption": "Historical map coming soon.",
-        "source": null,
-        "source_url": null
+      {  "year": 2026,
+          "caption": "Cabo-rojo",
+          "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+          "image": "assets/images/municipalities/maps/cabo-rojo-2026.png",
+          "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
       }
     ],
     "genealogy_sources": [
@@ -757,7 +797,16 @@
       "license": "",
       "attribution_url": ""
     },
-    "historical_maps": [],
+    "historical_maps": [
+      {
+      "municipality": "Coamo",
+      "year": 2026,
+      "caption": "Coamo",
+      "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+      "image": "assets/images/municipalities/maps/coamo-2026.png",
+      "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ],
     "genealogy_sources": [
       {
         "title": "Historia de Coamo: La Villa Añeja",
@@ -1009,11 +1058,58 @@
     "mother_town": [
       "Loíza"
     ],
+    "is_mother_municipality": true,
+    "has_detail_page": true,
     "parish": {
       "name": "Dulce Nombre de Jesús",
-      "records_start": 1775
+      "records_start": 1784
     },
-    "civil_registry_start": 1885
+    "civil_registry_start": 1885,
+    "barrios": [
+      "Antón Ruíz",
+      "Buena Vista",
+      "Candelero Abajo",
+      "Candelero Arriba",
+      "Cataño",
+      "Collores",
+      "Humacao barrio-pueblo",
+      "Mabú",
+      "Mambiche",
+      "Mariana",
+      "Punta Santiago",
+      "Río Abajo",
+      "Tejas"
+    ],
+    "neighbors": [
+      "Naguabo",
+      "Yabucoa",
+      "Las Piedras"
+    ],
+    "familysearch_url": "https://www.familysearch.org/en/wiki/Humacao,_Puerto_Rico_Genealogy",
+    "escudo": {
+      "image": "",
+      "alt": "Coat of arms of Humacao, Puerto Rico",
+      "description": "Adopted in 1975 and designed by Roberto Brascochea Lota. Gold and green field representing the eastern sun and tropical agriculture. A mural crown honors Cacique Jumacao's royalty; two groups of three arrows symbolize his resistance against Spanish colonizers. A central escutcheon bears the symbol of the parish Dulce Nombre de Jesús.",
+      "license": "",
+      "attribution_url": ""
+    },
+    "historical_maps": [],
+    "genealogy_sources": [
+      {
+        "title": "Apuntes para la historia de Humacao",
+        "author": "Salvador Abreu-Vega",
+        "url": "",
+        "type": "book",
+        "description": "267-page comprehensive history of the municipality covering founding families and economic evolution. Published 1984."
+      },
+      {
+        "title": "Humacao: Notas para su historia",
+        "author": "Eileen Y. Cruz Ramirez",
+        "url": "",
+        "type": "book",
+        "description": "Part of the Comité Historia de los Pueblos series. Covers historical monuments and civic leaders. Published 1986."
+      }
+    ]
   },
   {
     "id": "isabela",
@@ -1346,15 +1442,71 @@
     "id": "loiza",
     "name": "Loíza",
     "founded": 1719,
-    "region": "Metro",
+    "region": "Northeast",
     "mother_town": [
       "San Juan"
     ],
+    "is_mother_municipality": true,
+    "has_detail_page": true,
     "parish": {
-      "name": "San Patricio",
-      "records_start": 1751
+      "name": "Espíritu Santo y San Patricio",
+      "records_start": 1792
     },
-    "civil_registry_start": 1885
+    "civil_registry_start": 1885,
+    "barrios": [
+      "Canóvanas",
+      "Loíza barrio-pueblo",
+      "Medianía Alta",
+      "Medianía Baja",
+      "Torrecilla Alta",
+      "Torrecilla Baja"
+    ],
+    "neighbors": [
+      "Carolina",
+      "Canóvanas",
+      "Río Grande"
+    ],
+    "familysearch_url": "https://www.familysearch.org/search/catalog/1058739",
+    "escudo": {
+      "image": "",
+      "alt": "Coat of arms of Loíza, Puerto Rico",
+      "description": "Shield featuring Santiago Apóstol on horseback representing the town's traditional July 25 celebrations, a wavy band symbolizing the Río Grande de Loíza, a crown honoring Cacica Yuisa, flames of the Holy Spirit referencing the church's older religious title, and shamrocks for Saint Patrick, the parish patron.",
+      "license": "",
+      "attribution_url": ""
+    },
+    "historical_maps": [
+      {
+      "municipality": "Loíza",
+      "year": 2026,
+      "caption": "Loíza",
+      "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+      "image": "assets/images/municipalities/maps/loíza-2026.png",
+      "url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+ ],
+    "genealogy_sources": [
+      {
+        "title": "Loíza Parish Registers, 1792–1919",
+        "author": "Iglesia Católica San Patricio",
+        "url": "https://www.familysearch.org/search/catalog/1058739",
+        "type": "catalog",
+        "description": "FamilySearch catalog entry for baptisms, marriages, deaths, and indexes from the Loíza parish; many older records are deteriorated."
+      },
+      {
+        "title": "Loíza Church Records Transcribed and Indexed",
+        "author": "Genealogía Nuestra",
+        "url": "https://genealogianuestra.com/loiza-church-records-transcribed-indexed/",
+        "type": "transcription",
+        "description": "Transcribed and indexed Loíza baptisms, marriages, and deaths; a derivative source — verify against original images."
+      },
+      {
+        "title": "Loíza, Puerto Rico Genealogy",
+        "author": "FamilySearch",
+        "url": "https://www.familysearch.org/en/wiki/Lo%C3%ADza%2C_Puerto_Rico_Genealogy",
+        "type": "guide",
+        "description": "FamilySearch wiki page with research guidance for Loíza, including available record types and repositories."
+      }
+    ]
   },
   {
     "id": "luquillo",
@@ -2219,12 +2371,11 @@
       "attribution_url": "https://commons.wikimedia.org/wiki/File:Escudo_de_San_German,_Puerto_Rico.svg"
     },
     "historical_maps": [
-      {
-        "image": null,
-        "year": null,
-        "caption": "Historical map to be identified",
-        "source": "TBD",
-        "source_url": null
+      {  "year": 2026,
+         "caption": "San-germán",
+         "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
+         "image": "assets/images/municipalities/maps/san-germán-2026.png",
+         "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
       }
     ],
     "familysearch_url": "https://www.familysearch.org/en/wiki/San_Germ%C3%A1n,_Puerto_Rico_Genealogy",

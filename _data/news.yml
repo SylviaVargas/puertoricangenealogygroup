@@ -9,9 +9,23 @@
 #
 # Maintenance: add new entries at the top. Move old featured to non-featured.
 # To archive: move entries older than ~12 months to _data/news_archive_YYYY.yml
-- date: 2026-05-02
+- date: 2026-05-03
   category: features
   featured: true
+  title: "New: Humacao Municipality Detail Page"
+  body: "The Humacao detail page is now live — covering the town's 1722 founding, its 13 barrios, parish records from 1784 at the Parroquia Dulce Nombre de Jesús (including racially stratified marriage registers essential for Afro-Puerto Rican research), civil registry from 1885, coat of arms symbolism honoring Cacique Jumacao, and a full genealogy research toolkit with links to FamilySearch records."
+  link: /tools/municipality-guide/humacao/
+
+- date: 2026-05-03
+  category: features
+  featured: false
+  title: "New: Loíza Municipality Detail Page"
+  body: "The Loíza detail page is now live — covering the town's 1719 founding, its 6 barrios, parish records from 1792 at the Parroquia del Espíritu Santo y San Patricio, civil registry from 1885, coat of arms symbolism honoring Santiago Apóstol and Cacica Yuisa, and a full genealogy research toolkit with links to FamilySearch records. Loíza is especially important for Afro-Puerto Rican genealogical research."
+  link: /tools/municipality-guide/loiza/
+
+- date: 2026-05-02
+  category: features
+  featured: false
   title: "New: Morovis Municipality Detail Page"
   body: "The Morovis detail page is now live — covering the town's 1818 founding from Manatí, its 14 barrios in the central highlands, Parroquia Nuestra Señora del Carmen records dating to 1818, civil registry from 1885, coat of arms honoring the cuatro tradition and founder Don Juan Evangelista Rivera, and a full genealogy research toolkit with links to FamilySearch records."
   link: /tools/municipality-guide/morovis/

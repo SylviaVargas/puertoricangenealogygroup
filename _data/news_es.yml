@@ -10,9 +10,23 @@
 # Mantenimiento: agregar entradas nuevas al inicio. Cambiar featured anterior a false.
 # Para archivar: mover entradas con más de ~12 meses a _data/news_es_archive_YYYY.yml
 
-- date: 2026-05-02
+- date: 2026-05-03
   category: funciones
   featured: true
+  title: "Nuevo: Página de Detalle del Municipio Humacao"
+  body: "La página de detalle de Humacao ya está disponible — con la historia de su fundación en 1722, sus 13 barrios, los registros parroquiales desde 1784 en la Parroquia Dulce Nombre de Jesús (incluidos libros matrimoniales separados por raza, esenciales para la genealogía afropuertorriqueña), el registro civil desde 1885, el simbolismo del escudo que honra al Cacique Jumacao, y una guía completa de investigación genealógica con enlaces a FamilySearch."
+  link: /es/guia-municipios/humacao/
+
+- date: 2026-05-03
+  category: funciones
+  featured: false
+  title: "Nuevo: Página de Detalle del Municipio Loíza"
+  body: "La página de detalle de Loíza ya está disponible — con la historia de su fundación en 1719, sus 6 barrios, los registros parroquiales desde 1792 en la Parroquia del Espíritu Santo y San Patricio, el registro civil desde 1885, el simbolismo del escudo que honra a Santiago Apóstol y a la Cacica Yuisa, y una guía completa de investigación genealógica con enlaces a FamilySearch. Loíza es especialmente importante para la investigación genealógica afropuertorriqueña."
+  link: /es/guia-municipios/loiza/
+
+- date: 2026-05-02
+  category: funciones
+  featured: false
   title: "Nuevo: Página de Detalle del Municipio Morovis"
   body: "La página de detalle de Morovis ya está disponible — con la historia de su fundación en 1818 al separarse de Manatí, sus 14 barrios en las montañas centrales, los registros de la Parroquia Nuestra Señora del Carmen desde 1818, el registro civil desde 1885, el simbolismo del escudo que honra la tradición del cuatro y al fundador Don Juan Evangelista Rivera, y una guía completa de investigación genealógica con enlaces a FamilySearch."
   link: /es/guia-municipios/morovis/
