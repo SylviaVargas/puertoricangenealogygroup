@@ -10,9 +10,16 @@
 # Mantenimiento: agregar entradas nuevas al inicio. Cambiar featured anterior a false.
 # Para archivar: mover entradas con más de ~12 meses a _data/news_es_archive_YYYY.yml
 
-- date: 2026-05-03
+- date: 2026-05-04
   category: funciones
   featured: true
+  title: "Nuevo: Página de Detalle del Municipio Guaynabo"
+  body: "La página de detalle de Guaynabo ya está disponible — con la historia de su fundación en 1769 en el sitio de Caparra (el primer asentamiento europeo de Puerto Rico), sus 10 barrios, registros parroquiales desde 1765 en la parroquia de San Pedro Mártir de Verona, registro civil desde 1886, simbolismo del escudo municipal y una guía completa de investigación genealógica con enlaces a FamilySearch. Incluye orientación para rastrear antepasados durante el período de supresión municipal (1875–1912)."
+  link: /es/guia-municipios/guaynabo/
+
+- date: 2026-05-03
+  category: funciones
+  featured: false
   title: "Nuevo: Página de Detalle del Municipio Humacao"
   body: "La página de detalle de Humacao ya está disponible — con la historia de su fundación en 1722, sus 13 barrios, los registros parroquiales desde 1784 en la Parroquia Dulce Nombre de Jesús (incluidos libros matrimoniales separados por raza, esenciales para la genealogía afropuertorriqueña), el registro civil desde 1885, el simbolismo del escudo que honra al Cacique Jumacao, y una guía completa de investigación genealógica con enlaces a FamilySearch."
   link: /es/guia-municipios/humacao/

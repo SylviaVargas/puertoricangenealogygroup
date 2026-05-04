@@ -9,9 +9,16 @@
 #
 # Maintenance: add new entries at the top. Move old featured to non-featured.
 # To archive: move entries older than ~12 months to _data/news_archive_YYYY.yml
-- date: 2026-05-03
+- date: 2026-05-04
   category: features
   featured: true
+  title: "New: Guaynabo Municipality Detail Page"
+  body: "The Guaynabo detail page is now live — covering the town's 1769 founding on the site of Caparra (Puerto Rico's first European settlement), its 10 barrios, parish records from 1765 at San Pedro Mártir de Verona, civil registry from 1886, coat of arms symbolism, and a full genealogy research toolkit with links to FamilySearch records. Includes guidance for tracing ancestors during the 1875–1912 suppression period."
+  link: /tools/municipality-guide/guaynabo/
+
+- date: 2026-05-03
+  category: features
+  featured: false
   title: "New: Humacao Municipality Detail Page"
   body: "The Humacao detail page is now live — covering the town's 1722 founding, its 13 barrios, parish records from 1784 at the Parroquia Dulce Nombre de Jesús (including racially stratified marriage registers essential for Afro-Puerto Rican research), civil registry from 1885, coat of arms symbolism honoring Cacique Jumacao, and a full genealogy research toolkit with links to FamilySearch records."
   link: /tools/municipality-guide/humacao/

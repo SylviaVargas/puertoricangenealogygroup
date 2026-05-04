@@ -1191,11 +1191,39 @@
       "Bayamón",
       "San Juan"
     ],
+    "is_mother_municipality": false,
+    "has_detail_page": true,
     "parish": {
-      "name": "San Pedro Mártir",
-      "records_start": 1769
+      "name": "San Pedro Mártir de Verona",
+      "records_start": 1765
     },
-    "civil_registry_start": 1885,
+    "civil_registry_start": 1886,
+    "barrios": [
+      "Camarones",
+      "Frailes",
+      "Guaraguao",
+      "Guaynabo barrio-pueblo",
+      "Hato Nuevo",
+      "Mamey",
+      "Pueblo Viejo",
+      "Río",
+      "Santa Rosa",
+      "Sonadora"
+    ],
+    "neighbors": [
+      "Aguas Buenas",
+      "Bayamón",
+      "Cataño",
+      "San Juan"
+    ],
+    "familysearch_url": "https://www.familysearch.org/en/wiki/Guaynabo,_Puerto_Rico_Genealogy",
+    "escudo": {
+      "image": "",
+      "alt": "Coat of arms of Guaynabo, Puerto Rico",
+      "description": "The Guaynabo coat of arms, adopted in 1972, features a flory cross representing the Dominican Order and patron saint Peter Martyr of Verona; a red masonry fortress symbolizing Caparra, the first capital of Puerto Rico; a purple rampant lion representing the Ponce de León family; and green and silver as the oldest heraldic colors of the town, representing fertility and purity.",
+      "license": "",
+      "attribution_url": ""
+    },
     "historical_maps": [
       {
         "municipality": "Guaynabo",
@@ -1204,6 +1232,29 @@
         "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
         "image": "assets/images/municipalities/maps/guaynabo-2026.png",
         "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ],
+    "genealogy_sources": [
+      {
+        "title": "FamilySearch Catalog: San Pedro Mártir Parish",
+        "author": "FamilySearch International",
+        "url": "https://www.familysearch.org/en/search/catalog/1147549",
+        "type": "Parish Records",
+        "description": "Primary ecclesiastical archive for Guaynabo. Baptisms start 1765; Marriages and Burials start 1771."
+      },
+      {
+        "title": "Guaynabo Parish Record Indexes",
+        "author": "Hijos de Coamo",
+        "url": "https://hijosdecoamopr.com/guaynabo-puerto-rico-parish-record-indexes/",
+        "type": "Index",
+        "description": "Detailed breakdown of baptismal books and image locations for San Pedro Mártir (1765–1943)."
+      },
+      {
+        "title": "Guaynabo: Notas para su Historia",
+        "author": "Puerto Rico State Office of Historic Preservation (OECH)",
+        "url": "https://docs.pr.gov/files/OECH/Publicaciones%20y%20Recursos/Libros%20Notas%20para%20su%20Historia/Notas%20para%20su%20Historia%20Guaynabo.pdf",
+        "type": "Book",
+        "description": "Official municipal history PDF providing demographic history from 1780 to 1860."
       }
     ]
   },
@@ -1376,16 +1427,9 @@
       {
         "title": "Apuntes para la historia de Humacao",
         "author": "Salvador Abreu-Vega",
-        "url": "",
+        "url": "https://search.worldcat.org/es/title/apuntes-para-la-historia-de-humacao/oclc/13887813",
         "type": "book",
         "description": "267-page comprehensive history of the municipality covering founding families and economic evolution. Published 1984."
-      },
-      {
-        "title": "Humacao: Notas para su historia",
-        "author": "Eileen Y. Cruz Ramirez",
-        "url": "",
-        "type": "book",
-        "description": "Part of the Comité Historia de los Pueblos series. Covers historical monuments and civic leaders. Published 1986."
       }
     ]
   },
