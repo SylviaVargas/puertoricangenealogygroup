@@ -13,6 +13,27 @@
 - date: 2026-05-04
   category: funciones
   featured: true
+  title: "Nuevo: Página de Detalle del Municipio Cayey"
+  body: "La página de detalle de Cayey ya está disponible — con la historia de la 'Ciudad de las Brumas' y su fundación en 1773 a partir de la jurisdicción de Coamo, sus 21 barrios, registros parroquiales en Nuestra Señora de la Asunción desde 1774, registro civil desde 1885, simbolismo del escudo municipal y una guía completa de investigación genealógica con enlaces a FamilySearch, ADNPR, Notas para su Historia y Find A Grave. Cayey es pueblo matriz de Cidra (1809), lo que hace sus registros esenciales para investigadores que rastrean linajes montañosos a través de la cordillera centro-sur."
+  link: /es/guia-municipios/cayey/
+
+- date: 2026-05-04
+  category: funciones
+  featured: false
+  title: "Nuevo: Página de Detalle del Municipio Fajardo"
+  body: "La página de detalle de Fajardo ya está disponible — con la historia de la 'Metrópolis del Este' y su fundación en 1772 a partir de la jurisdicción de Loíza, sus 9 barrios, registros parroquiales en Santiago Apóstol desde 1774, registro civil desde 1885, simbolismo del escudo municipal y una guía completa de investigación genealógica. Fajardo es pueblo matriz de Luquillo (1797) y Ceiba (1813), lo que hace sus registros esenciales para investigadores que rastrean antepasados en toda la costa oriental y los municipios isleños de Vieques y Culebra."
+  link: /es/guia-municipios/fajardo/
+
+- date: 2026-05-04
+  category: funciones
+  featured: false
+  title: "Nuevo: Página de Detalle del Municipio Toa Alta"
+  body: "La página de detalle de Toa Alta ya está disponible — con la historia de la 'Cuna de los Poetas' y su fundación en 1751 en tierras de la jurisdicción de San Juan, sus 9 barrios, registros parroquiales en San Fernando Rey desde 1752, registro civil desde 1885, simbolismo del escudo municipal y una guía completa de investigación genealógica. Toa Alta es pueblo matriz de Corozal (1795) y Naranjito (1824), lo que hace sus registros esenciales para investigadores que rastrean antepasados en la región kárstica del norte y la cordillera central."
+  link: /es/guia-municipios/toa-alta/
+
+- date: 2026-05-04
+  category: funciones
+  featured: false
   title: "Mejorado: Página de Detalle del Municipio Guaynabo"
   body: "La página de detalle de Guaynabo ha sido ampliada con cuatro nuevas fuentes genealógicas: el perfil del Municipio del Censo de EE. UU., el catálogo de registro civil de FamilySearch (1886), los Padrones de Esclavos de 1872 para las jurisdicciones del norte, y los registros de cementerios de Find A Grave. La investigación en Guaynabo requiere navegar tres épocas: registros previos a 1769 en San Juan y Bayamón, la era parroquial independiente (1769-1885) y la laguna de supresión (1875-1912) cuando los barrios fueron absorbidos por Bayamón y Río Piedras."
   link: /es/guia-municipios/guaynabo/

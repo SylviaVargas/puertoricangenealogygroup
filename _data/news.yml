@@ -12,6 +12,27 @@
 - date: 2026-05-04
   category: features
   featured: true
+  title: "New: Cayey Municipality Detail Page"
+  body: "The Cayey detail page is now live — covering the 'Ciudad de las Brumas' and its 1773 founding from the Coamo jurisdiction, its 21 barrios, parish records at Nuestra Señora de la Asunción from 1774, civil registry from 1885, coat of arms symbolism, and a full genealogy research toolkit with links to FamilySearch records, ADNPR, Notas para su Historia, and Find A Grave. Cayey is the mother town of Cidra (1809), making its records essential for researchers tracing mountain lineages across the central-southern cordillera."
+  link: /tools/municipality-guide/cayey/
+
+- date: 2026-05-04
+  category: features
+  featured: false
+  title: "New: Fajardo Municipality Detail Page"
+  body: "The Fajardo detail page is now live — covering the 'Metrópolis del Este' and its 1772 founding from the Loíza jurisdiction, its 9 barrios, parish records at Santiago Apóstol from 1774, civil registry from 1885, coat of arms symbolism, and a full genealogy research toolkit. Fajardo is the mother town of both Luquillo (1797) and Ceiba (1813), making its records essential for researchers tracing ancestors across the entire eastern coast and the island municipalities of Vieques and Culebra."
+  link: /tools/municipality-guide/fajardo/
+
+- date: 2026-05-04
+  category: features
+  featured: false
+  title: "New: Toa Alta Municipality Detail Page"
+  body: "The Toa Alta detail page is now live — covering the 'Cuna de los Poetas' and its 1751 founding on former San Juan territory, its 9 barrios, parish records at San Fernando Rey from 1752, civil registry from 1885, coat of arms symbolism, and a full genealogy research toolkit. Toa Alta is the mother town of Corozal (1795) and Naranjito (1824), making its records essential for researchers tracing ancestors across the northern karst region and central mountains."
+  link: /tools/municipality-guide/toa-alta/
+
+- date: 2026-05-04
+  category: features
+  featured: false
   title: "Enhanced: Guaynabo Municipality Detail Page"
   body: "The Guaynabo detail page has been expanded with four new genealogy sources: the U.S. Census Bureau municipio profile, the FamilySearch civil registration catalog (1886), the 1872 Slave Schedules for the northern jurisdictions, and Find A Grave cemetery records. Guaynabo's research requires navigating three eras — pre-1769 San Juan/Bayamón records, the independent parish era (1769-1885), and the suppression gap (1875-1912) when barrios were absorbed by Bayamón and Río Piedras."
   link: /tools/municipality-guide/guaynabo/

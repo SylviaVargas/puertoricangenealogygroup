@@ -859,11 +859,53 @@
     "mother_town": [
       "Coamo"
     ],
+    "is_mother_municipality": true,
+    "has_detail_page": true,
     "parish": {
       "name": "Nuestra Señora de la Asunción",
-      "records_start": 1773
+      "records_start": 1774
     },
     "civil_registry_start": 1885,
+    "barrios": [
+      "Beatriz",
+      "Cayey Pueblo",
+      "Cedro",
+      "Cercadillo",
+      "Culebras Alto",
+      "Culebras Bajo",
+      "Farallón",
+      "Guavate",
+      "Jájome Alto",
+      "Jájome Bajo",
+      "Matón Abajo",
+      "Matón Arriba",
+      "Monte Llano",
+      "Pasto Viejo",
+      "Pedro Avila",
+      "Piedras",
+      "Quebrada Arriba",
+      "Rincón",
+      "Sumido",
+      "Toíta",
+      "Vegas"
+    ],
+    "neighbors": [
+      "Aibonito",
+      "Caguas",
+      "Cidra",
+      "Guayama",
+      "Patillas",
+      "Salinas",
+      "San Lorenzo"
+    ],
+    "familysearch_url": "https://www.familysearch.org/en/wiki/Cayey,_Puerto_Rico_Genealogy",
+    "escudo": {
+      "image": "",
+      "alt": "Coat of arms of Cayey, Puerto Rico",
+      "description": "The shield features green mountains representing the Central Mountain Range and the town's high elevation; red roses honoring the patroness Nuestra Señora de la Asunción; a lamb symbolizing ties to the broader Christian heritage of the island; green for the fertile misty lands and gold for its historical richness.",
+      "license": "",
+      "attribution_url": ""
+    },
     "historical_maps": [
       {
         "municipality": "Cayey",
@@ -872,6 +914,36 @@
         "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
         "image": "assets/images/municipalities/maps/cayey-2026.png",
         "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ],
+    "genealogy_sources": [
+      {
+        "title": "U.S. Census Bureau: Cayey Municipio Profile",
+        "author": "U.S. Census Bureau",
+        "url": "https://data.census.gov/profile/Cayey_Municipio,_Puerto_Rico?g=050XX00US72035",
+        "type": "Census Data",
+        "description": "Authoritative 2020 Census profile for Cayey, including official barrio list, population data, and geographic boundary information."
+      },
+      {
+        "title": "Notas para su Historia: Cayey",
+        "author": "Mario A. Rodríguez León, O.P.",
+        "url": "https://docs.pr.gov/files/OECH/Publicaciones%20y%20Recursos/Libros%20Notas%20para%20su%20Historia/Notas%20para%20su%20Historia%20Cayey.pdf",
+        "type": "Local History",
+        "description": "Essential historical text for Cayey covering the founding families and social development of the town, tracing the formation of the Hato de Cayey as it separated from Coamo's jurisdiction in 1773."
+      },
+      {
+        "title": "ADNPR: Archivo Digital Nacional de Puerto Rico",
+        "author": "ADNPR",
+        "url": "https://adnpr.net/",
+        "type": "Digital Archive",
+        "description": "Digital repository for 19th-century municipal documents, tax records, and property maps for the Cayey district; most reliable current source for pre-civil-registration administrative records."
+      },
+      {
+        "title": "Find A Grave: Cayey",
+        "author": "Find A Grave",
+        "url": "https://www.findagrave.com/cemetery-browse/USA/Puerto-Rico/Cayey-Municipality/Cayey?id=city_124605",
+        "type": "Cemetery Records",
+        "description": "Burial records for the Cementerio Municipal de Cayey and local burial sites; useful for verifying death dates and family plots from the 19th and early 20th centuries."
       }
     ]
   },
@@ -1133,11 +1205,36 @@
     "mother_town": [
       "Loíza"
     ],
+    "is_mother_municipality": true,
+    "has_detail_page": true,
     "parish": {
       "name": "Santiago Apóstol",
-      "records_start": 1772
+      "records_start": 1774
     },
     "civil_registry_start": 1885,
+    "barrios": [
+      "Cabezas",
+      "Demajagua",
+      "Florencio",
+      "Naranjo",
+      "Pueblo",
+      "Quebrada Fajardo",
+      "Quebrada Vueltas",
+      "Río Arriba",
+      "Sardinera"
+    ],
+    "neighbors": [
+      "Ceiba",
+      "Luquillo"
+    ],
+    "familysearch_url": "https://www.familysearch.org/en/wiki/Fajardo,_Puerto_Rico_Genealogy",
+    "escudo": {
+      "image": "",
+      "alt": "Coat of arms of Fajardo, Puerto Rico",
+      "description": "The shield features a sloop representing the Port of Fajardo's maritime trade, a lighthouse symbolizing the Faro de las Cabezas de San Juan, scallop shells as symbols of Santiago Apóstol (St. James, the town's patron saint), and border elements representing the Cariduros, the brave residents who defended the coast against British and pirate attacks.",
+      "license": "",
+      "attribution_url": ""
+    },
     "historical_maps": [
       {
         "municipality": "Fajardo",
@@ -1146,6 +1243,29 @@
         "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
         "image": "assets/images/municipalities/maps/fajardo-2026.png",
         "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ],
+    "genealogy_sources": [
+      {
+        "title": "U.S. Census Bureau: Fajardo Municipio Profile",
+        "author": "U.S. Census Bureau",
+        "url": "https://data.census.gov/profile/Fajardo_Municipio,_Puerto_Rico?g=050XX00US72053",
+        "type": "Census Data",
+        "description": "Authoritative 2020 Census profile for Fajardo, including official barrio list, population data, and geographic boundary information."
+      },
+      {
+        "title": "Find A Grave: Old Fajardo Municipal Cemetery (Cementerio Municipal de Florencio)",
+        "author": "Find A Grave",
+        "url": "https://www.findagrave.com/cemetery/2139573/cementerio-municipal-de-florencio",
+        "type": "Cemetery Records",
+        "description": "Burial records for the old municipal cemetery in the Florencio barrio; useful for 19th and early 20th-century death dates and family plots."
+      },
+      {
+        "title": "Notas para su Historia: Fajardo",
+        "author": "Mario A. Rodríguez León, O.P.",
+        "url": "https://rutgers.app.box.com/s/67ytr28x4602e11kuyd4nicji1k2n9l6/file/1797885918696",
+        "type": "Local History",
+        "description": "Primary historical text for Fajardo covering the town's founding, early families, and ecclesiastical history. Physical copies held at the Archivo General de Puerto Rico. Essential for tracing founding families."
       }
     ]
   },
@@ -3349,11 +3469,40 @@
     "mother_town": [
       "San Juan"
     ],
+    "is_mother_municipality": true,
+    "has_detail_page": true,
     "parish": {
       "name": "San Fernando Rey",
-      "records_start": 1751
+      "records_start": 1752
     },
     "civil_registry_start": 1885,
+    "barrios": [
+      "Contorno",
+      "Galateo",
+      "Mucarabones",
+      "Ortiz",
+      "Piñas",
+      "Quebrada Arenas",
+      "Quebrada Cruz",
+      "Río Lajas",
+      "Toa Alta Pueblo"
+    ],
+    "neighbors": [
+      "Bayamón",
+      "Corozal",
+      "Dorado",
+      "Naranjito",
+      "Toa Baja",
+      "Vega Alta"
+    ],
+    "familysearch_url": "https://www.familysearch.org/en/wiki/Toa_Alta,_Puerto_Rico_Genealogy",
+    "escudo": {
+      "image": "",
+      "alt": "Coat of arms of Toa Alta, Puerto Rico",
+      "description": "The shield features a crown representing San Fernando Rey (Saint Ferdinand III of Castile), the town's patron saint, along with star and crescent symbols associated with the Reconquista and Saint Ferdinand's legacy. A wavy bar represents the Río de la Plata (Toa River), central to the valley's development. Red and gold denote Spanish heritage, while the mural crown atop the shield signifies its status as a municipality.",
+      "license": "",
+      "attribution_url": ""
+    },
     "historical_maps": [
       {
         "municipality": "Toa-alta",
@@ -3362,6 +3511,29 @@
         "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
         "image": "assets/images/municipalities/maps/toa-alta-2026.png",
         "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ],
+    "genealogy_sources": [
+      {
+        "title": "U.S. Census Bureau: Toa Alta Municipio Profile",
+        "author": "U.S. Census Bureau",
+        "url": "https://data.census.gov/profile/Toa_Alta_Municipio,_Puerto_Rico?g=050XX00US72135",
+        "type": "Census Data",
+        "description": "Authoritative 2020 Census profile for Toa Alta, including official barrio list, population data, and geographic boundary information."
+      },
+      {
+        "title": "Notas para su Historia: Toa Alta",
+        "author": "Mario A. Rodríguez León, O.P.",
+        "url": "https://docs.pr.gov/files/OECH/Publicaciones%20y%20Recursos/Libros%20Notas%20para%20su%20Historia/Notas%20para%20su%20Historia%20Toa%20Alta.pdf",
+        "type": "Local History",
+        "description": "Primary historical text for Toa Alta covering the town's founding, early families, social structure, and ecclesiastical history. Essential for understanding pre-civil-registry genealogy in the region."
+      },
+      {
+        "title": "Find A Grave: Toa Alta Municipal Cemeteries",
+        "author": "Find A Grave",
+        "url": "https://www.findagrave.com/cemetery/search?cemetery-name=&cemetery-loc=Toa+Alta+Municipality%2C+Puerto+Rico%2C+USA&only-with-cemeteries=cemOnly&locationId=county_3373",
+        "type": "Cemetery Records",
+        "description": "Browseable list of burials across Toa Alta's municipal cemeteries, useful for 19th-century lineages not always clear in civil registers."
       }
     ]
   },
