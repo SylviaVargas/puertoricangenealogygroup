@@ -12,6 +12,20 @@
 - date: 2026-05-04
   category: features
   featured: true
+  title: "New: Vega Alta Municipality Detail Page"
+  body: "The Vega Alta detail page is now live — covering the 'Pueblo de los Ñame' and its 1775 founding when residents east of the Cibuco River separated from Vega Baja, its 9 barrios on the northern coastal plain, parish records at Inmaculada Concepción from 1777 (with pre-1777 ancestors requiring a search in Vega Baja's records), civil registry from 1885, coat of arms symbolism, and a full genealogy research toolkit with links to FamilySearch, ADNPR, Notas para su Historia, and Find A Grave."
+  link: /tools/municipality-guide/vega-alta/
+
+- date: 2026-05-04
+  category: features
+  featured: false
+  title: "New: Caguas Municipality Detail Page"
+  body: "The Caguas detail page is now live — covering the 'Ciudad Criolla' and its 1775 founding from San Juan's jurisdiction, its 11 barrios in the Turabo valley, parish records at Catedral Dulce Nombre de Jesús from 1730 (among the earliest interior records on the island), civil registry from 1885, coat of arms symbolism, and a full genealogy research toolkit. Caguas is the mother town of San Lorenzo (1811), Gurabo (1815), and Aguas Buenas (1838), making its records essential for researchers tracing ancestors across the central-eastern region."
+  link: /tools/municipality-guide/caguas/
+
+- date: 2026-05-04
+  category: features
+  featured: false
   title: "New: Cayey Municipality Detail Page"
   body: "The Cayey detail page is now live — covering the 'Ciudad de las Brumas' and its 1773 founding from the Coamo jurisdiction, its 21 barrios, parish records at Nuestra Señora de la Asunción from 1774, civil registry from 1885, coat of arms symbolism, and a full genealogy research toolkit with links to FamilySearch records, ADNPR, Notas para su Historia, and Find A Grave. Cayey is the mother town of Cidra (1809), making its records essential for researchers tracing mountain lineages across the central-southern cordillera."
   link: /tools/municipality-guide/cayey/

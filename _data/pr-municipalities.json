@@ -728,22 +728,45 @@
     "founded": 1775,
     "region": "Metro",
     "mother_town": [
-      "Loíza",
-      "San Mateo de Cangrejos"
+      "San Juan"
     ],
+    "is_mother_municipality": true,
+    "has_detail_page": true,
     "parish": {
-      "name": "Dulce Nombre de Jesús",
-      "records_start": 1775
+      "name": "Catedral Dulce Nombre de Jesús",
+      "records_start": 1730
     },
     "civil_registry_start": 1885,
-    "online_resources": [
-      {
-        "title": "Documentos Archivo Histórico de Caguas",
-        "url": "https://adnpr.net/documentos-archivo-historico-de-caguas/",
-        "description": "Over 150 boxes of digitized documents from the Caguas Municipal Historical Archive (1806–1955), including government correspondence, administrative records, and maps. More than 800,000 images available, with additional boxes being released.",
-        "type": "digital archive"
-      }
+    "barrios": [
+      "Bairoa",
+      "Beatriz",
+      "Borinquen",
+      "Cañabón",
+      "Cañaboncito",
+      "Pueblo",
+      "Río Cañas",
+      "San Antonio",
+      "San Salvador",
+      "Tomás de Castro",
+      "Turabo"
     ],
+    "neighbors": [
+      "Aguas Buenas",
+      "Cayey",
+      "Cidra",
+      "Gurabo",
+      "San Juan",
+      "San Lorenzo",
+      "Trujillo Alto"
+    ],
+    "familysearch_url": "https://www.familysearch.org/en/wiki/Caguas,_Puerto_Rico_Genealogy",
+    "escudo": {
+      "image": "",
+      "alt": "Coat of arms of Caguas, Puerto Rico",
+      "description": "The Caguas shield features crossed arrows representing Taíno Chief Caguax and the indigenous roots of the valley; a pineapple symbolizing the agricultural fertility of the Turabo valley; and a crown representing the patron Dulce Nombre de Jesús (Sweet Name of Jesus). The colors blue and gold signify the clear skies and waters of the valley and the richness of its Creole culture.",
+      "license": "",
+      "attribution_url": ""
+    },
     "historical_maps": [
       {
         "municipality": "Caguas",
@@ -752,6 +775,36 @@
         "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
         "image": "assets/images/municipalities/maps/caguas-2026.png",
         "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ],
+    "genealogy_sources": [
+      {
+        "title": "U.S. Census Bureau: Caguas Municipio Profile",
+        "author": "U.S. Census Bureau",
+        "url": "https://data.census.gov/profile/Caguas_Municipio,_Puerto_Rico?g=050XX00US72025",
+        "type": "Census Data",
+        "description": "Authoritative 2020 Census profile for Caguas, including official barrio list, population data, and geographic boundary information."
+      },
+      {
+        "title": "Documentos Archivo Histórico de Caguas",
+        "author": "ADNPR",
+        "url": "https://adnpr.net/documentos-archivo-historico-de-caguas/",
+        "type": "Digital Archive",
+        "description": "Over 150 boxes of digitized documents from the Caguas Municipal Historical Archive (1806–1955), including government correspondence, administrative records, slave registers (padrones de esclavos), and maps; more than 800,000 images available."
+      },
+      {
+        "title": "Notas para su Historia: Caguas",
+        "author": "Mario A. Rodríguez León, O.P.",
+        "url": "https://docs.pr.gov/files/OECH/Publicaciones%20y%20Recursos/Libros%20Notas%20para%20su%20Historia/Notas%20para%20su%20Historia%20Caguas.pdf",
+        "type": "Local History",
+        "description": "Definitive historical text for Caguas covering the founding families, early land grants, and the history of the Dulce Nombre de Jesús parish; essential for researchers tracing ancestors in the Turabo valley before the civil registry era."
+      },
+      {
+        "title": "Find A Grave: Caguas",
+        "author": "Find A Grave",
+        "url": "https://www.findagrave.com/cemetery/2277570/cementerio-municipal-1",
+        "type": "Cemetery Records",
+        "description": "Burial records for the Cementerio Municipal de Caguas; useful for verifying death dates and family plots from the 19th and early 20th centuries."
       }
     ]
   },
@@ -3738,11 +3791,38 @@
     "mother_town": [
       "Vega Baja"
     ],
+    "is_mother_municipality": false,
+    "has_detail_page": true,
     "parish": {
       "name": "Inmaculada Concepción",
-      "records_start": 1775
+      "records_start": 1777
     },
     "civil_registry_start": 1885,
+    "barrios": [
+      "Bajura",
+      "Candelaria",
+      "Cienegueta",
+      "Espinosa",
+      "Maricao",
+      "Mavilla",
+      "Pámpanos",
+      "Pueblo",
+      "Sabana"
+    ],
+    "neighbors": [
+      "Corozal",
+      "Dorado",
+      "Morovis",
+      "Vega Baja"
+    ],
+    "familysearch_url": "https://www.familysearch.org/en/wiki/Vega_Alta,_Puerto_Rico_Genealogy",
+    "escudo": {
+      "image": "",
+      "alt": "Coat of arms of Vega Alta, Puerto Rico",
+      "description": "The Vega Alta shield features olive branches referring to the surname of the town's founder, Don Francisco de los Olivos; a crown symbolizing the Immaculate Conception, the patroness of the parish and town; blue and silver bars representing the Cibuco River, which defines the municipality's geography; and stars representing the various sectors that comprise the town.",
+      "license": "",
+      "attribution_url": ""
+    },
     "historical_maps": [
       {
         "municipality": "Vega-alta",
@@ -3751,6 +3831,43 @@
         "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
         "image": "assets/images/municipalities/maps/vega-alta-2026.png",
         "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ],
+    "genealogy_sources": [
+      {
+        "title": "U.S. Census Bureau: Vega Alta Municipio Profile",
+        "author": "U.S. Census Bureau",
+        "url": "https://data.census.gov/profile/Vega_Alta_Municipio,_Puerto_Rico?g=050XX00US72143",
+        "type": "Census Data",
+        "description": "Authoritative 2020 Census profile for Vega Alta, including official barrio list, population data, and geographic boundary information."
+      },
+      {
+        "title": "Vega Alta, Puerto Rico Genealogy — FamilySearch Wiki",
+        "author": "FamilySearch",
+        "url": "https://www.familysearch.org/en/wiki/Vega_Alta,_Puerto_Rico_Genealogy",
+        "type": "Research Guide",
+        "description": "FamilySearch wiki guide covering available records for Vega Alta, including Catholic parish records (Inmaculada Concepción, from 1777) and civil registration (from 1885), with direct links to digitized collections."
+      },
+      {
+        "title": "ADNPR: Archivo Digital Nacional de Puerto Rico",
+        "author": "ADNPR",
+        "url": "https://adnpr.net/",
+        "type": "Digital Archive",
+        "description": "Digital repository for 19th-century municipal documents, agricultural censuses, slave registers, and historical maps of the Vega Alta district."
+      },
+      {
+        "title": "Find A Grave: Cementerio Municipal Antiguo de Vega Alta",
+        "author": "Find A Grave",
+        "url": "https://www.findagrave.com/cemetery/2433075/cementerio-municipal-antiguo-de-vega-alta",
+        "type": "Cemetery Records",
+        "description": "Database for the Cementerio Municipal de Vega Alta, containing 19th- and early 20th-century headstones for local families including Olivos, Rivera, and Marrero."
+      },
+      {
+        "title": "Breve Historia de Vega Alta 1775–1958",
+        "author": "Reinaldo Josué Santana Bruno",
+        "url": "https://www.amazon.com/-/es/Reinaldo-Josu%C3%A9-Santana-Bruno-ebook/dp/B08XPTL435",
+        "type": "Local History",
+        "description": "Kindle-format local history covering the founding, growth, and key events of Vega Alta from 1775 to 1958; useful background for contextualizing genealogical research in the municipality."
       }
     ]
   },
