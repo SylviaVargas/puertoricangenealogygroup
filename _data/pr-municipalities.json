@@ -1184,13 +1184,46 @@
     "founded": 1795,
     "region": "Central",
     "mother_town": [
-      "Manatí"
+      "Toa Alta"
     ],
+    "is_mother_municipality": false,
+    "has_detail_page": true,
     "parish": {
       "name": "La Sagrada Familia",
       "records_start": 1795
     },
     "civil_registry_start": 1885,
+    "barrios": [
+      "Abras",
+      "Cibuco",
+      "Corozal barrio-pueblo",
+      "Cuchillas",
+      "Dos Bocas",
+      "Magueyes",
+      "Maná",
+      "Negros",
+      "Padilla",
+      "Palmarejo",
+      "Palmarito",
+      "Palos Blancos",
+      "Pueblo"
+    ],
+    "neighbors": [
+      "Barranquitas",
+      "Morovis",
+      "Naranjito",
+      "Orocovis",
+      "Toa Alta",
+      "Vega Alta"
+    ],
+    "familysearch_url": "https://www.familysearch.org/en/wiki/Corozal,_Puerto_Rico_Genealogy",
+    "escudo": {
+      "image": "",
+      "alt": "Coat of arms of Corozal, Puerto Rico",
+      "description": "Three corozo palm trees representing the town's name and river margins, mountain peaks reflecting the striking terrain, blue-and-silver waves standing for the Corozal River, gold nuggets recalling historic gold panning, and a mural crown as the civic emblem of the town.",
+      "license": "",
+      "attribution_url": ""
+    },
     "historical_maps": [
       {
         "municipality": "Corozal",
@@ -1199,6 +1232,50 @@
         "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
         "image": "assets/images/municipalities/maps/corozal-2026.png",
         "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ],
+    "genealogy_sources": [
+      {
+        "title": "U.S. Census Bureau: Corozal Municipio Profile",
+        "author": "U.S. Census Bureau",
+        "url": "https://data.census.gov/profile/Corozal_Municipio,_Puerto_Rico?g=050XX00US72047",
+        "type": "Census Data",
+        "description": "Authoritative 2020 Census profile for Corozal, including official barrio list, population data, and geographic boundary information."
+      },
+      {
+        "title": "Corozal, Puerto Rico Genealogy (FamilySearch Wiki)",
+        "author": "FamilySearch",
+        "url": "https://www.familysearch.org/en/wiki/Corozal,_Puerto_Rico_Genealogy",
+        "type": "Research Guide",
+        "description": "FamilySearch wiki page for Corozal with links to civil registration and Catholic church records; directs researchers to contact the local parish for records prior to 1876."
+      },
+      {
+        "title": "Registros civiles de Corozal, 1885-1994 (FamilySearch Catalog)",
+        "author": "FamilySearch",
+        "url": "https://www.familysearch.org/en/search/catalog/712013",
+        "type": "Vital Records",
+        "description": "Civil registration catalog for Corozal covering births, marriages, and deaths from 1885 to 1994."
+      },
+      {
+        "title": "Puerto Rico, Catholic Church Records, 1645-2021",
+        "author": "FamilySearch",
+        "url": "https://www.familysearch.org/en/search/collection/1807092",
+        "type": "Church Records",
+        "description": "Island-wide Catholic collection including baptisms, confirmations, parish censuses, marriages, deaths, and indexes from parishes across Puerto Rico."
+      },
+      {
+        "title": "Municipio de Corozal (Enciclopedia de Puerto Rico)",
+        "author": "Fundación Puertorriqueña de las Humanidades",
+        "url": "https://enciclopediapr.org/content/municipio-de-corozal/",
+        "type": "Municipal History",
+        "description": "Authoritative overview of Corozal's founding, geographic context, and administrative history, including confirmation that the area was under Toa Alta's jurisdiction before achieving independent town status."
+      },
+      {
+        "title": "Find A Grave: Corozal Municipality Cemeteries",
+        "author": "Find A Grave",
+        "url": "https://www.findagrave.com/cemetery/search?locationId=county_3326",
+        "type": "Cemetery Records",
+        "description": "Browse and search burial records across Corozal's cemeteries, including Cementerio Municipal de Corozal, Cementerio Urbano, and Corozal Memorial Park."
       }
     ]
   },
@@ -1788,19 +1865,93 @@
     "mother_town": [
       "Coamo"
     ],
+    "is_mother_municipality": true,
+    "has_detail_page": true,
     "parish": {
       "name": "San Ramón Nonato",
       "records_start": 1798
     },
     "civil_registry_start": 1885,
+    "barrios": [
+      "Amuelas",
+      "Callabo",
+      "Capitanejo",
+      "Cintrona",
+      "Collores",
+      "Emajagual",
+      "Guayabal",
+      "Jacaguas",
+      "Juana Díaz Pueblo",
+      "Lomas",
+      "Río Cañas Abajo",
+      "Río Cañas Arriba",
+      "Sabana Llana",
+      "Tijeras"
+    ],
+    "neighbors": [
+      "Coamo",
+      "Ponce",
+      "Santa Isabel",
+      "Villalba"
+    ],
+    "record_gaps": [],
+    "familysearch_url": "https://www.familysearch.org/en/wiki/Juana_Diaz,_Puerto_Rico_Genealogy",
+    "escudo": {
+      "image": "",
+      "alt": "Coat of arms of Juana Díaz, Puerto Rico",
+      "description": "",
+      "license": "",
+      "attribution_url": ""
+    },
     "historical_maps": [
       {
-        "municipality": "Juana-díaz",
+        "municipality": "Juana Díaz",
         "year": 2026,
-        "caption": "Juana-díaz",
+        "caption": "Juana Díaz",
         "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
         "image": "assets/images/municipalities/maps/juana-díaz-2026.png",
         "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ],
+    "genealogy_sources": [
+      {
+        "title": "U.S. Census Bureau: Juana Díaz Municipio Profile",
+        "author": "U.S. Census Bureau",
+        "url": "https://data.census.gov/profile/Juana_D%C3%ADaz_Municipio,_Puerto_Rico?g=050XX00US72075",
+        "type": "Census Data",
+        "description": "Authoritative 2020 Census profile for Juana Díaz, including official barrio list, population data, and geographic boundary information."
+      },
+      {
+        "title": "FamilySearch Wiki — Juana Díaz, Puerto Rico Genealogy",
+        "url": "https://www.familysearch.org/en/wiki/Juana_Diaz,_Puerto_Rico_Genealogy",
+        "type": "Web Resource",
+        "description": "Comprehensive guide to genealogical resources for Juana Díaz, including civil registration, Catholic church records (San Ramón Nonato), and links to digitized collections on FamilySearch."
+      },
+      {
+        "title": "Juana Díaz Church Records 1787–1922 — Hijos de Coamo",
+        "author": "Hijos de Coamo",
+        "url": "https://hijosdecoamopr.com/juana-diaz-puerto-rico-church-records-1787-through-1922/",
+        "type": "Transcription Index",
+        "description": "Volunteer-transcribed and indexed Catholic church records for Juana Díaz covering 1787–1922, including baptisms, marriages, and burials from San Ramón Nonato parish."
+      },
+      {
+        "title": "Genealogia Nuestra: Juana Díaz",
+        "author": "Genealogía Nuestra",
+        "url": "https://genealogianuestra.com/juana-diaz-church-records-1787-1922/",
+        "type": "Web Resource",
+        "description": "Official municipal history of Juana Díaz published by the Puerto Rico Office of Historic Preservation. Covers the town's founding by Doña Juana Díaz de la Cruz, its development as a sugar-producing center, and local heritage."
+      },
+      {
+        "title": "FamilySearch Catalog: Puerto Rico, Juana Díaz, Church Records",
+        "url": "https://www.familysearch.org/en/search/catalog/992645",
+        "type": "Archive Catalog",
+        "description": "FamilySearch catalog entry for digitized parish records from Juana Díaz, covering baptisms, marriages, and burials from San Ramón Nonato parish."
+      },
+      {
+        "title": "EnciclopediaPR — Municipio de Juana Díaz",
+        "url": "https://enciclopediapr.org/content/municipio-de-juana-diaz/",
+        "type": "Encyclopedia",
+        "description": "Encyclopedic entry on Juana Díaz covering its history, geography, culture, and notable figures. Useful for placing ancestors in historical context."
       }
     ]
   },
@@ -2070,19 +2221,85 @@
     "mother_town": [
       "Humacao"
     ],
+    "is_mother_municipality": false,
+    "has_detail_page": true,
     "parish": {
-      "name": "Inmaculada Concepción",
+      "name": "Nuestra Señora de la Inmaculada Concepción",
       "records_start": 1773
     },
     "civil_registry_start": 1885,
+    "barrios": [
+      "Arenas",
+      "Boquerón",
+      "Ceiba",
+      "Collores",
+      "Montones",
+      "Pueblo",
+      "Quebrada",
+      "Tejas"
+    ],
+    "neighbors": [
+      "Canóvanas",
+      "Humacao",
+      "Juncos",
+      "Naguabo",
+      "Río Grande",
+      "San Lorenzo",
+      "Yabucoa"
+    ],
+    "familysearch_url": "https://www.familysearch.org/en/wiki/Las_Piedras,_Puerto_Rico_Genealogy",
+    "escudo": {
+      "image": "",
+      "alt": "Coat of arms of Las Piedras, Puerto Rico",
+      "description": "The coat of arms features the Virgin's monogram representing the Immaculate Conception, the patroness under whose title the parochial church gave origin to the town; stones symbolizing the large boulders scattered throughout the region that give Las Piedras its name; a Taíno sun representing the indigenous heritage of the area and a petroglyph carving found locally; and a three-towered mural crown indicating its status as a municipality.",
+      "license": "",
+      "attribution_url": ""
+    },
     "historical_maps": [
       {
-        "municipality": "Las-piedras",
+        "municipality": "Las Piedras",
         "year": 2026,
-        "caption": "Las-piedras",
+        "caption": "Las Piedras",
         "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
         "image": "assets/images/municipalities/maps/las-piedras-2026.png",
         "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ],
+    "genealogy_sources": [
+      {
+        "title": "U.S. Census Bureau: Las Piedras Municipio Profile",
+        "author": "U.S. Census Bureau",
+        "url": "https://data.census.gov/profile/Las_Piedras_Municipio,_Puerto_Rico?g=050XX00US72085",
+        "type": "Census Data",
+        "description": "Authoritative 2020 Census profile for Las Piedras, including official barrio list, population data, and geographic boundary information."
+      },
+      {
+        "title": "Las Piedras, Puerto Rico Genealogy (FamilySearch Wiki)",
+        "author": "FamilySearch",
+        "url": "https://www.familysearch.org/en/wiki/Las_Piedras,_Puerto_Rico_Genealogy",
+        "type": "Research Guide",
+        "description": "FamilySearch wiki page for Las Piedras genealogy research. Notes that pre-1876 Catholic records are not yet digitized; researchers should contact the local parish directly for records prior to that date."
+      },
+      {
+        "title": "Puerto Rico Catholic Church Records, 1645–1969",
+        "author": "FamilySearch",
+        "url": "https://www.familysearch.org/en/search/catalog/1807092",
+        "type": "Parish Records",
+        "description": "Main digitized Catholic records collection for Puerto Rico, including baptisms, marriages, and burials. Browse the catalog for Las Piedras to determine the earliest available dates."
+      },
+      {
+        "title": "Puerto Rico Civil Registration, 1885–2001",
+        "author": "FamilySearch",
+        "url": "https://www.familysearch.org/en/search/collection/1682798",
+        "type": "Civil Records",
+        "description": "Civil registration records for Las Piedras covering births, marriages, and deaths from 1885 to 2001."
+      },
+      {
+        "title": "Find a Grave: Cementerio Municipal de Las Piedras",
+        "author": "Find a Grave",
+        "url": "https://www.findagrave.com/cemetery/2257759/cementerio-municipal-de-las-piedras",
+        "type": "Cemetery Records",
+        "description": "Listings for the Cementerio Municipal de Las Piedras, useful for identifying burial dates and family connections."
       }
     ]
   },
@@ -4084,15 +4301,44 @@
     "id": "yabucoa",
     "name": "Yabucoa",
     "founded": 1793,
-    "region": "East",
+    "region": "Southeast",
     "mother_town": [
       "Humacao"
     ],
+    "is_mother_municipality": true,
+    "has_detail_page": true,
     "parish": {
       "name": "Santos Ángeles Custodios",
-      "records_start": 1793
+      "records_start": 1813
     },
     "civil_registry_start": 1885,
+    "barrios": [
+      "Aguayo",
+      "Calabazas",
+      "Camino Nuevo",
+      "Guayabota",
+      "Jácanas",
+      "Juan Martín",
+      "Limones",
+      "Playa",
+      "Tejas",
+      "Yabucoa Pueblo"
+    ],
+    "neighbors": [
+      "Humacao",
+      "Las Piedras",
+      "San Lorenzo",
+      "Patillas",
+      "Maunabo"
+    ],
+    "familysearch_url": "https://www.familysearch.org/en/wiki/Yabucoa,_Puerto_Rico_Genealogy",
+    "escudo": {
+      "image": "",
+      "alt": "Coat of arms of Yabucoa, Puerto Rico",
+      "description": "The coat of arms features a green field representing the fertile valley. Two silver angels represent the Holy Guardian Angels (Santos Ángeles Custodios), the patron saints of the municipality. Two gold sugarcane stalks represent the agricultural industry that sustained the local economy for centuries. The three-towered mural crown identifies the settlement as a municipality.",
+      "license": "",
+      "attribution_url": ""
+    },
     "historical_maps": [
       {
         "municipality": "Yabucoa",
@@ -4101,6 +4347,29 @@
         "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
         "image": "assets/images/municipalities/maps/yabucoa-2026.png",
         "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ],
+    "genealogy_sources": [
+      {
+        "title": "U.S. Census Bureau: Yabucoa Municipio Profile",
+        "author": "U.S. Census Bureau",
+        "url": "https://data.census.gov/profile/Yabucoa_Municipio,_Puerto_Rico?g=050XX00US72151",
+        "type": "Census Data",
+        "description": "Authoritative 2020 Census profile for Yabucoa, including official barrio list, population data, and geographic boundary information."
+      },
+      {
+        "title": "Boricua Genes : Yabucoa",
+        "author": "Luis Rivera",
+        "url": "https://boricuagenes.com/category/yabucoa/",
+        "type": "Genealogy Research",
+        "description": "Genealogy Research in Yabucoa, Puerto Rico."
+      },
+      {
+        "title": "Find a Grave: Yabucoa Cemeteries",
+        "author": "Find a Grave",
+        "url": "https://www.findagrave.com/cemetery/2432147/cementerio-municipal-barrio-valsovia?",
+        "type": "Cemetery Records",
+        "description": "Registry of burial locations and memorial pages for Yabucoa, Puerto Rico, useful for cross-referencing burial records and grave markers."
       }
     ]
   },

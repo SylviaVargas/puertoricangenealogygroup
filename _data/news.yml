@@ -12,6 +12,34 @@
 - date: 2026-05-05
   category: features
   featured: true
+  title: "New: Juana Díaz Municipality Detail Page"
+  body: "The Juana Díaz detail page is now live — covering La Ciudad del Mabí and its 1798 founding from Coamo, its 14 barrios, parish records at San Ramón Nonato from 1798, civil registry from 1885, and a full genealogy research toolkit with links to FamilySearch, Hijos de Coamo church transcriptions, and the Notas para su Historia monograph. Researchers should note that Villalba was carved from Juana Díaz in 1917, so pre-1917 families from that area appear in Juana Díaz records."
+  link: /tools/municipality-guide/juana-diaz/
+
+- date: 2026-05-05
+  category: features
+  featured: false
+  title: "New: Yabucoa Municipality Detail Page"
+  body: "The Yabucoa detail page is now live — covering La Ciudad del Nuevo Amanecer and its 1793 founding from Humacao, its 10 barrios, parish records at Santos Ángeles Custodios from 1813, civil registry from 1885, coat of arms symbolism, and a full genealogy research toolkit with links to FamilySearch, the Notas para su Historia monograph, and Find a Grave. Researchers tracing Afro-Puerto Rican ancestry will find the 1872 slave registers especially valuable for this historically sugar-producing region."
+  link: /tools/municipality-guide/yabucoa/
+
+- date: 2026-05-05
+  category: features
+  featured: false
+  title: "New: Corozal Municipality Detail Page"
+  body: "The Corozal detail page is now live — covering the town's 1795 founding as an independent municipality from Toa Alta, its 13 barrios, parish records at La Sagrada Familia (Diocese of Arecibo; pre-1876 records held at the parish), civil registry from 1885, coat of arms symbolism, and a full genealogy research toolkit with links to FamilySearch, the U.S. Census Bureau profile, and Find a Grave."
+  link: /tools/municipality-guide/corozal/
+
+- date: 2026-05-05
+  category: features
+  featured: false
+  title: "New: Las Piedras Municipality Detail Page"
+  body: "The Las Piedras detail page is now live — covering the 1773 founding of this eastern Puerto Rico town, its 8 barrios, parish records at Nuestra Señora de la Inmaculada Concepción (pre-1876 records held at the parish; later records on FamilySearch), civil registry from 1885, coat of arms symbolism, and a full genealogy research toolkit with links to FamilySearch, the U.S. Census Bureau profile, and Find a Grave."
+  link: /tools/municipality-guide/las-piedras/
+
+- date: 2026-05-05
+  category: features
+  featured: false
   title: "New: Peñuelas Municipality Detail Page"
   body: "The Peñuelas detail page is now live — covering El Valle de los Flamboyanes and its 1793 founding as a ward of Ponce, its 14 barrios, parish records at Parroquia San José from 1845, civil registry from 1885, coat of arms symbolism, and a full genealogy research toolkit with links to FamilySearch parish and civil records, Find a Grave, and the OECH archaeological report."
   link: /tools/municipality-guide/penuelas/

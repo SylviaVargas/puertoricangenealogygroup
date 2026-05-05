@@ -13,6 +13,34 @@
 - date: 2026-05-05
   category: funciones
   featured: true
+  title: "Nuevo: Página de Detalle del Municipio Juana Díaz"
+  body: "La página de detalle de Juana Díaz ya está disponible — con la historia de La Ciudad del Mabí y su fundación en 1798 a partir de Coamo, sus 14 barrios, registros parroquiales en San Ramón Nonato desde 1798, registro civil desde 1885 y una guía completa de investigación genealógica con enlaces a FamilySearch, transcripciones de Hijos de Coamo y la monografía Notas para su Historia. Los investigadores deben tener en cuenta que Villalba se separó de Juana Díaz en 1917, por lo que las familias anteriores a esa fecha de esa área aparecen en los registros de Juana Díaz."
+  link: /es/guia-municipios/juana-diaz/
+
+- date: 2026-05-05
+  category: funciones
+  featured: false
+  title: "Nuevo: Página de Detalle del Municipio Yabucoa"
+  body: "La página de detalle de Yabucoa ya está disponible — con la historia de La Ciudad del Nuevo Amanecer y su fundación en 1793 a partir de Humacao, sus 10 barrios, registros parroquiales en Santos Ángeles Custodios desde 1813, registro civil desde 1885, simbolismo del escudo municipal y una guía completa de investigación genealógica con enlaces a FamilySearch, la monografía Notas para su Historia y Find a Grave. Los investigadores que rastrean ancestros afropuertorriqueños encontrarán los registros de esclavos de 1872 especialmente valiosos para esta región históricamente productora de azúcar."
+  link: /es/guia-municipios/yabucoa/
+
+- date: 2026-05-05
+  category: funciones
+  featured: false
+  title: "Nuevo: Página de Detalle del Municipio Corozal"
+  body: "La página de detalle de Corozal ya está disponible — con la historia de su fundación en 1795 como municipio independiente de Toa Alta, sus 13 barrios, registros parroquiales en La Sagrada Familia (Diócesis de Arecibo; registros anteriores a 1876 en la parroquia), registro civil desde 1885, simbolismo del escudo municipal y una guía completa de investigación genealógica con enlaces a FamilySearch, el perfil del Censo y Find a Grave."
+  link: /es/guia-municipios/corozal/
+
+- date: 2026-05-05
+  category: funciones
+  featured: false
+  title: "Nuevo: Página de Detalle del Municipio Las Piedras"
+  body: "La página de detalle de Las Piedras ya está disponible — con la historia de la fundación de este pueblo del este de Puerto Rico en 1773, sus 8 barrios, registros parroquiales en Nuestra Señora de la Inmaculada Concepción (registros anteriores a 1876 en la parroquia; registros posteriores en FamilySearch), registro civil desde 1885, simbolismo del escudo municipal y una guía completa de investigación genealógica con enlaces a FamilySearch, el perfil del Censo y Find a Grave."
+  link: /es/guia-municipios/las-piedras/
+
+- date: 2026-05-05
+  category: funciones
+  featured: false
   title: "Nuevo: Página de Detalle del Municipio Peñuelas"
   body: "La página de detalle de Peñuelas ya está disponible — con la historia de El Valle de los Flamboyanes y su fundación en 1793 como barrio de Ponce, sus 14 barrios, registros parroquiales en la Parroquia San José desde 1845, registro civil desde 1885, simbolismo del escudo municipal y una guía completa de investigación genealógica con enlaces a registros parroquiales y civiles en FamilySearch, Find a Grave y el informe arqueológico de la OECH."
   link: /es/guia-municipios/penuelas/
