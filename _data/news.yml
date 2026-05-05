@@ -9,9 +9,23 @@
 #
 # Maintenance: add new entries at the top. Move old featured to non-featured.
 # To archive: move entries older than ~12 months to _data/news_archive_YYYY.yml
-- date: 2026-05-04
+- date: 2026-05-05
   category: features
   featured: true
+  title: "New: Peñuelas Municipality Detail Page"
+  body: "The Peñuelas detail page is now live — covering El Valle de los Flamboyanes and its 1793 founding as a ward of Ponce, its 14 barrios, parish records at Parroquia San José from 1845, civil registry from 1885, coat of arms symbolism, and a full genealogy research toolkit with links to FamilySearch parish and civil records, Find a Grave, and the OECH archaeological report."
+  link: /tools/municipality-guide/penuelas/
+
+- date: 2026-05-05
+  category: features
+  featured: false
+  title: "New: Vega Baja Municipality Detail Page"
+  body: "The Vega Baja detail page is now live — covering the Ciudad del Melao Melao and its roots as the original northern coastal settlement, its 14 barrios, parish records at Nuestra Señora del Rosario from 1779, civil registry from 1885, coat of arms symbolism, and a full genealogy research toolkit with links to FamilySearch, the 1872 Slave Register, Notas para su Historia, and Find A Grave."
+  link: /tools/municipality-guide/vega-baja/
+
+- date: 2026-05-04
+  category: features
+  featured: false
   title: "New: Vega Alta Municipality Detail Page"
   body: "The Vega Alta detail page is now live — covering the 'Pueblo de los Ñame' and its 1775 founding when residents east of the Cibuco River separated from Vega Baja, its 9 barrios on the northern coastal plain, parish records at Inmaculada Concepción from 1777 (with pre-1777 ancestors requiring a search in Vega Baja's records), civil registry from 1885, coat of arms symbolism, and a full genealogy research toolkit with links to FamilySearch, ADNPR, Notas para su Historia, and Find A Grave."
   link: /tools/municipality-guide/vega-alta/

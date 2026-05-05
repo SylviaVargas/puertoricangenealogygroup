@@ -10,9 +10,23 @@
 # Mantenimiento: agregar entradas nuevas al inicio. Cambiar featured anterior a false.
 # Para archivar: mover entradas con más de ~12 meses a _data/news_es_archive_YYYY.yml
 
-- date: 2026-05-04
+- date: 2026-05-05
   category: funciones
   featured: true
+  title: "Nuevo: Página de Detalle del Municipio Peñuelas"
+  body: "La página de detalle de Peñuelas ya está disponible — con la historia de El Valle de los Flamboyanes y su fundación en 1793 como barrio de Ponce, sus 14 barrios, registros parroquiales en la Parroquia San José desde 1845, registro civil desde 1885, simbolismo del escudo municipal y una guía completa de investigación genealógica con enlaces a registros parroquiales y civiles en FamilySearch, Find a Grave y el informe arqueológico de la OECH."
+  link: /es/guia-municipios/penuelas/
+
+- date: 2026-05-05
+  category: funciones
+  featured: false
+  title: "Nuevo: Página de Detalle del Municipio Vega Baja"
+  body: "La página de detalle de Vega Baja ya está disponible — con la historia de la Ciudad del Melao Melao y sus raíces como asentamiento costero original del norte, sus 14 barrios, registros parroquiales en Nuestra Señora del Rosario desde 1779, registro civil desde 1885, simbolismo del escudo municipal y una guía completa de investigación genealógica con enlaces a FamilySearch, el Registro de Esclavos de 1872, Notas para su Historia y Find A Grave."
+  link: /es/guia-municipios/vega-baja/
+
+- date: 2026-05-04
+  category: funciones
+  featured: false
   title: "Nuevo: Página de Detalle del Municipio Vega Alta"
   body: "La página de detalle de Vega Alta ya está disponible — con la historia del 'Pueblo de los Ñame' y su fundación en 1775 cuando los residentes al este del Río Cibuco se separaron de Vega Baja, sus 9 barrios en la llanura costera norte, registros parroquiales en la Inmaculada Concepción desde 1777 (los antepasados anteriores a 1777 requieren búsqueda en los registros de Vega Baja), registro civil desde 1885, simbolismo del escudo municipal y una guía completa de investigación genealógica con enlaces a FamilySearch, ADNPR, Notas para su Historia y Find A Grave."
   link: /es/guia-municipios/vega-alta/

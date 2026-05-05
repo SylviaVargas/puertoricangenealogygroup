@@ -2855,11 +2855,43 @@
     "mother_town": [
       "Ponce"
     ],
+    "is_mother_municipality": false,
+    "has_detail_page": true,
     "parish": {
-      "name": "San José",
-      "records_start": 1793
+      "name": "Parroquia San José",
+      "records_start": 1845
     },
     "civil_registry_start": 1885,
+    "barrios": [
+      "Barreal",
+      "Coto",
+      "Cuebas",
+      "Encarnación",
+      "Jagua",
+      "Jaguas",
+      "Macaná",
+      "Peñuelas Pueblo",
+      "Quebrada Ceiba",
+      "Rucio",
+      "Santo Domingo",
+      "Tallaboa Alta",
+      "Tallaboa Poniente",
+      "Tallaboa Saliente"
+    ],
+    "neighbors": [
+      "Adjuntas",
+      "Guayanilla",
+      "Ponce",
+      "Utuado"
+    ],
+    "familysearch_url": "",
+    "escudo": {
+      "image": "",
+      "alt": "Coat of arms of Peñuelas, Puerto Rico",
+      "description": "The coat of arms features a stone-colored background with a central cross, a sun on the horizon symbolizing hope and the bright future of the town, flamboyant trees representing the valley's characteristic landscape, and a three-towered mural crown indicating its status as a municipality.",
+      "license": "",
+      "attribution_url": ""
+    },
     "historical_maps": [
       {
         "municipality": "Peñuelas",
@@ -2868,6 +2900,43 @@
         "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
         "image": "assets/images/municipalities/maps/peñuelas-2026.png",
         "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ],
+    "genealogy_sources": [
+      {
+        "title": "U.S. Census Bureau: Peñuelas Municipio Profile",
+        "author": "U.S. Census Bureau",
+        "url": "https://data.census.gov/profile/Pe%C3%B1uelas_Municipio,_Puerto_Rico?g=050XX00US72111",
+        "type": "Census Data",
+        "description": "Authoritative 2020 Census profile for Peñuelas, including official barrio list, population data, and geographic boundary information."
+      },
+      {
+        "title": "FamilySearch Catalog: Parroquia San José, Peñuelas",
+        "author": "FamilySearch",
+        "url": "https://www.familysearch.org/search/catalog/389510",
+        "type": "Parish Records",
+        "description": "Digitized Catholic parish records for Peñuelas including baptisms (1845), marriages (1845), and burials (1846). Researchers seeking ancestors before 1845 should consult records for Ponce."
+      },
+      {
+        "title": "Puerto Rico Civil Registration, 1885–2001",
+        "author": "FamilySearch",
+        "url": "https://www.familysearch.org/en/search/collection/1682798",
+        "type": "Civil Records",
+        "description": "Civil registration records for Peñuelas covering births, marriages, and deaths from 1885 to 2001."
+      },
+      {
+        "title": "Find a Grave: Cementerio Peñuelas",
+        "author": "Find a Grave",
+        "url": "https://www.findagrave.com/cemetery/2385605/cementerio-penuelas",
+        "type": "Cemetery Records",
+        "description": "Listings for the Cementerio Municipal de Peñuelas, useful for identifying burial dates and family connections."
+      },
+      {
+        "title": "Sitios Arqueológicos de Peñuelas",
+        "author": "Oficina Estatal de Conservación Histórica de Puerto Rico",
+        "url": "https://docs.pr.gov/files/OECH/Información%20Arqueológica%20por%20Municipio/Información%20Arqueológica%20del%20Municipio%20de%20Peñuelas.pdf",
+        "type": "Government History (PDF)",
+        "description": "Official archaeological and historical documentation for Peñuelas municipality, published by the Puerto Rico State Historic Preservation Office."
       }
     ]
   },
@@ -3879,11 +3948,42 @@
     "mother_town": [
       "Manatí"
     ],
+    "is_mother_municipality": true,
+    "has_detail_page": true,
     "parish": {
       "name": "Nuestra Señora del Rosario",
-      "records_start": 1776
+      "records_start": 1779
     },
     "civil_registry_start": 1885,
+    "barrios": [
+      "Algarrobo",
+      "Almirante Norte",
+      "Almirante Sur",
+      "Cabo Caribe",
+      "Ceiba",
+      "Cibuco",
+      "Puerto Nuevo",
+      "Pugnado Adentro",
+      "Pugnado Afuera",
+      "Quebrada Arena",
+      "Río Abajo",
+      "Río Arriba",
+      "Vega Baja Pueblo",
+      "Yeguada"
+    ],
+    "neighbors": [
+      "Manatí",
+      "Morovis",
+      "Vega Alta"
+    ],
+    "familysearch_url": "https://www.familysearch.org/en/search/catalog/koha:727866",
+    "escudo": {
+      "image": "",
+      "alt": "Coat of arms of Vega Baja, Puerto Rico",
+      "description": "The Vega Baja escudo features a V-shaped band representing the fertile plain and the initial of the town's name; orange blossoms recalling the original settlement name 'Vega-Baxa del Naranjal' (Plain of the Orange Grove); sugar canes symbolizing the historical importance of the sugar industry and the locally produced melao (sugarcane syrup); and a three-towered mural crown signifying its status as a municipality.",
+      "license": "",
+      "attribution_url": ""
+    },
     "historical_maps": [
       {
         "municipality": "Vega-baja",
@@ -3892,6 +3992,43 @@
         "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
         "image": "assets/images/municipalities/maps/vega-baja-2026.png",
         "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ],
+    "genealogy_sources": [
+      {
+        "title": "U.S. Census Bureau: Vega Baja Municipio Profile",
+        "author": "U.S. Census Bureau",
+        "url": "https://data.census.gov/profile/Vega_Baja_Municipio,_Puerto_Rico?g=050XX00US72145",
+        "type": "Census Data",
+        "description": "Authoritative 2020 Census profile for Vega Baja, including official barrio list, population data, and geographic boundary information."
+      },
+      {
+        "title": "Vega Baja: Notas para su Historia",
+        "author": "Luis de la Rosa Martínez",
+        "url": "https://docs.pr.gov/files/OECH/Publicaciones%20y%20Recursos/Libros%20Notas%20para%20su%20Historia/Notas%20para%20su%20Historia%20Vega%20Baja.pdf",
+        "type": "Local History",
+        "description": "Comprehensive history of Vega Baja (1986) providing crucial context on early land grants, founding families, and the town's socioeconomic development — the definitive reference for genealogical research in the municipality."
+      },
+      {
+        "title": "FamilySearch Catalog: Vega Baja — Parroquia Nuestra Señora del Rosario",
+        "author": "FamilySearch",
+        "url": "https://www.familysearch.org/en/search/catalog/koha:727866",
+        "type": "Research Guide",
+        "description": "FamilySearch catalog entry for Nuestra Señora del Rosario, covering Catholic parish records (baptisms from 1779, marriages from 1791, burials from 1779) and civil registration from 1885, with direct links to digitized collections."
+      },
+      {
+        "title": "Registro Central de Esclavos de 1872 — Puerto Rico",
+        "author": "FamilySearch",
+        "url": "https://www.familysearch.org/search/collection/3755445",
+        "type": "Slave Records",
+        "description": "The 1872 Slave Register (Registro Central de Esclavos) for Puerto Rico, including entries for Vega Baja. Essential for researchers tracing Afro-Puerto Rican lineages in the municipality."
+      },
+      {
+        "title": "Find A Grave: Cementerio Municipal Viejo Histórico de Vega Baja",
+        "author": "Find A Grave",
+        "url": "https://www.findagrave.com/cemetery/2431529/cementerio-municipal-viejo-historico-de-veja-baja",
+        "type": "Cemetery Records",
+        "description": "Cemetery index for the historic Cementerio Municipal de Vega Baja, containing 19th- and early 20th-century burial records for local families."
       }
     ]
   },
