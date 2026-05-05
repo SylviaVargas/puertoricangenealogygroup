@@ -1451,15 +1451,44 @@
     "id": "guayama",
     "name": "Guayama",
     "founded": 1736,
-    "region": "South",
+    "region": "Southeast",
     "mother_town": [
       "Coamo"
     ],
+    "is_mother_municipality": true,
+    "has_detail_page": true,
     "parish": {
       "name": "San Antonio de Padua",
-      "records_start": 1736
+      "records_start": 1813
     },
     "civil_registry_start": 1885,
+    "barrios": [
+      "Algarrobo",
+      "Caimital",
+      "Carite",
+      "Carmen",
+      "Guamaní",
+      "Guayama barrio-pueblo",
+      "Jobos",
+      "Machete",
+      "Palmas",
+      "Pozo Hondo"
+    ],
+    "neighbors": [
+      "Arroyo",
+      "Cayey",
+      "Patillas",
+      "Salinas"
+    ],
+    "record_gaps": [],
+    "familysearch_url": "https://www.familysearch.org/en/search/catalog/193378",
+    "escudo": {
+      "image": "",
+      "alt": "Coat of arms of Guayama, Puerto Rico",
+      "description": "The shield features blue and silver checks representing the orderly street layout of the urban zone, two mill towers symbolizing the historical dominance of the sugar industry, and laurel trees representing the famous laurel trees of the central Plaza de Recreo Cristóbal Colón. A five-towered mural crown atop the shield signifies Guayama's official status as a city.",
+      "license": "",
+      "attribution_url": ""
+    },
     "historical_maps": [
       {
         "municipality": "Guayama",
@@ -1468,6 +1497,34 @@
         "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
         "image": "assets/images/municipalities/maps/guayama-2026.png",
         "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ],
+    "genealogy_sources": [
+      {
+        "title": "U.S. Census Bureau: Guayama Municipio Profile",
+        "author": "U.S. Census Bureau",
+        "url": "https://data.census.gov/profile/Guayama_Municipio,_Puerto_Rico?g=050XX00US72057",
+        "type": "Census Data",
+        "description": "Authoritative 2020 Census profile for Guayama, including official barrio list, population data, and geographic boundary information."
+      },
+      {
+        "title": "FamilySearch Catalog: Puerto Rico, Guayama, Church Records (San Antonio de Padua)",
+        "url": "https://www.familysearch.org/en/search/catalog/193378",
+        "type": "Archive Catalog",
+        "description": "FamilySearch catalog entry for digitized parish records from Guayama (catalog ID 193378), covering baptisms, marriages, and burials from San Antonio de Padua. Systematic registers run 1813–1931, with some earlier fragments from the mid-1700s."
+      },
+      {
+        "title": "Notas para su Historia: Guayama",
+        "author": "Mario A. Rodríguez León, O.P.",
+        "url": "https://docs.pr.gov/files/OECH/Publicaciones%20y%20Recursos/Libros%20Notas%20para%20su%20Historia/Notas%20para%20su%20Historia%20Guayama.pdf",
+        "type": "Historical Monograph",
+        "description": "Essential historical text by Fr. Mario A. Rodríguez León covering early families, founding conditions, and the social development of Guayama from its 1736 establishment onward."
+      },
+      {
+        "title": "Cementerio Municipal de Guayama — Find A Grave",
+        "url": "https://www.findagrave.com/cemetery/544188/cementerio-municipal-de-guayama",
+        "type": "Cemetery Index",
+        "description": "Index for the primary municipal cemetery of Guayama. Useful for verifying death dates and burial information that may be absent from civil or church records."
       }
     ]
   },
@@ -2648,15 +2705,36 @@
     "id": "maunabo",
     "name": "Maunabo",
     "founded": 1799,
-    "region": "East",
+    "region": "Southeast",
     "mother_town": [
-      "Guayama"
+      "Yabucoa"
     ],
+    "is_mother_municipality": false,
+    "has_detail_page": true,
     "parish": {
       "name": "San Isidro Labrador",
-      "records_start": 1799
+      "records_start": 1800
     },
     "civil_registry_start": 1885,
+    "barrios": [
+      "Emajagual",
+      "Lizas",
+      "Maunabo barrio-pueblo",
+      "Palo Seco"
+    ],
+    "neighbors": [
+      "Patillas",
+      "Yabucoa"
+    ],
+    "record_gaps": [],
+    "familysearch_url": "https://www.familysearch.org/en/wiki/Maunabo,_Puerto_Rico_Genealogy",
+    "escudo": {
+      "image": "",
+      "alt": "Coat of arms of Maunabo, Puerto Rico",
+      "description": "The shield features a silver field with a green chevron and a green chief bearing a lighthouse. Two gold yokes with silver cords appear in the lower field. The silver and green colors symbolize sugarcane and agricultural wealth. The chevron represents the two mountain ranges that frame the town; the lighthouse refers to the historic coastal structure; and the yokes symbolize agriculture and the patron saint San Isidro Labrador. A mural crown of three towers sits above the shield.",
+      "license": "",
+      "attribution_url": ""
+    },
     "historical_maps": [
       {
         "municipality": "Maunabo",
@@ -2665,6 +2743,35 @@
         "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
         "image": "assets/images/municipalities/maps/maunabo-2026.png",
         "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ],
+    "genealogy_sources": [
+      {
+        "title": "U.S. Census Bureau: Maunabo Municipio Profile",
+        "author": "U.S. Census Bureau",
+        "url": "https://data.census.gov/profile/Maunabo_Municipio,_Puerto_Rico?g=050XX00US72095",
+        "type": "Census Data",
+        "description": "Authoritative 2020 Census profile for Maunabo, including official barrio list, population data, and geographic boundary information."
+      },
+      {
+        "title": "FamilySearch Wiki: Maunabo, Puerto Rico Genealogy",
+        "url": "https://www.familysearch.org/en/wiki/Maunabo,_Puerto_Rico_Genealogy",
+        "type": "Web Resource",
+        "description": "Comprehensive guide to genealogical resources for Maunabo, including civil registration, Catholic church records (San Isidro Labrador, 1800–1935), and links to digitized collections on FamilySearch."
+      },
+      {
+        "title": "Digitized Maunabo San Isidro Labrador Records 1800–1935",
+        "author": "Genealogía Nuestra",
+        "url": "https://genealogianuestra.com/digitized-maunabo-san-isidro-labrador-records-1800-1935/",
+        "type": "Web Resource",
+        "description": "Secondary guide describing the Maunabo parish record set and noting baptism and marriage coverage, useful for locating the specific parish record books on FamilySearch."
+      },
+      {
+        "title": "Maunabo, Puerto Rico Digitized Church Records",
+        "author": "Hijos de Coamo",
+        "url": "https://hijosdecoamopr.com/manuabo-digitized-church-records/",
+        "type": "Web Resource",
+        "description": "Article noting the first marriage book for Maunabo commenced in 1802 and providing guidance on accessing the digitized parish records. Note: page title uses variant spelling 'Manuabo.'"
       }
     ]
   },
@@ -3600,19 +3707,104 @@
     "mother_town": [
       "Original Settlement"
     ],
+    "is_mother_municipality": true,
+    "has_detail_page": true,
     "parish": {
-      "name": "San Juan Bautista (Catedral)",
-      "records_start": 1645
+      "name": "Catedral de San Juan Bautista",
+      "records_start": 1625
     },
     "civil_registry_start": 1885,
+    "barrios": [
+      "Barrio Obrero",
+      "Caimito",
+      "Capetillo",
+      "Cuba",
+      "Cupey",
+      "Ensenada",
+      "Hato Rey Norte",
+      "Hato Rey Sur",
+      "Miramar",
+      "Monacillos",
+      "Oriente",
+      "Pueblo",
+      "Puerto Nuevo",
+      "Reparto Metropolitano",
+      "Sabana Llana Norte",
+      "Sabana Llana Sur",
+      "San Juan Antiguo",
+      "Santurce"
+    ],
+    "neighbors": [
+      "Caguas",
+      "Carolina",
+      "Cataño",
+      "Guaynabo",
+      "Trujillo Alto"
+    ],
+    "record_gaps": [],
+    "familysearch_url": "https://www.familysearch.org/en/wiki/San_Juan,_Puerto_Rico_Genealogy",
+    "escudo": {
+      "image": "",
+      "alt": "Coat of arms of San Juan, Puerto Rico",
+      "description": "The coat of arms, granted in 1523, features a silver background with a green hill bearing the Agnus Dei (Lamb of God), the symbol of the patron saint San Juan Bautista (St. John the Baptist). The lamb holds a white pennant bearing a red cross. A gold border surrounds the shield, and a five-towered mural crown tops it, signifying city status. The Agnus Dei device is one of the oldest municipal heraldic symbols in the Americas.",
+      "license": "",
+      "attribution_url": ""
+    },
     "historical_maps": [
       {
-        "municipality": "San-juan",
+        "municipality": "San Juan",
         "year": 2026,
-        "caption": "San-juan",
+        "caption": "San Juan",
         "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
         "image": "assets/images/municipalities/maps/san-juan-2026.png",
         "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ],
+    "genealogy_sources": [
+      {
+        "title": "U.S. Census Bureau: San Juan Municipio Profile",
+        "author": "U.S. Census Bureau",
+        "url": "https://data.census.gov/profile/San_Juan_Municipio,_Puerto_Rico?g=050XX00US72127",
+        "type": "Census Data",
+        "description": "Authoritative 2020 Census profile for San Juan, including official barrio list, population data, and geographic boundary information."
+      },
+      {
+        "title": "FamilySearch Wiki: San Juan, Puerto Rico Genealogy",
+        "url": "https://www.familysearch.org/en/wiki/San_Juan,_Puerto_Rico_Genealogy",
+        "type": "Web Resource",
+        "description": "Comprehensive guide to genealogical resources for San Juan, including civil registration, Catholic church records, Río Piedras records, and links to digitized collections. Covers San Juan Antiguo, Santurce, and former Río Piedras record sets."
+      },
+      {
+        "title": "Puerto Rico Catholic Church Records, 1645–1969",
+        "url": "https://www.familysearch.org/en/wiki/Puerto_Rico_Catholic_Church_Records_-_FamilySearch_Historical_Records",
+        "type": "Archive Collection",
+        "description": "Broad FamilySearch collection covering baptisms, confirmations, marriages, and burials across Puerto Rico, including the oldest San Juan cathedral records. Essential for colonial-era and 19th-century research."
+      },
+      {
+        "title": "Cemeteries in San Juan, Puerto Rico — Find A Grave",
+        "url": "https://www.findagrave.com/cemetery-browse/USA/Puerto-Rico/San-Juan-Municipality/San-Juan?id=city_125497",
+        "type": "Cemetery Index",
+        "description": "Browse page listing multiple San Juan cemeteries, including Catedral de San Juan Bautista, Cementerio San José, El Señorial Memorial Park, and others."
+      },
+      {
+        "title": "Catedral de San Juan Bautista — Find A Grave",
+        "url": "https://www.findagrave.com/cemetery/641341/catedral-de-san-juan-bautista",
+        "type": "Cemetery Index",
+        "description": "Find A Grave page for the historic Cathedral of San Juan Bautista, which also served as a burial site for prominent colonial-era individuals."
+      },
+      {
+        "title": "Enciclopedia de Puerto Rico: Municipio de San Juan",
+        "author": "Fundación Puertorriqueña de las Humanidades",
+        "url": "https://enciclopediapr.org/content/municipio-de-san-juan/",
+        "type": "Historical Reference",
+        "description": "Authoritative Spanish-language encyclopedia entry on San Juan covering the municipality's founding, historical development, geography, economy, and cultural heritage. Useful for placing ancestors in historical context."
+      },
+      {
+        "title": "Puerto Rico Local History and Genealogy: Print Resources",
+        "author": "Library of Congress",
+        "url": "https://guides.loc.gov/puerto-rico-local-history-genealogy/print-resources",
+        "type": "Research Guide",
+        "description": "Library of Congress research guide listing print resources for Puerto Rico local history and genealogy, including books, directories, and reference works held in the LOC collection. Essential for identifying published genealogies and municipal histories."
       }
     ]
   },
@@ -3947,19 +4139,85 @@
     "mother_town": [
       "San Juan"
     ],
+    "is_mother_municipality": true,
+    "has_detail_page": true,
     "parish": {
-      "name": "Santa Cruz",
-      "records_start": 1801
+      "name": "Santa Cruz de Trujillo Alto",
+      "records_start": 1840
     },
     "civil_registry_start": 1885,
+    "barrios": [
+      "Carraízo",
+      "Cuevas",
+      "Dos Bocas",
+      "Quebrada Negrito",
+      "Saint Just",
+      "Trujillo Alto barrio-pueblo"
+    ],
+    "neighbors": [
+      "Caguas",
+      "Canóvanas",
+      "Carolina",
+      "Gurabo",
+      "San Juan"
+    ],
+    "record_gaps": [],
+    "familysearch_url": "https://www.familysearch.org/wiki/en/Trujillo_Alto,_Puerto_Rico_Genealogy",
+    "escudo": {
+      "image": "",
+      "alt": "Coat of arms of Trujillo Alto, Puerto Rico",
+      "description": "The shield is topped by a five-towered golden mural crown signifying city status. The coat of arms features religious and local symbols tied to the patron saint, the Exaltation of the Holy Cross (La Exaltación de la Santa Cruz), whose feast is commemorated on September 14.",
+      "license": "",
+      "attribution_url": ""
+    },
     "historical_maps": [
       {
-        "municipality": "Trujillo-alto",
+        "municipality": "Trujillo Alto",
         "year": 2026,
-        "caption": "Trujillo-alto",
+        "caption": "Trujillo Alto",
         "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
         "image": "assets/images/municipalities/maps/trujillo-alto-2026.png",
         "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ],
+    "genealogy_sources": [
+      {
+        "title": "U.S. Census Bureau: Trujillo Alto Municipio Profile",
+        "author": "U.S. Census Bureau",
+        "url": "https://data.census.gov/profile/Trujillo_Alto_Municipio,_Puerto_Rico?g=050XX00US72139",
+        "type": "Census Data",
+        "description": "Authoritative 2020 Census profile for Trujillo Alto, including official barrio list, population data, and geographic boundary information."
+      },
+      {
+        "title": "FamilySearch Wiki: Trujillo Alto, Puerto Rico Genealogy",
+        "url": "https://www.familysearch.org/wiki/en/Trujillo_Alto,_Puerto_Rico_Genealogy",
+        "type": "Web Resource",
+        "description": "Comprehensive guide to genealogical resources for Trujillo Alto, including civil registration, Catholic church records, and links to digitized collections on FamilySearch."
+      },
+      {
+        "title": "FamilySearch Catalog: Registros parroquiales, Trujillo Alto, 1840–1932",
+        "url": "https://www.familysearch.org/en/search/catalog/1149478",
+        "type": "Archive Catalog",
+        "description": "FamilySearch catalog entry for digitized Catholic Church parish registers from Trujillo Alto, covering baptisms and marriages from 1840 to 1932. Some books are also held at the Archivo Histórico Arquidiocesano in Old San Juan."
+      },
+      {
+        "title": "Trujillo Alto Church Records and Other Resources",
+        "author": "Genealogía Nuestra",
+        "url": "https://genealogianuestra.com/trujillo-alto-church-records-other-resources/",
+        "type": "Web Resource",
+        "description": "Practical guide to Trujillo Alto church books on FamilySearch and notes on the Archdiocesan Historical Archive in Old San Juan for incomplete or missing volumes."
+      },
+      {
+        "title": "Cementerio Municipal de Trujillo Alto — Find A Grave",
+        "url": "https://www.findagrave.com/cemetery/1986303/cementerio-municipal-de-trujillo-alto",
+        "type": "Cemetery Index",
+        "description": "Index for the primary municipal cemetery of Trujillo Alto. Useful for verifying burial dates that may be absent from civil or church records."
+      },
+      {
+        "title": "Cementerio Municipal Trujillo Bajo — Find A Grave",
+        "url": "https://www.findagrave.com/cemetery/2450344/cementerio-municipal-trujillo-bajo",
+        "type": "Cemetery Index",
+        "description": "Index for the Trujillo Bajo municipal cemetery, useful for families buried in this related local cemetery area."
       }
     ]
   },

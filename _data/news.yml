@@ -12,6 +12,34 @@
 - date: 2026-05-05
   category: features
   featured: true
+  title: "New: San Juan Municipality Detail Page"
+  body: "The San Juan detail page is now live — covering Puerto Rico's original 1521 Spanish settlement, its 18 barrios (including former Río Piedras barrios incorporated in 1951), the cathedral's sacramental records dating to 1625, civil registry from 1885, and a full genealogy research toolkit linking to FamilySearch, the Archivo Arzobispal, and historical cemeteries. San Juan's vast early jurisdiction gave rise to Bayamón, Caguas, Guaynabo, Loíza, Toa Alta, Toa Baja, and Trujillo Alto."
+  link: /tools/municipality-guide/san-juan/
+
+- date: 2026-05-05
+  category: features
+  featured: false
+  title: "New: Trujillo Alto Municipality Detail Page"
+  body: "The Trujillo Alto detail page is now live — covering the San Juan Metro municipality and its 1801 founding, its 6 barrios, parish records at Santa Cruz de Trujillo Alto from 1840, civil registry from 1885, coat of arms symbolism, and a full genealogy research toolkit. Researchers should note that Carolina was carved from Trujillo Alto in 1817, so pre-Carolina families from that area appear in Trujillo Alto records."
+  link: /tools/municipality-guide/trujillo-alto/
+
+- date: 2026-05-05
+  category: features
+  featured: false
+  title: "New: Maunabo Municipality Detail Page"
+  body: "The Maunabo detail page is now live — covering Puerto Rico's southeastern coastal municipality and its 1799 founding from Yabucoa, its 4 barrios, parish records at San Isidro Labrador from 1800, civil registry from 1885, coat of arms symbolism, and a full genealogy research toolkit with links to FamilySearch. Researchers tracing pre-1799 ancestors from this area will find the Yabucoa records an essential starting point."
+  link: /tools/municipality-guide/maunabo/
+
+- date: 2026-05-05
+  category: features
+  featured: false
+  title: "New: Guayama Municipality Detail Page"
+  body: "The Guayama detail page is now live — covering the Ciudad de los Brujos and its 1736 founding from Coamo, its 10 barrios, parish records at San Antonio de Padua from 1813, civil registry from 1885, coat of arms symbolism, and a full genealogy research toolkit with links to FamilySearch, the Notas para su Historia monograph, and the municipal cemetery on Find A Grave. Researchers should note that Patillas (1811) and Arroyo (1855) were both carved from Guayama, so pre-separation families from those areas appear in Guayama records."
+  link: /tools/municipality-guide/guayama/
+
+- date: 2026-05-05
+  category: features
+  featured: false
   title: "New: Juana Díaz Municipality Detail Page"
   body: "The Juana Díaz detail page is now live — covering La Ciudad del Mabí and its 1798 founding from Coamo, its 14 barrios, parish records at San Ramón Nonato from 1798, civil registry from 1885, and a full genealogy research toolkit with links to FamilySearch, Hijos de Coamo church transcriptions, and the Notas para su Historia monograph. Researchers should note that Villalba was carved from Juana Díaz in 1917, so pre-1917 families from that area appear in Juana Díaz records."
   link: /tools/municipality-guide/juana-diaz/
