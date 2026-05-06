@@ -10,9 +10,23 @@
 # Mantenimiento: agregar entradas nuevas al inicio. Cambiar featured anterior a false.
 # Para archivar: mover entradas con más de ~12 meses a _data/news_es_archive_YYYY.yml
 
-- date: 2026-05-05
+- date: 2026-05-06
   category: funciones
   featured: true
+  title: "Nuevo: Página de Detalle del Municipio Cidra"
+  body: "La página de detalle de Cidra ya está disponible — con la historia de su fundación en 1809 como separación de Cayey, sus 14 barrios, registros parroquiales en Nuestra Señora del Carmen desde 1818 hasta 1937, registro civil desde 1885, simbolismo del escudo municipal y una guía completa de investigación genealógica con enlaces a los registros digitalizados de FamilySearch."
+  link: /es/guia-municipios/cidra/
+
+- date: 2026-05-06
+  category: funciones
+  featured: false
+  title: "Nuevo: Página de Detalle del Municipio Camuy"
+  body: "La página de detalle de Camuy ya está disponible — con la historia de su fundación en 1807 como separación de Arecibo, sus 13 barrios, la parroquia de San José con registros desde 1836, registro civil desde 1885, simbolismo del escudo municipal y una guía completa de investigación genealógica con enlaces a FamilySearch, Hijos de Coamo PR y Find a Grave."
+  link: /es/guia-municipios/camuy/
+
+- date: 2026-05-05
+  category: funciones
+  featured: false
   title: "Nuevo: Página de Detalle del Municipio San Juan"
   body: "La página de detalle de San Juan ya está disponible — con la historia del primer asentamiento español de Puerto Rico en 1521, sus 18 barrios (incluyendo los barrios de Río Piedras incorporados en 1951), los registros sacramentales de la catedral desde 1625, registro civil desde 1885 y una guía completa de investigación genealógica con enlaces a FamilySearch, el Archivo Arzobispal y cementerios históricos. La vasta jurisdicción original de San Juan dio origen a Bayamón, Caguas, Guaynabo, Loíza, Toa Alta, Toa Baja y Trujillo Alto."
   link: /es/guia-municipios/san-juan/

@@ -816,11 +816,63 @@
     "mother_town": [
       "Arecibo"
     ],
+    "is_mother_municipality": false,
+    "has_detail_page": true,
     "parish": {
       "name": "San José",
-      "records_start": 1807
+      "records_start": 1836
     },
     "civil_registry_start": 1885,
+    "barrios": [
+      "Abra Honda",
+      "Camuy Arriba",
+      "Camuy Pueblo",
+      "Cibao",
+      "Ciénagas",
+      "Membrillo",
+      "Piedra Gorda",
+      "Puente",
+      "Puertos",
+      "Quebrada",
+      "Santiago",
+      "Yeguada",
+      "Zanja"
+    ],
+    "neighbors": [
+      "Hatillo",
+      "Quebradillas",
+      "Lares",
+      "San Sebastián"
+    ],
+    "familysearch_url": "https://www.familysearch.org/en/wiki/Camuy,_Puerto_Rico_Genealogy",
+    "online_resources": [
+      {
+        "title": "Camuy Church Records 1836–1849 — Hijos de Coamo PR",
+        "url": "https://hijosdecoamopr.com/camuy-church-records-from-1836-to-1849/",
+        "type": "Church Records Index",
+        "description": "Indexed baptismal, marriage, and burial records for Camuy from 1836 to 1849, compiled by Hijos de Coamo PR. One of the earliest verified record sets for the parish."
+      },
+      {
+        "title": "Civil Registry (Registros civiles, 1836–1994) — FamilySearch Catalog",
+        "url": "https://www.familysearch.org/en/search/catalog/616198",
+        "type": "Civil Records",
+        "description": "FamilySearch Catalog entry for Camuy civil registers, including births, marriages, deaths, and indexes spanning 1836–1994."
+      },
+      {
+        "title": "Puerto Rico, Catholic Church Records, 1645–1969 — FamilySearch",
+        "url": "https://www.familysearch.org/en/search/collection/1807092",
+        "type": "Church Records",
+        "description": "Island-wide FamilySearch collection for Puerto Rico Catholic church registers, including baptisms, marriages, and burials. The most comprehensive digitized church-record collection covering Camuy."
+      }
+    ],
+    "escudo": {
+      "image": "assets/images/municipalities/escudos/camuy-unknown.svg",
+      "year": null,
+      "description": "The coat of arms features a green field crossed by a silver wavy band with a broken center, topped by a Taíno sun in gold and black. The green represents the fertile lands of the northern coastal plain; the silver wavy band represents the Río Camuy; and the Taíno sun, rendered in gold and black, represents the town's name — interpreted from the Taíno word for 'sun.'",
+      "alt": "Coat of arms of Camuy, Puerto Rico",
+      "attribution_url": "https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Camuy,_Puerto_Rico.svg",
+      "license": "Public domain (Wikimedia Commons)"
+    },
     "historical_maps": [
       {
         "municipality": "Camuy",
@@ -829,6 +881,43 @@
         "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
         "image": "assets/images/municipalities/maps/camuy-2026.png",
         "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ],
+    "genealogy_sources": [
+      {
+        "title": "U.S. Census Bureau: Camuy Municipio Profile",
+        "author": "U.S. Census Bureau",
+        "url": "https://data.census.gov/profile/Camuy_Municipio,_Puerto_Rico?g=050XX00US72027",
+        "type": "Census Data",
+        "description": "Authoritative 2020 Census profile for Camuy, including official barrio list, population data, and geographic boundary information."
+      },
+      {
+        "title": "Camuy, Puerto Rico Genealogy — FamilySearch Wiki",
+        "author": "FamilySearch",
+        "url": "https://www.familysearch.org/en/wiki/Camuy,_Puerto_Rico_Genealogy",
+        "type": "Research Guide",
+        "description": "FamilySearch research guide for Camuy with links to available record sets, research tips, and guidance on contacting local repositories for pre-1876 records."
+      },
+      {
+        "title": "Find a Grave: Camuy Memorial Park",
+        "author": "Find a Grave contributors",
+        "url": "https://www.findagrave.com/cemetery/2432903/camuy-memorial-park",
+        "type": "Cemetery Records",
+        "description": "Cemetery memorial page for Camuy Memorial Park, with burial listings, family links, and plot location information."
+      },
+      {
+        "title": "Find a Grave: Cemeteries in Camuy Municipality",
+        "author": "Find a Grave contributors",
+        "url": "https://www.findagrave.com/cemetery-browse/USA/Puerto-Rico/Camuy-Municipality?id=county_3317",
+        "type": "Cemetery Records",
+        "description": "Browse page for all Find a Grave–listed cemeteries in the Camuy municipality."
+      },
+      {
+        "title": "Municipio de Camuy — EnciclopediaPR",
+        "author": "Fundación Puertorriqueña de las Humanidades",
+        "url": "https://enciclopediapr.org/content/municipio-de-camuy/",
+        "type": "Encyclopedia",
+        "description": "Authoritative institutional article covering Camuy's founding, barrios, coat of arms symbolism, geographic boundaries, and historical context."
       }
     ]
   },
@@ -1056,11 +1145,44 @@
     "mother_town": [
       "Cayey"
     ],
+    "is_mother_municipality": false,
+    "has_detail_page": true,
     "parish": {
       "name": "Nuestra Señora del Carmen",
-      "records_start": 1812
+      "records_start": 1818
     },
     "civil_registry_start": 1885,
+    "barrios": [
+      "Bayamón",
+      "Certenejas",
+      "Cidra Pueblo",
+      "Cuchibamba",
+      "El Pino",
+      "Jagua",
+      "Jájome Alto",
+      "Jájome Bajo",
+      "Montones",
+      "Pasto",
+      "Pedro García",
+      "Rincón",
+      "San Salvador",
+      "Sumidero"
+    ],
+    "neighbors": [
+      "Aguas Buenas",
+      "Aibonito",
+      "Caguas",
+      "Cayey",
+      "Comerío"
+    ],
+    "familysearch_url": "https://www.familysearch.org/en/search/catalog/359964?availability=Online",
+    "escudo": {
+      "image": "",
+      "alt": "Coat of arms of Cidra, Puerto Rico",
+      "description": "Cidra's coat of arms features a citron at center representing the town's name and agricultural identity, a cornucopia symbolizing abundance, a religious cap evoking Catholic heritage, a dove representing peace, mountains and waves reflecting the municipality's terrain and waterways, and the motto 'Cidra de Eterna Primavera.'",
+      "license": "",
+      "attribution_url": "https://commons.wikimedia.org/wiki/File:Escudo_de_Cidra,_Puerto_Rico.svg"
+    },
     "historical_maps": [
       {
         "municipality": "Cidra",
@@ -1069,6 +1191,43 @@
         "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
         "image": "assets/images/municipalities/maps/cidra-2026.png",
         "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ],
+    "genealogy_sources": [
+      {
+        "title": "U.S. Census Bureau: Cidra Municipio Profile",
+        "author": "U.S. Census Bureau",
+        "url": "https://data.census.gov/profile/Cidra_Municipio,_Puerto_Rico?g=050XX00US72041",
+        "type": "Census Data",
+        "description": "Authoritative 2020 Census profile for Cidra, including official barrio list, population data, and geographic boundary information."
+      },
+      {
+        "title": "Notas para su Historia: Cidra",
+        "author": "Oficina Estatal de Conservación Histórica",
+        "url": "https://docs.pr.gov/files/OECH/Publicaciones%20y%20Recursos/Libros%20Notas%20para%20su%20Historia/Notas%20para%20su%20Historia%20Cidra.pdf",
+        "type": "Local History",
+        "description": "Official government PDF covering Cidra's founding history, geographic context, and municipal development; essential for understanding the town's separation from Cayey in 1809."
+      },
+      {
+        "title": "FamilySearch Catalog: Registros parroquiales de Nuestra Señora del Carmen, 1818-1937",
+        "author": "FamilySearch",
+        "url": "https://www.familysearch.org/en/search/catalog/359964?availability=Online",
+        "type": "Church Records",
+        "description": "Digitized parish registers for Cidra including baptisms, confirmations, marriages, and deaths from 1818 to 1937. The most important single record set for Cidra family research."
+      },
+      {
+        "title": "FamilySearch Wiki: Cidra, Puerto Rico Genealogy",
+        "author": "FamilySearch",
+        "url": "https://www.familysearch.org/en/wiki/Cidra,_Puerto_Rico_Genealogy",
+        "type": "Research Guide",
+        "description": "Practical research guide pointing to civil registration, church records, census, and other key resources for Cidra genealogy."
+      },
+      {
+        "title": "Puerto Rico, Catholic Church Records, 1645-1969",
+        "author": "FamilySearch",
+        "url": "https://www.familysearch.org/en/search/collection/1880702",
+        "type": "Church Records",
+        "description": "Broad Catholic church record collection that includes Cidra parish records; useful for surname searches across the island's ecclesiastical records."
       }
     ]
   },

@@ -9,9 +9,23 @@
 #
 # Maintenance: add new entries at the top. Move old featured to non-featured.
 # To archive: move entries older than ~12 months to _data/news_archive_YYYY.yml
-- date: 2026-05-05
+- date: 2026-05-06
   category: features
   featured: true
+  title: "New: Cidra Municipality Detail Page"
+  body: "The Cidra detail page is now live — covering the town's 1809 founding from Cayey, its 14 barrios, parish records at Nuestra Señora del Carmen from 1818 through 1937, civil registry from 1885, coat of arms symbolism, and a full genealogy research toolkit with links to digitized FamilySearch records."
+  link: /tools/municipality-guide/cidra/
+
+- date: 2026-05-06
+  category: features
+  featured: false
+  title: "New: Camuy Municipality Detail Page"
+  body: "The Camuy detail page is now live — covering the town's 1807 founding as a split from Arecibo, its 13 barrios, the parish of San José with records from 1836, civil registry from 1885, coat of arms symbolism, and a full genealogy research toolkit with links to FamilySearch, Hijos de Coamo PR, and Find a Grave."
+  link: /tools/municipality-guide/camuy/
+
+- date: 2026-05-05
+  category: features
+  featured: false
   title: "New: San Juan Municipality Detail Page"
   body: "The San Juan detail page is now live — covering Puerto Rico's original 1521 Spanish settlement, its 18 barrios (including former Río Piedras barrios incorporated in 1951), the cathedral's sacramental records dating to 1625, civil registry from 1885, and a full genealogy research toolkit linking to FamilySearch, the Archivo Arzobispal, and historical cemeteries. San Juan's vast early jurisdiction gave rise to Bayamón, Caguas, Guaynabo, Loíza, Toa Alta, Toa Baja, and Trujillo Alto."
   link: /tools/municipality-guide/san-juan/
