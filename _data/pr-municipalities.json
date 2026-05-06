@@ -8,11 +8,43 @@
       "Utuado",
       "Coamo"
     ],
+    "is_mother_municipality": false,
+    "has_detail_page": true,
     "parish": {
-      "name": "San Joaquín",
+      "name": "San Joaquín y Santa Ana",
       "records_start": 1815
     },
     "civil_registry_start": 1885,
+    "barrios": [
+      "Adjuntas (barrio-pueblo)",
+      "Garzas",
+      "Guilarte",
+      "Palomas",
+      "Pellejas",
+      "Portillo",
+      "Saltillo",
+      "Tanamá",
+      "Vegas Abajo",
+      "Vegas Arriba",
+      "Yahuecas"
+    ],
+    "neighbors": [
+      "Jayuya",
+      "Lares",
+      "Las Marías",
+      "Peñuelas",
+      "Ponce",
+      "Utuado",
+      "Yauco"
+    ],
+    "familysearch_url": "https://www.familysearch.org/en/wiki/Adjuntas,_Puerto_Rico_Genealogy",
+    "escudo": {
+      "image": "",
+      "alt": "Coat of arms of Adjuntas, Puerto Rico",
+      "description": "The coat of arms is divided into two sections. The left side bears a shepherd's staff and yarnwinder representing Saint Joachim and Saint Anne, patrons of the town, while an eight-pointed star honors the Virgin Mary. The right side displays green crosses and bells that reference the town's name — 'adjuntas' meaning adjacent or joined lands — and its deep religious heritage. Together the symbols unite the town's founding patronage and its identity as a mountain community formed at the junction of neighboring territories.",
+      "license": "",
+      "attribution_url": ""
+    },
     "historical_maps": [
       {
         "municipality": "Adjuntas",
@@ -21,6 +53,57 @@
         "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
         "image": "assets/images/municipalities/maps/adjuntas-2026.png",
         "url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ],
+    "genealogy_sources": [
+      {
+        "title": "U.S. Census Bureau: Adjuntas Municipio Profile",
+        "author": "U.S. Census Bureau",
+        "url": "https://data.census.gov/profile/Adjuntas_Municipio,_Puerto_Rico?g=050XX00US72001",
+        "type": "Census Data",
+        "description": "Authoritative 2020 Census profile for Adjuntas, including official barrio list, population data, and geographic boundary information."
+      },
+      {
+        "title": "Adjuntas, Puerto Rico Genealogy",
+        "author": "FamilySearch Wiki contributors",
+        "url": "https://www.familysearch.org/en/wiki/Adjuntas,_Puerto_Rico_Genealogy",
+        "type": "Research Guide",
+        "description": "Best starting point for Adjuntas genealogical research; identifies parish record sets, civil registration guidance, and key repositories."
+      },
+      {
+        "title": "Registros parroquiales de Adjuntas, 1815–1925",
+        "author": "Catholic Church; FamilySearch",
+        "url": "https://www.familysearch.org/search/catalog/412319?availability=Online",
+        "type": "Archival Collection",
+        "description": "Direct FamilySearch catalog entry for Adjuntas parish registers covering baptisms, confirmations, marriages, and deaths. Some volumes include indexes."
+      },
+      {
+        "title": "Puerto Rico, Catholic Church Records, 1645–2021",
+        "author": "Catholic Church; FamilySearch",
+        "url": "https://www.familysearch.org/en/search/collection/1807092",
+        "type": "Archival Collection",
+        "description": "Broad church-record collection that includes Adjuntas parish material and spans the full colonial and modern ecclesiastical record period."
+      },
+      {
+        "title": "Notas para su Historia: Adjuntas",
+        "author": "Puerto Rico Office of Historic Preservation",
+        "url": "https://docs.pr.gov/files/OECH/Publicaciones%20y%20Recursos/Libros%20Notas%20para%20su%20Historia/Notas%20para%20su%20Historia%20Adjuntas.pdf",
+        "type": "Book",
+        "description": "Official Puerto Rico government history PDF for Adjuntas. Valuable for founding context, barrio evolution, and municipal history across the 19th and 20th centuries."
+      },
+      {
+        "title": "Cementerio Luz del Gigante — Find a Grave",
+        "author": "Find a Grave contributors",
+        "url": "https://www.findagrave.com/cemetery/2130993/cementerio-luz-del-gigante",
+        "type": "Cemetery Records",
+        "description": "Find a Grave cemetery page for Cementerio Luz del Gigante in Adjuntas, Puerto Rico. Useful for locating burial records and memorial entries."
+      },
+      {
+        "title": "Cementerio Municipal Yahuecas — Find a Grave",
+        "author": "Find a Grave contributors",
+        "url": "https://www.findagrave.com/cemetery/2566821/cementerio-municipal-yahuecas",
+        "type": "Cemetery Records",
+        "description": "Find a Grave cemetery page for Cementerio Municipal Yahuecas in Adjuntas, Puerto Rico. Useful for locating burial records in the Yahuecas barrio."
       }
     ]
   },
@@ -3345,15 +3428,50 @@
     "id": "patillas",
     "name": "Patillas",
     "founded": 1811,
-    "region": "South",
+    "region": "Southeast",
     "mother_town": [
       "Guayama"
     ],
+    "is_mother_municipality": false,
+    "has_detail_page": true,
     "parish": {
-      "name": "San Benito Abad",
-      "records_start": 1811
+      "name": "San Benito Abad y Santa Bárbara",
+      "records_start": 1810
     },
     "civil_registry_start": 1885,
+    "barrios": [
+      "Apeadero",
+      "Bajo",
+      "Cacao Alto",
+      "Cacao Bajo",
+      "Egozcue",
+      "Guardarraya",
+      "Jacaboa",
+      "Jagual",
+      "Mamey",
+      "Marín",
+      "Mulas",
+      "Muñoz Rivera",
+      "Patillas Pueblo",
+      "Pollos",
+      "Quebrada Arriba",
+      "Ríos"
+    ],
+    "neighbors": [
+      "Arroyo",
+      "Guayama",
+      "Maunabo",
+      "San Lorenzo",
+      "Yabucoa"
+    ],
+    "familysearch_url": "https://www.familysearch.org/en/wiki/Patillas,_Puerto_Rico_Genealogy",
+    "escudo": {
+      "image": "",
+      "alt": "Coat of arms of Patillas, Puerto Rico",
+      "description": "The coat of arms features a crow carrying a piece of bread in its beak, symbolizing the legend of San Benito Abad, patron of the town, who was saved from poisoning by the bird. A castle with three windows represents the captivity of Santa Bárbara, the co-patron. Crossed machetes recall the peasants who worked the sugar cane plantations. A watermelon leaf alludes to the abundance of watermelons in the area, which gave the town its name.",
+      "license": "",
+      "attribution_url": ""
+    },
     "historical_maps": [
       {
         "municipality": "Patillas",
@@ -3362,6 +3480,50 @@
         "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
         "image": "assets/images/municipalities/maps/patillas-2026.png",
         "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ],
+    "genealogy_sources": [
+      {
+        "title": "U.S. Census Bureau: Patillas Municipio Profile",
+        "author": "U.S. Census Bureau",
+        "url": "https://data.census.gov/profile/Patillas_Municipio,_Puerto_Rico?g=050XX00US72109",
+        "type": "Census Data",
+        "description": "Authoritative 2020 Census profile for Patillas, including official barrio list, population data, and geographic boundary information."
+      },
+      {
+        "title": "FamilySearch Wiki: Patillas, Puerto Rico Genealogy",
+        "author": "FamilySearch",
+        "url": "https://www.familysearch.org/en/wiki/Patillas,_Puerto_Rico_Genealogy",
+        "type": "Research Guide",
+        "description": "Best starting point for Patillas research; points to civil registration, Catholic church records, cemeteries, and other record sets."
+      },
+      {
+        "title": "Puerto Rico, Catholic Church Records, 1645–2021",
+        "author": "FamilySearch",
+        "url": "https://www.familysearch.org/en/search/collection/1807092",
+        "type": "Parish Records",
+        "description": "Broad Catholic church-record collection that includes Patillas parish records; indexed and image-based access available through FamilySearch."
+      },
+      {
+        "title": "San Benito Abad and Santa Bárbara Church Records, Patillas, Puerto Rico, 1810–1940",
+        "author": "Hijos de Coamo PR",
+        "url": "https://hijosdecoamopr.com/san-benito-abad-and-santa-barbara-church-records-patillas-puerto-rico-1810-1940/",
+        "type": "Parish Record Index",
+        "description": "Secondary index for San Benito Abad and Santa Bárbara church records covering 1810–1940. Useful for locating entries before consulting the original images."
+      },
+      {
+        "title": "Historia del pueblo de Patillas, 1811–1965",
+        "author": "Paulino Rodríguez Bernier",
+        "url": "https://books.google.com/books/about/Historia_del_pueblo_de_Patillas_1811_196.html?id=0l0zAQAAIAAJ",
+        "type": "Local History",
+        "description": "Important historical monograph covering Patillas from its 1811 founding through 1965; valuable for settlement history and municipal chronology."
+      },
+      {
+        "title": "Cementerio Municipal de Patillas — Find a Grave",
+        "author": "Find a Grave",
+        "url": "https://www.findagrave.com/cemetery/2431557/cementerio-municipal-de-patillas",
+        "type": "Cemetery Records",
+        "description": "Cemetery page for the municipal cemetery of Patillas; useful for burial leads when death dates are missing from parish or civil records."
       }
     ]
   },
@@ -4010,19 +4172,110 @@
     "mother_town": [
       "Caguas"
     ],
+    "is_mother_municipality": false,
+    "has_detail_page": true,
     "parish": {
       "name": "Nuestra Señora de las Mercedes",
       "records_start": 1811
     },
     "civil_registry_start": 1885,
+    "barrios": [
+      "Cayaguas",
+      "Cerro Gordo",
+      "Espino",
+      "Florida",
+      "Hato",
+      "Jagual",
+      "Pueblo",
+      "Quebrada",
+      "Quebrada Arenas",
+      "Quebrada Honda",
+      "Quemados"
+    ],
+    "neighbors": [
+      "Caguas",
+      "Cayey",
+      "Gurabo",
+      "Juncos",
+      "Las Piedras",
+      "Maunabo",
+      "Patillas",
+      "Yabucoa"
+    ],
+    "familysearch_url": "https://www.familysearch.org/en/wiki/San_Lorenzo,_Puerto_Rico_Genealogy",
+    "escudo": {
+      "image": "",
+      "alt": "Coat of arms of San Lorenzo, Puerto Rico",
+      "description": "The San Lorenzo coat of arms features a red shield with a grill (parrilla) in the upper section, referencing the patron Saint Lawrence (San Lorenzo Mártir), who was martyred on a gridiron. The lower section depicts a mountain evoking the local landscape. The shield is bordered in gold with eight red crosses emphasizing Catholic identity. A three-towered mural crown tops the shield marking municipal status. The red and gold colors are linked to the Muñoz family lineage of founder Valeriano Muñoz de Oneca.",
+      "license": "",
+      "attribution_url": ""
+    },
     "historical_maps": [
       {
-        "municipality": "San-lorenzo",
+        "municipality": "San Lorenzo",
         "year": 2026,
-        "caption": "San-lorenzo",
+        "caption": "San Lorenzo",
         "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
         "image": "assets/images/municipalities/maps/san-lorenzo-2026.png",
         "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ],
+    "genealogy_sources": [
+      {
+        "title": "U.S. Census Bureau: San Lorenzo Municipio Profile",
+        "author": "U.S. Census Bureau",
+        "url": "https://data.census.gov/profile/San_Lorenzo_Municipio,_Puerto_Rico?g=050XX00US72129",
+        "type": "Census Data",
+        "description": "Authoritative 2020 Census profile for San Lorenzo, including official barrio list, population data, and geographic boundary information."
+      },
+      {
+        "title": "FamilySearch: San Lorenzo, Puerto Rico Genealogy",
+        "author": "FamilySearch",
+        "url": "https://www.familysearch.org/en/wiki/San_Lorenzo,_Puerto_Rico_Genealogy",
+        "type": "Research Guide",
+        "description": "FamilySearch wiki page for San Lorenzo genealogy research, with links to civil registration, Catholic church records, and research tips."
+      },
+      {
+        "title": "Puerto Rico, Catholic Church Records, 1645-2021",
+        "author": "FamilySearch",
+        "url": "https://www.familysearch.org/en/search/collection/1807092",
+        "type": "Digitized Records",
+        "description": "Includes San Lorenzo parish records for Nuestra Señora de las Mercedes. Search by name or browse by year range."
+      },
+      {
+        "title": "Notas para su Historia: San Lorenzo",
+        "author": "Puerto Rico Office of Historic Conservation",
+        "url": "https://docs.pr.gov/files/OECH/Publicaciones%20y%20Recursos/Libros%20Notas%20para%20su%20Historia/Notas%20para%20su%20Historia%20San%20Lorenzo.pdf",
+        "type": "Municipal History",
+        "description": "Official Puerto Rico government history for San Lorenzo covering founding, boundaries, and local context. Useful for geographic and settlement research."
+      },
+      {
+        "title": "Find a Grave: Cementerio Municipal Viejo",
+        "author": "Find a Grave contributors",
+        "url": "https://www.findagrave.com/cemetery/2429934/cementerio-municipal-viejo",
+        "type": "Cemetery Records",
+        "description": "Find a Grave page for the old municipal cemetery in San Lorenzo."
+      },
+      {
+        "title": "Find a Grave: Cementerio Municipal Nuevo",
+        "author": "Find a Grave contributors",
+        "url": "https://www.findagrave.com/cemetery/2150529/cementerio-municipal-nuevo",
+        "type": "Cemetery Records",
+        "description": "Find a Grave page for the new municipal cemetery in San Lorenzo."
+      },
+      {
+        "title": "Find a Grave: Cementerio Municipal - Cerro Gordo",
+        "author": "Find a Grave contributors",
+        "url": "https://www.findagrave.com/cemetery/2591101/cementerio-municipal---cerro-gordo",
+        "type": "Cemetery Records",
+        "description": "Find a Grave page for Cerro Gordo municipal cemetery in San Lorenzo."
+      },
+      {
+        "title": "Find a Grave: El Remanso Memorial",
+        "author": "Find a Grave contributors",
+        "url": "https://www.findagrave.com/cemetery/2601134/el-remanso-memorial",
+        "type": "Cemetery Records",
+        "description": "Find a Grave page for El Remanso Memorial cemetery in San Lorenzo."
       }
     ]
   },

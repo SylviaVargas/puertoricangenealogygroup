@@ -12,6 +12,27 @@
 - date: 2026-05-06
   category: features
   featured: true
+  title: "New: Adjuntas Municipality Detail Page"
+  body: "The Adjuntas detail page is now live — covering the town's 1815 founding from Utuado and Coamo, its 11 barrios, parish records at San Joaquín y Santa Ana from 1815, civil registry from 1885, coat of arms symbolism, and a full genealogy research toolkit with links to FamilySearch records and the official Notas para su Historia."
+  link: /tools/municipality-guide/adjuntas/
+
+- date: 2026-05-06
+  category: features
+  featured: false
+  title: "New: San Lorenzo Municipality Detail Page"
+  body: "The San Lorenzo detail page is now live — covering the town's 1811 founding from Caguas, its 11 barrios, parish records at Nuestra Señora de las Mercedes from 1811, civil registry from 1885, coat of arms symbolism, and a full genealogy research toolkit with links to FamilySearch records and four Find a Grave cemetery pages."
+  link: /tools/municipality-guide/san-lorenzo/
+
+- date: 2026-05-06
+  category: features
+  featured: false
+  title: "New: Patillas Municipality Detail Page"
+  body: "The Patillas detail page is now live — covering the town's 1811 founding from Guayama, its 16 barrios, parish records at San Benito Abad y Santa Bárbara from 1810, civil registry from 1885, coat of arms symbolism, and a full genealogy research toolkit with links to FamilySearch records and the Hijos de Coamo PR church record index."
+  link: /tools/municipality-guide/patillas/
+
+- date: 2026-05-06
+  category: features
+  featured: false
   title: "New: Cidra Municipality Detail Page"
   body: "The Cidra detail page is now live — covering the town's 1809 founding from Cayey, its 14 barrios, parish records at Nuestra Señora del Carmen from 1818 through 1937, civil registry from 1885, coat of arms symbolism, and a full genealogy research toolkit with links to digitized FamilySearch records."
   link: /tools/municipality-guide/cidra/

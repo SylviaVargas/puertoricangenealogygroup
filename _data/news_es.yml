@@ -13,6 +13,27 @@
 - date: 2026-05-06
   category: funciones
   featured: true
+  title: "Nuevo: Página de Detalle del Municipio Adjuntas"
+  body: "La página de detalle de Adjuntas ya está disponible — con la historia de su fundación en 1815 como segregación de Utuado y Coamo, sus 11 barrios, registros parroquiales en San Joaquín y Santa Ana desde 1815, registro civil desde 1885, simbolismo del escudo municipal y una guía completa de investigación genealógica con enlaces a FamilySearch y las Notas para su Historia oficiales."
+  link: /es/guia-municipios/adjuntas/
+
+- date: 2026-05-06
+  category: funciones
+  featured: false
+  title: "Nuevo: Página de Detalle del Municipio San Lorenzo"
+  body: "La página de detalle de San Lorenzo ya está disponible — con la historia de su fundación en 1811 como separación de Caguas, sus 11 barrios, registros parroquiales en Nuestra Señora de las Mercedes desde 1811, registro civil desde 1885, simbolismo del escudo municipal y una guía completa de investigación genealógica con enlaces a FamilySearch y cuatro páginas de cementerios en Find a Grave."
+  link: /es/guia-municipios/san-lorenzo/
+
+- date: 2026-05-06
+  category: funciones
+  featured: false
+  title: "Nuevo: Página de Detalle del Municipio Patillas"
+  body: "La página de detalle de Patillas ya está disponible — con la historia de su fundación en 1811 como separación de Guayama, sus 16 barrios, registros parroquiales en San Benito Abad y Santa Bárbara desde 1810, registro civil desde 1885, simbolismo del escudo municipal y una guía completa de investigación genealógica con enlaces a FamilySearch y al índice de registros de Hijos de Coamo PR."
+  link: /es/guia-municipios/patillas/
+
+- date: 2026-05-06
+  category: funciones
+  featured: false
   title: "Nuevo: Página de Detalle del Municipio Cidra"
   body: "La página de detalle de Cidra ya está disponible — con la historia de su fundación en 1809 como separación de Cayey, sus 14 barrios, registros parroquiales en Nuestra Señora del Carmen desde 1818 hasta 1937, registro civil desde 1885, simbolismo del escudo municipal y una guía completa de investigación genealógica con enlaces a los registros digitalizados de FamilySearch."
   link: /es/guia-municipios/cidra/
