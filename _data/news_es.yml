@@ -13,6 +13,13 @@
 - date: 2026-05-06
   category: funciones
   featured: true
+  title: "Nuevo: Página de Detalle del Municipio Gurabo"
+  body: "La página de detalle de Gurabo ya está disponible — con la historia de su fundación en 1815 como separación de Caguas, sus 6 barrios, registros parroquiales en San José desde 1822, registro civil desde 1885 y una guía completa de investigación genealógica con enlaces a FamilySearch y páginas de cementerios en Find a Grave."
+  link: /es/guia-municipios/gurabo/
+
+- date: 2026-05-06
+  category: funciones
+  featured: false
   title: "Nuevo: Página de Detalle del Municipio Adjuntas"
   body: "La página de detalle de Adjuntas ya está disponible — con la historia de su fundación en 1815 como segregación de Utuado y Coamo, sus 11 barrios, registros parroquiales en San Joaquín y Santa Ana desde 1815, registro civil desde 1885, simbolismo del escudo municipal y una guía completa de investigación genealógica con enlaces a FamilySearch y las Notas para su Historia oficiales."
   link: /es/guia-municipios/adjuntas/

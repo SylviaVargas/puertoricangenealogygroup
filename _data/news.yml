@@ -12,6 +12,13 @@
 - date: 2026-05-06
   category: features
   featured: true
+  title: "New: Gurabo Municipality Detail Page"
+  body: "The Gurabo detail page is now live — covering the town's 1815 founding from Caguas, its 6 barrios, parish records at San José from 1822, civil registry from 1885, and a full genealogy research toolkit with links to FamilySearch records and Find a Grave cemetery pages."
+  link: /tools/municipality-guide/gurabo/
+
+- date: 2026-05-06
+  category: features
+  featured: false
   title: "New: Adjuntas Municipality Detail Page"
   body: "The Adjuntas detail page is now live — covering the town's 1815 founding from Utuado and Coamo, its 11 barrios, parish records at San Joaquín y Santa Ana from 1815, civil registry from 1885, coat of arms symbolism, and a full genealogy research toolkit with links to FamilySearch records and the official Notas para su Historia."
   link: /tools/municipality-guide/adjuntas/
