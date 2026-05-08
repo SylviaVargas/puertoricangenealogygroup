@@ -1043,11 +1043,50 @@
     "mother_town": [
       "Trujillo Alto"
     ],
+    "is_mother_municipality": false,
+    "has_detail_page": true,
     "parish": {
       "name": "San Fernando",
       "records_start": 1816
     },
     "civil_registry_start": 1885,
+    "barrios": [
+      "Barrazas",
+      "Cacao Alto",
+      "Cacao Bajo",
+      "Cangrejo Arriba",
+      "Carolina Pueblo",
+      "Carruzo",
+      "Cedro Abajo",
+      "Cedro Arriba",
+      "Ceiba",
+      "Hoyo Mulas",
+      "Jacaboa",
+      "Los Colobos Urbanos",
+      "Mameyal",
+      "Martín González",
+      "Quebrada Arenas",
+      "Quebrada Barro",
+      "Sabana Abajo",
+      "Torrecilla Alta",
+      "Torrecilla Baja"
+    ],
+    "neighbors": [
+      "San Juan",
+      "Trujillo Alto",
+      "Gurabo",
+      "Juncos",
+      "Canóvanas",
+      "Loíza"
+    ],
+    "familysearch_url": "https://www.familysearch.org/en/wiki/Carolina,_Puerto_Rico_Genealogy",
+    "escudo": {
+      "image": "",
+      "alt": "Coat of arms of Carolina, Puerto Rico",
+      "description": "The coat of arms features a red field, the color chosen to commemorate the 1838 separatist uprising led by Andrés Salvador de Vizcarrondo, brother of Carolina's founding mayor, who proposed that Puerto Rico join Simón Bolívar's Gran Colombia; the uprising was suppressed by Spanish authorities.",
+      "license": "",
+      "attribution_url": ""
+    },
     "historical_maps": [
       {
         "municipality": "Carolina",
@@ -1055,7 +1094,79 @@
         "caption": "Carolina",
         "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
         "image": "assets/images/municipalities/maps/carolina-2026.png",
-        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+        "url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ],
+    "genealogy_sources": [
+      {
+        "title": "U.S. Census Bureau: Carolina Municipio Profile",
+        "author": "U.S. Census Bureau",
+        "url": "https://data.census.gov/profile/Carolina_Municipio,_Puerto_Rico?g=050XX00US72031",
+        "type": "Census Data",
+        "description": "Authoritative 2020 Census profile for Carolina, including official barrio list, population data, and geographic boundary information."
+      },
+      {
+        "title": "Carolina, Puerto Rico Genealogy",
+        "author": "FamilySearch Wiki contributors",
+        "url": "https://www.familysearch.org/en/wiki/Carolina,_Puerto_Rico_Genealogy",
+        "type": "Research Guide",
+        "description": "FamilySearch Wiki research guide for Carolina, covering available record types, repositories, and historical background."
+      },
+      {
+        "title": "Puerto Rico, Catholic Church Records, 1645-2021",
+        "author": "FamilySearch",
+        "url": "https://www.familysearch.org/en/search/collection/1807092",
+        "type": "Collection",
+        "description": "The FamilySearch collection of Puerto Rico Catholic church records, including Carolina parish registers covering baptisms, confirmations, marriages, and burials."
+      },
+      {
+        "title": "Puerto Rico Catholic Church Records — FamilySearch Historical Records",
+        "author": "FamilySearch",
+        "url": "https://www.familysearch.org/en/wiki/Puerto_Rico_Catholic_Church_Records_-_FamilySearch_Historical_Records",
+        "type": "Research Guide",
+        "description": "FamilySearch overview of Catholic registers for Puerto Rico, explaining record types, coverage dates, and how to access digitized images."
+      },
+      {
+        "title": "Cementerio Municipal de Carolina",
+        "author": "Find a Grave contributors",
+        "url": "https://www.findagrave.com/cemetery/2181480/cementerio-municipal-de-carolina",
+        "type": "Cemetery Records",
+        "description": "Find a Grave memorial page for the primary municipal cemetery of Carolina."
+      },
+      {
+        "title": "Puerto Rico Memorial / Cementerio Fournier",
+        "author": "Find a Grave contributors",
+        "url": "https://www.findagrave.com/cemetery/375347/puerto-rico-memorial",
+        "type": "Cemetery Records",
+        "description": "Find a Grave page for Cementerio Fournier (Puerto Rico Memorial), a large cemetery in Carolina."
+      },
+      {
+        "title": "Cementerio La Resurrección",
+        "author": "Find a Grave contributors",
+        "url": "https://www.findagrave.com/cemetery/1639910/cementerio-la-resurrecci%C3%B3n",
+        "type": "Cemetery Records",
+        "description": "Find a Grave memorial page for Cementerio La Resurrección in Carolina."
+      },
+      {
+        "title": "Municipio de Carolina — Enciclopedia de Puerto Rico",
+        "author": "Fundación Puertorriqueña de las Humanidades",
+        "url": "https://enciclopediapr.org/content/municipio-de-carolina/",
+        "type": "Historical Reference",
+        "description": "Authoritative encyclopedia entry covering Carolina's founding, geography, economy, notable persons (including Julia de Burgos, Roberto Clemente, and Jesús T. Piñero), and the origin of its nicknames 'Tierra de Gigantes' and 'Los Tumba Brazos.'"
+      },
+      {
+        "title": "Historia de Carolina — Municipio Autónomo de Carolina",
+        "author": "Municipio Autónomo de Carolina",
+        "url": "https://www.municipiocarolina.com/carolina/historia/",
+        "type": "Municipal History",
+        "description": "Official municipal government history page detailing the January 31, 1857 founding, the origin of the Carolina name from Doña Carolina Martínez de Andino, the first municipal government led by Alcalde Lorenzo Vizcarrondo Ortiz de Zárate, and the Vizcarrondo family's roots in Zugarramundi, Navarra, Spain."
+      },
+      {
+        "title": "Historia de Carolina — Carolina787",
+        "author": "Carolina787",
+        "url": "https://www.carolina787.com/info/his",
+        "type": "Historical Reference",
+        "description": "Local history resource covering Carolina's founding as San Fernando de la Carolina, the governor at the time (Fernando de Costoñer), the municipality's patron saint (San Fernando, feast day May 30), and its December 30, 1992 municipal autonomy designation under the 1991 Autonomous Municipalities Law."
       }
     ]
   },
@@ -1211,11 +1322,40 @@
     "mother_town": [
       "Manatí"
     ],
+    "is_mother_municipality": false,
+    "has_detail_page": true,
     "parish": {
-      "name": "Nuestra Señora del Rosario",
+      "name": "Nuestra Señora del Carmen",
       "records_start": 1820
     },
     "civil_registry_start": 1885,
+    "barrios": [
+      "Ciales Pueblo",
+      "Cialitos",
+      "Cordillera",
+      "Frontón",
+      "Hato Viejo",
+      "Jaguas",
+      "Pesas",
+      "Pozas",
+      "Toro Negro"
+    ],
+    "neighbors": [
+      "Manatí",
+      "Florida",
+      "Morovis",
+      "Orocovis",
+      "Jayuya",
+      "Utuado"
+    ],
+    "familysearch_url": "https://www.familysearch.org/en/wiki/Ciales,_Puerto_Rico_Genealogy",
+    "escudo": {
+      "image": "",
+      "alt": "Coat of arms of Ciales, Puerto Rico",
+      "description": "A golden shield bearing a purple lion standing on its hind legs, with a red tongue and forepaws holding a silver rolled parchment. At the top of the shield are three heraldic roses with red petals and green leaves. The purple lion symbolizes noble strength and vigilance; the parchment represents civic and municipal recordkeeping; the three roses allude to religious devotion and civic beauty.",
+      "license": "",
+      "attribution_url": ""
+    },
     "historical_maps": [
       {
         "municipality": "Ciales",
@@ -1223,7 +1363,65 @@
         "caption": "Ciales",
         "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
         "image": "assets/images/municipalities/maps/ciales-2026.png",
-        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+        "url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ],
+    "genealogy_sources": [
+      {
+        "title": "U.S. Census Bureau: Ciales Municipio Profile",
+        "author": "U.S. Census Bureau",
+        "url": "https://data.census.gov/profile/Ciales_Municipio,_Puerto_Rico?g=050XX00US72039",
+        "type": "Census Data",
+        "description": "Authoritative 2020 Census profile for Ciales, including official barrio list, population data, and geographic boundary information."
+      },
+      {
+        "title": "Ciales, Puerto Rico Genealogy",
+        "author": "FamilySearch Wiki contributors",
+        "url": "https://www.familysearch.org/en/wiki/Ciales,_Puerto_Rico_Genealogy",
+        "type": "Research Guide",
+        "description": "FamilySearch Wiki research guide for Ciales, linking civil registration, church records, and census guidance specific to the municipality."
+      },
+      {
+        "title": "Puerto Rico, Catholic Church Records, 1645-2021",
+        "author": "FamilySearch",
+        "url": "https://www.familysearch.org/en/search/collection/1807092",
+        "type": "Collection",
+        "description": "The primary FamilySearch collection carrying Ciales parish material, including baptisms, marriages, and burials. Earliest digitized Ciales records in this set fall after 1876; pre-1876 books should be requested from the local parish."
+      },
+      {
+        "title": "Puerto Rico Church Records",
+        "author": "FamilySearch Wiki contributors",
+        "url": "https://www.familysearch.org/en/wiki/Puerto_Rico_Church_Records",
+        "type": "Research Guide",
+        "description": "FamilySearch overview of Puerto Rico Catholic registers, explaining record types, coverage dates, and how to access digitized images."
+      },
+      {
+        "title": "Registros civiles de Ciales, 1885-1994",
+        "author": "FamilySearch",
+        "url": "https://www.familysearch.org/en/search/catalog/708468",
+        "type": "Civil Records",
+        "description": "FamilySearch catalog entry for Ciales civil registration records, covering indexed births, marriages, and deaths from 1885 through 1994."
+      },
+      {
+        "title": "Notas para su Historia: Ciales",
+        "author": "Oficina Estatal de Conservación Histórica de Puerto Rico",
+        "url": "https://docs.pr.gov/files/OECH/Publicaciones%20y%20Recursos/Libros%20Notas%20para%20su%20Historia/Notas%20para%20su%20Historia%20Ciales.pdf",
+        "type": "Municipal History",
+        "description": "Official Puerto Rico government municipal history PDF for Ciales, part of the Notas para su Historia series."
+      },
+      {
+        "title": "Antiguo Cementerio Municipal",
+        "author": "Find a Grave contributors",
+        "url": "https://www.findagrave.com/cemetery/1986141/antiguo-cementerio-municipal",
+        "type": "Cemetery Records",
+        "description": "Find a Grave memorial page for the historic municipal cemetery of Ciales."
+      },
+      {
+        "title": "Linkpendium: Ciales Municipio, Puerto Rico",
+        "author": "Linkpendium",
+        "url": "https://linkpendium.com/ciales-pr-genealogy/",
+        "type": "Research Guide",
+        "description": "Curated genealogy link directory for Ciales, including vital records, newspapers, and regional research sites."
       }
     ]
   },

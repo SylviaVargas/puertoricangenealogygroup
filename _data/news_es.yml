@@ -10,9 +10,37 @@
 # Mantenimiento: agregar entradas nuevas al inicio. Cambiar featured anterior a false.
 # Para archivar: mover entradas con más de ~12 meses a _data/news_es_archive_YYYY.yml
 
-- date: 2026-05-06
+- date: 2026-05-08
   category: funciones
   featured: true
+  title: "Actualizado: Carolina — Historia enriquecida y 3 nuevas fuentes"
+  body: "La página del municipio de Carolina ahora incluye el origen del nombre del pueblo (Doña Carolina Martínez de Andino), la insurrección de los Vizcarrondo de 1838 que inspiró el color rojo del escudo municipal, el Archivo y Centro de Investigación Histórica como recurso local de investigación, y tres fuentes autorizadas de la enciclopedia puertorriqueña y el gobierno municipal."
+  link: /es/guia-municipios/carolina/
+
+- date: 2026-05-08
+  category: funciones
+  featured: false
+  title: "Próximamente: Registro de Investigadores del PRGG"
+  body: "Estamos construyendo un registro controlado donde los miembros aprobados podrán documentar antepasados puertorriqueños por nombre, municipio y rango de años, enlazar registros en FamilySearch o Ancestry, y conectar con otros investigadores de las mismas familias. El acceso requiere un formulario de solicitud y aprobación del administrador para garantizar la calidad de los datos según el GPS."
+  link: /es/registro/
+
+- date: 2026-05-07
+  category: funciones
+  featured: false
+  title: "Nuevo: Página de Detalle del Municipio Ciales"
+  body: "La página de detalle de Ciales ya está disponible — con la historia de su fundación en 1820 como Villa Lacy, sus 9 barrios, registros parroquiales en Nuestra Señora del Carmen desde 1820 (digitalizados desde 1876), registro civil desde 1885, simbolismo del escudo municipal y una guía completa de investigación genealógica que incluye el PDF oficial de Notas para su Historia."
+  link: /es/guia-municipios/ciales/
+
+- date: 2026-05-07
+  category: funciones
+  featured: false
+  title: "Nuevo: Página de Detalle del Municipio Carolina"
+  body: "La página de detalle de Carolina ya está disponible — con la historia de su fundación en 1816 como Trujillo Bajo, sus 19 barrios, registros parroquiales en San Fernando desde 1816, registro civil desde 1885 y una guía completa de investigación genealógica con enlaces a FamilySearch y tres páginas de cementerios en Find a Grave."
+  link: /es/guia-municipios/carolina/
+
+- date: 2026-05-06
+  category: funciones
+  featured: false
   title: "Nuevo: Página de Detalle del Municipio Gurabo"
   body: "La página de detalle de Gurabo ya está disponible — con la historia de su fundación en 1815 como separación de Caguas, sus 6 barrios, registros parroquiales en San José desde 1822, registro civil desde 1885 y una guía completa de investigación genealógica con enlaces a FamilySearch y páginas de cementerios en Find a Grave."
   link: /es/guia-municipios/gurabo/

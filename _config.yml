@@ -97,6 +97,8 @@ navigation:
       url: /ai-genealogy/
     - title: Tools
       url: /tools/
+    - title: Registry
+      url: /registry/
     - title: Contact
       url: /contact/
   es:
@@ -112,6 +114,8 @@ navigation:
       url: /es/ia-genealogia/
     - title: Herramientas
       url: /es/herramientas/
+    - title: Registro
+      url: /es/registro/
     - title: Contacto
       url: /es/contacto/
 

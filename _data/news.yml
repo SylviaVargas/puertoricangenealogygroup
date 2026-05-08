@@ -9,9 +9,37 @@
 #
 # Maintenance: add new entries at the top. Move old featured to non-featured.
 # To archive: move entries older than ~12 months to _data/news_archive_YYYY.yml
-- date: 2026-05-06
+- date: 2026-05-08
   category: features
   featured: true
+  title: "Updated: Carolina — Richer History and 3 New Sources"
+  body: "The Carolina municipality page now includes the origin of the town's name (Doña Carolina Martínez de Andino), the 1838 Vizcarrondo uprising that inspired the coat of arms' red color, the Archivo y Centro de Investigación Histórica as a local research resource, and three authoritative sources from the Puerto Rican encyclopedia and the municipal government."
+  link: /tools/municipality-guide/carolina/
+
+- date: 2026-05-08
+  category: features
+  featured: false
+  title: "Coming Soon: PRGG Researcher Registry"
+  body: "We are building a gated researcher registry where approved members can document Puerto Rican ancestors by name, town, and year range, link to records on FamilySearch or Ancestry, and connect with others investigating the same families. Access requires an intake form and administrator approval to ensure GPS-compliant data quality."
+  link: /registry/
+
+- date: 2026-05-07
+  category: features
+  featured: false
+  title: "New: Ciales Municipality Detail Page"
+  body: "The Ciales detail page is now live — covering the town's 1820 founding as Villa Lacy, its 9 barrios, parish records at Nuestra Señora del Carmen from 1820 (digitized from 1876), civil registry from 1885, coat of arms symbolism, and a full genealogy research toolkit including the official Notas para su Historia PDF."
+  link: /tools/municipality-guide/ciales/
+
+- date: 2026-05-07
+  category: features
+  featured: false
+  title: "New: Carolina Municipality Detail Page"
+  body: "The Carolina detail page is now live — covering the town's 1816 founding as Trujillo Bajo, its 19 barrios, parish records at San Fernando from 1816, civil registry from 1885, and a full genealogy research toolkit with links to FamilySearch records and three Find a Grave cemetery pages."
+  link: /tools/municipality-guide/carolina/
+
+- date: 2026-05-06
+  category: features
+  featured: false
   title: "New: Gurabo Municipality Detail Page"
   body: "The Gurabo detail page is now live — covering the town's 1815 founding from Caguas, its 6 barrios, parish records at San José from 1822, civil registry from 1885, and a full genealogy research toolkit with links to FamilySearch records and Find a Grave cemetery pages."
   link: /tools/municipality-guide/gurabo/
