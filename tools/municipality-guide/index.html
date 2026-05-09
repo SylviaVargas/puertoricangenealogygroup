@@ -444,7 +444,7 @@ last_modified_at: 2026-03-01
     display: inline-block;
     flex-shrink: 0;
   }
-  .tree-root.open .tree-toggle { transform: rotate(90deg); }
+  .tree-root.open > .tree-root-header .tree-toggle { transform: rotate(90deg); }
   .tree-root-header .founded-tag {
     font-family: var(--font-body);
     font-weight: 400;
@@ -664,34 +664,35 @@ last_modified_at: 2026-03-01
 
     div.innerHTML = header + childHtml;
     container.appendChild(div);
-  });
 
-  // Toggle root sections
-  container.addEventListener('click', function (e) {
-    var header = e.target.closest('.tree-root-header');
-    if (header) {
-      header.parentElement.classList.toggle('open');
-      return;
-    }
-    var childHeader = e.target.closest('.tree-child-header');
-    if (childHeader) {
-      childHeader.parentElement.classList.toggle('open');
-      return;
-    }
-    // Grandchild anchor links: scroll to the child card and open it
-    var link = e.target.closest('.grandchild-link');
-    if (link) {
-      e.preventDefault();
-      var targetId = link.getAttribute('href').replace('#', '');
-      var target = document.getElementById(targetId);
-      if (target) {
-        // Open parent root if closed
-        var parentRoot = target.closest('.tree-root');
-        if (parentRoot) parentRoot.classList.add('open');
-        target.classList.add('open');
-        target.scrollIntoView({ behavior: 'smooth', block: 'center' });
-      }
-    }
+    div.querySelector('.tree-root-header').addEventListener('click', function () {
+      div.classList.toggle('open');
+    });
+
+    div.querySelectorAll('.tree-child-header').forEach(function (childHeader) {
+      childHeader.addEventListener('click', function (e) {
+        e.stopPropagation();
+        childHeader.parentElement.classList.toggle('open');
+      });
+    });
+
+    div.querySelectorAll('.grandchild-link').forEach(function (link) {
+      link.addEventListener('click', function (e) {
+        e.preventDefault();
+        e.stopPropagation();
+        var targetId = link.getAttribute('href').replace('#', '');
+        var target = document.getElementById(targetId);
+        if (target) {
+          var parentRoot = target.parentElement;
+          while (parentRoot && !parentRoot.classList.contains('tree-root')) {
+            parentRoot = parentRoot.parentElement;
+          }
+          if (parentRoot) parentRoot.classList.add('open');
+          target.classList.add('open');
+          target.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        }
+      });
+    });
   });
 
   // Expand / collapse all
