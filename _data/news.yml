@@ -12,6 +12,20 @@
 - date: 2026-05-10
   category: features
   featured: true
+  title: "New: Aguas Buenas Municipality Detail Page"
+  body: "The Aguas Buenas detail page is now live — covering the town's 1838 founding from the barrio of Aguabuena within Caguas, its 10 barrios in the Central region, parish records at Los Santos Reyes from 1845, civil registry from 1885, coat of arms symbolism, and a full genealogy research toolkit with links to FamilySearch records and Find a Grave."
+  link: /tools/municipality-guide/aguas-buenas/
+
+- date: 2026-05-10
+  category: features
+  featured: false
+  title: "New: Guayanilla Municipality Detail Page"
+  body: "The Guayanilla detail page is now live — covering the town's 1833 founding, its 8 barrios on the southern coast, parish records at Inmaculada Concepción from 1841, civil registry from 1885, coat of arms symbolism, and a full genealogy research toolkit with links to FamilySearch records and the official Notas para su Historia PDF."
+  link: /tools/municipality-guide/guayanilla/
+
+- date: 2026-05-10
+  category: features
+  featured: false
   title: "New: Quebradillas Municipality Detail Page"
   body: "The Quebradillas detail page is now live — covering the town's 1823 founding, its 8 barrios along the Atlantic coast, parish records at San Rafael Arcángel from 1823 (digitized from 1876 on FamilySearch), civil registry from 1885, coat of arms symbolism, and a full genealogy research toolkit with links to FamilySearch records and the official Notas para su Historia PDF."
   link: /tools/municipality-guide/quebradillas/

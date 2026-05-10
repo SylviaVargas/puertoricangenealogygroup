@@ -13,6 +13,20 @@
 - date: 2026-05-10
   category: funciones
   featured: true
+  title: "Nuevo: Página de Detalle del Municipio Aguas Buenas"
+  body: "La página de detalle de Aguas Buenas ya está disponible — con la historia de su fundación en 1838 a partir del barrio de Aguabuena de Caguas, sus 10 barrios en la región Central, los registros parroquiales de Los Santos Reyes desde 1845, el registro civil desde 1885, el simbolismo del escudo municipal y una guía completa de investigación genealógica con enlaces a FamilySearch y Find a Grave."
+  link: /es/guia-municipios/aguas-buenas/
+
+- date: 2026-05-10
+  category: funciones
+  featured: false
+  title: "Nuevo: Página de Detalle del Municipio Guayanilla"
+  body: "La página de detalle de Guayanilla ya está disponible — con la historia de su fundación en 1833, sus 8 barrios en la costa sur, los registros parroquiales de la Inmaculada Concepción desde 1841, el registro civil desde 1885, el simbolismo del escudo municipal y una guía completa de investigación genealógica con enlaces a FamilySearch y el PDF oficial de Notas para su Historia."
+  link: /es/guia-municipios/guayanilla/
+
+- date: 2026-05-10
+  category: funciones
+  featured: false
   title: "Nuevo: Página de Detalle del Municipio Quebradillas"
   body: "La página de detalle de Quebradillas ya está disponible — con la historia de su fundación en 1823, sus 8 barrios a lo largo de la costa atlántica, los registros parroquiales de San Rafael Arcángel desde 1823 (digitalizados desde 1876 en FamilySearch), el registro civil desde 1885, el simbolismo del escudo municipal y una guía completa de investigación genealógica con enlaces a FamilySearch y el PDF oficial de Notas para su Historia."
   link: /es/guia-municipios/quebradillas/
