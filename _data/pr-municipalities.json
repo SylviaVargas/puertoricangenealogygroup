@@ -2246,7 +2246,7 @@
     "has_detail_page": true,
     "parish": {
       "name": "Parroquia Nuestra Señora de la Monserrate",
-      "records_start": null
+      "records_start": 1874
     },
     "civil_registry_start": 1885,
     "barrios": [
@@ -3885,7 +3885,8 @@
         "type": "Government History (PDF)",
         "description": "Official archaeological and historical documentation for Peñuelas municipality, published by the Puerto Rico State Historic Preservation Office."
       }
-    ]
+    ],
+    "catholic_records_url": "https://www.familysearch.org/en/search/record/results?f.collectionId=1807092&q.birthLikePlace=Pe%C3%B1uelas%2C%20Puerto%20Rico"
   },
   {
     "id": "ponce",

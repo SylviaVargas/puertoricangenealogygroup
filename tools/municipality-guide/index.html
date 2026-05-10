@@ -582,8 +582,8 @@ last_modified_at: 2026-03-01
       name: {{ m.name | jsonify }},
       founded: {{ m.founded }},
       parish: {{ m.parish.name | jsonify }},
-      parishStart: {{ m.parish.records_start }},
-      civilStart: {{ m.civil_registry_start }},
+      parishStart: {{ m.parish.records_start | default: 0 }},
+      civilStart: {{ m.civil_registry_start | default: 0 }},
       motherTowns: {{ m.mother_town | jsonify }}
     }{% unless forloop.last %},{% endunless %}
     {% endfor %}

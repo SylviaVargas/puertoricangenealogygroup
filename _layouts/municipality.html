@@ -197,7 +197,7 @@ layout: default
             <h3>{% if page.lang == 'es' %}Registros Parroquiales{% else %}Parish Records{% endif %}</h3>
             <p>{% if page.lang == 'es' %}Parroquia:{% else %}Parish:{% endif %} <strong>{{ muni.parish.name }}</strong></p>
             <p>{% if page.lang == 'es' %}Registros desde{% else %}Records from{% endif %} <strong>{{ muni.parish.records_start }}</strong></p>
-            <a href="https://www.familysearch.org/en/search/collection/1807092" class="btn btn-primary muni-toolkit-btn" target="_blank" rel="noopener noreferrer">⬇ {% if page.lang == 'es' %}Buscar Registros Católicos{% else %}Search Catholic Records{% endif %}</a>
+            <a href="{% if muni.catholic_records_url %}{{ muni.catholic_records_url }}{% else %}https://www.familysearch.org/en/search/collection/1807092{% endif %}" class="btn btn-primary muni-toolkit-btn" target="_blank" rel="noopener noreferrer">⬇ {% if page.lang == 'es' %}Buscar Registros Católicos{% else %}Search Catholic Records{% endif %}</a>
           </div>
         </div>
       </section>
