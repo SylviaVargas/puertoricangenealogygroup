@@ -166,6 +166,14 @@
         "url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
       }
     ],
+    "online_resources": [
+      {
+        "title": "Aguada Church Birth Records — FamilySearch",
+        "url": "https://www.familysearch.org/en/search/record/results?f.collectionId=1807092&q.birthLikePlace=Aguada%2C%20Aguada%2C%20Puerto%20Rico",
+        "type": "Digitized Records",
+        "description": "Pre-filtered FamilySearch search for Catholic church birth records from Aguada, Puerto Rico within the Puerto Rico Catholic Church Records collection."
+      }
+    ],
     "genealogy_sources": [
       {
         "title": "Historia de Aguada: Siglos XVI–XIX",
@@ -4096,11 +4104,36 @@
     "mother_town": [
       "Camuy"
     ],
+    "is_mother_municipality": false,
+    "has_detail_page": true,
     "parish": {
       "name": "San Rafael Arcángel",
       "records_start": 1823
     },
     "civil_registry_start": 1885,
+    "barrios": [
+      "Cacao",
+      "Charcas",
+      "Cocos",
+      "Guajataca",
+      "Quebradillas barrio-pueblo",
+      "San Antonio",
+      "San José",
+      "Terranova"
+    ],
+    "neighbors": [
+      "Camuy",
+      "Isabela",
+      "San Sebastián"
+    ],
+    "familysearch_url": "https://www.familysearch.org/en/wiki/Quebradillas,_Puerto_Rico_Genealogy",
+    "escudo": {
+      "image": "",
+      "alt": "Coat of arms of Quebradillas, Puerto Rico",
+      "description": "The coat of arms reflects the town's name and the attributes of its patron saint, the Archangel San Rafael. The shield's design incorporates imagery tied to San Rafael's role as divine healer and protector, as described in the official Notas para su Historia. The three bands and other heraldic elements draw from both the geography of the quebradas (ravines) that give the town its name and the saint's iconography.",
+      "license": "",
+      "attribution_url": ""
+    },
     "historical_maps": [
       {
         "municipality": "Quebradillas",
@@ -4109,6 +4142,56 @@
         "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
         "image": "assets/images/municipalities/maps/quebradillas-2026.png",
         "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ],
+    "online_resources": [
+      {
+        "title": "Puerto Rico Catholic Church Records, 1645–2021",
+        "url": "https://www.familysearch.org/en/search/collection/1807092",
+        "type": "Digitized Records",
+        "description": "Broad collection of Puerto Rico Catholic baptisms, marriages, burials, confirmations, and parish censuses; includes Quebradillas parish records digitized from 1876 onward."
+      },
+      {
+        "title": "Quebradillas Church Marriage Records — FamilySearch",
+        "url": "https://www.familysearch.org/en/search/record/results?f.collectionId=1807092&q.marriageLikePlace=Quebradillas%2C%20Puerto%20Rico&q.recordCountry=Puerto%20Rico",
+        "type": "Digitized Records",
+        "description": "Pre-filtered FamilySearch search for Catholic church marriage records from Quebradillas, Puerto Rico within the Puerto Rico Catholic Church Records collection."
+      },
+      {
+        "title": "Puerto Rico Civil Registration, 1885–2001",
+        "url": "https://www.familysearch.org/en/search/collection/1682798",
+        "type": "Digitized Records",
+        "description": "Civil registration births, marriages, and deaths for all Puerto Rico municipalities including Quebradillas, beginning 1885."
+      }
+    ],
+    "genealogy_sources": [
+      {
+        "title": "U.S. Census Bureau: Quebradillas Municipio Profile",
+        "author": "U.S. Census Bureau",
+        "url": "https://data.census.gov/profile/Quebradillas_Municipio,_Puerto_Rico?g=050XX00US72119",
+        "type": "Census Data",
+        "description": "Authoritative 2020 Census profile for Quebradillas, including official barrio list, population data, and geographic boundary information."
+      },
+      {
+        "title": "Quebradillas, Puerto Rico Genealogy",
+        "author": "FamilySearch Wiki contributors",
+        "url": "https://www.familysearch.org/en/wiki/Quebradillas,_Puerto_Rico_Genealogy",
+        "type": "Research Guide",
+        "description": "FamilySearch research guide covering civil registration, church records, and research pathways specific to Quebradillas."
+      },
+      {
+        "title": "Notas para su Historia: Quebradillas",
+        "author": "Oficina Estatal de Conservación Histórica de Puerto Rico",
+        "url": "https://docs.pr.gov/files/OECH/Publicaciones%20y%20Recursos/Libros%20Notas%20para%20su%20Historia/Notas%20para%20su%20Historia%20Quebradillas.pdf",
+        "type": "Government History (PDF)",
+        "description": "Official Puerto Rico government history publication covering Quebradillas's founding, escudo symbolism, and municipal development."
+      },
+      {
+        "title": "Cementerio Municipal de Quebradillas — Find a Grave",
+        "author": "Find a Grave contributors",
+        "url": "https://www.findagrave.com/cemetery/1972083/cementerio-municipal-de-quebradillas",
+        "type": "Cemetery Index",
+        "description": "Memorial and burial index for the municipal cemetery of Quebradillas; useful as a finding aid alongside civil and church records."
       }
     ]
   },

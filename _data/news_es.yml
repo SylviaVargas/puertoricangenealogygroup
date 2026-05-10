@@ -10,9 +10,16 @@
 # Mantenimiento: agregar entradas nuevas al inicio. Cambiar featured anterior a false.
 # Para archivar: mover entradas con más de ~12 meses a _data/news_es_archive_YYYY.yml
 
-- date: 2026-05-09
+- date: 2026-05-10
   category: funciones
   featured: true
+  title: "Nuevo: Página de Detalle del Municipio Quebradillas"
+  body: "La página de detalle de Quebradillas ya está disponible — con la historia de su fundación en 1823, sus 8 barrios a lo largo de la costa atlántica, los registros parroquiales de San Rafael Arcángel desde 1823 (digitalizados desde 1876 en FamilySearch), el registro civil desde 1885, el simbolismo del escudo municipal y una guía completa de investigación genealógica con enlaces a FamilySearch y el PDF oficial de Notas para su Historia."
+  link: /es/guia-municipios/quebradillas/
+
+- date: 2026-05-09
+  category: funciones
+  featured: false
   title: "Nuevo: Página de Detalle del Municipio Hatillo"
   body: "La página de detalle de Hatillo ya está disponible — con la historia de su fundación en 1823 por Agustín Ruiz Miranda, sus 7 barrios en la costa norte, los registros parroquiales de Nuestra Señora del Carmen desde 1823 (digitalizados desde 1876 en FamilySearch), el registro civil desde 1885, el simbolismo del escudo municipal y el PDF oficial de Notas para su Historia."
   link: /es/guia-municipios/hatillo/

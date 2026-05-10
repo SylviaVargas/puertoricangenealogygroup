@@ -9,9 +9,16 @@
 #
 # Maintenance: add new entries at the top. Move old featured to non-featured.
 # To archive: move entries older than ~12 months to _data/news_archive_YYYY.yml
-- date: 2026-05-09
+- date: 2026-05-10
   category: features
   featured: true
+  title: "New: Quebradillas Municipality Detail Page"
+  body: "The Quebradillas detail page is now live — covering the town's 1823 founding, its 8 barrios along the Atlantic coast, parish records at San Rafael Arcángel from 1823 (digitized from 1876 on FamilySearch), civil registry from 1885, coat of arms symbolism, and a full genealogy research toolkit with links to FamilySearch records and the official Notas para su Historia PDF."
+  link: /tools/municipality-guide/quebradillas/
+
+- date: 2026-05-09
+  category: features
+  featured: false
   title: "New: Hatillo Municipality Detail Page"
   body: "The Hatillo detail page is now live — covering the town's 1823 founding by Agustín Ruiz Miranda, its 7 barrios on the north coast, parish records at Nuestra Señora del Carmen from 1823 (digitized from 1876 on FamilySearch), civil registry from 1885, coat of arms symbolism, and the official Notas para su Historia PDF."
   link: /tools/municipality-guide/hatillo/
