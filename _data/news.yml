@@ -12,6 +12,13 @@
 - date: 2026-05-10
   category: features
   featured: true
+  title: "New: Cataño Municipality Detail Page"
+  body: "The Cataño detail page is now live — covering the town's 1927 founding from Bayamón, its 2 barrios in the Metro region, parish records at Nuestra Señora del Carmen from 1779, civil registry from 1885, coat of arms symbolism, and a full genealogy research toolkit with links to FamilySearch records and the official Notas para su Historia PDF."
+  link: /tools/municipality-guide/catano/
+
+- date: 2026-05-10
+  category: features
+  featured: false
   title: "New: Aguas Buenas Municipality Detail Page"
   body: "The Aguas Buenas detail page is now live — covering the town's 1838 founding from the barrio of Aguabuena within Caguas, its 10 barrios in the Central region, parish records at Los Santos Reyes from 1845, civil registry from 1885, coat of arms symbolism, and a full genealogy research toolkit with links to FamilySearch records and Find a Grave."
   link: /tools/municipality-guide/aguas-buenas/
