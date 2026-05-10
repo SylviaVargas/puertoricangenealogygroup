@@ -13,6 +13,13 @@
 - date: 2026-05-10
   category: funciones
   featured: true
+  title: "Nuevo: Página de Detalle del Municipio Naranjito"
+  body: "La página de detalle de Naranjito ya está disponible — con la historia de su fundación en 1824 al separarse de Bayamón, sus 8 barrios en la región Central, los registros parroquiales de San Miguel el Arcángel desde 1831, el registro civil desde 1885, el simbolismo del escudo municipal y una guía completa de investigación genealógica con enlaces a FamilySearch y Find a Grave."
+  link: /es/guia-municipios/naranjito/
+
+- date: 2026-05-10
+  category: funciones
+  featured: false
   title: "Nuevo: Página de Detalle del Municipio Cataño"
   body: "La página de detalle de Cataño ya está disponible — con la historia de su fundación en 1927 al separarse de Bayamón, sus 2 barrios en la región Metro, los registros parroquiales de Nuestra Señora del Carmen desde 1779, el registro civil desde 1885, el simbolismo del escudo municipal y una guía completa de investigación genealógica con enlaces a FamilySearch y el PDF oficial de Notas para su Historia."
   link: /es/guia-municipios/catano/

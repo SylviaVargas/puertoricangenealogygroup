@@ -4862,13 +4862,40 @@
     "founded": 1824,
     "region": "Central",
     "mother_town": [
-      "Toa Alta"
+      "Bayamón"
     ],
+    "is_mother_municipality": false,
+    "has_detail_page": true,
     "parish": {
-      "name": "San Miguel Arcángel",
-      "records_start": 1824
+      "name": "San Miguel el Arcángel",
+      "records_start": 1831
     },
     "civil_registry_start": 1885,
+    "barrios": [
+      "Achiote",
+      "Anones",
+      "Cedro Abajo",
+      "Cedro Arriba",
+      "Guadiana",
+      "Lomas",
+      "Naranjito Pueblo",
+      "Nuevo"
+    ],
+    "neighbors": [
+      "Barranquitas",
+      "Bayamón",
+      "Comerío",
+      "Corozal",
+      "Toa Alta"
+    ],
+    "familysearch_url": "https://www.familysearch.org/en/wiki/Naranjito,_Puerto_Rico_Genealogy",
+    "escudo": {
+      "image": "",
+      "alt": "Coat of arms of Naranjito, Puerto Rico",
+      "description": "Four-quartered shield topped by a mural crown. Upper-left: red cross representing San Miguel el Arcángel, the patron saint and parish name. Upper-right: globe with cross symbolizing divine power and sovereignty. Second and third quarters: gold and red stripes honoring the Guadiana family lineage connected to the town's founding. Lower-right: orange tree (naranjo) referencing the town's name, derived from a small orange tree that served as a landmark on the royal road.",
+      "license": "",
+      "attribution_url": ""
+    },
     "historical_maps": [
       {
         "municipality": "Naranjito",
@@ -4877,6 +4904,62 @@
         "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
         "image": "assets/images/municipalities/maps/naranjito-2026.png",
         "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ],
+    "online_resources": [
+      {
+        "title": "Puerto Rico, Catholic Church Records, 1645–1969",
+        "url": "https://www.familysearch.org/en/search/collection/1807092",
+        "type": "Digitized Records",
+        "description": "Islandwide Catholic church-record collection including baptisms, marriages, burials, and confirmations. Includes Naranjito parish records for San Miguel el Arcángel beginning in 1831."
+      },
+      {
+        "title": "Puerto Rico Civil Registration, 1885–2001",
+        "url": "https://www.familysearch.org/en/search/collection/1682798",
+        "type": "Digitized Records",
+        "description": "Civil registration births, marriages, and deaths for all Puerto Rico municipalities including Naranjito, beginning 1885."
+      },
+      {
+        "title": "Registros civiles de Naranjito, 1885–1995",
+        "url": "https://www.familysearch.org/en/search/catalog/760268",
+        "type": "Civil Records",
+        "description": "FamilySearch catalog entry for Naranjito civil-registration records. Browse-available image set covering births, marriages, and deaths from 1885 through 1995."
+      },
+      {
+        "title": "Cementerio Municipal de Naranjito — Find a Grave",
+        "url": "https://www.findagrave.com/cemetery/1988874/cementerio-municipal",
+        "type": "Cemetery Index",
+        "description": "Index for the main municipal cemetery of Naranjito. Useful for verifying death dates and burial information."
+      }
+    ],
+    "genealogy_sources": [
+      {
+        "title": "U.S. Census Bureau: Naranjito Municipio Profile",
+        "author": "U.S. Census Bureau",
+        "url": "https://data.census.gov/profile/Naranjito_Municipio,_Puerto_Rico?g=050XX00US72097",
+        "type": "Census Data",
+        "description": "Authoritative 2020 Census profile for Naranjito, including official barrio list, population data, and geographic boundary information."
+      },
+      {
+        "title": "Naranjito, Puerto Rico Genealogy",
+        "author": "FamilySearch Wiki contributors",
+        "url": "https://www.familysearch.org/en/wiki/Naranjito,_Puerto_Rico_Genealogy",
+        "type": "Research Guide",
+        "description": "FamilySearch research guide for Naranjito with historical background, record availability, and genealogy pointers for civil and church records."
+      },
+      {
+        "title": "Naranjito, Puerto Rico Church Index, 1831–1936",
+        "author": "Hijos de Coamo PR",
+        "url": "https://hijosdecoamopr.com/naranjito-puerto-rico-church-index-1831-1936/",
+        "type": "Web Resource",
+        "description": "Non-official index guide for Naranjito parish books covering the 1831–1936 range. Useful for identifying record availability and accessing indexed entries for baptisms, marriages, and burials."
+      },
+      {
+        "title": "Municipio de Naranjito",
+        "author": "Enciclopedia de Puerto Rico",
+        "url": "https://enciclopediapr.org/content/municipio-de-naranjito/",
+        "type": "Encyclopedia Entry",
+        "description": "Official-style municipal history and coat of arms description for Naranjito. Covers the 1824 founding, geographic context, and escudo symbolism."
       }
     ]
   },

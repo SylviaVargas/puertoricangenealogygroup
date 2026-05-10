@@ -12,6 +12,13 @@
 - date: 2026-05-10
   category: features
   featured: true
+  title: "New: Naranjito Municipality Detail Page"
+  body: "The Naranjito detail page is now live — covering the town's 1824 founding from Bayamón, its 8 barrios in the Central region, parish records at San Miguel el Arcángel from 1831, civil registry from 1885, coat of arms symbolism, and a full genealogy research toolkit with links to FamilySearch records and Find a Grave."
+  link: /tools/municipality-guide/naranjito/
+
+- date: 2026-05-10
+  category: features
+  featured: false
   title: "New: Cataño Municipality Detail Page"
   body: "The Cataño detail page is now live — covering the town's 1927 founding from Bayamón, its 2 barrios in the Metro region, parish records at Nuestra Señora del Carmen from 1779, civil registry from 1885, coat of arms symbolism, and a full genealogy research toolkit with links to FamilySearch records and the official Notas para su Historia PDF."
   link: /tools/municipality-guide/catano/
