@@ -9,9 +9,23 @@
 #
 # Maintenance: add new entries at the top. Move old featured to non-featured.
 # To archive: move entries older than ~12 months to _data/news_archive_YYYY.yml
-- date: 2026-05-08
+- date: 2026-05-09
   category: features
   featured: true
+  title: "New: Hatillo Municipality Detail Page"
+  body: "The Hatillo detail page is now live — covering the town's 1823 founding by Agustín Ruiz Miranda, its 7 barrios on the north coast, parish records at Nuestra Señora del Carmen from 1823 (digitized from 1876 on FamilySearch), civil registry from 1885, coat of arms symbolism, and the official Notas para su Historia PDF."
+  link: /tools/municipality-guide/hatillo/
+
+- date: 2026-05-09
+  category: features
+  featured: false
+  title: "New: Naguabo Municipality Detail Page"
+  body: "The Naguabo detail page is now live — covering the town's 1821 founding, its 9 barrios along the eastern coast, parish records at Nuestra Señora del Rosario from 1798, civil registry from 1885, coat of arms symbolism, and a full genealogy research toolkit with links to FamilySearch parish records."
+  link: /tools/municipality-guide/naguabo/
+
+- date: 2026-05-08
+  category: features
+  featured: false
   title: "Updated: Carolina — Richer History and 3 New Sources"
   body: "The Carolina municipality page now includes the origin of the town's name (Doña Carolina Martínez de Andino), the 1838 Vizcarrondo uprising that inspired the coat of arms' red color, the Archivo y Centro de Investigación Histórica as a local research resource, and three authoritative sources from the Puerto Rican encyclopedia and the municipal government."
   link: /tools/municipality-guide/carolina/

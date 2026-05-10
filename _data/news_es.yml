@@ -10,9 +10,23 @@
 # Mantenimiento: agregar entradas nuevas al inicio. Cambiar featured anterior a false.
 # Para archivar: mover entradas con más de ~12 meses a _data/news_es_archive_YYYY.yml
 
-- date: 2026-05-08
+- date: 2026-05-09
   category: funciones
   featured: true
+  title: "Nuevo: Página de Detalle del Municipio Hatillo"
+  body: "La página de detalle de Hatillo ya está disponible — con la historia de su fundación en 1823 por Agustín Ruiz Miranda, sus 7 barrios en la costa norte, los registros parroquiales de Nuestra Señora del Carmen desde 1823 (digitalizados desde 1876 en FamilySearch), el registro civil desde 1885, el simbolismo del escudo municipal y el PDF oficial de Notas para su Historia."
+  link: /es/guia-municipios/hatillo/
+
+- date: 2026-05-09
+  category: funciones
+  featured: false
+  title: "Nuevo: Página de Detalle del Municipio Naguabo"
+  body: "La página de detalle de Naguabo ya está disponible — con la historia de su fundación en 1821, sus 9 barrios a lo largo de la costa este, los registros parroquiales de Nuestra Señora del Rosario desde 1798, el registro civil desde 1885, el simbolismo del escudo municipal y una guía completa de investigación genealógica con enlaces a FamilySearch."
+  link: /es/guia-municipios/naguabo/
+
+- date: 2026-05-08
+  category: funciones
+  featured: false
   title: "Actualizado: Carolina — Historia enriquecida y 3 nuevas fuentes"
   body: "La página del municipio de Carolina ahora incluye el origen del nombre del pueblo (Doña Carolina Martínez de Andino), la insurrección de los Vizcarrondo de 1838 que inspiró el color rojo del escudo municipal, el Archivo y Centro de Investigación Histórica como recurso local de investigación, y tres fuentes autorizadas de la enciclopedia puertorriqueña y el gobierno municipal."
   link: /es/guia-municipios/carolina/

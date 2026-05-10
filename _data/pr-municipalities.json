@@ -2218,11 +2218,36 @@
     "mother_town": [
       "Arecibo"
     ],
+    "is_mother_municipality": false,
+    "has_detail_page": true,
     "parish": {
       "name": "Nuestra Señora del Carmen",
       "records_start": 1823
     },
     "civil_registry_start": 1885,
+    "barrios": [
+      "Bayaney",
+      "Carrizales",
+      "Córcega",
+      "Hatillo barrio-pueblo",
+      "Naranjales",
+      "Río Abajo",
+      "Río Arriba"
+    ],
+    "neighbors": [
+      "Arecibo",
+      "Camuy",
+      "Lares",
+      "Utuado"
+    ],
+    "familysearch_url": "https://www.familysearch.org/en/wiki/Hatillo,_Puerto_Rico_Genealogy",
+    "escudo": {
+      "image": "",
+      "alt": "Coat of arms of Hatillo, Puerto Rico",
+      "description": "The coat of arms features a gold crown with three towers at the top, marking municipal dignity. A custard apple tree (anón) and two cows in the central field reflect Hatillo's agricultural and dairy heritage. Blue-and-silver waves across the base represent the north-coast Atlantic setting. The shield of La Orden del Carmen honors the town's Carmelite patronal devotion, and the motto reads 'Hatillo del Corazón.'",
+      "license": "",
+      "attribution_url": "https://commons.wikimedia.org/wiki/File:Hatillo_coat_of_arms.svg"
+    },
     "historical_maps": [
       {
         "municipality": "Hatillo",
@@ -2230,7 +2255,37 @@
         "caption": "Hatillo",
         "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
         "image": "assets/images/municipalities/maps/hatillo-2026.png",
-        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+        "url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ],
+    "genealogy_sources": [
+      {
+        "title": "U.S. Census Bureau: Hatillo Municipio Profile",
+        "author": "U.S. Census Bureau",
+        "url": "https://data.census.gov/profile/Hatillo_Municipio,_Puerto_Rico?g=050XX00US72065",
+        "type": "Census Data",
+        "description": "Authoritative 2020 Census profile for Hatillo, including official barrio list, population data, and geographic boundary information."
+      },
+      {
+        "title": "Hatillo, Puerto Rico Genealogy",
+        "author": "FamilySearch Wiki contributors",
+        "url": "https://www.familysearch.org/en/wiki/Hatillo,_Puerto_Rico_Genealogy",
+        "type": "Research Guide",
+        "description": "The most direct FamilySearch starting point for Hatillo research; includes civil and church record coverage notes and links to digitized collections. Note: parish records prior to 1876 are not yet digitized and must be requested from the local Catholic parish."
+      },
+      {
+        "title": "Puerto Rico, Catholic Church Records, 1645–1969",
+        "author": "FamilySearch",
+        "url": "https://www.familysearch.org/en/search/collection/1807092",
+        "type": "Church Records",
+        "description": "The main FamilySearch collection for Puerto Rico church records, including Hatillo parish baptisms, marriages, deaths, and confirmations."
+      },
+      {
+        "title": "Notas para su Historia: Hatillo",
+        "author": "Puerto Rico Office of Historic Preservation",
+        "url": "https://docs.pr.gov/files/OECH/Publicaciones%20y%20Recursos/Libros%20Notas%20para%20su%20Historia/Notas%20para%20su%20Historia%20Hatillo.pdf",
+        "type": "Book",
+        "description": "Official municipal history PDF from the Puerto Rico government repository; best single source for Hatillo's settlement, boundaries, and historical context."
       }
     ]
   },
@@ -3617,11 +3672,38 @@
     "mother_town": [
       "Humacao"
     ],
+    "is_mother_municipality": false,
+    "has_detail_page": true,
     "parish": {
       "name": "Nuestra Señora del Rosario",
-      "records_start": 1821
+      "records_start": 1798
     },
     "civil_registry_start": 1885,
+    "barrios": [
+      "Daguao",
+      "Duque",
+      "Húcares",
+      "Maizales",
+      "Mariana",
+      "Naguabo barrio-pueblo",
+      "Peña Pobre",
+      "Río",
+      "Río Blanco"
+    ],
+    "neighbors": [
+      "Ceiba",
+      "Humacao",
+      "Las Piedras",
+      "Yabucoa"
+    ],
+    "familysearch_url": "https://www.familysearch.org/en/wiki/Naguabo,_Puerto_Rico_Genealogy",
+    "escudo": {
+      "image": "",
+      "alt": "Coat of arms of Naguabo, Puerto Rico",
+      "description": "The coat of arms features a golden crown at the top, representing civic identity and the town's formal establishment. Silver waves across the lower portion reflect Naguabo's coastal position along Vieques Sound. A broken silver chain alludes to historical themes of resistance and struggle in the municipality's past. The colors carry traditional heraldic meanings of honor, valor, and strength.",
+      "license": "",
+      "attribution_url": "https://commons.wikimedia.org/wiki/File:Escudo_de_Naguabo.svg"
+    },
     "historical_maps": [
       {
         "municipality": "Naguabo",
@@ -3629,7 +3711,30 @@
         "caption": "Naguabo",
         "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
         "image": "assets/images/municipalities/maps/naguabo-2026.png",
-        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+        "url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ],
+    "genealogy_sources": [
+      {
+        "title": "U.S. Census Bureau: Naguabo Municipio Profile",
+        "author": "U.S. Census Bureau",
+        "url": "https://data.census.gov/profile/Naguabo_Municipio,_Puerto_Rico?g=050XX00US72103",
+        "type": "Census Data",
+        "description": "Authoritative 2020 Census profile for Naguabo, including official barrio list, population data, and geographic boundary information."
+      },
+      {
+        "title": "Naguabo, Puerto Rico Genealogy",
+        "author": "FamilySearch Wiki contributors",
+        "url": "https://www.familysearch.org/en/wiki/Naguabo,_Puerto_Rico_Genealogy",
+        "type": "Research Guide",
+        "description": "The most direct FamilySearch starting point for Naguabo research; lists civil, church, and census resources and notes parish record coverage."
+      },
+      {
+        "title": "Registros parroquiales, Naguabo 1798–1936",
+        "author": "FamilySearch",
+        "url": "https://www.familysearch.org/search/catalog/360729?availability=Online",
+        "type": "Church Records",
+        "description": "Direct parish-register catalog entry for Naguabo; includes baptisms, marriages, confirmations, and deaths from 1798 through 1936. Browse images available online."
       }
     ]
   },
