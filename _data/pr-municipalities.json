@@ -4960,6 +4960,13 @@
                 "url": "https://enciclopediapr.org/content/municipio-de-naranjito/",
                 "type": "Encyclopedia Entry",
                 "description": "Official-style municipal history and coat of arms description for Naranjito. Covers the 1824 founding, geographic context, and escudo symbolism."
+            },
+            {
+                "title": "Historia Sobre la Fundación de Naranjito",
+                "author": "Municipio de Naranjito",
+                "url": "https://municipiodenaranjito.com/historia-datos/",
+                "type": "Local History",
+                "description": "Official municipal website history page covering the founding and historical development of Naranjito. Primary source from the municipality itself."
             }
         ]
     },
@@ -4972,18 +4979,93 @@
             "Barranquitas",
             "Coamo"
         ],
+        "is_mother_municipality": false,
+        "has_detail_page": true,
         "parish": {
-            "name": "San Juan Bautista",
+            "name": "San Juan Bautista de Barros",
             "records_start": 1825
         },
         "civil_registry_start": 1885,
+        "barrios": [
+            "Ala de Piedra",
+            "Barros",
+            "Bauta Abajo",
+            "Bauta Arriba",
+            "Bermejales",
+            "Botijas",
+            "Cacaos",
+            "Collores",
+            "Damián Arriba",
+            "Mata de Caña",
+            "Orocovis",
+            "Pellejas",
+            "Pueblo",
+            "Sabana",
+            "Saltos",
+            "Unibón"
+        ],
+        "neighbors": [
+            "Barranquitas",
+            "Coamo",
+            "Corozal",
+            "Morovis",
+            "Villalba"
+        ],
+        "familysearch_url": "https://www.familysearch.org/en/wiki/Orocovis,_Puerto_Rico_Genealogy",
+        "escudo": {
+            "image": "",
+            "alt": "Coat of arms of Orocovis, Puerto Rico",
+            "description": "The coat of arms features an oval shield shaped like the letter O, referencing the town name. A Taíno chief figure represents Orocobix, the cacique for whom the municipality was renamed in 1928, honoring its indigenous heritage. A sun or star with seventeen rays symbolizes the 17 barrios of the municipality. A plantain plant represents the agricultural traditions of the region. The crown above the shield signals municipal status; the colors and metals symbolize nature, sincerity, nobility, security, and spiritual wealth.",
+            "license": "",
+            "attribution_url": ""
+        },
+        "online_resources": [
+            {
+                "title": "Puerto Rico, Catholic Church Records, 1645–2021",
+                "url": "https://www.familysearch.org/en/search/collection/1807092",
+                "type": "Digitized Records",
+                "description": "Islandwide Catholic church-record collection including baptisms, marriages, burials, and confirmations. Includes Orocovis parish records from San Juan Bautista de Barros."
+            },
+            {
+                "title": "Puerto Rico Civil Registration, 1885–2001",
+                "url": "https://www.familysearch.org/en/search/collection/1682798",
+                "type": "Digitized Records",
+                "description": "Civil registration births, marriages, and deaths for all Puerto Rico municipalities including Orocovis, beginning 1885."
+            },
+            {
+                "title": "Cementerio Municipal Orocovis — Find a Grave",
+                "url": "https://www.findagrave.com/cemetery/1985878/cementerio-municipal-orocovis",
+                "type": "Cemetery Index",
+                "description": "Index for the main municipal cemetery of Orocovis. Useful for verifying death dates and burial information."
+            },
+            {
+                "title": "Cementerio Nuevo de Orocovis — Find a Grave",
+                "url": "https://www.findagrave.com/cemetery/2542667/cementerio-nuevo-de-orocovis",
+                "type": "Cemetery Index",
+                "description": "Index for the newer municipal cemetery of Orocovis. Useful for verifying death dates and burial information for more recent records."
+            }
+        ],
         "genealogy_sources": [
             {
+                "title": "U.S. Census Bureau: Orocovis Municipio Profile",
+                "author": "U.S. Census Bureau",
+                "url": "https://data.census.gov/profile/Orocovis_Municipio,_Puerto_Rico?g=050XX00US72107",
+                "type": "Census Data",
+                "description": "Authoritative 2020 Census profile for Orocovis, including official barrio list, population data, and geographic boundary information."
+            },
+            {
+                "title": "Orocovis, Puerto Rico Genealogy",
+                "author": "FamilySearch Wiki contributors",
+                "url": "https://www.familysearch.org/en/wiki/Orocovis,_Puerto_Rico_Genealogy",
+                "type": "Research Guide",
+                "description": "FamilySearch research guide for Orocovis with historical background and genealogy pointers."
+            },
+            {
                 "title": "Orocovis — Notas Para Su Historia",
-                "author": "Oficina Estatal de Conservación Histórica (OECH)",
+                "author": "Oficina Estatal de Conservación Histórica de Puerto Rico",
                 "url": "https://docs.pr.gov/files/OECH/Publicaciones%20y%20Recursos/Libros%20Notas%20para%20su%20Historia/Notas%20para%20su%20Historia%20Orocovis.pdf",
-                "type": "Local History",
-                "description": "Official municipal history published by Puerto Rico's State Historic Preservation Office (OECH). Covers the founding, historical development, and cultural heritage of Orocovis."
+                "type": "Government Publication",
+                "description": "Official Puerto Rico government PDF of Notas para su Historia for Orocovis. Authoritative source for local history, escudo symbolism, and genealogical context."
             }
         ],
         "historical_maps": [

@@ -9,9 +9,16 @@
 #
 # Maintenance: add new entries at the top. Move old featured to non-featured.
 # To archive: move entries older than ~12 months to _data/news_archive_YYYY.yml
-- date: 2026-05-10
+- date: 2026-05-11
   category: features
   featured: true
+  title: "New: Orocovis Municipality Detail Page"
+  body: "The Orocovis detail page is now live, covering the town's 1825 founding from Barranquitas and Coamo, its 16 barrios in the Central region, parish records at San Juan Bautista de Barros from 1825, civil registry from 1885, coat of arms symbolism honoring the Taíno cacique Orocobix, and a full genealogy research toolkit with links to FamilySearch records and Find a Grave cemeteries."
+  link: /tools/municipality-guide/orocovis/
+
+- date: 2026-05-10
+  category: features
+  featured: false
   title: "New: Naranjito Municipality Detail Page"
   body: "The Naranjito detail page is now live — covering the town's 1824 founding from Bayamón, its 8 barrios in the Central region, parish records at San Miguel el Arcángel from 1831, civil registry from 1885, coat of arms symbolism, and a full genealogy research toolkit with links to FamilySearch records and Find a Grave."
   link: /tools/municipality-guide/naranjito/

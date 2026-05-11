@@ -10,9 +10,16 @@
 # Mantenimiento: agregar entradas nuevas al inicio. Cambiar featured anterior a false.
 # Para archivar: mover entradas con más de ~12 meses a _data/news_es_archive_YYYY.yml
 
-- date: 2026-05-10
+- date: 2026-05-11
   category: funciones
   featured: true
+  title: "Nuevo: Página de Detalle del Municipio Orocovis"
+  body: "La página de detalle de Orocovis ya está disponible, con la historia de su fundación en 1825 al separarse de Barranquitas y Coamo, sus 16 barrios en la región Central, los registros parroquiales de San Juan Bautista de Barros desde 1825, el registro civil desde 1885, el simbolismo del escudo en honor al cacique taíno Orocobix y una guía completa de investigación genealógica con enlaces a FamilySearch y cementerios en Find a Grave."
+  link: /es/guia-municipios/orocovis/
+
+- date: 2026-05-10
+  category: funciones
+  featured: false
   title: "Nuevo: Página de Detalle del Municipio Naranjito"
   body: "La página de detalle de Naranjito ya está disponible — con la historia de su fundación en 1824 al separarse de Bayamón, sus 8 barrios en la región Central, los registros parroquiales de San Miguel el Arcángel desde 1831, el registro civil desde 1885, el simbolismo del escudo municipal y una guía completa de investigación genealógica con enlaces a FamilySearch y Find a Grave."
   link: /es/guia-municipios/naranjito/
