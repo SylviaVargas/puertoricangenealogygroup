@@ -496,11 +496,50 @@
         "mother_town": [
             "Coamo"
         ],
+        "is_mother_municipality": false,
+        "has_detail_page": true,
         "parish": {
             "name": "San José",
-            "records_start": 1824
+            "records_start": 1831
         },
         "civil_registry_start": 1885,
+        "barrios": [
+            "Aibonito barrio-pueblo",
+            "Algarrobo",
+            "Asomante",
+            "Caonillas",
+            "Cuyón",
+            "Llanos",
+            "Pasto",
+            "Plata",
+            "Robles"
+        ],
+        "neighbors": [
+            "Barranquitas",
+            "Cayey",
+            "Cidra",
+            "Coamo",
+            "Orocovis",
+            "Salinas"
+        ],
+        "familysearch_url": "https://www.familysearch.org/en/wiki/Aibonito,_Puerto_Rico_Genealogy",
+        "findagrave_cemeteries": [
+            {
+                "name": "Cementerio La Paz del Señor",
+                "url": "https://www.findagrave.com/cemetery/2432826/cementerio-la-paz-del-se%C3%B1or"
+            },
+            {
+                "name": "Cementerio Municipal Rabanal Sierra Aibonito",
+                "url": "https://www.findagrave.com/cemetery/2430714/cementerio-municipal-rabanal-sierra-aibonito"
+            }
+        ],
+        "escudo": {
+            "image": "",
+            "alt": "Coat of arms of Aibonito, Puerto Rico",
+            "description": "The four-quartered shield is topped by a mural crown of four towers, symbolizing municipal status. The upper-left quarter shows the Asomante mountains and a sword on Spanish-flag colors, commemorating the 1898 Battle of Asomante during the Spanish-American War. The upper-right quarter features a crown and heraldic devices evoking municipal authority and royal heritage. The lower-left quarter displays the Casa Manresa tower on a blue field, honoring the spiritual and historical importance of that institution for Puerto Rico. The lower-right quarter depicts the Cañón de San Cristóbal with a shell (concha), symbolizing Santiago Apóstol, the patron of Aibonito's July fiestas. A banner at the base reads Jardín de Puerto Rico with the founding year 1824.",
+            "license": "",
+            "attribution_url": ""
+        },
         "historical_maps": [
             {
                 "municipality": "Aibonito",
@@ -509,6 +548,55 @@
                 "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
                 "image": "assets/images/municipalities/maps/aibonito-2026.png",
                 "url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+            }
+        ],
+        "online_resources": [
+            {
+                "title": "Puerto Rico, Catholic Church Records, 1645–2021",
+                "url": "https://www.familysearch.org/en/search/collection/1807092",
+                "type": "Digitized Records",
+                "description": "Islandwide Catholic church-record collection including baptisms, marriages, burials, and confirmations. Includes Aibonito parish records."
+            },
+            {
+                "title": "Puerto Rico Civil Registration, 1885–2001",
+                "url": "https://www.familysearch.org/en/search/collection/1682798",
+                "type": "Digitized Records",
+                "description": "Civil registration births, marriages, and deaths for all Puerto Rico municipalities including Aibonito, beginning 1885."
+            },
+            {
+                "title": "Cementerio La Paz del Señor — Find a Grave",
+                "url": "https://www.findagrave.com/cemetery/2432826/cementerio-la-paz-del-se%C3%B1or",
+                "type": "Cemetery Index",
+                "description": "Cemetery index for La Paz del Señor in Aibonito. Useful for verifying death dates and burial information."
+            },
+            {
+                "title": "Cementerio Municipal Rabanal Sierra — Find a Grave",
+                "url": "https://www.findagrave.com/cemetery/2430714/cementerio-municipal-rabanal-sierra-aibonito",
+                "type": "Cemetery Index",
+                "description": "Cemetery index for the Rabanal Sierra municipal cemetery in Aibonito. Useful for verifying death dates and burial information."
+            }
+        ],
+        "genealogy_sources": [
+            {
+                "title": "U.S. Census Bureau: Aibonito Municipio Profile",
+                "author": "U.S. Census Bureau",
+                "url": "https://data.census.gov/profile/Aibonito_Municipio,_Puerto_Rico?g=050XX00US72009",
+                "type": "Census Data",
+                "description": "Authoritative 2020 Census profile for Aibonito, including official barrio list, population data, and geographic boundary information."
+            },
+            {
+                "title": "Aibonito, Puerto Rico Genealogy",
+                "author": "FamilySearch Wiki contributors",
+                "url": "https://www.familysearch.org/en/wiki/Aibonito,_Puerto_Rico_Genealogy",
+                "type": "Research Guide",
+                "description": "FamilySearch research guide for Aibonito with historical background and genealogy pointers."
+            },
+            {
+                "title": "Notas para su Historia: Aibonito (PDF oficial)",
+                "author": "Oficina Estatal de Conservación Histórica de Puerto Rico",
+                "url": "https://docs.pr.gov/files/OECH/Publicaciones%20y%20Recursos/Libros%20Notas%20para%20su%20Historia/Notas%20para%20su%20Historia%20Aibonito.pdf",
+                "type": "Government Publication",
+                "description": "Official Puerto Rico government PDF of Notas para su Historia for Aibonito. Authoritative source for local history, escudo symbolism, and genealogical context."
             }
         ]
     },
