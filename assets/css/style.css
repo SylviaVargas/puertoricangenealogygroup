@@ -2310,6 +2310,25 @@ body.fc-modal-open {
   font-size: 0.9rem;
 }
 
+.fs-login-notice {
+  background: #f5f0e6;
+  border-left: 4px solid #c9a962;
+  border-radius: 0 6px 6px 0;
+  padding: 0.85rem 1.1rem;
+  margin: 1.5rem 0;
+  font-size: 0.95rem;
+  color: #1a3a5c;
+}
+
+.fs-login-notice::before {
+  content: "🔐 ";
+}
+
+.fs-login-notice a {
+  color: #c41e3a;
+  text-decoration: underline;
+}
+
 /* Historical maps */
 .muni-maps-grid {
   display: grid;
