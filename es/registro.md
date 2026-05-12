@@ -15,24 +15,25 @@ El Registro de Investigadores del PRGG permite a los miembros aprobados document
 
 ### Cómo Obtener Acceso
 
-1. Completa el <a href="https://forms.gle/GOOGLE_FORM_ID" target="_blank" rel="noopener noreferrer"><em>Formulario de Solicitud del PRGG</em></a>
-2. Crea una cuenta en el registro a continuación
-3. Espera un correo electrónico de aprobación (normalmente en pocos días)
-4. Inicia sesión para agregar tus entradas de antepasados y explorar el registro
+1. Completa el formulario a continuación (o <a href="https://forms.gle/MJkSDxQS23Z43pLe6" target="_blank" rel="noopener noreferrer"><em>ábrelo en una pestaña nueva</em></a>)
+2. Espera un correo electrónico de aprobación (normalmente en pocos días)
+3. Una vez aprobado, recibirás instrucciones para acceder al registro completo
+
+**Próximamente:** El registro con búsqueda por pueblo y apellido está en desarrollo. Los miembros aprobados recibirán una notificación cuando esté disponible.
 
 ---
 
 <div class="registry-embed">
   <iframe
-    src="https://registry.puertoricangenealogy.org"
-    title="Registro de Investigadores del PRGG"
+    src="https://docs.google.com/forms/d/e/1FAIpQLSeGQBhQFjc0SHi3mtqbnB-IKnNRdOQzYOC5unpTkXdC6yJoWg/viewform?embedded=true"
+    title="Formulario de Solicitud del Registro de Ancestros del PRGG"
     width="100%"
-    height="700"
+    height="1400"
     style="border: 1px solid #ddd; border-radius: 6px;"
     loading="lazy"
     referrerpolicy="strict-origin-when-cross-origin">
     <p>Tu navegador no admite iframes.
-      <a href="https://registry.puertoricangenealogy.org">Abrir el registro directamente.</a>
+      <a href="https://forms.gle/MJkSDxQS23Z43pLe6">Abrir el formulario directamente.</a>
     </p>
   </iframe>
 </div>

@@ -15,24 +15,25 @@ The PRGG Researcher Registry lets approved members document their Puerto Rican a
 
 ### How to Get Access
 
-1. Complete the <a href="https://forms.gle/GOOGLE_FORM_ID" target="_blank" rel="noopener noreferrer"><em>PRGG Researcher Intake Form</em></a>
-2. Create an account in the registry below
-3. Wait for an approval email (usually within a few days)
-4. Sign in to add your ancestor entries and browse the registry
+1. Complete the intake form below (or <a href="https://forms.gle/MJkSDxQS23Z43pLe6" target="_blank" rel="noopener noreferrer"><em>open it in a new tab</em></a>)
+2. Wait for an approval email (usually within a few days)
+3. Once approved, you will receive instructions to access the full registry
+
+**Coming Soon:** The searchable registry (browse by town and surname) is in development. Approved members will be notified when it launches.
 
 ---
 
 <div class="registry-embed">
   <iframe
-    src="https://registry.puertoricangenealogy.org"
-    title="PRGG Researcher Registry"
+    src="https://docs.google.com/forms/d/e/1FAIpQLSeGQBhQFjc0SHi3mtqbnB-IKnNRdOQzYOC5unpTkXdC6yJoWg/viewform?embedded=true"
+    title="PRGG Ancestor Registry Intake Form"
     width="100%"
-    height="700"
+    height="1400"
     style="border: 1px solid #ddd; border-radius: 6px;"
     loading="lazy"
     referrerpolicy="strict-origin-when-cross-origin">
     <p>Your browser does not support iframes.
-      <a href="https://registry.puertoricangenealogy.org">Open the registry directly.</a>
+      <a href="https://forms.gle/MJkSDxQS23Z43pLe6">Open the intake form directly.</a>
     </p>
   </iframe>
 </div>

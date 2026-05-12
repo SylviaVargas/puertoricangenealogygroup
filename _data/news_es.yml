@@ -10,9 +10,16 @@
 # Mantenimiento: agregar entradas nuevas al inicio. Cambiar featured anterior a false.
 # Para archivar: mover entradas con más de ~12 meses a _data/news_es_archive_YYYY.yml
 
-- date: 2026-05-11
+- date: 2026-05-12
   category: funciones
   featured: true
+  title: "Nuevo: Registro de Ancestros Ahora Disponible"
+  body: "Los miembros del PRGG ya pueden registrar a sus antepasados puertorriqueños y conectar con otros investigadores que estudian las mismas familias y pueblos. Completa el formulario de solicitud para pedir acceso."
+  link: /es/registro/
+
+- date: 2026-05-11
+  category: funciones
+  featured: false
   title: "Nuevo: Página de Detalle del Municipio Aibonito"
   body: "La página de detalle de Aibonito ya está disponible, con la historia de su fundación en 1824 al separarse de Coamo, sus 9 barrios en la región Central, los registros parroquiales de San José desde 1831, el registro civil desde 1885, el simbolismo del escudo en honor a la Batalla de Asomante, la Casa Manresa y el Cañón de San Cristóbal, y una guía completa de investigación genealógica con enlaces a FamilySearch y cementerios en Find a Grave."
   link: /es/guia-municipios/aibonito/

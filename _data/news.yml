@@ -9,9 +9,16 @@
 #
 # Maintenance: add new entries at the top. Move old featured to non-featured.
 # To archive: move entries older than ~12 months to _data/news_archive_YYYY.yml
-- date: 2026-05-11
+- date: 2026-05-12
   category: features
   featured: true
+  title: "New: Ancestor Registry Now Open"
+  body: "PRGG members can now register their Puerto Rican ancestors and connect with other researchers studying the same families and towns. Complete the intake form to request access."
+  link: /registry/
+
+- date: 2026-05-11
+  category: features
+  featured: false
   title: "New: Aibonito Municipality Detail Page"
   body: "The Aibonito detail page is now live, covering the town's 1824 founding from Coamo, its 9 barrios in the Central mountain region, parish records at San José from 1831, civil registry from 1885, coat of arms symbolism honoring the Asomante battle, Casa Manresa, and the Cañón de San Cristóbal, and a full genealogy research toolkit with links to FamilySearch records and Find a Grave cemeteries."
   link: /tools/municipality-guide/aibonito/
