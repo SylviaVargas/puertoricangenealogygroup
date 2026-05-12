@@ -49,4 +49,4 @@ One email per month. Each issue includes:
 
 ---
 
-*We respect your privacy. We will never sell or share your email address. Read our <a href="{{ '/privacy-policy/' | relative_url }}">Privacy Policy</a>.*
+*We respect your privacy. We will never sell or share your email address. Read our [Privacy Policy](/privacy-policy/).*

@@ -49,4 +49,4 @@ Un correo al mes. Cada número incluye:
 
 ---
 
-*Respetamos tu privacidad. Nunca venderemos ni compartiremos tu dirección de correo electrónico. Lee nuestra <a href="{{ '/es/politica-de-privacidad/' | relative_url }}">Política de Privacidad</a>.*
+*Respetamos tu privacidad. Nunca venderemos ni compartiremos tu dirección de correo electrónico. Lee nuestra [Política de Privacidad](/es/politica-de-privacidad/).*
