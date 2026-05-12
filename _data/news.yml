@@ -12,6 +12,13 @@
 - date: 2026-05-12
   category: features
   featured: true
+  title: "New: Monthly Newsletter — Free Starter Kit"
+  body: "Subscribe to the PRGG monthly newsletter and receive our free Puerto Rico Research Starter Kit: four PDF guides and a Quick Reference Card delivered to your inbox."
+  link: /newsletter/
+
+- date: 2026-05-12
+  category: features
+  featured: false
   title: "New: Ancestor Registry Now Open"
   body: "PRGG members can now register their Puerto Rican ancestors and connect with other researchers studying the same families and towns. Complete the intake form to request access."
   link: /registry/

@@ -81,6 +81,21 @@
         </li>
       </ul>
     </div>
+
+    <div class="footer-newsletter">
+      <h2>{% if page.lang == 'es' %}Boletín Mensual{% else %}Monthly Newsletter{% endif %}</h2>
+      <p>
+        {% if page.lang == 'es' %}
+        Alertas de nuevos registros, consejos de investigación y noticias de la comunidad. Gratis, una vez al mes.
+        {% else %}
+        New records alerts, research tips, and community news. Free, once a month.
+        {% endif %}
+      </p>
+      <a href="{% if page.lang == 'es' %}{{ '/es/boletin/' | relative_url }}{% else %}{{ '/newsletter/' | relative_url }}{% endif %}"
+         class="btn btn-newsletter">
+        {% if page.lang == 'es' %}Suscribirme — Kit Gratuito{% else %}Subscribe — Free Starter Kit{% endif %}
+      </a>
+    </div>
   </div>
 
   <div class="footer-bottom">

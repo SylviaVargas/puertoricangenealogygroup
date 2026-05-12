@@ -132,6 +132,21 @@ last_modified_at: 2026-02-07
   </div>
 </section>
 
+<section class="section bg-navy-callout">
+  <div class="section-container">
+    <div class="newsletter-callout">
+      <div class="newsletter-callout-text">
+        <h2>Free Puerto Rico Research Starter Kit</h2>
+        <p>Four PDF guides and a Quick Reference Card, delivered to your inbox when you subscribe to our monthly newsletter. Records alerts, research tips, and community news — once a month, free.</p>
+      </div>
+      <div class="newsletter-callout-action">
+        <a href="{{ '/newsletter/' | relative_url }}" class="btn btn-callout">Get the Free Starter Kit</a>
+        <p class="newsletter-callout-note">No spam. Unsubscribe anytime.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
 <section class="section bg-cream">
   <div class="section-container">
     <div class="section-title">
