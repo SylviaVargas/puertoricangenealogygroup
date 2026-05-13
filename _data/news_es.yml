@@ -12,7 +12,14 @@
 
 - date: 2026-05-13
   category: funciones
-  featured:  false
+  featured: true
+  title: "Próxima Reunión: Julio 2026 — Tema por Anunciar"
+  body: "Nuestra reunión de julio está programada para el lunes 13 de julio. El tema y el ponente se anunciarán próximamente. Regístrate ahora para reservar tu lugar."
+  link: /es/reunion-julio-2026/
+
+- date: 2026-05-13
+  category: funciones
+  featured: false
   title: "Actualizado: Página Principal Simplificada + Página Únete a la Comunidad"
   body: "La página principal ahora carga más rápido con menos secciones — Lo Que Ofrecemos y Nuestras Metas se unieron en una sola sección Lo Que Hacemos con enlaces directos a reuniones, guías de investigación, boletín y el Registro de Ancestros. La suscripción al boletín y el Kit de Inicio Gratuito se trasladaron a la página Únete a la Comunidad."
   link: /es/contacto/
@@ -33,7 +40,7 @@
 
 - date: 2026-05-12
   category: funciones
-  featured: true 
+  featured: false
   title: "Nuevo: Registro de Ancestros Ahora Disponible"
   body: "Los miembros del PRGG ya pueden registrar a sus antepasados puertorriqueños y conectar con otros investigadores que estudian las mismas familias y pueblos. Completa el formulario de solicitud para pedir acceso."
   link: /es/registro/

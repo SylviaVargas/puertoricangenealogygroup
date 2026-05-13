@@ -1,0 +1,76 @@
+---
+layout: page
+title: July 2026 Meeting
+lang: en
+permalink: /meeting-july-2026/
+ref: meeting-july-2026
+last_modified_at: 2026-05-13
+parent_title: Meetings
+parent_url: /meetings/
+---
+
+## Puerto Rican Genealogy Zoom Meeting
+
+**Monday, July 13, 2026**
+
+### Topic to Be Announced
+
+Our July meeting topic and speaker are coming soon. Join us for an evening of learning, sharing, and connecting with fellow Puerto Rican genealogy researchers.
+
+---
+
+### Date & Time
+
+**Monday, July 13, 2026**
+
+| Time Zone | Time |
+|-----------|------|
+| Eastern (EDT) | 7:00 PM |
+| Puerto Rico | 8:00 PM |
+| Pacific (PDT) | 4:00 PM |
+
+---
+
+### What We Will Discuss
+
+- **Topic TBD**
+- **Q&A and open discussion**
+- **Member brick walls and breakthroughs**
+
+---
+
+### Register Here
+
+**<a href="https://us06web.zoom.us/meeting/register/chSyaQqxRzSxOaeXxJmM0Q" target="_blank" rel="noopener noreferrer"><em>Click here to register</em></a>**
+
+After registering, you will receive a confirmation email with meeting details.
+
+<details class="registration-help">
+<summary><strong>Need help registering? Click here for step-by-step instructions</strong></summary>
+
+<ol>
+<li><strong>Complete the Registration Form</strong> — Fill out your First Name, Last Name, and Email Address on the Zoom registration page, then click <strong>Register</strong>.</li>
+<li><strong>Instant Confirmation</strong> — You will be redirected to a "Registration Successful" page that contains the meeting link immediately.</li>
+<li><strong>Check Your Email</strong> — Zoom will also send a confirmation email with a <strong>"Join Meeting"</strong> button. The email includes links to add the event to your Google, Outlook, or Yahoo calendar.</li>
+</ol>
+
+<div class="tip-callout">
+<strong>Tip:</strong> If you don't see the email within a few minutes, check your <strong>Spam</strong> or <strong>Junk</strong> folder.
+</div>
+
+</details>
+
+**Note:** This meeting will not be recorded.
+
+---
+
+### Connect With Us
+
+- **Website:** <a href="https://puertoricangenealogy.org" target="_blank" rel="noopener noreferrer"><em>puertoricangenealogy.org</em></a>
+- **Email:** [puertoricangenealogygroup@gmail.com](mailto:puertoricangenealogygroup@gmail.com)
+
+---
+
+All experience levels welcome. Bring your curiosity, your questions, and your commitment to advancing Puerto Rican family history.
+
+**Conectando Raíces, Celebrando Herencia**
