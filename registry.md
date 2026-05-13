@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Researcher Registry"
-description: "Register your Puerto Rican ancestors to connect with other researchers investigating the same families and towns."
+description: "The PRGG Researcher Registry connects genealogists investigating the same Puerto Rican families, surnames, and municipalities. Access is a free benefit of newsletter subscription."
 lang: en
 ref: registry
 permalink: /registry/
@@ -9,34 +9,27 @@ permalink: /registry/
 
 ## Connect with Researchers Investigating the Same Families
 
-The PRGG Researcher Registry lets approved members document their Puerto Rican ancestors and find other genealogists working on the same surnames and municipalities. Every entry requires a source citation in Evidence Explained format, ensuring the data meets the Genealogical Proof Standard (GPS).
+The PRGG Researcher Registry lets members document their Puerto Rican ancestors and find other genealogists working on the same surnames and municipalities. Every entry requires a source citation in Evidence Explained format, ensuring the data meets the Genealogical Proof Standard (GPS).
 
-**Access is gated:** you must complete a brief intake form and receive administrator approval before using the registry. This keeps the data high-quality and the community trustworthy.
+### What Registry Members Can Do
+
+- Document ancestors with GPS-compliant source citations
+- Find other researchers investigating the same surnames and towns
+- Connect directly with members who share your family lines
+- Receive notifications when the searchable registry launches (in development)
 
 ### How to Get Access
 
-1. Complete the intake form below (or <a href="https://forms.gle/MJkSDxQS23Z43pLe6" target="_blank" rel="noopener noreferrer"><em>open it in a new tab</em></a>)
-2. Wait for an approval email (usually within a few days)
-3. Once approved, you will receive instructions to access the full registry
+Registry access is a free benefit of subscribing to the PRGG monthly newsletter. Here is how it works:
 
-**Coming Soon:** The searchable registry (browse by town and surname) is in development. Approved members will be notified when it launches.
+1. **Subscribe to the newsletter** — you will receive the free Puerto Rico Research Starter Kit plus an invitation to register
+2. **Complete the Researcher Registration form** — the link arrives in your welcome email
+3. **Wait for approval** — our admin team reviews applications within a few days
+4. **Start adding ancestors** — once approved, you receive a private link to submit your ancestor data
 
----
+**[Subscribe to the free newsletter to get started →](/newsletter/)**
 
-<div class="registry-embed">
-  <iframe
-    src="https://docs.google.com/forms/d/e/1FAIpQLSeGQBhQFjc0SHi3mtqbnB-IKnNRdOQzYOC5unpTkXdC6yJoWg/viewform?embedded=true"
-    title="PRGG Ancestor Registry Intake Form"
-    width="100%"
-    height="1400"
-    style="border: 1px solid #ddd; border-radius: 6px;"
-    loading="lazy"
-    referrerpolicy="strict-origin-when-cross-origin">
-    <p>Your browser does not support iframes.
-      <a href="https://forms.gle/MJkSDxQS23Z43pLe6">Open the intake form directly.</a>
-    </p>
-  </iframe>
-</div>
+Subscribing is free and takes less than a minute. You can unsubscribe at any time.
 
 ---
 

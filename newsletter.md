@@ -47,6 +47,8 @@ One email per month. Each issue includes:
 
 **Community spotlight** — researcher discoveries, Ancestor Registry matches, and active surname callouts from our members.
 
+**Ancestor Registry access** — subscribers receive an invitation to join the PRGG Researcher Registry, where you can document your Puerto Rican ancestors and connect with others investigating the same surnames and municipalities.
+
 ---
 
 *We respect your privacy. We will never sell or share your email address. Read our [Privacy Policy](/privacy-policy/).*

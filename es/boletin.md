@@ -47,6 +47,8 @@ Un correo al mes. Cada número incluye:
 
 **Protagonistas de la comunidad** — descubrimientos de investigadores, coincidencias en el Registro de Ancestros y llamadas activas de apellidos de nuestros miembros.
 
+**Acceso al Registro de Ancestros** — los suscriptores reciben una invitación para unirse al Registro de Investigadores del PRGG, donde pueden documentar a sus antepasados puertorriqueños y conectar con otros investigadores que estudian los mismos apellidos y municipios.
+
 ---
 
 *Respetamos tu privacidad. Nunca venderemos ni compartiremos tu dirección de correo electrónico. Lee nuestra [Política de Privacidad](/es/politica-de-privacidad/).*
