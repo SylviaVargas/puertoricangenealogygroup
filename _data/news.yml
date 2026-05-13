@@ -9,9 +9,16 @@
 #
 # Maintenance: add new entries at the top. Move old featured to non-featured.
 # To archive: move entries older than ~12 months to _data/news_archive_YYYY.yml
+- date: 2026-05-13
+  category: features
+  featured: false
+  title: "Updated: Homepage Streamlined + Join the Community Page"
+  body: "The homepage now loads faster with fewer sections — What We Offer and Our Goals are merged into a single What We Do section with direct links to meetings, research guides, newsletter, and the Ancestor Registry. Newsletter signup and the Free Starter Kit have moved to the Join the Community page."
+  link: /contact/
+
 - date: 2026-05-12
   category: features
-  featured: true
+  featured: false
   title: "New: Ceiba Municipality Detail Page"
   body: "The Ceiba detail page is now live — covering the town's 1838 founding from Fajardo, its 8 barrios on Puerto Rico's northeast coast, parish records at San Antonio de Padua from 1838, civil registry from 1885, coat of arms symbolism, and a full genealogy research toolkit with links to FamilySearch records and Find a Grave."
   link: /tools/municipality-guide/ceiba/
@@ -25,7 +32,7 @@
 
 - date: 2026-05-12
   category: features
-  featured: false
+  featured: true
   title: "New: Ancestor Registry Now Open"
   body: "PRGG members can now register their Puerto Rican ancestors and connect with other researchers studying the same families and towns. Complete the intake form to request access."
   link: /registry/
@@ -424,7 +431,7 @@
 
 - date: 2026-04-16
   category: features
-  featured: true
+  featured: false 
   title: "Upcoming: May 2026 Meeting — From Cabo Rojo to San Francisco"
   body: "Our May meeting is now open for registration. Fred Rodríguez Segarra, board member of the Sociedad Puertorriqueña de Genealogía, presents 'From Cabo Rojo to San Francisco,' tracing a Puerto Rican family across generations and geography, followed by member brick walls and breakthroughs."
   link: /meeting-may-2026/

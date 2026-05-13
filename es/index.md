@@ -2,7 +2,7 @@
 layout: default
 lang: es
 ref: home
-last_modified_at: 2026-02-07
+last_modified_at: 2026-05-13
 ---
 
 <section class="hero">
@@ -14,14 +14,14 @@ last_modified_at: 2026-02-07
     </p>
     <div class="hero-cta">
       <a href="{{ '/es/contacto/' | relative_url }}" class="btn btn-primary">Únete a la Comunidad</a>
-      <a href="{{ '/es/guias-investigacion/' | relative_url }}" class="btn btn-secondary">Explora las Guías</a>
-      <a href="{{ '/es/reuniones/' | relative_url }}" class="btn btn-secondary">Únete a la próxima reunión</a>
+      <a href="{{ '/es/reuniones/' | relative_url }}" class="btn btn-secondary">Reuniones</a>
       <a href="{{ '/es/novedades/' | relative_url }}" class="btn btn-secondary">Novedades</a>
+      <a href="{{ '/newsletter/' | relative_url }}" class="btn btn-gold">Boletín</a>
     </div>
   </div>
 </section>
 
-<section class="section bg-navy-callout">
+<section class="section bg-parchment">
   <div class="section-container">
     <div class="muni-callout">
       <div class="muni-callout-icon">🗺️</div>
@@ -35,28 +35,28 @@ last_modified_at: 2026-02-07
 <section class="section bg-light">
   <div class="section-container">
     <div class="section-title">
-      <h2>Lo Que Ofrecemos</h2>
+      <h2>Lo Que Hacemos</h2>
     </div>
-    <div class="goals-grid">
+    <div class="goals-grid goals-cards">
       <div class="goal-item">
         <div class="goal-icon">📚</div>
-        <h3>Orientación Experta</h3>
-        <p>Aprende técnicas genealógicas específicas para la investigación puertorriqueña de investigadores experimentados.</p>
+        <h3><a href="{{ '/es/reuniones/' | relative_url }}">Aprende de Expertos</a></h3>
+        <p>Asiste a presentaciones y talleres de investigadores experimentados en genealogía puertorriqueña, con sesiones de preguntas y respuestas y guías para principiantes.</p>
       </div>
       <div class="goal-item">
         <div class="goal-icon">🔍</div>
-        <h3>Estrategias de Investigación</h3>
-        <p>Comparte hallazgos históricos y estrategias para navegar los registros puertorriqueños.</p>
+        <h3><a href="{{ '/es/guias-investigacion/' | relative_url }}">Navega los Registros</a></h3>
+        <p>Encuentra e interpreta el registro civil, registros eclesiásticos, datos censales y documentos vitales de Puerto Rico.</p>
       </div>
       <div class="goal-item">
         <div class="goal-icon">👥</div>
-        <h3>Apoyo Comunitario</h3>
-        <p>Conéctate con otros investigadores que comparten tu pasión por la ascendencia puertorriqueña.</p>
+        <h3><a href="{{ '/newsletter/' | relative_url }}">Conéctate y Colabora</a></h3>
+        <p>Únete a una red de investigadores que rastrean la ascendencia puertorriqueña en la isla y la diáspora.</p>
       </div>
       <div class="goal-item">
-        <div class="goal-icon">🎓</div>
-        <h3>Presentaciones de Expertos</h3>
-        <p>Asiste a presentaciones con sesiones de preguntas y respuestas de expertos en genealogía.</p>
+        <div class="goal-icon">🌿</div>
+        <h3><a href="{{ '/es/registro/' | relative_url }}">Explora Tu Herencia</a></h3>
+        <p>Descubre el contexto cultural e histórico de la vida de tus antepasados y construye árboles genealógicos precisos y bien documentados.</p>
       </div>
     </div>
   </div>
@@ -65,46 +65,43 @@ last_modified_at: 2026-02-07
 <section class="section">
   <div class="section-container">
     <div class="section-title">
-      <h2>Nuestras Metas</h2>
+      <h2>Recursos Destacados</h2>
     </div>
-    <div class="card-grid">
-      <div class="card">
-        <h3>Localizar e Interpretar Registros</h3>
-        <p>Ayudar a los miembros a encontrar y comprender el registro civil, registros eclesiásticos, datos censales y otros documentos vitales de Puerto Rico.</p>
+    <div class="resource-cards">
+      <div class="resource-card">
+        <div class="resource-card-icon">🏛️</div>
+        <h3><a href="https://genealogiapr.com/" target="_blank" rel="noopener noreferrer"><em>Sociedad Puertorriqueña de Genealogía (SPG)</em></a></h3>
+        <p>Sociedad genealógica con sede en San Juan, Puerto Rico. Ofrece conferencias mensuales, talleres y visitas culturales. Los miembros reciben dos ediciones anuales de <em>Hereditas</em>.</p>
       </div>
-      <div class="card">
-        <h3>Documentar Árboles Genealógicos</h3>
-        <p>Guiar a los investigadores en la construcción de árboles genealógicos precisos y bien documentados utilizando estándares genealógicos apropiados.</p>
+      <div class="resource-card">
+        <div class="resource-card-icon">📚</div>
+        <h3><a href="https://www.upr.edu/biblioteca-rrp//" target="_blank" rel="noopener noreferrer"><em>Biblioteca Digital Puertorriqueña</em></a></h3>
+        <p>Colecciones digitales de la Universidad de Puerto Rico.</p>
       </div>
-      <div class="card">
-        <h3>Explorar el Patrimonio Cultural</h3>
-        <p>Descubrir el rico contexto cultural de la vida de tus antepasados en Puerto Rico y más allá.</p>
+      <div class="resource-card">
+        <div class="resource-card-icon">🗂️</div>
+        <h3><a href="https://www.icp.pr.gov/archivo-general/" target="_blank" rel="noopener noreferrer"><em>Archivo General de Puerto Rico</em></a></h3>
+        <p>Repositorio oficial de registros históricos puertorriqueños.</p>
       </div>
-      <div class="card">
-        <h3>Conectar Investigadores</h3>
-        <p>Construir una red de personas que investigan ancestros compartidos, ya sea que tu familia permaneció en Puerto Rico o migró a otros lugares.</p>
+      <div class="resource-card">
+        <div class="resource-card-icon">✍️</div>
+        <h3><a href="https://looking4myroots.com" target="_blank" rel="noopener noreferrer"><em>Blog Looking4MyRoots</em></a></h3>
+        <p>Blog complementario con consejos de genealogía, historias de investigación y recursos.</p>
       </div>
     </div>
+    <p class="text-center mt-2">
+      <a href="{{ '/es/recursos/' | relative_url }}" class="btn btn-primary">Ver Todos los Recursos</a>
+    </p>
   </div>
 </section>
 
-<section class="section">
-  <div class="section-container">
-    <div class="poll-callout">
-      <h3>Ayuda a Dar Forma a Nuestro Grupo</h3>
-      <p>¿Qué temas te interesan más? ¿Qué formatos funcionan mejor? Cuéntanos cómo podemos servir mejor a nuestra comunidad.</p>
-      <a href="https://docs.google.com/forms/d/e/1FAIpQLSdfbrukgdx6v3fAxKiKS2ZwKb0d38DT12axvA3fXZXk_nN81g/viewform?usp=header" class="btn btn-primary" target="_blank" rel="noopener noreferrer">Completa la Encuesta</a>
-    </div>
-  </div>
-</section>
-
-<section class="section bg-light">
+<section class="section bg-cream">
   <div class="section-container">
     <div class="section-title">
       <h2>Nuestro Impacto</h2>
       <p>Conectando investigadores puertorriqueños en la diáspora y la isla.</p>
     </div>
-    <div class="goals-grid">
+    <div class="goals-grid impact-stats-grid">
       <div class="goal-item">
         <div class="goal-icon">👥</div>
         <h3>Investigadores Atendidos</h3>
@@ -126,38 +123,8 @@ last_modified_at: 2026-02-07
         <p class="impact-number">Creciendo</p>
       </div>
     </div>
-    <p class="text-center" style="color: var(--navy); font-size: 0.85rem; margin-top: 0.5rem;">
+    <p class="text-center" style="color: var(--color-navy); font-size: 0.85rem; margin-top: 0.5rem;">
       Actualizado mensualmente con datos de análisis.
     </p>
   </div>
 </section>
-
-<section class="section bg-cream">
-  <div class="section-container">
-    <div class="section-title">
-      <h2>Recursos Destacados</h2>
-    </div>
-    <ul class="resource-list">
-      <li>
-        <a href="https://genealogiapr.com/" target="_blank" rel="noopener noreferrer"><em>Sociedad Puertorriqueña de Genealogía (SPG)</em></a>
-        <p class="description">Sociedad genealógica con sede en San Juan, Puerto Rico. La SPG ofrece conferencias mensuales, talleres y visitas culturales. Sus eventos se comparten en su <a href="https://www.facebook.com/groups/spgpuertorico" target="_blank" rel="noopener noreferrer"><em>grupo de Facebook</em></a> y su <a href="https://www.youtube.com/@sociedadpr" target="_blank" rel="noopener noreferrer"><em>canal de YouTube</em></a>. Los miembros reciben dos ediciones anuales de <em>Hereditas</em>, una revista que publica artículos de investigación genealógica, compilaciones de registros parroquiales y transcripciones de archivos municipales.</p>
-      </li>
-      <li>
-        <a href="https://www.upr.edu/biblioteca-rrp//" target="_blank" rel="noopener noreferrer"><em>Biblioteca Digital Puertorriqueña</em></a>
-        <p class="description">Colecciones digitales de la Universidad de Puerto Rico.</p>
-      </li>
-      <li>
-        <a href="https://www.icp.pr.gov/archivo-general/" target="_blank" rel="noopener noreferrer"><em>Archivo General de Puerto Rico</em></a>
-        <p class="description">Repositorio oficial de registros históricos puertorriqueños.</p>
-      </li>
-      <li>
-        <a href="https://looking4myroots.com" target="_blank" rel="noopener noreferrer"><em>Blog Looking4MyRoots</em></a>
-        <p class="description">Blog complementario con consejos de genealogía, historias de investigación y recursos.</p>
-      </li>
-    </ul>
-    <p class="text-center mt-2">
-      <a href="{{ '/es/recursos/' | relative_url }}" class="btn btn-primary">Ver Todos los Recursos</a>
-    </p>
-  </div>
-</section>
-

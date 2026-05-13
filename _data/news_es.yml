@@ -10,9 +10,16 @@
 # Mantenimiento: agregar entradas nuevas al inicio. Cambiar featured anterior a false.
 # Para archivar: mover entradas con más de ~12 meses a _data/news_es_archive_YYYY.yml
 
+- date: 2026-05-13
+  category: funciones
+  featured:  false
+  title: "Actualizado: Página Principal Simplificada + Página Únete a la Comunidad"
+  body: "La página principal ahora carga más rápido con menos secciones — Lo Que Ofrecemos y Nuestras Metas se unieron en una sola sección Lo Que Hacemos con enlaces directos a reuniones, guías de investigación, boletín y el Registro de Ancestros. La suscripción al boletín y el Kit de Inicio Gratuito se trasladaron a la página Únete a la Comunidad."
+  link: /es/contacto/
+
 - date: 2026-05-12
   category: funciones
-  featured: true
+  featured: false
   title: "Nuevo: Página de Detalle del Municipio Ceiba"
   body: "La página de detalle de Ceiba ya está disponible — con la historia de su fundación en 1838 tras separarse de Fajardo, sus 8 barrios en la costa noreste de Puerto Rico, registros parroquiales en San Antonio de Padua desde 1838, registro civil desde 1885, el simbolismo del escudo municipal y una guía completa de investigación genealógica con enlaces a FamilySearch y Find a Grave."
   link: /es/guia-municipios/ceiba/
@@ -26,7 +33,7 @@
 
 - date: 2026-05-12
   category: funciones
-  featured: false
+  featured: true 
   title: "Nuevo: Registro de Ancestros Ahora Disponible"
   body: "Los miembros del PRGG ya pueden registrar a sus antepasados puertorriqueños y conectar con otros investigadores que estudian las mismas familias y pueblos. Completa el formulario de solicitud para pedir acceso."
   link: /es/registro/
@@ -425,7 +432,7 @@
 
 - date: 2026-04-16
   category: funciones
-  featured: true
+  featured:  false
   title: "Próxima Reunión: Mayo 2026 — De Cabo Rojo a San Francisco"
   body: "Nuestra reunión de mayo ya está abierta para registro. Fred Rodríguez Segarra, miembro de la junta de la Sociedad Puertorriqueña de Genealogía, presenta 'De Cabo Rojo a San Francisco', trazando una familia puertorriqueña a través de generaciones y geografías, seguido de obstáculos y avances de los miembros."
   link: /es/reunion-mayo-2026/
