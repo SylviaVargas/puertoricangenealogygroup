@@ -2094,11 +2094,35 @@
     "mother_town": [
       "Fajardo"
     ],
+    "is_mother_municipality": false,
+    "has_detail_page": true,
     "parish": {
       "name": "San Antonio de Padua",
       "records_start": 1838
     },
     "civil_registry_start": 1885,
+    "barrios": [
+      "Ceiba barrio-pueblo",
+      "Chupacallos",
+      "Daguao",
+      "Guayacán",
+      "Machos",
+      "Quebrada Seca",
+      "Río Abajo",
+      "Saco"
+    ],
+    "neighbors": [
+      "Fajardo",
+      "Naguabo"
+    ],
+    "familysearch_url": "",
+    "escudo": {
+      "image": "",
+      "alt": "Coat of arms of Ceiba, Puerto Rico",
+      "description": "Features a central ceiba tree as the primary charge, a cross and lilies in the chief area, and sugar-cane stalks flanking the shield. The ceiba tree represents the town name and indigenous landscape identity; the cross and lilies emphasize Christian and patronal symbolism; the sugar-cane stalks reflect the historical agricultural economy.",
+      "license": "",
+      "attribution_url": ""
+    },
     "historical_maps": [
       {
         "municipality": "Ceiba",
@@ -2107,6 +2131,49 @@
         "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
         "image": "assets/images/municipalities/maps/ceiba-2026.png",
         "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ],
+    "online_resources": [
+      {
+        "title": "Puerto Rico, Catholic Church Records, 1645–1969",
+        "url": "https://www.familysearch.org/en/search/collection/1807092",
+        "type": "Digitized Records",
+        "description": "Islandwide Catholic church-record collection including baptisms, marriages, burials, and confirmations. Includes Ceiba parish records from San Antonio de Padua."
+      },
+      {
+        "title": "Puerto Rico Civil Registration, 1885–2001",
+        "url": "https://www.familysearch.org/en/search/collection/1682798",
+        "type": "Digitized Records",
+        "description": "Civil registration births, marriages, and deaths for all Puerto Rico municipalities including Ceiba, beginning 1885."
+      },
+      {
+        "title": "City Cemetery in Ceiba, Puerto Rico — Find a Grave",
+        "url": "https://www.findagrave.com/cemetery/2374912/city-cemetery",
+        "type": "Cemetery Index",
+        "description": "Find a Grave memorial page for Ceiba's main city cemetery. Useful for verifying death dates and burial information."
+      }
+    ],
+    "genealogy_sources": [
+      {
+        "title": "U.S. Census Bureau: Ceiba Municipio Profile",
+        "author": "U.S. Census Bureau",
+        "url": "https://data.census.gov/profile/Ceiba_Municipio,_Puerto_Rico?g=050XX00US72025",
+        "type": "Census Data",
+        "description": "Authoritative 2020 Census profile for Ceiba, including official barrio list, population data, and geographic boundary information."
+      },
+      {
+        "title": "Municipio de Ceiba",
+        "author": "EnciclopediaPR contributors",
+        "url": "https://enciclopediapr.org/content/municipio-de-ceiba/",
+        "type": "Encyclopedia Entry",
+        "description": "Authoritative municipal history of Ceiba documenting its separation from Fajardo in 1838, geography, and historical context for genealogical research."
+      },
+      {
+        "title": "Ceiba, Puerto Rico Church Indexes, 1840–1978",
+        "author": "Hijos de Coamo",
+        "url": "https://hijosdecoamopr.com/ceiba-puerto-rico-church-indexes-1840-1978/",
+        "type": "Research Guide",
+        "description": "Parish register index guide for Ceiba covering approximately 1840–1978. Points to parish-level coverage and advises checking Fajardo records for years when Ceiba was attached to Fajardo."
       }
     ]
   },

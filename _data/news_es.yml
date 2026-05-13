@@ -13,6 +13,13 @@
 - date: 2026-05-12
   category: funciones
   featured: true
+  title: "Nuevo: Página de Detalle del Municipio Ceiba"
+  body: "La página de detalle de Ceiba ya está disponible — con la historia de su fundación en 1838 tras separarse de Fajardo, sus 8 barrios en la costa noreste de Puerto Rico, registros parroquiales en San Antonio de Padua desde 1838, registro civil desde 1885, el simbolismo del escudo municipal y una guía completa de investigación genealógica con enlaces a FamilySearch y Find a Grave."
+  link: /es/guia-municipios/ceiba/
+
+- date: 2026-05-12
+  category: funciones
+  featured: false
   title: "Nuevo: Boletín Mensual — Kit de Inicio Gratuito"
   body: "Suscríbete al boletín mensual del PRGG y recibe nuestro Kit de Inicio para Investigación en Puerto Rico: cuatro guías en PDF y una Tarjeta de Referencia Rápida enviadas a tu correo."
   link: /es/boletin/

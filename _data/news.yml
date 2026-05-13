@@ -12,6 +12,13 @@
 - date: 2026-05-12
   category: features
   featured: true
+  title: "New: Ceiba Municipality Detail Page"
+  body: "The Ceiba detail page is now live — covering the town's 1838 founding from Fajardo, its 8 barrios on Puerto Rico's northeast coast, parish records at San Antonio de Padua from 1838, civil registry from 1885, coat of arms symbolism, and a full genealogy research toolkit with links to FamilySearch records and Find a Grave."
+  link: /tools/municipality-guide/ceiba/
+
+- date: 2026-05-12
+  category: features
+  featured: false
   title: "New: Monthly Newsletter — Free Starter Kit"
   body: "Subscribe to the PRGG monthly newsletter and receive our free Puerto Rico Research Starter Kit: four PDF guides and a Quick Reference Card delivered to your inbox."
   link: /newsletter/
