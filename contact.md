@@ -7,12 +7,13 @@ ref: contact
 last_modified_at: 2026-05-13
 ---
 
-Whether you're here to subscribe, document your ancestors, or find help with a research question — you're in the right place.
+Whether you're here to subscribe to our newsletter or find help with a research question, you're in the right place.
 
 <div class="newsletter-callout bg-navy-callout" style="border-radius: 8px; padding: 2rem 2rem 1.5rem; margin-bottom: 2rem; display: flex; flex-direction: column; align-items: center; text-align: center; gap: 1.25rem;">
   <div class="newsletter-callout-text">
     <h2>Subscribe to Our Monthly Newsletter</h2>
-    <p>Get four free PDF guides and a Quick Reference Card when you subscribe — plus records alerts, research tips, and community news delivered to your inbox once a month, free.</p>
+    <p>Get four free PDF guides and a Quick Reference Card when you subscribe, plus records alerts, research tips, and community news delivered to your inbox once a month, free.</p>
+    <p class="newsletter-callout-coming-soon">Subscribers will be among the first to know when our Ancestor Registry launches, a future tool to connect researchers sharing surnames and municipalities.</p>
   </div>
   <div class="newsletter-callout-action">
     <a href="{{ '/newsletter/' | relative_url }}" class="btn btn-callout">Subscribe and Get the Free Starter Kit</a>
@@ -22,25 +23,25 @@ Whether you're here to subscribe, document your ancestors, or find help with a r
 
 <div class="newsletter-callout bg-navy-callout" style="border-radius: 8px; padding: 2rem 2rem 1.5rem; margin-bottom: 2rem; display: flex; flex-direction: column; align-items: center; text-align: center; gap: 1.25rem;">
   <div class="newsletter-callout-text">
-    <h2>Join the Ancestor Registry</h2>
-    <p>Document your Puerto Rican ancestors and connect with other researchers tracing the same surnames and municipalities. Every entry meets the Genealogical Proof Standard with proper source citations.</p>
+    <h2>Join Our Monthly Meetings</h2>
+    <p>We meet monthly on Zoom, free and open to all levels. Presentations cover Puerto Rican records, research strategies, and member discoveries, followed by open Q&A.</p>
   </div>
   <div class="newsletter-callout-action">
-    <a href="{{ '/registry/' | relative_url }}" class="btn btn-callout">Request Registry Access</a>
-    <p class="newsletter-callout-note">Free. Admin-approved to protect the community and maintain research standards.</p>
+    <a href="{{ '/meetings/' | relative_url }}" class="btn btn-callout">View Upcoming Meetings</a>
+    <p class="newsletter-callout-note">Free. All levels welcome.</p>
   </div>
 </div>
 
 ## How Can We Help?
 
 **New to Puerto Rican Genealogy?**
-Start with our <a href="{{ '/research-guides/' | relative_url }}"><em>Research Guides</em></a> or join one of our beginner-friendly meetings.
+Start with our <a href="{{ '/research-guides/' | relative_url }}"><em>Research Guides</em></a> or join one of our <a href="{{ '/meetings/' | relative_url }}"><em>beginner-friendly meetings</em></a>.
 
 **Looking for Specific Records?**
 Check our <a href="{{ '/resources/' | relative_url }}"><em>Resources</em></a> page for links to archives, databases, and research tools.
 
 **Want to Share Your Research?**
-We love hearing about member discoveries! [Email us your story](mailto:puertoricangenealogygroup@gmail.com) or present at one of our meetings.
+We love hearing about member discoveries! [Email us your story](mailto:puertoricangenealogygroup@gmail.com) or present at one of our <a href="{{ '/meetings/' | relative_url }}"><em>meetings</em></a>.
 
 **Have a Suggestion?**
 We're always looking to improve. Send us your ideas for meeting topics, resources to add, or ways we can better serve the community.

@@ -10,9 +10,16 @@
 # Mantenimiento: agregar entradas nuevas al inicio. Cambiar featured anterior a false.
 # Para archivar: mover entradas con más de ~12 meses a _data/news_es_archive_YYYY.yml
 
-- date: 2026-05-13
+- date: 2026-05-14
   category: funciones
   featured: true
+  title: "Actualizado: Página Únete a la Comunidad — Enfoque en el Boletín"
+  body: "La página Únete a la Comunidad ahora se centra en el boletín. El bloque del Registro de Ancestros fue removido mientras el registro está en desarrollo; los suscriptores serán los primeros en saber cuando se lance para conectar investigadores por municipio y apellido."
+  link: /es/contacto/
+
+- date: 2026-05-13
+  category: funciones
+  featured: false
   title: "Próxima Reunión: Julio 2026 — Tema por Anunciar"
   body: "Nuestra reunión de julio está programada para el lunes 13 de julio. El tema y el ponente se anunciarán próximamente. Regístrate ahora para reservar tu lugar."
   link: /es/reunion-julio-2026/

@@ -7,40 +7,41 @@ ref: contact
 last_modified_at: 2026-05-13
 ---
 
-Ya sea que estés aquí para suscribirte, documentar tus ancestros o encontrar ayuda con una pregunta de investigación — estás en el lugar correcto.
+Ya sea que estés aquí para suscribirte a nuestro boletín o encontrar ayuda con una pregunta de investigación, estás en el lugar correcto.
 
 <div class="newsletter-callout bg-navy-callout" style="border-radius: 8px; padding: 2rem 2rem 1.5rem; margin-bottom: 2rem; display: flex; flex-direction: column; align-items: center; text-align: center; gap: 1.25rem;">
   <div class="newsletter-callout-text">
     <h2>Suscríbete a Nuestro Boletín Mensual</h2>
     <p>Recibe cuatro guías en PDF y una Tarjeta de Referencia Rápida gratis al suscribirte, más alertas de registros, consejos de investigación y noticias de la comunidad en tu bandeja de entrada una vez al mes, sin costo.</p>
+    <p class="newsletter-callout-coming-soon">Los suscriptores serán de los primeros en conocer el lanzamiento de nuestro Registro de Ancestros, una herramienta futura para conectar a investigadores que comparten apellidos y municipios.</p>
   </div>
   <div class="newsletter-callout-action">
-    <a href="{{ '/newsletter/' | relative_url }}" class="btn btn-callout">Suscríbete y Obtén el Kit Gratuito</a>
+    <a href="{{ '/es/boletin/' | relative_url }}" class="btn btn-callout">Suscríbete y Obtén el Kit Gratuito</a>
     <p class="newsletter-callout-note">Sin spam. Cancela en cualquier momento.</p>
   </div>
 </div>
 
 <div class="newsletter-callout bg-navy-callout" style="border-radius: 8px; padding: 2rem 2rem 1.5rem; margin-bottom: 2rem; display: flex; flex-direction: column; align-items: center; text-align: center; gap: 1.25rem;">
   <div class="newsletter-callout-text">
-    <h2>Únete al Registro de Ancestros</h2>
-    <p>Documenta tus ancestros puertorriqueños y conéctate con otros investigadores que rastrean los mismos apellidos y municipios. Cada entrada cumple con el Estándar de Prueba Genealógica con citas de fuentes apropiadas.</p>
+    <h2>Únete a Nuestras Reuniones Mensuales</h2>
+    <p>Nos reunimos mensualmente por Zoom, sin costo y abierto a todos los niveles. Las presentaciones cubren registros puertorriqueños, estrategias de investigación y descubrimientos de miembros, seguidas de preguntas y respuestas.</p>
   </div>
   <div class="newsletter-callout-action">
-    <a href="{{ '/es/registro/' | relative_url }}" class="btn btn-callout">Solicitar Acceso al Registro</a>
-    <p class="newsletter-callout-note">Gratuito. Aprobado por administrador para proteger a la comunidad y mantener los estándares de investigación.</p>
+    <a href="{{ '/es/reuniones/' | relative_url }}" class="btn btn-callout">Ver Reuniones Próximas</a>
+    <p class="newsletter-callout-note">Gratuito. Todos los niveles bienvenidos.</p>
   </div>
 </div>
 
 ## ¿Cómo Podemos Ayudarte?
 
 **¿Nuevo en la Genealogía Puertorriqueña?**
-Comienza con nuestras <a href="{{ '/es/guias-investigacion/' | relative_url }}"><em>Guías de Investigación</em></a> o únete a una de nuestras reuniones para principiantes.
+Comienza con nuestras <a href="{{ '/es/guias-investigacion/' | relative_url }}"><em>Guías de Investigación</em></a> o únete a una de nuestras <a href="{{ '/es/reuniones/' | relative_url }}"><em>reuniones para principiantes</em></a>.
 
 **¿Buscas Registros Específicos?**
 Consulta nuestra página de <a href="{{ '/es/recursos/' | relative_url }}"><em>Recursos</em></a> para enlaces a archivos, bases de datos y herramientas de investigación.
 
 **¿Quieres Compartir Tu Investigación?**
-¡Nos encanta escuchar sobre los descubrimientos de los miembros! [Envíanos tu historia por correo electrónico](mailto:puertoricangenealogygroup@gmail.com) o presenta en una de nuestras reuniones.
+¡Nos encanta escuchar sobre los descubrimientos de los miembros! [Envíanos tu historia por correo electrónico](mailto:puertoricangenealogygroup@gmail.com) o presenta en una de nuestras <a href="{{ '/es/reuniones/' | relative_url }}"><em>reuniones</em></a>.
 
 **¿Tienes una Sugerencia?**
 Siempre estamos buscando mejorar. Envíanos tus ideas para temas de reuniones, recursos para agregar o formas en que podemos servir mejor a la comunidad.

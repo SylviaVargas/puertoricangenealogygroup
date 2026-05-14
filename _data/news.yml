@@ -9,9 +9,16 @@
 #
 # Maintenance: add new entries at the top. Move old featured to non-featured.
 # To archive: move entries older than ~12 months to _data/news_archive_YYYY.yml
-- date: 2026-05-13
+- date: 2026-05-14
   category: features
   featured: true
+  title: "Updated: Join the Community Page — Newsletter Focus"
+  body: "The Join the Community page now focuses on the newsletter. The Ancestor Registry callout has been removed while the registry is in development; subscribers will be the first to know when it launches to connect researchers by town and surname."
+  link: /contact/
+
+- date: 2026-05-13
+  category: features
+  featured: false
   title: "Upcoming: July 2026 Meeting — Topic to Be Announced"
   body: "Our July meeting is now scheduled for Monday, July 13. Topic and speaker coming soon. Register now to save your spot."
   link: /meeting-july-2026/
