@@ -8,7 +8,7 @@ ref: whats-new
 last_modified_at: 2026-02-28
 ---
 
-{% assign visible_news = visible_news | where_exp: "item", "item.hidden != true" %}
+{% assign visible_news = site.data.news | where_exp: "item", "item.hidden != true" %}
 {% assign featured = visible_news | where_exp: "item", "item.featured == true" | first %}
 {% if featured %}
 <div class="poll-callout">
