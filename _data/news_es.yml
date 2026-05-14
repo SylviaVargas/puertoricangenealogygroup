@@ -481,7 +481,7 @@
 
 - date: 2026-03-16
   category: funciones
-  featured: true
+  featured: false 
   title: "Actualizado: Página de Recursos — Con Filtros y Clasificaciones"
   body: "La página de Recursos fue rediseñada con filtros por categoría, insignias de Gratuito/Suscripción y una sección de Mejores Opciones para encontrar las herramientas más útiles más rápido."
   link: /es/recursos/

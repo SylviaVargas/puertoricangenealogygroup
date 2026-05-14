@@ -26,15 +26,19 @@ last_modified_at: 2026-02-28
 
 {% assign courses = site.data.news | where: "category", "courses" | where_exp: "item", "item.featured != true" %}
 {% if courses.size > 0 %}
-<ul class="resource-list">
+<ul class="news-stacked">
   {% for item in courses %}
-  <li>
+  <li class="news-entry">
+    <p class="news-entry-date">{{ item.date | date: "%b %-d, %Y" }}</p>
     {% if item.link %}
-    <a href="{{ item.link | relative_url }}"><em>{{ item.title }}</em></a>
+    <h3 class="news-entry-title"><a href="{{ item.link | relative_url }}">{{ item.title }}</a></h3>
     {% else %}
-    <strong>{{ item.title }}</strong>
+    <h3 class="news-entry-title">{{ item.title }}</h3>
     {% endif %}
-    <p class="description">{{ item.date | date: "%B %-d, %Y" }}: {{ item.body }}</p>
+    <p class="news-entry-body">
+      {% assign truncated = item.body | truncatewords: 25 %}
+      {{ truncated }}{% if truncated != item.body and item.link %} <a href="{{ item.link | relative_url }}" class="news-read-more">Read more</a>{% endif %}
+    </p>
   </li>
   {% endfor %}
 </ul>
@@ -46,15 +50,19 @@ last_modified_at: 2026-02-28
 
 {% assign guides = site.data.news | where: "category", "guides" | where_exp: "item", "item.featured != true" %}
 {% if guides.size > 0 %}
-<ul class="resource-list">
+<ul class="news-stacked">
   {% for item in guides %}
-  <li>
+  <li class="news-entry">
+    <p class="news-entry-date">{{ item.date | date: "%b %-d, %Y" }}</p>
     {% if item.link %}
-    <a href="{{ item.link | relative_url }}"><em>{{ item.title }}</em></a>
+    <h3 class="news-entry-title"><a href="{{ item.link | relative_url }}">{{ item.title }}</a></h3>
     {% else %}
-    <strong>{{ item.title }}</strong>
+    <h3 class="news-entry-title">{{ item.title }}</h3>
     {% endif %}
-    <p class="description">{{ item.date | date: "%B %-d, %Y" }}: {{ item.body }}</p>
+    <p class="news-entry-body">
+      {% assign truncated = item.body | truncatewords: 25 %}
+      {{ truncated }}{% if truncated != item.body and item.link %} <a href="{{ item.link | relative_url }}" class="news-read-more">Read more</a>{% endif %}
+    </p>
   </li>
   {% endfor %}
 </ul>
@@ -62,21 +70,48 @@ last_modified_at: 2026-02-28
 <p>No recent guide updates. <a href="{{ '/research-guides/' | relative_url }}">Browse all guides.</a></p>
 {% endif %}
 
-{% assign features = site.data.news | where: "category", "features" %}
-{% if features.size > 0 %}
+{% assign all_features = site.data.news | where: "category", "features" %}
+{% assign muni_features = all_features | where_exp: "item", "item.link contains 'municipality-guide'" %}
+{% if all_features.size > 0 %}
 <h2>Site Features</h2>
-<ul class="resource-list">
-  {% for item in features %}
-  <li>
+
+<ul class="news-stacked">
+  {% for item in all_features %}{% unless item.link contains 'municipality-guide' %}
+  <li class="news-entry">
+    <p class="news-entry-date">{{ item.date | date: "%b %-d, %Y" }}</p>
     {% if item.link %}
-    <a href="{{ item.link | relative_url }}"><em>{{ item.title }}</em></a>
+    <h3 class="news-entry-title"><a href="{{ item.link | relative_url }}">{{ item.title }}</a></h3>
     {% else %}
-    <strong>{{ item.title }}</strong>
+    <h3 class="news-entry-title">{{ item.title }}</h3>
     {% endif %}
-    <p class="description">{{ item.date | date: "%B %-d, %Y" }}: {{ item.body }}</p>
+    <p class="news-entry-body">
+      {% assign truncated = item.body | truncatewords: 25 %}
+      {{ truncated }}{% if truncated != item.body and item.link %} <a href="{{ item.link | relative_url }}" class="news-read-more">Read more</a>{% endif %}
+    </p>
   </li>
-  {% endfor %}
+  {% endunless %}{% endfor %}
 </ul>
+
+{% if muni_features.size > 0 %}
+<div class="news-municipality-section">
+  <h3>Municipality Detail Pages</h3>
+  <p class="news-municipality-count">{{ muni_features.size }} municipality pages added — each includes founding history, barrios, parish and civil registry dates, and a genealogy research toolkit. <a href="{{ '/tools/municipality-guide/' | relative_url }}">Browse all municipalities.</a></p>
+  {% assign prev_month = "" %}
+  {% for item in muni_features %}
+    {% assign item_month = item.date | date: "%B %Y" %}
+    {% if item_month != prev_month %}
+      {% unless forloop.first %}</ul>{% endunless %}
+      {% assign prev_month = item_month %}
+      <h4 class="news-month-label">{{ item_month }}</h4>
+      <ul class="news-muni-list">
+    {% endif %}
+    {% assign muni_name = item.title | replace: "New: ", "" | replace: "Enhanced: ", "" | replace: "Updated: ", "" | replace: " Municipality Detail Page", "" | split: " — " | first | strip %}
+    <li><a href="{{ item.link | relative_url }}">{{ muni_name }}</a></li>
+    {% if forloop.last %}</ul>{% endif %}
+  {% endfor %}
+</div>
+{% endif %}
+
 {% endif %}
 
 <hr>

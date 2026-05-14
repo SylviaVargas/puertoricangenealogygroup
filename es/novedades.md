@@ -26,15 +26,19 @@ last_modified_at: 2026-02-28
 
 {% assign cursos = site.data.news_es | where: "category", "cursos" | where_exp: "item", "item.featured != true" %}
 {% if cursos.size > 0 %}
-<ul class="resource-list">
+<ul class="news-stacked">
   {% for item in cursos %}
-  <li>
+  <li class="news-entry">
+    <p class="news-entry-date">{{ item.date | date: "%-d %b %Y" }}</p>
     {% if item.link %}
-    <a href="{{ item.link | relative_url }}"><em>{{ item.title }}</em></a>
+    <h3 class="news-entry-title"><a href="{{ item.link | relative_url }}">{{ item.title }}</a></h3>
     {% else %}
-    <strong>{{ item.title }}</strong>
+    <h3 class="news-entry-title">{{ item.title }}</h3>
     {% endif %}
-    <p class="description">{{ item.date | date: "%d/%m/%Y" }}: {{ item.body }}</p>
+    <p class="news-entry-body">
+      {% assign truncated = item.body | truncatewords: 25 %}
+      {{ truncated }}{% if truncated != item.body and item.link %} <a href="{{ item.link | relative_url }}" class="news-read-more">Leer más</a>{% endif %}
+    </p>
   </li>
   {% endfor %}
 </ul>
@@ -46,15 +50,19 @@ last_modified_at: 2026-02-28
 
 {% assign guias = site.data.news_es | where: "category", "guias" | where_exp: "item", "item.featured != true" %}
 {% if guias.size > 0 %}
-<ul class="resource-list">
+<ul class="news-stacked">
   {% for item in guias %}
-  <li>
+  <li class="news-entry">
+    <p class="news-entry-date">{{ item.date | date: "%-d %b %Y" }}</p>
     {% if item.link %}
-    <a href="{{ item.link | relative_url }}"><em>{{ item.title }}</em></a>
+    <h3 class="news-entry-title"><a href="{{ item.link | relative_url }}">{{ item.title }}</a></h3>
     {% else %}
-    <strong>{{ item.title }}</strong>
+    <h3 class="news-entry-title">{{ item.title }}</h3>
     {% endif %}
-    <p class="description">{{ item.date | date: "%d/%m/%Y" }}: {{ item.body }}</p>
+    <p class="news-entry-body">
+      {% assign truncated = item.body | truncatewords: 25 %}
+      {{ truncated }}{% if truncated != item.body and item.link %} <a href="{{ item.link | relative_url }}" class="news-read-more">Leer más</a>{% endif %}
+    </p>
   </li>
   {% endfor %}
 </ul>
@@ -62,21 +70,48 @@ last_modified_at: 2026-02-28
 <p>No hay actualizaciones recientes de guías. <a href="{{ '/es/guias-investigacion/' | relative_url }}">Ver todas las guías.</a></p>
 {% endif %}
 
-{% assign funciones = site.data.news_es | where: "category", "funciones" %}
-{% if funciones.size > 0 %}
+{% assign todas_funciones = site.data.news_es | where: "category", "funciones" %}
+{% assign muni_funciones = todas_funciones | where_exp: "item", "item.link contains 'municipio'" %}
+{% if todas_funciones.size > 0 %}
 <h2>Funciones del Sitio</h2>
-<ul class="resource-list">
-  {% for item in funciones %}
-  <li>
+
+<ul class="news-stacked">
+  {% for item in todas_funciones %}{% unless item.link contains 'municipio' %}
+  <li class="news-entry">
+    <p class="news-entry-date">{{ item.date | date: "%-d %b %Y" }}</p>
     {% if item.link %}
-    <a href="{{ item.link | relative_url }}"><em>{{ item.title }}</em></a>
+    <h3 class="news-entry-title"><a href="{{ item.link | relative_url }}">{{ item.title }}</a></h3>
     {% else %}
-    <strong>{{ item.title }}</strong>
+    <h3 class="news-entry-title">{{ item.title }}</h3>
     {% endif %}
-    <p class="description">{{ item.date | date: "%d/%m/%Y" }}: {{ item.body }}</p>
+    <p class="news-entry-body">
+      {% assign truncated = item.body | truncatewords: 25 %}
+      {{ truncated }}{% if truncated != item.body and item.link %} <a href="{{ item.link | relative_url }}" class="news-read-more">Leer más</a>{% endif %}
+    </p>
   </li>
-  {% endfor %}
+  {% endunless %}{% endfor %}
 </ul>
+
+{% if muni_funciones.size > 0 %}
+<div class="news-municipality-section">
+  <h3>Páginas de Detalle de Municipios</h3>
+  <p class="news-municipality-count">{{ muni_funciones.size }} páginas de municipios añadidas — cada una incluye historia de fundación, barrios, fechas de registros parroquiales y civiles, y una guía de investigación genealógica. <a href="{{ '/es/guia-municipios/' | relative_url }}">Ver todos los municipios.</a></p>
+  {% assign mes_anterior = "" %}
+  {% for item in muni_funciones %}
+    {% assign mes_item = item.date | date: "%B %Y" %}
+    {% if mes_item != mes_anterior %}
+      {% unless forloop.first %}</ul>{% endunless %}
+      {% assign mes_anterior = mes_item %}
+      <h4 class="news-month-label">{{ mes_item }}</h4>
+      <ul class="news-muni-list">
+    {% endif %}
+    {% assign muni_nombre = item.title | replace: "Nueva: ", "" | replace: "Nuevo: ", "" | replace: "Mejorada: ", "" | replace: "Actualizada: ", "" | replace: " — Página de Detalle del Municipio", "" | replace: " — Página de Detalle de Municipio", "" | split: " — " | first | strip %}
+    <li><a href="{{ item.link | relative_url }}">{{ muni_nombre }}</a></li>
+    {% if forloop.last %}</ul>{% endif %}
+  {% endfor %}
+</div>
+{% endif %}
+
 {% endif %}
 
 <hr>
