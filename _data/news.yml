@@ -3,6 +3,7 @@
 #   date:     YYYY-MM-DD (required)
 #   category: courses | guides | features (required)
 #   featured: true — set on ONE entry only; displays as the hero callout
+#   hidden:   true — suppresses entry from all display; record is kept for reference
 #   title:    short, action-oriented (required)
 #   body:     1-2 sentences visible in the homepage snippet and full page (required)
 #   link:     internal path without domain (optional)
@@ -47,6 +48,7 @@
 - date: 2026-05-12
   category: features
   featured: false
+  hidden: true
   title: "New: Ancestor Registry Now Open"
   body: "PRGG members can now register their Puerto Rican ancestors and connect with other researchers studying the same families and towns. Complete the intake form to request access."
   link: /registry/
@@ -124,6 +126,7 @@
 - date: 2026-05-08
   category: features
   featured: false
+  hidden: true
   title: "Coming Soon: PRGG Researcher Registry"
   body: "We are building a gated researcher registry where approved members can document Puerto Rican ancestors by name, town, and year range, link to records on FamilySearch or Ancestry, and connect with others investigating the same families. Access requires an intake form and administrator approval to ensure GPS-compliant data quality."
   link: /registry/

@@ -3,6 +3,7 @@
 #   date:     YYYY-MM-DD (obligatorio)
 #   category: cursos | guias | funciones (obligatorio)
 #   featured: true — solo en UNA entrada; aparece como recuadro destacado
+#   hidden:   true — oculta la entrada de toda visualización; el registro se conserva como referencia
 #   title:    título breve (obligatorio)
 #   body:     1-2 oraciones visibles en el resumen y en la página completa (obligatorio)
 #   link:     ruta interna sin dominio (opcional)
@@ -48,6 +49,7 @@
 - date: 2026-05-12
   category: funciones
   featured: false
+  hidden: true
   title: "Nuevo: Registro de Ancestros Ahora Disponible"
   body: "Los miembros del PRGG ya pueden registrar a sus antepasados puertorriqueños y conectar con otros investigadores que estudian las mismas familias y pueblos. Completa el formulario de solicitud para pedir acceso."
   link: /es/registro/
@@ -125,6 +127,7 @@
 - date: 2026-05-08
   category: funciones
   featured: false
+  hidden: true
   title: "Próximamente: Registro de Investigadores del PRGG"
   body: "Estamos construyendo un registro controlado donde los miembros aprobados podrán documentar antepasados puertorriqueños por nombre, municipio y rango de años, enlazar registros en FamilySearch o Ancestry, y conectar con otros investigadores de las mismas familias. El acceso requiere un formulario de solicitud y aprobación del administrador para garantizar la calidad de los datos según el GPS."
   link: /es/registro/

@@ -8,7 +8,8 @@ ref: whats-new
 last_modified_at: 2026-02-28
 ---
 
-{% assign featured_es = site.data.news_es | where_exp: "item", "item.featured == true" | first %}
+{% assign visible_news_es = visible_news_es | where_exp: "item", "item.hidden != true" %}
+{% assign featured_es = visible_news_es | where_exp: "item", "item.featured == true" | first %}
 {% if featured_es %}
 <div class="poll-callout">
   <h3>
@@ -24,7 +25,7 @@ last_modified_at: 2026-02-28
 
 <h2>Cursos y Módulos</h2>
 
-{% assign cursos = site.data.news_es | where: "category", "cursos" | where_exp: "item", "item.featured != true" %}
+{% assign cursos = visible_news_es | where: "category", "cursos" | where_exp: "item", "item.featured != true" %}
 {% if cursos.size > 0 %}
 <ul class="news-stacked">
   {% for item in cursos %}
@@ -48,7 +49,7 @@ last_modified_at: 2026-02-28
 
 <h2>Guías de Investigación</h2>
 
-{% assign guias = site.data.news_es | where: "category", "guias" | where_exp: "item", "item.featured != true" %}
+{% assign guias = visible_news_es | where: "category", "guias" | where_exp: "item", "item.featured != true" %}
 {% if guias.size > 0 %}
 <ul class="news-stacked">
   {% for item in guias %}
@@ -70,7 +71,7 @@ last_modified_at: 2026-02-28
 <p>No hay actualizaciones recientes de guías. <a href="{{ '/es/guias-investigacion/' | relative_url }}">Ver todas las guías.</a></p>
 {% endif %}
 
-{% assign todas_funciones = site.data.news_es | where: "category", "funciones" %}
+{% assign todas_funciones = visible_news_es | where: "category", "funciones" %}
 {% assign muni_funciones = todas_funciones | where_exp: "item", "item.link contains 'municipio'" %}
 {% if todas_funciones.size > 0 %}
 <h2>Funciones del Sitio</h2>

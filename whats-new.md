@@ -8,7 +8,8 @@ ref: whats-new
 last_modified_at: 2026-02-28
 ---
 
-{% assign featured = site.data.news | where_exp: "item", "item.featured == true" | first %}
+{% assign visible_news = visible_news | where_exp: "item", "item.hidden != true" %}
+{% assign featured = visible_news | where_exp: "item", "item.featured == true" | first %}
 {% if featured %}
 <div class="poll-callout">
   <h3>
@@ -24,7 +25,7 @@ last_modified_at: 2026-02-28
 
 <h2>Courses &amp; Modules</h2>
 
-{% assign courses = site.data.news | where: "category", "courses" | where_exp: "item", "item.featured != true" %}
+{% assign courses = visible_news | where: "category", "courses" | where_exp: "item", "item.featured != true" %}
 {% if courses.size > 0 %}
 <ul class="news-stacked">
   {% for item in courses %}
@@ -48,7 +49,7 @@ last_modified_at: 2026-02-28
 
 <h2>Research Guides</h2>
 
-{% assign guides = site.data.news | where: "category", "guides" | where_exp: "item", "item.featured != true" %}
+{% assign guides = visible_news | where: "category", "guides" | where_exp: "item", "item.featured != true" %}
 {% if guides.size > 0 %}
 <ul class="news-stacked">
   {% for item in guides %}
@@ -70,7 +71,7 @@ last_modified_at: 2026-02-28
 <p>No recent guide updates. <a href="{{ '/research-guides/' | relative_url }}">Browse all guides.</a></p>
 {% endif %}
 
-{% assign all_features = site.data.news | where: "category", "features" %}
+{% assign all_features = visible_news | where: "category", "features" %}
 {% assign muni_features = all_features | where_exp: "item", "item.link contains 'municipality-guide'" %}
 {% if all_features.size > 0 %}
 <h2>Site Features</h2>
