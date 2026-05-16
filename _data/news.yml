@@ -10,9 +10,58 @@
 #
 # Maintenance: add new entries at the top. Move old featured to non-featured.
 # To archive: move entries older than ~12 months to _data/news_archive_YYYY.yml
-- date: 2026-05-14
+- date: 2026-05-15
   category: features
   featured: true
+  title: "New: Arroyo Municipality Detail Page"
+  body: "The Arroyo detail page is now live — covering the town's 1855 founding from Guayama, its 4 barrios, parish records from Nuestra Señora del Carmen beginning 1855, civil registration from 1885, coat of arms symbolism, and a full genealogy research toolkit with FamilySearch parish catalog and civil registration links."
+  link: /tools/municipality-guide/arroyo/
+
+- date: 2026-05-15
+  category: features
+  featured: false
+  title: "New: Vieques Municipality Detail Page"
+  body: "The Vieques detail page is now live — covering the island municipality's 1852 founding from Humacao, its 6 barrios, parish records from Inmaculada Concepción beginning 1844, civil registration from 1885, coat of arms symbolism, and a full genealogy research toolkit including the FamilySearch parish catalog and cemetery index."
+  link: /tools/municipality-guide/vieques/
+
+- date: 2026-05-15
+  category: features
+  featured: false
+  title: "New: Salinas Municipality Detail Page"
+  body: "The Salinas detail page is now live — covering the town's 1820 founding from Coamo, its 6 barrios, parish records from Nuestra Señora de la Monserrate beginning 1854, civil registration from 1885, and a full genealogy research toolkit with FamilySearch parish catalog and Hijos de Coamo indexes."
+  link: /tools/municipality-guide/salinas/
+
+- date: 2026-05-15
+  category: features
+  featured: false
+  title: "New: Santa Isabel Municipality Detail Page"
+  body: "The Santa Isabel detail page is now live — covering the town's 1842 founding from Coamo, its 8 barrios, parish records from Santiago Apóstol beginning 1852, civil registration from 1885, coat of arms symbolism, and a full genealogy research toolkit with FamilySearch parish catalog, Genealogía Nuestra, and Hijos de Coamo indexes."
+  link: /tools/municipality-guide/santa-isabel/
+
+- date: 2026-05-15
+  category: features
+  featured: false
+  title: "New: Dorado Municipality Detail Page"
+  body: "The Dorado detail page is now live — covering the town's 1842 founding from Toa Baja, its 6 barrios, parish records from San Antonio de Padua beginning 1865, civil registration from 1885, and a full genealogy research toolkit including the FamilySearch parish catalog and Find a Grave cemetery links."
+  link: /tools/municipality-guide/dorado/
+
+- date: 2026-05-15
+  category: features
+  featured: false
+  title: "New: Comerío Municipality Detail Page"
+  body: "The Comerío detail page is now live — covering the town's 1826 founding as Sabana del Palmar, its 9 barrios, parish records from Santo Cristo de la Salud beginning 1832, civil registration from 1885, and a full genealogy research toolkit including the FamilySearch parish catalog and Find a Grave cemetery links."
+  link: /tools/municipality-guide/comerio/
+
+- date: 2026-05-15
+  category: features
+  featured: false
+  title: "New: Río Grande Municipality Detail Page"
+  body: "The Río Grande detail page is now live — covering the town's 1840 founding from Loíza, its 11 barrios, parish records from Nuestra Señora del Carmen beginning 1840, civil registration from 1885, and a full genealogy research toolkit with links to FamilySearch records."
+  link: /tools/municipality-guide/rio-grande/
+
+- date: 2026-05-14
+  category: features
+  featured: false
   title: "Updated: Join the Community Page — Newsletter Focus"
   body: "The Join the Community page now focuses on the newsletter. The Ancestor Registry callout has been removed while the registry is in development; subscribers will be the first to know when it launches to connect researchers by town and surname."
   link: /contact/

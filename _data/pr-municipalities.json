@@ -801,15 +801,35 @@
     "id": "arroyo",
     "name": "Arroyo",
     "founded": 1855,
-    "region": "South",
+    "region": "Southeast",
     "mother_town": [
       "Guayama"
     ],
+    "is_mother_municipality": false,
+    "has_detail_page": true,
     "parish": {
       "name": "Nuestra Señora del Carmen",
       "records_start": 1855
     },
     "civil_registry_start": 1885,
+    "barrios": [
+      "Arroyo barrio-pueblo",
+      "Palmas",
+      "Pitahaya",
+      "Yaurel"
+    ],
+    "neighbors": [
+      "Guayama",
+      "Patillas"
+    ],
+    "familysearch_url": "",
+    "escudo": {
+      "image": "",
+      "alt": "Coat of arms of Arroyo, Puerto Rico",
+      "description": "Depicts an anchor representing the port and maritime commerce, sugar cane imagery symbolizing the historical sugar industry, water elements reflecting the coastal location and harbor, and a crown representing Spanish colonial heritage.",
+      "license": "",
+      "attribution_url": ""
+    },
     "historical_maps": [
       {
         "municipality": "Arroyo",
@@ -818,6 +838,41 @@
         "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
         "image": "assets/images/municipalities/maps/arroyo-2026.png",
         "url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ],
+    "online_resources": [
+      {
+        "title": "Registros parroquiales de Arroyo, 1855–presente",
+        "url": "https://www.familysearch.org/en/search/catalog/koha:666754",
+        "type": "Digitized Records",
+        "description": "Direct FamilySearch catalog entry for Arroyo parish registers (Nuestra Señora del Carmen); browse-available image set covering baptisms, marriages, and burials."
+      },
+      {
+        "title": "Puerto Rico, Catholic Church Records, 1645–1969",
+        "url": "https://www.familysearch.org/en/search/collection/1807092",
+        "type": "Digitized Records",
+        "description": "Islandwide Catholic church-record collection including baptisms, marriages, burials, and confirmations. Includes Arroyo parish records."
+      },
+      {
+        "title": "Puerto Rico Civil Registration, 1885–2001",
+        "url": "https://www.familysearch.org/en/search/collection/1682798",
+        "type": "Digitized Records",
+        "description": "Civil registration births, marriages, and deaths for all Puerto Rico municipalities including Arroyo, beginning 1885."
+      },
+      {
+        "title": "Cementerio Municipal de Arroyo — Find a Grave",
+        "url": "https://www.findagrave.com/cemetery/search?location=Arroyo%2C%20Puerto%20Rico",
+        "type": "Cemetery Index",
+        "description": "Index for the main municipal cemetery of Arroyo. Useful for verifying death dates and burial information."
+      }
+    ],
+    "genealogy_sources": [
+      {
+        "title": "U.S. Census Bureau: Arroyo Municipio Profile",
+        "author": "U.S. Census Bureau",
+        "url": "https://data.census.gov/profile/Arroyo_Municipio,_Puerto_Rico?g=050XX00US72013",
+        "type": "Census Data",
+        "description": "Authoritative 2020 Census profile for Arroyo, including official barrio list, population data, and geographic boundary information."
       }
     ]
   },
@@ -2537,14 +2592,43 @@
     "founded": 1826,
     "region": "Central",
     "mother_town": [
-      "Bayamon",
+      "Bayamón",
+      "Cidra",
       "Barranquitas"
     ],
+    "is_mother_municipality": false,
+    "has_detail_page": true,
     "parish": {
       "name": "Santo Cristo de la Salud",
-      "records_start": 1826
+      "records_start": 1832
     },
     "civil_registry_start": 1885,
+    "barrios": [
+      "Cedrito",
+      "Cejas",
+      "Comerío Pueblo",
+      "Doña Elena",
+      "Naranjo",
+      "Palomas",
+      "Piñas",
+      "Río Hondo",
+      "Vega Redonda"
+    ],
+    "neighbors": [
+      "Aguas Buenas",
+      "Caguas",
+      "Cayey",
+      "Barranquitas",
+      "Naranjito"
+    ],
+    "familysearch_url": "https://www.familysearch.org/en/wiki/Comer%C3%ADo,_Puerto_Rico_Genealogy",
+    "escudo": {
+      "image": "",
+      "alt": "Coat of arms of Comerío, Puerto Rico",
+      "description": "The cross at the center represents Santo Cristo de la Salud, the town's patron devotion. Wave lines and landscape motifs evoke the misty mountain setting of Comerío. A tobacco plant references the town's agricultural heritage as a former tobacco-growing center. The crown incorporates a Taíno reference honoring the indigenous chief Comerío, for whom the municipality was renamed.",
+      "license": "",
+      "attribution_url": ""
+    },
     "historical_maps": [
       {
         "municipality": "Comerío",
@@ -2552,7 +2636,62 @@
         "caption": "Comerío",
         "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
         "image": "assets/images/municipalities/maps/comerío-2026.png",
-        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+        "url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ],
+    "online_resources": [
+      {
+        "title": "Registros parroquiales de Comerío, 1833–1940",
+        "url": "https://www.familysearch.org/search/catalog/214829?availability=Online",
+        "type": "Digitized Records",
+        "description": "Direct FamilySearch catalog entry for Comerío parish registers (Santo Cristo de la Salud); browse-available image set covering baptisms, marriages, and burials from 1833 to 1940."
+      },
+      {
+        "title": "Puerto Rico, Catholic Church Records, 1645–2021",
+        "url": "https://www.familysearch.org/en/search/collection/1807092",
+        "type": "Digitized Records",
+        "description": "Islandwide Catholic church-record collection including baptisms, marriages, burials, and confirmations. Includes Comerío parish records from Santo Cristo de la Salud beginning 1832."
+      },
+      {
+        "title": "Puerto Rico Civil Registration, 1885–2001",
+        "url": "https://www.familysearch.org/en/search/collection/1682798",
+        "type": "Digitized Records",
+        "description": "Civil registration births, marriages, and deaths for all Puerto Rico municipalities including Comerío, beginning 1885."
+      },
+      {
+        "title": "Cementerio Histórico de Comerío — Find a Grave",
+        "url": "https://www.findagrave.com/cemetery/2662123/cementerio-hist%C3%B3rico-de-comer%C3%ADo",
+        "type": "Cemetery Index",
+        "description": "Find a Grave page for the main historic cemetery in Comerío. Useful for burial transcriptions and memorial photographs."
+      },
+      {
+        "title": "Cementerio Municipal de Comerío — Find a Grave",
+        "url": "https://www.findagrave.com/cemetery/2264961/cementerio-municipal-de-comerio",
+        "type": "Cemetery Index",
+        "description": "Find a Grave page for the municipal cemetery in Comerío. Cross-reference with parish burial registers and civil death records."
+      }
+    ],
+    "genealogy_sources": [
+      {
+        "title": "U.S. Census Bureau: Comerío Municipio Profile",
+        "author": "U.S. Census Bureau",
+        "url": "https://data.census.gov/profile/Comerio_Municipio,_Puerto_Rico?g=050XX00US72045",
+        "type": "Census Data",
+        "description": "Authoritative 2020 Census profile for Comerío, including official barrio list, population data, and geographic boundary information."
+      },
+      {
+        "title": "Comerío, Puerto Rico Genealogy",
+        "author": "FamilySearch Wiki contributors",
+        "url": "https://www.familysearch.org/en/wiki/Comer%C3%ADo,_Puerto_Rico_Genealogy",
+        "type": "Research Guide",
+        "description": "FamilySearch research guide for Comerío with historical background, record availability, and genealogy pointers."
+      },
+      {
+        "title": "Comerio Church Records 1832–1940",
+        "author": "GenealogiaNuestra",
+        "url": "https://genealogianuestra.com/comerio-church-records-1832-1940/",
+        "type": "Research Guide",
+        "description": "Guide to Comerío church records with 1832 start date and book-by-book coverage notes for baptisms, marriages, and burials."
       }
     ]
   },
@@ -2697,11 +2836,34 @@
     "mother_town": [
       "Toa Baja"
     ],
+    "is_mother_municipality": false,
+    "has_detail_page": true,
     "parish": {
       "name": "San Antonio de Padua",
-      "records_start": 1842
+      "records_start": 1865
     },
     "civil_registry_start": 1885,
+    "barrios": [
+      "Dorado Pueblo",
+      "Espinosa",
+      "Higuillar",
+      "Maguayo",
+      "Mameyal",
+      "Río Lajas"
+    ],
+    "neighbors": [
+      "Toa Baja",
+      "Vega Alta",
+      "Corozal"
+    ],
+    "familysearch_url": "https://www.familysearch.org/en/wiki/Dorado,_Puerto_Rico_Genealogy",
+    "escudo": {
+      "image": "",
+      "alt": "Coat of arms of Dorado, Puerto Rico",
+      "description": "The escudo features gold and brown bands: the gold stripes reference the town name Dorado (meaning golden) and the sandy coastal landscape, while the brown field honors San Antonio de Padua, the town's patron saint. The Tau cross and lily motifs connect to Saint Anthony's iconography. A three-tower crown designates Dorado as a properly constituted municipality. The shield also alludes to the Río La Plata, the Silver River that borders the municipality.",
+      "license": "",
+      "attribution_url": ""
+    },
     "historical_maps": [
       {
         "municipality": "Dorado",
@@ -2709,7 +2871,63 @@
         "caption": "Dorado",
         "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
         "image": "assets/images/municipalities/maps/dorado-2026.png",
-        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+        "url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ],
+    "online_resources": [
+      {
+        "title": "Registros parroquiales de Dorado, 1865–1964",
+        "url": "https://www.familysearch.org/en/search/catalog/1159379",
+        "type": "Digitized Records",
+        "description": "Direct FamilySearch catalog entry for Dorado parish registers (San Antonio de Padua); browse-available image set covering baptisms and marriages from 1865 to 1964. Note: burial records are not included in this digitized set."
+      },
+      {
+        "title": "Puerto Rico, Catholic Church Records, 1645–2021",
+        "url": "https://www.familysearch.org/en/search/collection/1807092",
+        "type": "Digitized Records",
+        "description": "Islandwide Catholic church-record collection including baptisms, marriages, burials, and confirmations. Includes Dorado parish records from San Antonio de Padua beginning 1865."
+      },
+      {
+        "title": "Puerto Rico Civil Registration, 1885–2001",
+        "url": "https://www.familysearch.org/en/search/collection/1682798",
+        "type": "Digitized Records",
+        "description": "Civil registration births, marriages, and deaths for all Puerto Rico municipalities including Dorado, beginning 1885."
+      },
+      {
+        "title": "Santuario Cristo de la Reconciliación — Find a Grave",
+        "url": "https://www.findagrave.com/cemetery/2575466/santuario-cristo-de-la-reconciliaci%C3%B3n",
+        "type": "Cemetery Index",
+        "description": "Find a Grave page for the main cemetery associated with Dorado. Useful for burial transcriptions and memorial photographs. Because burial parish books were not digitized, this is a key alternative source for death research."
+      }
+    ],
+    "genealogy_sources": [
+      {
+        "title": "U.S. Census Bureau: Dorado Municipio Profile",
+        "author": "U.S. Census Bureau",
+        "url": "https://data.census.gov/profile/Dorado_Municipio,_Puerto_Rico?g=050XX00US72051",
+        "type": "Census Data",
+        "description": "Authoritative 2020 Census profile for Dorado, including official barrio list, population data, and geographic boundary information."
+      },
+      {
+        "title": "Dorado, Puerto Rico Genealogy",
+        "author": "FamilySearch Wiki contributors",
+        "url": "https://www.familysearch.org/en/wiki/Dorado,_Puerto_Rico_Genealogy",
+        "type": "Research Guide",
+        "description": "FamilySearch research guide for Dorado with historical background, record availability, and genealogy pointers."
+      },
+      {
+        "title": "Dorado, Puerto Rico Online Church Books",
+        "author": "Hijos de Coamo",
+        "url": "https://hijosdecoamopr.com/dorado-puerto-rico-online-church-books/",
+        "type": "Research Guide",
+        "description": "Book-level guide to Dorado parish records listing baptism and marriage coverage from 1865, with notes on which series are online and what is missing."
+      },
+      {
+        "title": "Municipio de Dorado — EnciclopediaPR",
+        "author": "EnciclopediaPR contributors",
+        "url": "https://enciclopediapr.org/content/municipio-de-dorado/",
+        "type": "Encyclopedia Entry",
+        "description": "Municipal overview with founding context, barrio list, and historical development notes for Dorado, Puerto Rico."
       }
     ]
   },
@@ -5774,19 +5992,93 @@
     "mother_town": [
       "Loíza"
     ],
+    "is_mother_municipality": false,
+    "has_detail_page": true,
     "parish": {
       "name": "Nuestra Señora del Carmen",
       "records_start": 1840
     },
     "civil_registry_start": 1885,
+    "barrios": [
+      "Ciénaga Alta",
+      "Ciénaga Baja",
+      "Florida",
+      "Guzmán Abajo",
+      "Guzmán Arriba",
+      "Herrera",
+      "Jiménez",
+      "Mamey",
+      "Río Blanco",
+      "Río Grande Pueblo",
+      "Zarzal"
+    ],
+    "neighbors": [
+      "Canóvanas",
+      "Ceiba",
+      "Las Piedras",
+      "Loíza",
+      "Luquillo",
+      "Naguabo"
+    ],
+    "familysearch_url": "https://www.familysearch.org/en/wiki/Rio_Grande,_Puerto_Rico_Genealogy",
+    "escudo": {
+      "image": "",
+      "alt": "Coat of arms of Río Grande, Puerto Rico",
+      "description": "The escudo of Río Grande displays a silver field with two Puerto Rican parrots (Amazona vittata) flanking a three-peaked green mountain representing El Yunque. A waving blue stripe symbolizes the Espíritu Santo River. The upper blue section features an open silver book flanked by five gold coins on each side, commemorating the Pimentel and Castro School, the first institution funded jointly by the municipality and the insular government. The shield is topped with a standard three-tower gold crown.",
+      "license": "",
+      "attribution_url": ""
+    },
     "historical_maps": [
       {
-        "municipality": "Río-grande",
+        "municipality": "Río Grande",
         "year": 2026,
-        "caption": "Río-grande",
+        "caption": "Río Grande",
         "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
         "image": "assets/images/municipalities/maps/río-grande-2026.png",
-        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+        "url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ],
+    "online_resources": [
+      {
+        "title": "Puerto Rico, Catholic Church Records, 1645–2021",
+        "url": "https://www.familysearch.org/en/search/collection/1807092",
+        "type": "Digitized Records",
+        "description": "Islandwide Catholic church-record collection including baptisms, marriages, burials, and confirmations. Includes Río Grande parish records from the parish of Nuestra Señora del Carmen beginning 1840."
+      },
+      {
+        "title": "Puerto Rico Civil Registration, 1885–2001",
+        "url": "https://www.familysearch.org/en/search/collection/1682798",
+        "type": "Digitized Records",
+        "description": "Civil registration births, marriages, and deaths for all Puerto Rico municipalities including Río Grande, beginning 1885."
+      },
+      {
+        "title": "Cemeteries in Río Grande, Puerto Rico — Find a Grave",
+        "url": "https://www.findagrave.com/cemetery-browse/USA/Puerto-Rico/Rio-Grande-Municipality/R%C3%ADo-Grande?id=city_125407",
+        "type": "Cemetery Index",
+        "description": "Find a Grave browse listing for Río Grande cemeteries. Useful for burial transcriptions, grave photographs, and cross-referencing death dates with parish and civil records."
+      }
+    ],
+    "genealogy_sources": [
+      {
+        "title": "U.S. Census Bureau: Río Grande Municipio Profile",
+        "author": "U.S. Census Bureau",
+        "url": "https://data.census.gov/profile/Rio_Grande_Municipio,_Puerto_Rico?g=050XX00US72119",
+        "type": "Census Data",
+        "description": "Authoritative 2020 Census profile for Río Grande, including official barrio list, population data, and geographic boundary information."
+      },
+      {
+        "title": "Río Grande, Puerto Rico Genealogy",
+        "author": "FamilySearch Wiki contributors",
+        "url": "https://www.familysearch.org/en/wiki/Rio_Grande,_Puerto_Rico_Genealogy",
+        "type": "Research Guide",
+        "description": "FamilySearch research guide for Río Grande with historical background, record availability, and genealogy pointers."
+      },
+      {
+        "title": "Municipio de Río Grande — EnciclopediaPR",
+        "author": "EnciclopediaPR contributors",
+        "url": "https://enciclopediapr.org/content/municipio-de-rio-grande/",
+        "type": "Encyclopedia Entry",
+        "description": "Municipal overview with founding context, geography, and historical notes for Río Grande, Puerto Rico."
       }
     ]
   },
@@ -5887,16 +6179,41 @@
   {
     "id": "salinas",
     "name": "Salinas",
-    "founded": 1851,
+    "founded": 1820,
     "region": "South",
     "mother_town": [
       "Coamo"
     ],
+    "is_mother_municipality": false,
+    "has_detail_page": true,
     "parish": {
       "name": "Nuestra Señora de la Monserrate",
-      "records_start": 1851
+      "records_start": 1854
     },
     "civil_registry_start": 1885,
+    "barrios": [
+      "Aguirre",
+      "Lapa",
+      "Palmas",
+      "Quebrada Yeguas",
+      "Río Jueyes",
+      "Salinas Pueblo"
+    ],
+    "neighbors": [
+      "Aibonito",
+      "Cayey",
+      "Coamo",
+      "Guayama",
+      "Santa Isabel"
+    ],
+    "familysearch_url": "https://www.familysearch.org/en/wiki/Salinas,_Puerto_Rico_Genealogy",
+    "escudo": {
+      "image": "",
+      "alt": "Coat of arms of Salinas, Puerto Rico",
+      "description": "The escudo of Salinas reflects the municipality's name and coastal economy. The shield symbolizes the town's historical salt extraction and fishing industries, which give the municipality its name (salinas means salt flats). The design emphasizes the coast, the salt flats, and the working economy that shaped local families for generations.",
+      "license": "",
+      "attribution_url": ""
+    },
     "historical_maps": [
       {
         "municipality": "Salinas",
@@ -5905,6 +6222,61 @@
         "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
         "image": "assets/images/municipalities/maps/salinas-2026.png",
         "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ],
+    "online_resources": [
+      {
+        "title": "Registros parroquiales de Salinas, 1854–1942",
+        "url": "https://www.familysearch.org/en/search/catalog/282637",
+        "type": "Digitized Records",
+        "description": "Direct FamilySearch catalog entry for Salinas parish registers (Nuestra Señora de la Monserrate); browse-available image set covering baptisms, marriages, and burials beginning 1854."
+      },
+      {
+        "title": "Puerto Rico, Catholic Church Records, 1645–2021",
+        "url": "https://www.familysearch.org/en/search/collection/1807092",
+        "type": "Digitized Records",
+        "description": "Islandwide Catholic church-record collection including baptisms, marriages, burials, and confirmations. Includes Salinas parish records from Nuestra Señora de la Monserrate beginning 1854."
+      },
+      {
+        "title": "Puerto Rico Civil Registration, 1885–2001",
+        "url": "https://www.familysearch.org/en/search/collection/1682798",
+        "type": "Digitized Records",
+        "description": "Civil registration births, marriages, and deaths for all Puerto Rico municipalities including Salinas, beginning 1885."
+      },
+      {
+        "title": "Cementerio Municipal de Salinas — Find a Grave",
+        "url": "https://www.findagrave.com/cemetery/1969242/cementerio-municipal-de-salinas",
+        "type": "Cemetery Index",
+        "description": "Main municipal cemetery page for Salinas on Find a Grave. Useful for verifying death dates and burial information."
+      },
+      {
+        "title": "Salinas, Puerto Rico Church Indexes — Hijos de Coamo",
+        "url": "https://hijosdecoamopr.com/indexes-for-church-records-for-puerto-rico/parroquia-nuestra-senora-de-la-monserrate-salinas-puerto-rico/",
+        "type": "Digitized Records",
+        "description": "Parish index guide for Nuestra Señora de la Monserrate, Salinas; provides book numbers and image ranges for FamilySearch Catholic records."
+      }
+    ],
+    "genealogy_sources": [
+      {
+        "title": "U.S. Census Bureau: Salinas Municipio Profile",
+        "author": "U.S. Census Bureau",
+        "url": "https://data.census.gov/profile/Salinas_Municipio,_Puerto_Rico?g=050XX00US72129",
+        "type": "Census Data",
+        "description": "Authoritative 2020 Census profile for Salinas, including official barrio list, population data, and geographic boundary information."
+      },
+      {
+        "title": "Salinas, Puerto Rico Genealogy",
+        "author": "FamilySearch Wiki contributors",
+        "url": "https://www.familysearch.org/en/wiki/Salinas,_Puerto_Rico_Genealogy",
+        "type": "Research Guide",
+        "description": "FamilySearch research guide for Salinas with historical background, record availability, and genealogy pointers."
+      },
+      {
+        "title": "Municipio de Salinas — EnciclopediaPR",
+        "author": "EnciclopediaPR contributors",
+        "url": "https://enciclopediapr.org/content/municipio-de-salinas/",
+        "type": "Encyclopedia Entry",
+        "description": "Municipal overview with founding context, geography, and historical notes for Salinas, Puerto Rico."
       }
     ]
   },
@@ -7728,19 +8100,105 @@
     "mother_town": [
       "Coamo"
     ],
+    "is_mother_municipality": false,
+    "has_detail_page": true,
     "parish": {
       "name": "Santiago Apóstol",
-      "records_start": 1842
+      "records_start": 1852
     },
     "civil_registry_start": 1885,
+    "barrios": [
+      "Boca Velázquez",
+      "Descalabrado",
+      "Felicia",
+      "Jauca",
+      "Playa",
+      "Puerto",
+      "Santa Isabel Pueblo",
+      "Vecino"
+    ],
+    "neighbors": [
+      "Coamo",
+      "Juana Díaz",
+      "Salinas"
+    ],
+    "familysearch_url": "https://www.familysearch.org/en/wiki/Santa_Isabel,_Puerto_Rico_Genealogy",
+    "escudo": {
+      "image": "",
+      "alt": "Coat of arms of Santa Isabel, Puerto Rico",
+      "description": "The escudo of Santa Isabel centers on the letter I for Isabel, topped by a medieval royal crown, with red and silver colors honoring Saint Elizabeth of Hungary (Santa Isabel), the town's patronal namesake. A scallop shell symbolizes Santiago Apóstol (Saint James the Apostle), the parish patron and the Camino de Santiago pilgrimage tradition. The design unites the municipality's name, its parish patron, and its coastal heritage.",
+      "license": "",
+      "attribution_url": ""
+    },
     "historical_maps": [
       {
-        "municipality": "Santa-isabel",
+        "municipality": "Santa Isabel",
         "year": 2026,
-        "caption": "Santa-isabel",
+        "caption": "Santa Isabel",
         "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
         "image": "assets/images/municipalities/maps/santa-isabel-2026.png",
         "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ],
+    "online_resources": [
+      {
+        "title": "Registros parroquiales de Santa Isabel, 1852–1959",
+        "url": "https://www.familysearch.org/en/search/catalog/1159379",
+        "type": "Digitized Records",
+        "description": "Direct FamilySearch catalog entry for Santa Isabel parish registers (Santiago Apóstol); browse-available image set covering baptisms, marriages, and burials beginning 1852."
+      },
+      {
+        "title": "Puerto Rico, Catholic Church Records, 1645–2021",
+        "url": "https://www.familysearch.org/en/search/collection/1807092",
+        "type": "Digitized Records",
+        "description": "Islandwide Catholic church-record collection including baptisms, marriages, burials, and confirmations. Includes Santa Isabel parish records from Santiago Apóstol beginning 1852."
+      },
+      {
+        "title": "Puerto Rico Civil Registration, 1885–2001",
+        "url": "https://www.familysearch.org/en/search/collection/1682798",
+        "type": "Digitized Records",
+        "description": "Civil registration births, marriages, and deaths for all Puerto Rico municipalities including Santa Isabel, beginning 1885."
+      },
+      {
+        "title": "Cementerio Municipal de Santa Isabel — Find a Grave",
+        "url": "https://www.findagrave.com/cemetery/1969321/cementerio-municipal",
+        "type": "Cemetery Index",
+        "description": "Main municipal cemetery page for Santa Isabel on Find a Grave. Useful for verifying death dates and burial information."
+      },
+      {
+        "title": "Digitized Church Records for Santa Isabel — Genealogía Nuestra",
+        "url": "https://genealogianuestra.com/digitized-church-records-for-santa-isabel-in-puerto-rico/",
+        "type": "Digitized Records",
+        "description": "Detailed secondary index with baptism, marriage, confirmation, and death book ranges for Santa Isabel. Useful for locating exact book numbers and image references in FamilySearch."
+      },
+      {
+        "title": "Santa Isabel, Puerto Rico Church Indexes — Hijos de Coamo",
+        "url": "https://hijosdecoamopr.com/parroquia-santiago-apostol-santa-isabel-puerto-rico/",
+        "type": "Digitized Records",
+        "description": "Parish index guide for Santiago Apóstol, Santa Isabel; provides book numbers and image ranges for FamilySearch Catholic records."
+      }
+    ],
+    "genealogy_sources": [
+      {
+        "title": "U.S. Census Bureau: Santa Isabel Municipio Profile",
+        "author": "U.S. Census Bureau",
+        "url": "https://data.census.gov/profile/Santa_Isabel_Municipio,_Puerto_Rico?g=050XX00US72133",
+        "type": "Census Data",
+        "description": "Authoritative 2020 Census profile for Santa Isabel, including official barrio list, population data, and geographic boundary information."
+      },
+      {
+        "title": "Santa Isabel, Puerto Rico Genealogy",
+        "author": "FamilySearch Wiki contributors",
+        "url": "https://www.familysearch.org/en/wiki/Santa_Isabel,_Puerto_Rico_Genealogy",
+        "type": "Research Guide",
+        "description": "FamilySearch research guide for Santa Isabel with historical background, record availability, and genealogy pointers."
+      },
+      {
+        "title": "Municipio de Santa Isabel — EnciclopediaPR",
+        "author": "EnciclopediaPR contributors",
+        "url": "https://enciclopediapr.org/content/municipio-de-santa-isabel/",
+        "type": "Encyclopedia Entry",
+        "description": "Municipal overview with founding context, geography, and historical notes for Santa Isabel, Puerto Rico."
       }
     ]
   },
@@ -8351,11 +8809,33 @@
     "mother_town": [
       "Humacao"
     ],
+    "is_mother_municipality": false,
+    "has_detail_page": true,
     "parish": {
       "name": "Inmaculada Concepción",
       "records_start": 1844
     },
     "civil_registry_start": 1885,
+    "barrios": [
+      "Florida",
+      "Isabel II",
+      "Llave",
+      "Mosquito",
+      "Pilón",
+      "Punta Arenas"
+    ],
+    "neighbors": [
+      "Fajardo",
+      "Culebra"
+    ],
+    "familysearch_url": "https://www.familysearch.org/en/wiki/Vieques,_Puerto_Rico_Genealogy",
+    "escudo": {
+      "image": "",
+      "alt": "Coat of arms of Vieques, Puerto Rico",
+      "description": "The coat of arms features blue and white horizontal waves symbolizing the sea surrounding the island. A green rhombus at the center contains a gold castle, representing the island landmass and the historic Fortín Conde de Mirasol. A naval crown surmounts the shield, emphasizing Vieques's maritime identity and its history as a Spanish naval station. The overall design reflects the island's geographic isolation, colonial military heritage, and dependence on the sea.",
+      "license": "",
+      "attribution_url": ""
+    },
     "historical_maps": [
       {
         "municipality": "Vieques",
@@ -8364,6 +8844,61 @@
         "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
         "image": "assets/images/municipalities/maps/vieques-2026.png",
         "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ],
+    "online_resources": [
+      {
+        "title": "Registros parroquiales de Vieques, 1844–1922",
+        "url": "https://www.familysearch.org/en/search/catalog/566856",
+        "type": "Digitized Records",
+        "description": "Direct FamilySearch catalog entry for Vieques parish registers (Inmaculada Concepción); browse-available image set covering baptisms, marriages, and burials beginning 1844."
+      },
+      {
+        "title": "Puerto Rico, Catholic Church Records, 1645–2021",
+        "url": "https://www.familysearch.org/en/search/collection/1807092",
+        "type": "Digitized Records",
+        "description": "Islandwide Catholic church-record collection including baptisms, marriages, burials, and confirmations. Includes Vieques parish records from 1844."
+      },
+      {
+        "title": "Puerto Rico Civil Registration, 1885–2001",
+        "url": "https://www.familysearch.org/en/search/collection/1682798",
+        "type": "Digitized Records",
+        "description": "Civil registration births, marriages, and deaths for all Puerto Rico municipalities including Vieques, beginning 1885."
+      },
+      {
+        "title": "Vieques, Puerto Rico Online Church Records 1844 to 1922",
+        "url": "https://hijosdecoamopr.com/vieques-puerto-rico-online-church-records/",
+        "type": "Church Records",
+        "description": "Secondary index with baptism, marriage, confirmation, and burial coverage for Vieques parish records beginning 1844."
+      },
+      {
+        "title": "Cementerio Antiguo de Vieques — Find a Grave",
+        "url": "https://www.findagrave.com/cemetery/2135726/antiguo-cementerio",
+        "type": "Cemetery Index",
+        "description": "Find a Grave index for the Antiguo Cementerio in Vieques. Useful for verifying death dates and burial information."
+      }
+    ],
+    "genealogy_sources": [
+      {
+        "title": "U.S. Census Bureau: Vieques Municipio Profile",
+        "author": "U.S. Census Bureau",
+        "url": "https://data.census.gov",
+        "type": "Census Data",
+        "description": "Authoritative 2020 Census profile for Vieques, including official barrio list, population data, and geographic boundary information. (Search Vieques Municipio, Puerto Rico at data.census.gov; FIPS code needs verification.)"
+      },
+      {
+        "title": "Vieques, Puerto Rico Genealogy",
+        "author": "FamilySearch Wiki contributors",
+        "url": "https://www.familysearch.org/en/wiki/Vieques,_Puerto_Rico_Genealogy",
+        "type": "Research Guide",
+        "description": "FamilySearch research guide for Vieques with historical background, civil registration guidance, parish record links, and genealogy pointers."
+      },
+      {
+        "title": "Cronología Histórica de Vieques",
+        "author": "University of Florida Digital Collections",
+        "url": "https://ufdcimages.uflib.ufl.edu/AA/00/06/24/96/00001/AA00062496.pdf",
+        "type": "Local History",
+        "description": "Historical PDF covering Vieques history from the Spanish colonial period through later developments; useful for context on the island's administration and demography."
       }
     ]
   },

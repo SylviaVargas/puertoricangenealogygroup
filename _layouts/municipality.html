@@ -186,6 +186,22 @@ layout: default
 
       <section id="toolkit" class="muni-section">
         <h2>{% if page.lang == 'es' %}Recursos de Genealogía{% else %}Genealogy Toolkit{% endif %}</h2>
+        <div class="fs-login-notice">
+          {% if page.lang == 'es' %}
+            <strong>Se requiere cuenta de FamilySearch.</strong> Los enlaces de registros a continuación abren imágenes digitalizadas en FamilySearch. Debe iniciar sesión con una cuenta gratuita de FamilySearch para ver los registros.
+            <a href="https://www.familysearch.org/en/register/" target="_blank" rel="noopener noreferrer">Cree una cuenta gratuita</a>
+            o
+            <a href="https://www.familysearch.org/auth/familysearch/login" target="_blank" rel="noopener noreferrer">inicie sesión</a>
+            antes de hacer clic en cualquier enlace.
+          {% else %}
+            <strong>FamilySearch account required.</strong> The record links below open digitized images on FamilySearch. You must be logged in to a free FamilySearch account to view the records.
+            <a href="https://www.familysearch.org/en/register/" target="_blank" rel="noopener noreferrer">Create a free account</a>
+            or
+            <a href="https://www.familysearch.org/auth/familysearch/login" target="_blank" rel="noopener noreferrer">sign in</a>
+            before clicking any link.
+          {% endif %}
+        </div>
+
         <div class="muni-toolkit-grid">
           <div class="muni-toolkit-card">
             <h3>{% if page.lang == 'es' %}Registro Civil{% else %}Civil Records{% endif %}</h3>
@@ -199,22 +215,6 @@ layout: default
             <p>{% if page.lang == 'es' %}Registros desde{% else %}Records from{% endif %} <strong>{{ muni.parish.records_start }}</strong></p>
             <a href="{% if muni.catholic_records_url %}{{ muni.catholic_records_url }}{% else %}https://www.familysearch.org/en/search/collection/1807092{% endif %}" class="btn btn-primary muni-toolkit-btn" target="_blank" rel="noopener noreferrer">⬇ {% if page.lang == 'es' %}Buscar Registros Católicos{% else %}Search Catholic Records{% endif %}</a>
           </div>
-        </div>
-
-        <div class="fs-login-notice">
-          {% if page.lang == 'es' %}
-            <strong>Se requiere cuenta de FamilySearch.</strong> Los enlaces de registros a continuación abren imágenes digitalizadas en FamilySearch. Debe iniciar sesión con una cuenta gratuita de FamilySearch para ver los registros.
-            <a href="https://www.familysearch.org/identity/landingpage/createAccount" target="_blank" rel="noopener noreferrer">Cree una cuenta gratuita</a>
-            o
-            <a href="https://www.familysearch.org/auth/familysearch/login" target="_blank" rel="noopener noreferrer">inicie sesión</a>
-            antes de hacer clic en cualquier enlace.
-          {% else %}
-            <strong>FamilySearch account required.</strong> The record links below open digitized images on FamilySearch. You must be logged in to a free FamilySearch account to view the records.
-            <a href="https://www.familysearch.org/identity/landingpage/createAccount" target="_blank" rel="noopener noreferrer">Create a free account</a>
-            or
-            <a href="https://www.familysearch.org/auth/familysearch/login" target="_blank" rel="noopener noreferrer">sign in</a>
-            before clicking any link.
-          {% endif %}
         </div>
       </section>
 

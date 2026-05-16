@@ -11,9 +11,58 @@
 # Mantenimiento: agregar entradas nuevas al inicio. Cambiar featured anterior a false.
 # Para archivar: mover entradas con más de ~12 meses a _data/news_es_archive_YYYY.yml
 
-- date: 2026-05-14
+- date: 2026-05-15
   category: funciones
   featured: true
+  title: "Nuevo: Página de Detalle del Municipio Arroyo"
+  body: "La página de detalle de Arroyo ya está disponible — con la historia de su fundación en 1855 a partir de Guayama, sus 4 barrios, registros parroquiales de Nuestra Señora del Carmen desde 1855, registro civil desde 1885, el simbolismo del escudo municipal y una guía completa de investigación genealógica con el catálogo parroquial de FamilySearch y enlaces al registro civil."
+  link: /es/guia-municipios/arroyo/
+
+- date: 2026-05-15
+  category: funciones
+  featured: false
+  title: "Nuevo: Página de Detalle del Municipio Vieques"
+  body: "La página de detalle de Vieques ya está disponible — con la historia de su fundación en 1852 a partir de Humacao, sus 6 barrios, registros parroquiales de la Inmaculada Concepción desde 1844, registro civil desde 1885, el simbolismo del escudo municipal y una guía completa de investigación genealógica con el catálogo parroquial de FamilySearch e índice de cementerio."
+  link: /es/guia-municipios/vieques/
+
+- date: 2026-05-15
+  category: funciones
+  featured: false
+  title: "Nuevo: Página de Detalle del Municipio Salinas"
+  body: "La página de detalle de Salinas ya está disponible — con la historia de su fundación en 1820 a partir de Coamo, sus 6 barrios, registros parroquiales de Nuestra Señora de la Monserrate desde 1854, registro civil desde 1885, y una guía completa de investigación genealógica con el catálogo parroquial de FamilySearch e índices de Hijos de Coamo."
+  link: /es/guia-municipios/salinas/
+
+- date: 2026-05-15
+  category: funciones
+  featured: false
+  title: "Nuevo: Página de Detalle del Municipio Santa Isabel"
+  body: "La página de detalle de Santa Isabel ya está disponible — con la historia de su fundación en 1842 a partir de Coamo, sus 8 barrios, registros parroquiales de Santiago Apóstol desde 1852, registro civil desde 1885, el simbolismo del escudo municipal y una guía completa de investigación genealógica con el catálogo parroquial de FamilySearch, Genealogía Nuestra e índices de Hijos de Coamo."
+  link: /es/guia-municipios/santa-isabel/
+
+- date: 2026-05-15
+  category: funciones
+  featured: false
+  title: "Nuevo: Página de Detalle del Municipio Dorado"
+  body: "La página de detalle de Dorado ya está disponible — con la historia de su fundación en 1842 a partir de Toa Baja, sus 6 barrios, registros parroquiales de San Antonio de Padua desde 1865, registro civil desde 1885, y una guía completa de investigación genealógica con el catálogo parroquial de FamilySearch y enlaces a cementerios en Find a Grave."
+  link: /es/guia-municipios/dorado/
+
+- date: 2026-05-15
+  category: funciones
+  featured: false
+  title: "Nuevo: Página de Detalle del Municipio Comerío"
+  body: "La página de detalle de Comerío ya está disponible — con la historia de su fundación en 1826 como Sabana del Palmar, sus 9 barrios, registros parroquiales de Santo Cristo de la Salud desde 1832, registro civil desde 1885, y una guía completa de investigación genealógica con el catálogo parroquial de FamilySearch y enlaces a cementerios en Find a Grave."
+  link: /es/guia-municipios/comerio/
+
+- date: 2026-05-15
+  category: funciones
+  featured: false
+  title: "Nuevo: Página de Detalle del Municipio Río Grande"
+  body: "La página de detalle de Río Grande ya está disponible — con la historia de su fundación en 1840 a partir de Loíza, sus 11 barrios, registros parroquiales de Nuestra Señora del Carmen desde 1840, registro civil desde 1885, y una guía completa de investigación genealógica con enlaces a FamilySearch."
+  link: /es/guia-municipios/rio-grande/
+
+- date: 2026-05-14
+  category: funciones
+  featured: false
   title: "Actualizado: Página Únete a la Comunidad — Enfoque en el Boletín"
   body: "La página Únete a la Comunidad ahora se centra en el boletín. El bloque del Registro de Ancestros fue removido mientras el registro está en desarrollo; los suscriptores serán los primeros en saber cuando se lance para conectar investigadores por municipio y apellido."
   link: /es/contacto/
