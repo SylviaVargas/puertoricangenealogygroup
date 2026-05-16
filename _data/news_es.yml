@@ -11,9 +11,23 @@
 # Mantenimiento: agregar entradas nuevas al inicio. Cambiar featured anterior a false.
 # Para archivar: mover entradas con más de ~12 meses a _data/news_es_archive_YYYY.yml
 
-- date: 2026-05-15
+- date: 2026-05-16
   category: funciones
   featured: true
+  title: "Nuevo: Página de Detalle del Municipio Culebra"
+  body: "La página de detalle de Culebra ya está disponible — con la historia de su fundación en 1880, sus 6 barrios, registros parroquiales de Nuestra Señora del Carmen desde aproximadamente 1891, registro civil desde 1885, el simbolismo del escudo municipal y una guía completa de investigación genealógica con enlaces a FamilySearch y un índice de registros parroquiales."
+  link: /es/guia-municipios/culebra/
+
+- date: 2026-05-15
+  category: funciones
+  featured: false
+  title: "Nuevo: Página de Detalle del Municipio Las Marías"
+  body: "La página de detalle de Las Marías ya está disponible — con la historia de su fundación en 1871 a partir de Mayagüez, sus 16 barrios, registros parroquiales de Nuestra Señora de la Monserrate desde 1842, registro civil desde 1885, el simbolismo del escudo municipal con el árbol de María y la cadena del Grito de Lares, y una guía completa de investigación genealógica con el catálogo parroquial de FamilySearch y enlaces al registro civil."
+  link: /es/guia-municipios/las-marias/
+
+- date: 2026-05-15
+  category: funciones
+  featured: false
   title: "Nuevo: Página de Detalle del Municipio Arroyo"
   body: "La página de detalle de Arroyo ya está disponible — con la historia de su fundación en 1855 a partir de Guayama, sus 4 barrios, registros parroquiales de Nuestra Señora del Carmen desde 1855, registro civil desde 1885, el simbolismo del escudo municipal y una guía completa de investigación genealógica con el catálogo parroquial de FamilySearch y enlaces al registro civil."
   link: /es/guia-municipios/arroyo/

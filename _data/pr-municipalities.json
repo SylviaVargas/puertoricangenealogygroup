@@ -2812,11 +2812,34 @@
     "mother_town": [
       "Vieques"
     ],
+    "is_mother_municipality": false,
+    "has_detail_page": true,
     "parish": {
       "name": "Nuestra Señora del Carmen",
-      "records_start": 1880
+      "records_start": 1891
     },
     "civil_registry_start": 1885,
+    "barrios": [
+      "Culebra barrio-pueblo",
+      "Flamenco",
+      "Fraile",
+      "Playa Sardinas I",
+      "Playa Sardinas II",
+      "San Isidro"
+    ],
+    "neighbors": [
+      "Ceiba",
+      "Fajardo",
+      "Vieques"
+    ],
+    "familysearch_url": "https://www.familysearch.org/en/wiki/Culebra,_Puerto_Rico_Genealogy",
+    "escudo": {
+      "image": "",
+      "alt": "Coat of arms of Culebra, Puerto Rico",
+      "description": "The coat of arms features a green field tierced in three, with a cross and an episcopal crozier representing Bishop San Ildefonso, after whom the original settlement San Ildefonso de la Culebra was named. A crowned serpent ondoyant in pale symbolizes the island's name (Culebra means snake), and a mailed arm taken from the Escudero family crest honors Cayetano Escudero, the town's founder. The laurel cross commemorates the civic campaign to end U.S. Navy use of the island, while a naval coronet and two masts above the shield emphasize the municipality's maritime and insular identity.",
+      "license": "",
+      "attribution_url": ""
+    },
     "historical_maps": [
       {
         "municipality": "Culebra",
@@ -2824,7 +2847,50 @@
         "caption": "Culebra",
         "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
         "image": "assets/images/municipalities/maps/culebra-2026.png",
-        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+        "url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ],
+    "online_resources": [
+      {
+        "title": "Puerto Rico, Catholic Church Records, 1645–2021",
+        "url": "https://www.familysearch.org/en/search/collection/1807092",
+        "type": "Digitized Records",
+        "description": "Islandwide Catholic church-record collection including baptisms, marriages, burials, and confirmations. Includes Culebra parish records (Nuestra Señora del Carmen) beginning circa 1891."
+      },
+      {
+        "title": "Puerto Rico Civil Registration, 1885–2001",
+        "url": "https://www.familysearch.org/en/search/collection/1682798",
+        "type": "Digitized Records",
+        "description": "Civil registration births, marriages, and deaths for all Puerto Rico municipalities including Culebra, beginning 1885."
+      },
+      {
+        "title": "Cementerio Municipal de Culebra — Find a Grave",
+        "url": "https://www.findagrave.com/cemetery/1974475/cementerio-municipal",
+        "type": "Cemetery Index",
+        "description": "Index for the main municipal cemetery of Culebra. Useful for verifying death dates and burial information."
+      }
+    ],
+    "genealogy_sources": [
+      {
+        "title": "U.S. Census Bureau: Culebra Municipio Profile",
+        "author": "U.S. Census Bureau",
+        "url": "https://data.census.gov/profile/Culebra_Municipio,_Puerto_Rico?g=050XX00US72049",
+        "type": "Census Data",
+        "description": "Authoritative 2020 Census profile for Culebra, including official barrio list, population data, and geographic boundary information."
+      },
+      {
+        "title": "Culebra, Puerto Rico Genealogy",
+        "author": "FamilySearch Wiki contributors",
+        "url": "https://www.familysearch.org/en/wiki/Culebra,_Puerto_Rico_Genealogy",
+        "type": "Research Guide",
+        "description": "FamilySearch research guide for Culebra with historical background, civil registration guidance, and genealogy pointers."
+      },
+      {
+        "title": "Culebra, Puerto Rico Church Index 1896–1976",
+        "author": "Hijos de Coamo",
+        "url": "https://hijosdecoamopr.com/indexes-for-church-records-for-puerto-rico/culebra-puerto-rico-church-index-1896-1976/",
+        "type": "Web Resource",
+        "description": "Detailed secondary index for Culebra church records with coverage notes and book details. Useful for locating specific baptism, marriage, and burial entries."
       }
     ]
   },
@@ -4234,19 +4300,97 @@
     "mother_town": [
       "Mayagüez"
     ],
+    "is_mother_municipality": false,
+    "has_detail_page": true,
     "parish": {
-      "name": "Inmaculada Concepción",
-      "records_start": 1871
+      "name": "Nuestra Señora de la Monserrate",
+      "records_start": 1842
     },
     "civil_registry_start": 1885,
+    "barrios": [
+      "Alto Sano",
+      "Anones",
+      "Bucarabones",
+      "Buena Vista",
+      "Cerrote",
+      "Chamorro",
+      "Espino",
+      "Furnias",
+      "Las Marías barrio-pueblo",
+      "Maravilla Este",
+      "Maravilla Norte",
+      "Maravilla Sur",
+      "Naranjales",
+      "Palma Escrita",
+      "Purísima Concepción",
+      "Río Cañas"
+    ],
+    "neighbors": [
+      "Adjuntas",
+      "Añasco",
+      "Lares",
+      "Maricao",
+      "Mayagüez",
+      "San Sebastián"
+    ],
+    "familysearch_url": "https://www.familysearch.org/en/wiki/Las_Mar%C3%ADas,_Puerto_Rico_Genealogy",
+    "escudo": {
+      "image": "",
+      "alt": "Coat of arms of Las Marías, Puerto Rico",
+      "description": "The coat of arms centers on the María tree, the town's namesake and a canting symbol for the municipality, with coffee branches on either side reflecting the agricultural heritage that shaped the community. A monogram and crown of Nuestra Señora la Santísima Virgen de Plata appears within the shield, while a broken chain in the bordure references the Grito de Lares uprising of 1868 against Spanish rule. A three-tower crown above the shield marks Las Marías as a municipality.",
+      "license": "",
+      "attribution_url": ""
+    },
     "historical_maps": [
       {
-        "municipality": "Las-marías",
+        "municipality": "Las Marías",
         "year": 2026,
-        "caption": "Las-marías",
+        "caption": "Las Marías",
         "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
-        "image": "assets/images/municipalities/maps/las-marías-2026.png",
-        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+        "image": "assets/images/municipalities/maps/las-marias-2026.png",
+        "url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ],
+    "online_resources": [
+      {
+        "title": "Registros parroquiales de Las Marías, 1842–1940",
+        "url": "https://www.familysearch.org/en/search/catalog/264844",
+        "type": "Digitized Records",
+        "description": "Direct FamilySearch catalog entry for Las Marías parish registers (Nuestra Señora de la Monserrate); browse-available image set covering baptisms, marriages, and burials."
+      },
+      {
+        "title": "Puerto Rico, Catholic Church Records, 1645–2021",
+        "url": "https://www.familysearch.org/en/search/collection/1807092",
+        "type": "Digitized Records",
+        "description": "Islandwide Catholic church-record collection including baptisms, marriages, burials, and confirmations. Includes Las Marías parish records."
+      },
+      {
+        "title": "Puerto Rico Civil Registration, 1885–2001",
+        "url": "https://www.familysearch.org/en/search/collection/1682798",
+        "type": "Digitized Records",
+        "description": "Civil registration births, marriages, and deaths for all Puerto Rico municipalities including Las Marías, beginning 1885."
+      },
+      {
+        "title": "Cementerio Municipal Las Marías — Find a Grave",
+        "url": "https://www.findagrave.com/cemetery/2450075/cementerio-municipal-las-mar%C3%ADas",
+        "type": "Cemetery Index",
+        "description": "Index for the main municipal cemetery of Las Marías. Useful for verifying death dates and burial information."
+      }
+    ],
+    "genealogy_sources": [
+      {
+        "title": "U.S. Census Bureau: Las Marías Municipio Profile",
+        "author": "U.S. Census Bureau",
+        "url": "https://data.census.gov/profile/Las_Mar%C3%ADas_Municipio,_Puerto_Rico?g=050XX00US72075",
+        "type": "Census Data",
+        "description": "Authoritative 2020 Census profile for Las Marías, including official barrio list, population data, and geographic boundary information."
+      },
+      {
+        "title": "Las Marías, Puerto Rico Genealogy",
+        "author": "FamilySearch Wiki contributors",
+        "url": "https://www.familysearch.org/en/wiki/Las_Mar%C3%ADas,_Puerto_Rico_Genealogy",
+        "type": "Research Guide",
+        "description": "FamilySearch research guide for Las Marías with historical background, civil registration guidance, and genealogy pointers."
       }
     ]
   },

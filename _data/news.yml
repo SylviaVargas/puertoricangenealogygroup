@@ -10,9 +10,23 @@
 #
 # Maintenance: add new entries at the top. Move old featured to non-featured.
 # To archive: move entries older than ~12 months to _data/news_archive_YYYY.yml
-- date: 2026-05-15
+- date: 2026-05-16
   category: features
   featured: true
+  title: "New: Culebra Municipality Detail Page"
+  body: "The Culebra detail page is now live — covering the island municipality's 1880 founding, its 6 barrios, parish records from Nuestra Señora del Carmen beginning circa 1891, civil registration from 1885, coat of arms symbolism, and a full genealogy research toolkit with FamilySearch records and a church record index."
+  link: /tools/municipality-guide/culebra/
+
+- date: 2026-05-15
+  category: features
+  featured: false
+  title: "New: Las Marías Municipality Detail Page"
+  body: "The Las Marías detail page is now live — covering the town's 1871 founding from Mayagüez, its 16 barrios, parish records from Nuestra Señora de la Monserrate beginning 1842, civil registration from 1885, coat of arms symbolism including the María tree and the Grito de Lares chain, and a full genealogy research toolkit with FamilySearch parish catalog and civil registration links."
+  link: /tools/municipality-guide/las-marias/
+
+- date: 2026-05-15
+  category: features
+  featured: false
   title: "New: Arroyo Municipality Detail Page"
   body: "The Arroyo detail page is now live — covering the town's 1855 founding from Guayama, its 4 barrios, parish records from Nuestra Señora del Carmen beginning 1855, civil registration from 1885, coat of arms symbolism, and a full genealogy research toolkit with FamilySearch parish catalog and civil registration links."
   link: /tools/municipality-guide/arroyo/
