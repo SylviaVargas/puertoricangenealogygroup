@@ -14,6 +14,13 @@
 - date: 2026-05-16
   category: funciones
   featured: true
+  title: "Nuevo: Página de Detalle del Municipio Barceloneta"
+  body: "La página de detalle de Barceloneta ya está disponible — con la historia de su fundación en 1881 a partir de Manatí por un inmigrante catalán, sus 4 barrios, el registro civil desde 1885 como fuente principal en línea (los registros parroquiales aún no están completamente digitalizados), el simbolismo del escudo municipal y una guía completa de investigación genealógica con dos índices de cementerios en Find a Grave."
+  link: /es/guia-municipios/barceloneta/
+
+- date: 2026-05-16
+  category: funciones
+  featured: false
   title: "Nuevo: Página de Detalle del Municipio Culebra"
   body: "La página de detalle de Culebra ya está disponible — con la historia de su fundación en 1880, sus 6 barrios, registros parroquiales de Nuestra Señora del Carmen desde aproximadamente 1891, registro civil desde 1885, el simbolismo del escudo municipal y una guía completa de investigación genealógica con enlaces a FamilySearch y un índice de registros parroquiales."
   link: /es/guia-municipios/culebra/

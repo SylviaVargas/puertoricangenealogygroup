@@ -13,6 +13,13 @@
 - date: 2026-05-16
   category: features
   featured: true
+  title: "New: Barceloneta Municipality Detail Page"
+  body: "The Barceloneta detail page is now live — covering the town's 1881 founding from Manatí by a Catalan immigrant, its 4 barrios, civil registration from 1885 as the primary online source (parish records not yet fully digitized), coat of arms symbolism, and a full genealogy research toolkit including two Find a Grave cemetery indexes."
+  link: /tools/municipality-guide/barceloneta/
+
+- date: 2026-05-16
+  category: features
+  featured: false
   title: "New: Culebra Municipality Detail Page"
   body: "The Culebra detail page is now live — covering the island municipality's 1880 founding, its 6 barrios, parish records from Nuestra Señora del Carmen beginning circa 1891, civil registration from 1885, coat of arms symbolism, and a full genealogy research toolkit with FamilySearch records and a church record index."
   link: /tools/municipality-guide/culebra/

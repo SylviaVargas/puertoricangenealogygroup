@@ -884,11 +884,32 @@
     "mother_town": [
       "Manatí"
     ],
+    "is_mother_municipality": false,
+    "has_detail_page": true,
     "parish": {
       "name": "Nuestra Señora del Carmen",
       "records_start": 1881
     },
     "civil_registry_start": 1885,
+    "barrios": [
+      "Barceloneta barrio-pueblo",
+      "Cibuco",
+      "Palmas",
+      "Tierras Nuevas Saliente"
+    ],
+    "neighbors": [
+      "Arecibo",
+      "Florida",
+      "Manatí"
+    ],
+    "familysearch_url": "https://www.familysearch.org/en/wiki/Barceloneta,_Puerto_Rico_Genealogy",
+    "escudo": {
+      "image": "",
+      "alt": "Coat of arms of Barceloneta, Puerto Rico",
+      "description": "The coat of arms is quartered in cross on a silver field, with a red cross and divisions containing two red poles with three guajana flowers in silver. The design honors the Catalan heritage of founder Bonocio Llenza Feliú and alludes to the town's name and its agricultural identity. Barceloneta is known as both La Ciudad de las Piñas (City of Pineapples) and Ciudad Industrial (Industrial City), identities reflected in the escudo's symbolism.",
+      "license": "",
+      "attribution_url": ""
+    },
     "historical_maps": [
       {
         "municipality": "Barceloneta",
@@ -897,6 +918,48 @@
         "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
         "image": "assets/images/municipalities/maps/barceloneta-2026.png",
         "url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ],
+    "online_resources": [
+      {
+        "title": "Puerto Rico, Catholic Church Records, 1645–2021",
+        "url": "https://www.familysearch.org/en/search/collection/1807092",
+        "type": "Digitized Records",
+        "description": "Islandwide Catholic church-record collection. Note: Barceloneta parish records (Nuestra Señora del Carmen) are not yet fully indexed online; contact the parish or Archdiocese of San Juan for pre-1885 sacramental records."
+      },
+      {
+        "title": "Puerto Rico Civil Registration, 1885–2001",
+        "url": "https://www.familysearch.org/en/search/collection/1682798",
+        "type": "Digitized Records",
+        "description": "Civil registration births, marriages, and deaths for all Puerto Rico municipalities including Barceloneta, beginning 1885. This is the primary online source for most Barceloneta genealogical research."
+      },
+      {
+        "title": "Cementerio Municipal Viejo de Barceloneta — Find a Grave",
+        "url": "https://www.findagrave.com/cemetery/2361075/cementerio-municipal-viejo",
+        "type": "Cemetery Index",
+        "description": "Index for the older municipal cemetery of Barceloneta. Useful for verifying death dates and burial information for earlier generations."
+      },
+      {
+        "title": "Cementerio Municipal Nuevo de Barceloneta — Find a Grave",
+        "url": "https://www.findagrave.com/cemetery/2500364/cementerio-municipal-nuevo",
+        "type": "Cemetery Index",
+        "description": "Index for the newer municipal cemetery of Barceloneta. Useful for verifying death dates and burial information for more recent generations."
+      }
+    ],
+    "genealogy_sources": [
+      {
+        "title": "U.S. Census Bureau: Barceloneta Municipio Profile",
+        "author": "U.S. Census Bureau",
+        "url": "https://data.census.gov/profile/Barceloneta_Municipio,_Puerto_Rico?g=050XX00US72017",
+        "type": "Census Data",
+        "description": "Authoritative 2020 Census profile for Barceloneta, including official barrio list, population data, and geographic boundary information."
+      },
+      {
+        "title": "Barceloneta, Puerto Rico Genealogy",
+        "author": "FamilySearch Wiki contributors",
+        "url": "https://www.familysearch.org/en/wiki/Barceloneta,_Puerto_Rico_Genealogy",
+        "type": "Research Guide",
+        "description": "FamilySearch research guide for Barceloneta with historical background, civil registration guidance, and instructions for obtaining parish records not yet available online."
       }
     ]
   },
