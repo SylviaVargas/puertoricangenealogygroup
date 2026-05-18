@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Herramientas
+description: "Los 78 municipios de Puerto Rico en una guía con búsqueda: nombres de parroquias, fechas de registro civil, barrios, enlaces a FamilySearch y listas de verificación."
 lang: es
 permalink: /es/herramientas/
 ref: tools

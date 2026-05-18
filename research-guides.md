@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Research Guides
+description: "Free self-paced courses on Puerto Rican genealogy: civil records, baptism registers, census, slave records, and AI tools — bilingual, GPS-standard."
 lang: en
 permalink: /research-guides/
 ref: research-guides

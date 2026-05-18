@@ -1,7 +1,7 @@
 ---
 layout: guide
 title: IA Responsable en Genealogía
-description: Cómo las herramientas de IA como Gemini y Claude pueden ayudar con la transcripción, traducción, planificación de investigación y más, y cómo usarlas de forma segura.
+description: "Cómo usar herramientas de IA como Claude y Gemini en genealogía puertorriqueña: transcripción, análisis de registros y flujos de trabajo alineados con el estándar GPS."
 difficulty: beginner
 lang: es
 permalink: /es/ia-genealogia/

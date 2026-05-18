@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Guías de Investigación
+description: "Cursos gratuitos y autodidactas sobre genealogía puertorriqueña: registros civiles, bautismos, censos, registros de esclavitud e IA — bilingüe, estándar GPS."
 lang: es
 permalink: /es/guias-investigacion/
 ref: research-guides

@@ -6,6 +6,7 @@ difficulty: beginner
 lang: es
 permalink: /es/guias-investigacion/primeros-pasos/
 ref: getting-started-intro
+last_modified_at: 2026-05-17
 ---
 
 ## Video: Primeros Pasos en la Genealogía Puertorriqueña {#video-intro}

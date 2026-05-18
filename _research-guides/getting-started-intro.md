@@ -6,6 +6,7 @@ difficulty: beginner
 lang: en
 permalink: /research-guides/getting-started-intro/
 ref: getting-started-intro
+last_modified_at: 2026-05-17
 ---
 
 ## Video: Getting Started with Puerto Rican Genealogy {#intro-video}

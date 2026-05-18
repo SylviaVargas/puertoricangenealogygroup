@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Tools
+description: "All 78 Puerto Rico municipalities in one searchable guide — parish names, civil record start dates, barrios, FamilySearch links, and research checklists."
 lang: en
 permalink: /tools/
 ref: tools

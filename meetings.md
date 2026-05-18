@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Meetings
+description: "Free monthly virtual meetings for Puerto Rican genealogy researchers — expert presentations, Q&A, and community connection. Open to all levels."
 lang: en
 permalink: /meetings/
 ref: meetings

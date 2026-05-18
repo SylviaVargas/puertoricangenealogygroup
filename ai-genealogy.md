@@ -1,7 +1,7 @@
 ---
 layout: guide
 title: Responsible AI in Genealogy
-description: How AI tools like Gemini and Claude can help with transcription, translation, research planning, and more — and how to use them safely.
+description: "How to use AI tools like Claude and Gemini for Puerto Rican genealogy — transcription, record analysis, and GPS-aligned research workflows, used safely."
 difficulty: beginner
 lang: en
 permalink: /ai-genealogy/

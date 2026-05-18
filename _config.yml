@@ -63,6 +63,7 @@ defaults:
     values:
       layout: default
       lang: en
+      image: /assets/images/banner-social.png
   - scope:
       path: "es"
     values:

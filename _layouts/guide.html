@@ -1,6 +1,33 @@
 ---
 layout: default
 ---
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "{{ page.title | escape }}",
+  "description": "{{ page.description | escape }}",
+  "author": {
+    "@type": "Person",
+    "name": "{{ site.author.name }}",
+    "url": "{{ site.author.url }}"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "{{ site.title }}",
+    "url": "{{ site.url }}"
+  },
+  "url": "{{ page.url | absolute_url }}",
+  "inLanguage": "{{ page.lang | default: site.default_lang }}"{% if page.last_modified_at %},
+  "dateModified": "{{ page.last_modified_at | date_to_xmlschema }}"{% endif %}{% if page.difficulty %},
+  "educationalLevel": "{{ page.difficulty }}"{% endif %},
+  "about": {
+    "@type": "Thing",
+    "name": "Puerto Rican Genealogy"
+  }
+}
+</script>
+
 <article class="guide">
   <header class="guide-header">
     {% include breadcrumb.html %}
@@ -34,6 +61,8 @@ layout: default
     <p><strong>Notice:</strong> Found a broken link or error? <a href="mailto:puertoricangenealogygroup@gmail.com?subject=Problem%20Report%3A%20{{ page.title | uri_escape }}">Report it here.</a></p>
     {% endif %}
   </div>
+
+  {% include faq-schema.html %}
 
   {% if page.related_guides %}
   <aside class="related-guides">

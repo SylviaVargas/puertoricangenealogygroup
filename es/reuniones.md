@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Reuniones
+description: "Reuniones virtuales mensuales gratuitas para investigadores de genealogía puertorriqueña — presentaciones de expertos, preguntas y respuestas, y conexión comunitaria."
 lang: es
 permalink: /es/reuniones/
 ref: meetings
