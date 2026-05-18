@@ -10,9 +10,37 @@
 #
 # Maintenance: add new entries at the top. Move old featured to non-featured.
 # To archive: move entries older than ~12 months to _data/news_archive_YYYY.yml
-- date: 2026-05-16
+- date: 2026-05-18
   category: features
   featured: true
+  title: "New: Guánica Municipality Detail Page"
+  body: "The Guánica detail page is now live — covering one of Puerto Rico's oldest settlement sites (Guaynia, 1508), the 1914 founding from Yauco, its 11 barrios, parish records from San Antonio Abad beginning 1885, community church indexes through 1944, and a key research note on finding pre-1914 Guánica-area records under Yauco."
+  link: /tools/municipality-guide/guanica/
+
+- date: 2026-05-18
+  category: features
+  featured: false
+  title: "New: Jayuya Municipality Detail Page"
+  body: "The Jayuya detail page is now live — covering the 1911 founding from Utuado, its 11 barrios, parish records from Nuestra Señora de la Monserrate beginning 1883, civil registration from 1885, a church index for 1883–1926, Find a Grave cemetery link, and a key research note on finding pre-1911 Jayuya-area records under Utuado."
+  link: /tools/municipality-guide/jayuya/
+
+- date: 2026-05-18
+  category: features
+  featured: false
+  title: "New: Villalba Municipality Detail Page"
+  body: "The Villalba detail page is now live — covering the 1917 founding from Juana Díaz, its 7 barrios, parish records from Nuestra Señora del Carmen beginning 1895, civil registration guidance with two FamilySearch catalog links, a community church-record index covering 1895–1945, and a key research note on finding pre-1917 Villalba-area records under Juana Díaz and Ponce."
+  link: /tools/municipality-guide/villalba/
+
+- date: 2026-05-18
+  category: features
+  featured: false
+  title: "New: Florida Municipality Detail Page"
+  body: "The Florida detail page is now live — covering Puerto Rico's youngest municipality, established June 14, 1971, after existing as a barrio of Barceloneta since 1881. Includes its 2 barrios, parish records from Nuestra Señora de la Merced beginning 1884, civil registration guidance, and a key research note on finding pre-1971 Florida-area records under Barceloneta."
+  link: /tools/municipality-guide/florida/
+
+- date: 2026-05-16
+  category: features
+  featured: false
   title: "New: Barceloneta Municipality Detail Page"
   body: "The Barceloneta detail page is now live — covering the town's 1881 founding from Manatí by a Catalan immigrant, its 4 barrios, civil registration from 1885 as the primary online source (parish records not yet fully digitized), coat of arms symbolism, and a full genealogy research toolkit including two Find a Grave cemetery indexes."
   link: /tools/municipality-guide/barceloneta/

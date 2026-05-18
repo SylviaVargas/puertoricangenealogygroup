@@ -11,9 +11,37 @@
 # Mantenimiento: agregar entradas nuevas al inicio. Cambiar featured anterior a false.
 # Para archivar: mover entradas con más de ~12 meses a _data/news_es_archive_YYYY.yml
 
-- date: 2026-05-16
+- date: 2026-05-18
   category: funciones
   featured: true
+  title: "Nuevo: Página de Detalle del Municipio Guánica"
+  body: "La página de detalle de Guánica ya está disponible — con la historia de uno de los sitios de asentamiento más antiguos de Puerto Rico (Guaynia, 1508), la fundación del municipio en 1914 a partir de Yauco, sus 11 barrios, registros parroquiales de San Antonio Abad desde 1885, índices comunitarios de registros eclesiásticos hasta 1944 y una nota clave sobre cómo buscar registros del área de Guánica anteriores a 1914 bajo Yauco."
+  link: /es/guia-municipios/guanica/
+
+- date: 2026-05-18
+  category: funciones
+  featured: false
+  title: "Nuevo: Página de Detalle del Municipio Jayuya"
+  body: "La página de detalle de Jayuya ya está disponible — con la historia de su fundación en 1911 a partir de Utuado, sus 11 barrios, registros parroquiales de Nuestra Señora de la Monserrate desde 1883, registro civil desde 1885, un índice parroquial de 1883 a 1926, enlace al cementerio en Find a Grave y una nota clave sobre cómo buscar registros del área de Jayuya anteriores a 1911 bajo Utuado."
+  link: /es/guia-municipios/jayuya/
+
+- date: 2026-05-18
+  category: funciones
+  featured: false
+  title: "Nuevo: Página de Detalle del Municipio Villalba"
+  body: "La página de detalle de Villalba ya está disponible — con la historia de su fundación en 1917 a partir de Juana Díaz, sus 7 barrios, registros parroquiales de Nuestra Señora del Carmen desde 1895, orientación sobre el registro civil con dos enlaces al catálogo de FamilySearch, un índice comunitario de registros parroquiales de 1895 a 1945 y una nota clave sobre cómo buscar registros del área de Villalba anteriores a 1917 bajo Juana Díaz y Ponce."
+  link: /es/guia-municipios/villalba/
+
+- date: 2026-05-18
+  category: funciones
+  featured: false
+  title: "Nuevo: Página de Detalle del Municipio Florida"
+  body: "La página de detalle de Florida ya está disponible — con la historia del municipio más joven de Puerto Rico, establecido el 14 de junio de 1971 tras existir como barrio de Barceloneta desde 1881. Incluye sus 2 barrios, registros parroquiales de Nuestra Señora de la Merced desde 1884, orientación sobre el registro civil y una nota de investigación clave sobre cómo encontrar registros del área de Florida anteriores a 1971 bajo Barceloneta."
+  link: /es/guia-municipios/florida/
+
+- date: 2026-05-16
+  category: funciones
+  featured: false
   title: "Nuevo: Página de Detalle del Municipio Barceloneta"
   body: "La página de detalle de Barceloneta ya está disponible — con la historia de su fundación en 1881 a partir de Manatí por un inmigrante catalán, sus 4 barrios, el registro civil desde 1885 como fuente principal en línea (los registros parroquiales aún no están completamente digitalizados), el simbolismo del escudo municipal y una guía completa de investigación genealógica con dos índices de cementerios en Find a Grave."
   link: /es/guia-municipios/barceloneta/

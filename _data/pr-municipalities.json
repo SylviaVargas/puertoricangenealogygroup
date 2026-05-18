@@ -3154,11 +3154,31 @@
     "mother_town": [
       "Barceloneta"
     ],
+    "is_mother_municipality": false,
+    "has_detail_page": true,
     "parish": {
       "name": "Nuestra Señora de la Merced",
-      "records_start": 1971
+      "records_start": 1884
     },
-    "civil_registry_start": 1971,
+    "civil_registry_start": 1885,
+    "barrios": [
+      "Florida Adentro",
+      "Pajonal"
+    ],
+    "neighbors": [
+      "Arecibo",
+      "Barceloneta",
+      "Ciales",
+      "Manatí"
+    ],
+    "familysearch_url": "https://www.familysearch.org/en/wiki/Florida,_Puerto_Rico_Genealogy",
+    "escudo": {
+      "image": "",
+      "alt": "Coat of arms of Florida, Puerto Rico",
+      "description": "Based on visual reference: the shield appears to feature a mural crown of three towers atop the crest and two branches of coffee plant at the base. An official municipal heraldic description has not yet been verified from the Florida municipal government or the Puerto Rico Secretary of State's heraldic records.",
+      "license": "",
+      "attribution_url": ""
+    },
     "historical_maps": [
       {
         "municipality": "Florida",
@@ -3166,7 +3186,43 @@
         "caption": "Florida",
         "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
         "image": "assets/images/municipalities/maps/florida-2026.png",
-        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+        "url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ],
+    "online_resources": [
+      {
+        "title": "Puerto Rico, Catholic Church Records, 1645–2021",
+        "url": "https://www.familysearch.org/en/search/collection/1807092",
+        "type": "Digitized Records",
+        "description": "Islandwide Catholic church-record collection including baptisms, marriages, burials, and confirmations. Florida church records (Nuestra Señora de la Merced) are included; note that pre-1971 records for the Florida area may appear under Barceloneta parish registers."
+      },
+      {
+        "title": "Puerto Rico Civil Registration, 1885–2001",
+        "url": "https://www.familysearch.org/en/search/collection/1682798",
+        "type": "Digitized Records",
+        "description": "Civil registration births, marriages, and deaths for all Puerto Rico municipalities including Florida, beginning 1885. Records prior to 1971 for the Florida area are filed under Barceloneta."
+      },
+      {
+        "title": "Cementerio Municipal de Florida — Find a Grave",
+        "url": "https://www.findagrave.com/cemetery/2139390/cementerio-municipal-de-florida",
+        "type": "Cemetery Index",
+        "description": "Index for the main municipal cemetery of Florida. Useful for verifying death dates and burial information for Florida residents."
+      }
+    ],
+    "genealogy_sources": [
+      {
+        "title": "U.S. Census Bureau: Florida Municipio Profile",
+        "author": "U.S. Census Bureau",
+        "url": "https://data.census.gov/profile/Florida_Municipio,_Puerto_Rico?g=050XX00US72054",
+        "type": "Census Data",
+        "description": "Authoritative 2020 Census profile for Florida, including official barrio list, population data, and geographic boundary information."
+      },
+      {
+        "title": "Florida, Puerto Rico Genealogy",
+        "author": "FamilySearch Wiki contributors",
+        "url": "https://www.familysearch.org/en/wiki/Florida,_Puerto_Rico_Genealogy",
+        "type": "Research Guide",
+        "description": "FamilySearch research guide for Florida with historical background, civil registration guidance, and pointers to church records. Notes that Florida became a municipality on June 14, 1971, after existing as a barrio of Barceloneta."
       }
     ]
   },
@@ -3178,11 +3234,39 @@
     "mother_town": [
       "Yauco"
     ],
+    "is_mother_municipality": false,
+    "has_detail_page": true,
     "parish": {
       "name": "San Antonio Abad",
-      "records_start": 1914
+      "records_start": 1885
     },
-    "civil_registry_start": 1914,
+    "civil_registry_start": 1885,
+    "barrios": [
+      "Arenas",
+      "Boca",
+      "Caña Gorda",
+      "Ensenada",
+      "Guánica barrio-pueblo",
+      "Guaniquilla",
+      "Indios",
+      "Llana",
+      "Punta Verraco",
+      "Susúa Alta",
+      "Susúa Baja"
+    ],
+    "neighbors": [
+      "Lajas",
+      "Sabana Grande",
+      "Yauco"
+    ],
+    "familysearch_url": "https://www.familysearch.org/en/wiki/Gu%C3%A1nica,_Puerto_Rico_Genealogy",
+    "escudo": {
+      "image": "",
+      "alt": "Coat of arms of Guánica, Puerto Rico",
+      "description": "",
+      "license": "",
+      "attribution_url": ""
+    },
     "historical_maps": [
       {
         "municipality": "Guánica",
@@ -3190,7 +3274,55 @@
         "caption": "Guánica",
         "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
         "image": "assets/images/municipalities/maps/guánica-2026.png",
-        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+        "url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ],
+    "online_resources": [
+      {
+        "title": "Registros parroquiales de Guánica, 1885–1941",
+        "url": "https://www.familysearch.org/search/catalog/336217?availability=Online",
+        "type": "Digitized Records",
+        "description": "FamilySearch catalog entry for Guánica parish registers (San Antonio Abad) covering baptisms, confirmations, marriages, and deaths, 1885–1941. Some volumes include indexes. The most specific FamilySearch entry point for Guánica church records."
+      },
+      {
+        "title": "Puerto Rico, Catholic Church Records, 1645–2021",
+        "url": "https://www.familysearch.org/en/search/collection/1807092",
+        "type": "Digitized Records",
+        "description": "Islandwide Catholic church-record collection including baptisms, marriages, burials, and confirmations. Includes Guánica parish records (San Antonio Abad) when indexed. Pre-1914 records for the Guánica area may appear under Yauco parish registers."
+      },
+      {
+        "title": "Puerto Rico Civil Registration, 1885–2001",
+        "url": "https://www.familysearch.org/en/search/collection/1682798",
+        "type": "Digitized Records",
+        "description": "Civil registration births, marriages, and deaths for all Puerto Rico municipalities including Guánica, beginning 1885. Records for the Guánica area prior to 1914 are filed under Yauco."
+      },
+      {
+        "title": "Guánica Church Indexes, 1885–1944",
+        "url": "https://hijosdecoamopr.com/guanica-puerto-rico-church-indexes-1885-1944/",
+        "type": "Church Records",
+        "description": "Community-built index of Guánica church records from San Antonio Abad, 1885–1944, with year-by-book tables for baptisms and marriages. Use as a finding aid before retrieving original images from FamilySearch."
+      },
+      {
+        "title": "Guánica Digitized Church Records, 1885–1944",
+        "url": "https://genealogianuestra.com/guanica-digitized-church-records-1885-1944/",
+        "type": "Church Records",
+        "description": "Community genealogy page consolidating digitized church-record information for Guánica with links to FamilySearch and related transcription projects."
+      }
+    ],
+    "genealogy_sources": [
+      {
+        "title": "U.S. Census Bureau: Guánica Municipio Profile",
+        "author": "U.S. Census Bureau",
+        "url": "https://data.census.gov/profile/Gu%C3%A1nica_Municipio,_Puerto_Rico?g=050XX00US72055",
+        "type": "Census Data",
+        "description": "Authoritative 2020 Census profile for Guánica, including official barrio list, population data, and geographic boundary information."
+      },
+      {
+        "title": "Guánica, Puerto Rico Genealogy",
+        "author": "FamilySearch Wiki contributors",
+        "url": "https://www.familysearch.org/en/wiki/Gu%C3%A1nica,_Puerto_Rico_Genealogy",
+        "type": "Research Guide",
+        "description": "FamilySearch research guide for Guánica with historical background, church and civil record pointers, and links to the parish catalog for San Antonio Abad."
       }
     ]
   },
@@ -3957,11 +4089,41 @@
     "mother_town": [
       "Utuado"
     ],
+    "is_mother_municipality": false,
+    "has_detail_page": true,
     "parish": {
       "name": "Nuestra Señora de la Monserrate",
-      "records_start": 1911
+      "records_start": 1883
     },
-    "civil_registry_start": 1911,
+    "civil_registry_start": 1885,
+    "barrios": [
+      "Coabey",
+      "Collores",
+      "Jauca",
+      "Jayuya barrio-pueblo",
+      "Jayuya Abajo",
+      "Mameyes Arriba",
+      "Pica",
+      "Río Grande",
+      "Saliente",
+      "Veguitas",
+      "Zamas"
+    ],
+    "neighbors": [
+      "Adjuntas",
+      "Ciales",
+      "Orocovis",
+      "Ponce",
+      "Utuado"
+    ],
+    "familysearch_url": "https://www.familysearch.org/en/wiki/Jayuya,_Puerto_Rico_Genealogy",
+    "escudo": {
+      "image": "",
+      "alt": "Coat of arms of Jayuya, Puerto Rico",
+      "description": "The shield features a crown representing the Taíno chief Hayuya, for whom the municipality is named. A green band across the middle evokes the Tres Picachos mountain peaks and the surrounding highland countryside. At the base, a Taíno sun petroglyph honors the indigenous heritage of the region.",
+      "license": "",
+      "attribution_url": ""
+    },
     "historical_maps": [
       {
         "municipality": "Jayuya",
@@ -3970,6 +4132,67 @@
         "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
         "image": "assets/images/municipalities/maps/jayuya-2026.png",
         "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ],
+    "online_resources": [
+      {
+        "title": "Registros parroquiales de Jayuya, 1883–1926",
+        "url": "https://www.familysearch.org/search/catalog/38636?availability=Online",
+        "type": "Digitized Records",
+        "description": "Direct FamilySearch catalog entry for Jayuya parish registers (Nuestra Señora de la Monserrate); browse-available image set covering baptisms, confirmations, marriages, and deaths, with indexes in some volumes."
+      },
+      {
+        "title": "Puerto Rico, Catholic Church Records, 1645–2021",
+        "url": "https://www.familysearch.org/en/search/collection/1807092",
+        "type": "Digitized Records",
+        "description": "Islandwide Catholic church-record collection including baptisms, marriages, burials, and confirmations. Includes Jayuya parish records."
+      },
+      {
+        "title": "Puerto Rico Civil Registration, 1885–2001",
+        "url": "https://www.familysearch.org/en/search/collection/1682798",
+        "type": "Digitized Records",
+        "description": "Civil registration births, marriages, and deaths for all Puerto Rico municipalities including Jayuya, beginning 1885."
+      },
+      {
+        "title": "Cementerio Municipal de Jayuya — Find a Grave",
+        "url": "https://www.findagrave.com/cemetery/2457113/cementerio-municipal",
+        "type": "Cemetery Index",
+        "description": "Index for the main municipal cemetery of Jayuya. Useful for verifying death dates and burial information."
+      }
+    ],
+    "genealogy_sources": [
+      {
+        "title": "U.S. Census Bureau: Jayuya Municipio Profile",
+        "author": "U.S. Census Bureau",
+        "url": "https://data.census.gov/profile/Jayuya_Municipio,_Puerto_Rico?g=050XX00US72073",
+        "type": "Census Data",
+        "description": "Authoritative 2020 Census profile for Jayuya, including official barrio list, population data, and geographic boundary information."
+      },
+      {
+        "title": "Jayuya, Puerto Rico Genealogy",
+        "author": "FamilySearch Wiki contributors",
+        "url": "https://www.familysearch.org/en/wiki/Jayuya,_Puerto_Rico_Genealogy",
+        "type": "Research Guide",
+        "description": "FamilySearch research guide for Jayuya with historical background, civil record dates, church record guidance, and links to related collections."
+      },
+      {
+        "title": "Jayuya, Puerto Rico Church Indexes 1883–1926",
+        "author": "Hijos de Coamo",
+        "url": "https://hijosdecoamopr.com/jayuya-puerto-rico-church-indexes-1883-1926/",
+        "type": "Research Guide",
+        "description": "Volunteer-compiled index of Jayuya parish records from Nuestra Señora de la Monserrate, 1883–1926. Useful for identifying records before searching the digitized images."
+      },
+      {
+        "title": "Municipio de Jayuya — EnciclopediaPR",
+        "url": "https://enciclopediapr.org/content/municipio-de-jayuya/",
+        "type": "Encyclopedia Entry",
+        "description": "Encyclopedic entry on Jayuya covering its history, geography, culture, and notable figures. Useful for placing ancestors in historical and cultural context."
+      },
+      {
+        "title": "Registros civiles de Jayuya, 1885–1997",
+        "url": "https://www.familysearch.org/es/search/catalog/633922",
+        "type": "Research Guide",
+        "description": "FamilySearch catalog entry for Jayuya civil registration records, 1885–1997. Direct access point for browsing civil vital records."
       }
     ]
   },
@@ -9117,11 +9340,37 @@
     "mother_town": [
       "Juana Díaz"
     ],
+    "is_mother_municipality": false,
+    "has_detail_page": true,
     "parish": {
       "name": "Nuestra Señora del Carmen",
-      "records_start": 1917
+      "records_start": 1895
     },
-    "civil_registry_start": 1917,
+    "civil_registry_start": 1885,
+    "barrios": [
+      "Caonillas Abajo",
+      "Caonillas Arriba",
+      "Hato Puerco Arriba",
+      "Pueblo",
+      "Vacas",
+      "Villalba Abajo",
+      "Villalba Arriba"
+    ],
+    "neighbors": [
+      "Coamo",
+      "Juana Díaz",
+      "Orocovis",
+      "Ponce",
+      "Santa Isabel"
+    ],
+    "familysearch_url": "",
+    "escudo": {
+      "image": "",
+      "alt": "Coat of arms of Villalba, Puerto Rico",
+      "description": "The shield displays a green field (sinople) with a 19th-century Puerto Rican village and church at the base and a bright star (lucero) above to the right. The church bears a smaller escutcheon charged with the arms of the Carmelite order, reflecting the parish of Nuestra Señora del Carmen. A mural crown of three towers surmounts the shield, and a scroll reading 'Villalba' appears at the base. Source: Wikimedia blazon; official municipal heraldic description not independently verified.",
+      "license": "",
+      "attribution_url": ""
+    },
     "historical_maps": [
       {
         "municipality": "Villalba",
@@ -9129,7 +9378,61 @@
         "caption": "Villalba",
         "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
         "image": "assets/images/municipalities/maps/villalba-2026.png",
-        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+        "url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ],
+    "online_resources": [
+      {
+        "title": "Registros civiles de Villalba, 1885–1999",
+        "url": "https://www.familysearch.org/search/catalog/833099?availability=Online",
+        "type": "Civil Records",
+        "description": "FamilySearch microfilm and register collection for Villalba civil registrations, including births, marriages, and deaths with indexes. This is the most specific FamilySearch entry point for Villalba civil records."
+      },
+      {
+        "title": "Registros civiles de Villalba, 1912–1997",
+        "url": "https://www.familysearch.org/search/catalog/666751?availability=Online",
+        "type": "Civil Records",
+        "description": "Second FamilySearch catalog entry for Villalba civil registrations. Notes that Villalba was created by law in 1917 and records were filmed from the Demographic Registry office."
+      },
+      {
+        "title": "Puerto Rico, Catholic Church Records, 1645–2021",
+        "url": "https://www.familysearch.org/en/search/collection/1807092",
+        "type": "Digitized Records",
+        "description": "Islandwide Catholic church-record collection including baptisms, confirmations, marriages, burials, and indexes. Includes Villalba parish records (Nuestra Señora del Carmen) when indexed."
+      },
+      {
+        "title": "Puerto Rico Civil Registration, 1885–2001",
+        "url": "https://www.familysearch.org/en/search/collection/1682798",
+        "type": "Digitized Records",
+        "description": "Civil registration births, marriages, and deaths for all Puerto Rico municipalities including Villalba, beginning 1885. Pre-1917 records for the Villalba area are filed under Juana Díaz."
+      },
+      {
+        "title": "Parroquia Nuestra Señora del Carmen, Villalba: Índices de Registros, 1895–1945",
+        "url": "https://hijosdecoamopr.com/parroquia-nuestra-senora-del-carmen-villalba-puerto-rico/",
+        "type": "Church Records",
+        "description": "Community-created index of Villalba church records from Nuestra Señora del Carmen, 1895–1945, with year-by-book tables for baptisms and marriages. Useful as a finding aid before retrieving original images from FamilySearch."
+      },
+      {
+        "title": "Cementerio Civil de Villalba — Find a Grave",
+        "url": "https://www.findagrave.com/cemetery/2175478/cementerio-civil-de-villalba",
+        "type": "Cemetery Index",
+        "description": "Index for the main municipal cemetery of Villalba, with over 200 memorials. Useful for verifying death dates, burial information, and family relationships."
+      }
+    ],
+    "genealogy_sources": [
+      {
+        "title": "U.S. Census Bureau: Villalba Municipio Profile",
+        "author": "U.S. Census Bureau",
+        "url": "https://data.census.gov/profile/Villalba_Municipio,_Puerto_Rico?g=050XX00US72149",
+        "type": "Census Data",
+        "description": "Authoritative 2020 Census profile for Villalba, including official barrio list, population data, and geographic boundary information."
+      },
+      {
+        "title": "Villalba Municipio, Puerto Rico: Genealogy, Census, Vital Records",
+        "author": "Linkpendium",
+        "url": "https://linkpendium.com/villalba-pr-genealogy/",
+        "type": "Web Resource",
+        "description": "Directory-style page listing Villalba-specific genealogy resources including cemeteries, vital records, and newspapers. Useful as a quick-reference index of available research tools."
       }
     ]
   },
