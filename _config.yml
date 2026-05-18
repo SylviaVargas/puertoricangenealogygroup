@@ -3,7 +3,7 @@
 
 title: Puerto Rican Genealogy Group
 tagline: "Conectando Raíces, Celebrando Herencia"
-description: "A grassroots community dedicated to helping individuals explore their Puerto Rican ancestry."
+description: "A grassroots community dedicated to helping individuals explore their Puerto Rican ancestry through records, research guides, and a supportive community."
 url: "https://puertoricangenealogy.org"
 baseurl: ""
 
@@ -63,7 +63,7 @@ defaults:
     values:
       layout: default
       lang: en
-      image: /assets/images/banner-social.png
+      image: /assets/images/banner-social.jpg
   - scope:
       path: "es"
     values:
