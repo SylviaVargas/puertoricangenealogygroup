@@ -1512,11 +1512,38 @@
     "mother_town": [
       "Loíza"
     ],
+    "is_mother_municipality": false,
+    "has_detail_page": true,
     "parish": {
       "name": "Nuestra Señora del Pilar",
-      "records_start": 1910
+      "records_start": 1903
     },
-    "civil_registry_start": 1909,
+    "civil_registry_start": 1885,
+    "barrios": [
+      "Campo Rico",
+      "Cubuy",
+      "El Verde",
+      "Hato Puerco",
+      "Las Lomas",
+      "Las Mercedes",
+      "Pueblo",
+      "Toma Agua"
+    ],
+    "neighbors": [
+      "Carolina",
+      "Juncos",
+      "Las Piedras",
+      "Loíza",
+      "Río Grande"
+    ],
+    "familysearch_url": "https://www.familysearch.org/en/wiki/Can%C3%B3vanas,_Puerto_Rico_Genealogy",
+    "escudo": {
+      "image": "",
+      "alt": "Coat of arms of Canóvanas, Puerto Rico",
+      "description": "The shield uses purple and yellow, the colors of the 'Hijos y Amigos Ausentes de Canóvanas' banner. A broken chain symbolizes Canóvanas's separation from Loíza, and a crown represents Cacique Canobaná, the Taíno leader from whom the town's name derives. Source: secondary heraldic references; official municipal heraldic description not independently verified.",
+      "license": "",
+      "attribution_url": ""
+    },
     "historical_maps": [
       {
         "municipality": "Canóvanas",
@@ -1524,7 +1551,56 @@
         "caption": "Canóvanas",
         "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
         "image": "assets/images/municipalities/maps/canóvanas-2026.png",
-        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+        "url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ],
+    "online_resources": [
+      {
+        "title": "Registros civiles de Loíza y Canóvanas, 1885–1994",
+        "url": "https://www.familysearch.org/en/search/catalog/698874",
+        "type": "Civil Records",
+        "description": "FamilySearch catalog entry for civil registers of births, marriages, and deaths from Loíza and Canóvanas, 1885–1994. Some volumes include an index. Because Canóvanas was administratively part of Loíza for centuries, this combined catalog is the primary civil-record path for both municipalities."
+      },
+      {
+        "title": "Puerto Rico, Catholic Church Records, 1645–2021",
+        "url": "https://www.familysearch.org/en/search/collection/1807092",
+        "type": "Digitized Records",
+        "description": "Islandwide Catholic church-record collection including baptisms, confirmations, marriages, burials, and indexes. Includes Canóvanas parish records (Nuestra Señora del Pilar) when indexed. Pre-1909 records for the Canóvanas area may appear under Loíza parish registers."
+      },
+      {
+        "title": "Puerto Rico Civil Registration, 1885–2001",
+        "url": "https://www.familysearch.org/en/search/collection/1682798",
+        "type": "Digitized Records",
+        "description": "Civil registration births, marriages, and deaths for all Puerto Rico municipalities including Canóvanas, beginning 1885. Earlier records are filed under Loíza; 1902–1909 materials may appear under Río Grande."
+      },
+      {
+        "title": "Cementerios de Canóvanas — Find a Grave",
+        "url": "https://www.findagrave.com/cemetery-browse/USA/Puerto-Rico/Can%C3%B3vanas-Municipality?id=county_4511",
+        "type": "Cemetery Index",
+        "description": "Find a Grave browse page listing cemetery locations in the Canóvanas municipality, including Campo Rico, Canovanas, and Cremado. Search by surname to locate specific burials."
+      }
+    ],
+    "genealogy_sources": [
+      {
+        "title": "U.S. Census Bureau: Canóvanas Municipio Profile",
+        "author": "U.S. Census Bureau",
+        "url": "https://data.census.gov/profile/Can%C3%B3vanas_Municipio,_Puerto_Rico?g=050XX00US72029",
+        "type": "Census Data",
+        "description": "Authoritative 2020 Census profile for Canóvanas, including official barrio list, population data, and geographic boundary information."
+      },
+      {
+        "title": "Canóvanas, Puerto Rico Genealogy",
+        "author": "FamilySearch Wiki contributors",
+        "url": "https://www.familysearch.org/en/wiki/Can%C3%B3vanas,_Puerto_Rico_Genealogy",
+        "type": "Research Guide",
+        "description": "FamilySearch research guide for Canóvanas. Addresses the municipality's historical connection to Loíza and the 1902 Río Grande consolidation, with pointers to civil and church record collections."
+      },
+      {
+        "title": "Canóvanas: notas para su historia",
+        "author": "Enrique Sánchez Cappa",
+        "url": "https://books.google.com/books/about/Can%C3%B3vanas.html?id=2onTtgAACAAJ",
+        "type": "Book",
+        "description": "Local history book covering Canóvanas municipal history and development. The strongest verified printed resource for Canóvanas municipal history."
       }
     ]
   },

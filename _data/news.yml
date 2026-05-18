@@ -13,6 +13,13 @@
 - date: 2026-05-18
   category: features
   featured: true
+  title: "New: Canóvanas Municipality Detail Page"
+  body: "The Canóvanas detail page is now live — covering a municipality with an unusually layered history: a barrio of Loíza for 400+ years, briefly consolidated into Río Grande in 1902, and re-established in 1909. Includes its 8 barrios, parish records from Nuestra Señora del Pilar beginning 1903, a combined Loíza/Canóvanas civil-register catalog on FamilySearch, and a research workflow for tracing families across three administrative periods."
+  link: /tools/municipality-guide/canovanas/
+
+- date: 2026-05-18
+  category: features
+  featured: false
   title: "New: Guánica Municipality Detail Page"
   body: "The Guánica detail page is now live — covering one of Puerto Rico's oldest settlement sites (Guaynia, 1508), the 1914 founding from Yauco, its 11 barrios, parish records from San Antonio Abad beginning 1885, community church indexes through 1944, and a key research note on finding pre-1914 Guánica-area records under Yauco."
   link: /tools/municipality-guide/guanica/
