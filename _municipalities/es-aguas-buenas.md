@@ -1,7 +1,7 @@
 ---
 layout: municipality
-title: "Aguas Buenas"
-description: "Guía de investigación genealógica para Aguas Buenas, Puerto Rico — registros parroquiales, registro civil, barrios y archivos."
+title: "Aguas Buenas: Registros Genealógicos"
+description: "Aguas Buenas, Puerto Rico: registros civiles desde 1885, parroquia Los Santos Reyes desde 1845, municipio fundado en 1838, 10 barrios, enlaces FamilySearch."
 lang: es
 ref: municipality-aguas-buenas
 muni_id: aguas_buenas

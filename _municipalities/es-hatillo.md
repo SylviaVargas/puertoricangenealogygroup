@@ -1,7 +1,7 @@
 ---
 layout: municipality
-title: "Hatillo"
-description: "Guía de investigación genealógica para Hatillo, Puerto Rico — registros parroquiales, registro civil, barrios y archivos."
+title: "Hatillo: Registros Genealógicos"
+description: "Hatillo, Puerto Rico: registros civiles desde 1885, parroquia Nuestra Señora del Carmen desde 1823, 7 barrios, municipio fundado en 1823, FamilySearch."
 lang: es
 ref: municipality-hatillo
 muni_id: hatillo

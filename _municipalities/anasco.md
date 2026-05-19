@@ -1,7 +1,7 @@
 ---
 layout: municipality
-title: "Añasco"
-description: "Genealogy research guide for Añasco, Puerto Rico — parish records, civil registration, barrios, and archives."
+title: "Añasco Genealogy Records"
+description: "Añasco, Puerto Rico genealogy: civil records from 1885, San Antonio Abad parish since 1733, 10 barrios, among Puerto Rico's oldest towns, FamilySearch links."
 lang: en
 ref: municipality-anasco
 muni_id: anasco

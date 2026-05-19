@@ -1,7 +1,7 @@
 ---
 layout: municipality
-title: "Manatí"
-description: "Genealogy research guide for Manatí, Puerto Rico — parish records, civil registration, barrios, and archives."
+title: "Manatí Genealogy Records"
+description: "Manatí, Puerto Rico genealogy: mother municipality since 1738, civil registration from 1885, Nuestra Señora de la Candelaria parish, 9 barrios, FamilySearch links."
 lang: en
 ref: municipality-manati
 muni_id: manati

@@ -1,7 +1,7 @@
 ---
 layout: municipality
-title: "Coamo"
-description: "Guía de investigación genealógica para Coamo, Puerto Rico — registros parroquiales, registro civil, barrios y archivos."
+title: "Coamo: Registros Genealógicos"
+description: "Coamo, Puerto Rico: uno de los pueblos más antiguos, fundado en 1579, registros civiles desde 1885, parroquia San Blas de Illescas, 11 barrios, FamilySearch."
 lang: es
 ref: municipality-coamo
 muni_id: coamo

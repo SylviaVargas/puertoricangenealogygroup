@@ -1,7 +1,7 @@
 ---
 layout: municipality
-title: "San Juan"
-description: "Genealogy research guide for San Juan, Puerto Rico — parish records, civil registration, barrios, and archives."
+title: "San Juan Genealogy Records"
+description: "San Juan, Puerto Rico genealogy: capital and oldest city, founded 1521, civil registration from 1885, Catedral de San Juan Bautista, 18 barrios, FamilySearch links."
 lang: en
 ref: municipality-san-juan
 muni_id: san_juan

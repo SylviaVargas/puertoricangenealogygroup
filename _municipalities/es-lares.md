@@ -1,7 +1,7 @@
 ---
 layout: municipality
-title: "Lares"
-description: "Guía de investigación genealógica para Lares, Puerto Rico — registros parroquiales, registro civil, barrios y archivos."
+title: "Lares: Registros Genealógicos"
+description: "Lares, Puerto Rico: registros civiles desde 1885, parroquia San José desde 1827, 10 barrios, municipio montañoso del oeste, FamilySearch."
 lang: es
 ref: municipality-lares
 muni_id: lares

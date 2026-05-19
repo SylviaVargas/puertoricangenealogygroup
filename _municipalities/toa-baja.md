@@ -1,7 +1,7 @@
 ---
 layout: municipality
-title: "Toa Baja"
-description: "Genealogy research guide for Toa Baja, Puerto Rico — parish records, civil registration, barrios, and archives."
+title: "Toa Baja Genealogy Records"
+description: "Toa Baja, Puerto Rico genealogy: mother municipality founded 1745, civil registration from 1885, San Pedro Apóstol parish, 5 barrios, direct FamilySearch links."
 lang: en
 ref: municipality-toa-baja
 muni_id: toa_baja

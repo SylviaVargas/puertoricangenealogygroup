@@ -1,7 +1,7 @@
 ---
 layout: municipality
-title: "Naranjito"
-description: "Guía de investigación genealógica para Naranjito, Puerto Rico — registros parroquiales, registro civil, barrios y archivos."
+title: "Naranjito: Registros Genealógicos"
+description: "Naranjito, Puerto Rico: registros civiles desde 1885, parroquia San Miguel el Arcángel desde 1831, fundado en 1824, 8 barrios, FamilySearch."
 lang: es
 ref: municipality-naranjito
 muni_id: naranjito

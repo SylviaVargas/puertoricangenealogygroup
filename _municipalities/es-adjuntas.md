@@ -1,7 +1,7 @@
 ---
 layout: municipality
-title: "Adjuntas"
-description: "Guía de investigación genealógica para Adjuntas, Puerto Rico — registros parroquiales, registro civil, barrios y archivos."
+title: "Adjuntas: Registros Genealógicos"
+description: "Adjuntas, Puerto Rico: registros civiles desde 1885, parroquia San Joaquín y Santa Ana desde 1815, 11 barrios, con enlaces directos a FamilySearch."
 lang: es
 ref: municipality-adjuntas
 muni_id: adjuntas

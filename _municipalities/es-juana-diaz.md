@@ -1,7 +1,7 @@
 ---
 layout: municipality
-title: "Juana Díaz"
-description: "Guía de investigación genealógica para Juana Díaz, Puerto Rico — registros parroquiales, registro civil, barrios y archivos."
+title: "Juana Díaz: Registros Genealógicos"
+description: "Juana Díaz, Puerto Rico: municipio madre desde 1798, registros civiles desde 1885, parroquia San Ramón Nonato, 14 barrios, enlaces FamilySearch."
 lang: es
 ref: municipality-juana-diaz
 muni_id: juana_diaz

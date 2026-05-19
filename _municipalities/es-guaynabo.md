@@ -1,7 +1,7 @@
 ---
 layout: municipality
-title: "Guaynabo"
-description: "Guía de investigación genealógica para Guaynabo, Puerto Rico — registros parroquiales, registro civil, barrios y archivos."
+title: "Guaynabo: Registros Genealógicos"
+description: "Guaynabo, Puerto Rico: registros civiles desde 1886, parroquia San Pedro Mártir de Verona desde 1765, fundado en 1769, 10 barrios, FamilySearch."
 lang: es
 ref: municipality-guaynabo
 muni_id: guaynabo

@@ -1,7 +1,7 @@
 ---
 layout: municipality
-title: "Vieques"
-description: "Guía de investigación genealógica para Vieques, Puerto Rico — registros parroquiales, registro civil, barrios y archivos."
+title: "Vieques: Registros Genealógicos"
+description: "Vieques, Puerto Rico: municipio isleño fundado en 1852, registros civiles desde 1885, parroquia Inmaculada Concepción desde 1844, 6 barrios, FamilySearch."
 lang: es
 ref: municipality-vieques
 muni_id: vieques

@@ -1,7 +1,7 @@
 ---
 layout: municipality
-title: "Gurabo"
-description: "Genealogy research guide for Gurabo, Puerto Rico — parish records, civil registration, barrios, and archives."
+title: "Gurabo Genealogy Records"
+description: "Gurabo, Puerto Rico genealogy: civil registration from 1885, San José parish records since 1822, founded 1815, 6 barrios, direct FamilySearch links."
 lang: en
 ref: municipality-gurabo
 muni_id: gurabo

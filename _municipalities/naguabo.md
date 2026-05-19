@@ -1,7 +1,7 @@
 ---
 layout: municipality
-title: "Naguabo"
-description: "Genealogy research guide for Naguabo, Puerto Rico — parish records, civil registration, barrios, and archives."
+title: "Naguabo Genealogy Records"
+description: "Naguabo, Puerto Rico genealogy: civil records from 1885, Nuestra Señora del Rosario parish since 1798, 9 barrios, municipality established 1821, FamilySearch links."
 lang: en
 ref: municipality-naguabo
 muni_id: naguabo

@@ -1,7 +1,7 @@
 ---
 layout: municipality
-title: "Bayamón"
-description: "Genealogy research guide for Bayamón, Puerto Rico — parish records, civil registration, barrios, and archives."
+title: "Bayamón Genealogy Records"
+description: "Bayamón, Puerto Rico genealogy: mother municipality since 1772, civil registration from 1885, Invención de la Santa Cruz parish, 12 barrios, FamilySearch."
 lang: en
 ref: municipality-bayamon
 muni_id: bayamon

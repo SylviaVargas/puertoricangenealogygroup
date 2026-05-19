@@ -1,7 +1,7 @@
 ---
 layout: municipality
-title: "Trujillo Alto"
-description: "Guía de investigación genealógica para Trujillo Alto, Puerto Rico — registros parroquiales, registro civil, barrios y archivos."
+title: "Trujillo Alto: Registros Genealógicos"
+description: "Trujillo Alto, Puerto Rico: municipio madre desde 1801, registros civiles desde 1885, parroquia Santa Cruz de Trujillo Alto, 6 barrios, FamilySearch."
 lang: es
 ref: municipality-trujillo-alto
 muni_id: trujillo_alto

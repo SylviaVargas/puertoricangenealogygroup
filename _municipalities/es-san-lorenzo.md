@@ -1,7 +1,7 @@
 ---
 layout: municipality
-title: "San Lorenzo"
-description: "Guía de investigación genealógica para San Lorenzo, Puerto Rico — registros parroquiales, registro civil, barrios y archivos."
+title: "San Lorenzo: Registros Genealógicos"
+description: "San Lorenzo, Puerto Rico: registros civiles desde 1885, parroquia Nuestra Señora de las Mercedes desde 1811, 11 barrios, fundado en 1811, FamilySearch."
 lang: es
 ref: municipality-san-lorenzo
 muni_id: san_lorenzo

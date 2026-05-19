@@ -1,7 +1,7 @@
 ---
 layout: municipality
-title: "Ponce"
-description: "Genealogy research guide for Ponce, Puerto Rico — parish records, civil registration, barrios, and archives for La Perla del Sur."
+title: "Ponce Genealogy Records"
+description: "Ponce, Puerto Rico genealogy: mother municipality founded 1692, civil registration from 1885, Catedral Nuestra Señora de la Guadalupe, 27 barrios, FamilySearch links."
 lang: en
 ref: municipality-ponce
 muni_id: ponce

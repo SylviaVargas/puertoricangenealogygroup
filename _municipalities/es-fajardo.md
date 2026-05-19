@@ -1,7 +1,7 @@
 ---
 layout: municipality
-title: "Fajardo"
-description: "Guía de investigación genealógica para Fajardo, Puerto Rico — registros parroquiales, registro civil, barrios y archivos."
+title: "Fajardo: Registros Genealógicos"
+description: "Fajardo, Puerto Rico: municipio madre desde 1772, registros civiles desde 1885, parroquia Santiago Apóstol, 9 barrios, oriente de Puerto Rico, FamilySearch."
 lang: es
 ref: municipality-fajardo
 muni_id: fajardo

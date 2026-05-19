@@ -1,7 +1,7 @@
 ---
 layout: municipality
-title: "Toa Baja"
-description: "Guía de investigación genealógica para Toa Baja, Puerto Rico — registros parroquiales, registro civil, barrios y archivos."
+title: "Toa Baja: Registros Genealógicos"
+description: "Toa Baja, Puerto Rico: municipio madre fundado en 1745, registros civiles desde 1885, parroquia San Pedro Apóstol, 5 barrios, FamilySearch."
 lang: es
 ref: municipality-toa-baja
 muni_id: toa_baja

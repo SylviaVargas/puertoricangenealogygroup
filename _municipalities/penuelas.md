@@ -1,7 +1,7 @@
 ---
 layout: municipality
-title: "Peñuelas"
-description: "Genealogy research guide for Peñuelas, Puerto Rico — parish records, civil registration, barrios, and archives."
+title: "Peñuelas Genealogy Records"
+description: "Peñuelas, Puerto Rico genealogy: civil registration from 1885, San José parish since 1845, 14 barrios, municipality founded 1793, direct FamilySearch links."
 lang: en
 ref: municipality-penuelas
 muni_id: penuelas

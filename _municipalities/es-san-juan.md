@@ -1,7 +1,7 @@
 ---
 layout: municipality
-title: "San Juan"
-description: "Guía de investigación genealógica para San Juan, Puerto Rico — registros parroquiales, registro civil, barrios y archivos."
+title: "San Juan: Registros Genealógicos"
+description: "San Juan, Puerto Rico: capital y ciudad más antigua, fundada en 1521, registros civiles desde 1885, Catedral de San Juan Bautista, 18 barrios, FamilySearch."
 lang: es
 ref: municipality-san-juan
 muni_id: san_juan

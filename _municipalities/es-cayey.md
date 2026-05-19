@@ -1,7 +1,7 @@
 ---
 layout: municipality
-title: "Cayey"
-description: "Guía de investigación genealógica para Cayey, Puerto Rico — registros parroquiales, registro civil, barrios y archivos."
+title: "Cayey: Registros Genealógicos"
+description: "Cayey, Puerto Rico: municipio madre desde 1773, registros civiles desde 1885, parroquia Nuestra Señora de la Asunción, 21 barrios, FamilySearch."
 lang: es
 ref: municipality-cayey
 muni_id: cayey

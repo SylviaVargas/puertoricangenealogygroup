@@ -1,7 +1,7 @@
 ---
 layout: municipality
-title: "Hormigueros"
-description: "Genealogy research guide for Hormigueros, Puerto Rico — parish records, civil registration, and archives for the home of the Santuario de la Monserrate."
+title: "Hormigueros Genealogy Records"
+description: "Hormigueros, Puerto Rico genealogy: civil records from 1885, Nuestra Señora de la Monserrate parish since 1874, 5 barrios, founded 1874, FamilySearch links."
 lang: en
 ref: municipality-hormigueros
 muni_id: hormigueros

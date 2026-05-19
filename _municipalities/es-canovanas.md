@@ -1,7 +1,7 @@
 ---
 layout: municipality
-title: "Canóvanas"
-description: "Guía de investigación genealógica para Canóvanas, Puerto Rico — registros parroquiales, registro civil, barrios y archivos."
+title: "Canóvanas: Registros Genealógicos"
+description: "Canóvanas, Puerto Rico: registros civiles desde 1885, parroquia Nuestra Señora del Pilar desde 1903, 8 barrios, municipio establecido en 1909, FamilySearch."
 lang: es
 ref: municipality-canovanas
 muni_id: canovanas

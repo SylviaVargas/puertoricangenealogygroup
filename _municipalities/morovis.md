@@ -1,7 +1,7 @@
 ---
 layout: municipality
-title: "Morovis"
-description: "Genealogy research guide for Morovis, Puerto Rico — parish records, civil registration, barrios, and archives."
+title: "Morovis Genealogy Records"
+description: "Morovis, Puerto Rico genealogy: civil registration from 1885, Nuestra Señora del Carmen parish since 1818, 14 barrios, founded 1818, direct FamilySearch links."
 lang: en
 ref: municipality-morovis
 muni_id: morovis

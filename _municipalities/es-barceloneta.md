@@ -1,7 +1,7 @@
 ---
 layout: municipality
-title: "Barceloneta"
-description: "Guía de investigación genealógica para Barceloneta, Puerto Rico — registros parroquiales, registro civil, barrios y archivos."
+title: "Barceloneta: Registros Genealógicos"
+description: "Barceloneta, Puerto Rico: registros civiles desde 1885, parroquia Nuestra Señora del Carmen desde 1881, 4 barrios, municipio fundado en 1881, FamilySearch."
 lang: es
 ref: municipality-barceloneta
 muni_id: barceloneta

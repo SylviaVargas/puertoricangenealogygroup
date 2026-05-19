@@ -1,7 +1,7 @@
 ---
 layout: municipality
-title: "Orocovis"
-description: "Guía de investigación genealógica para Orocovis, Puerto Rico — registros parroquiales, registro civil, barrios y archivos."
+title: "Orocovis: Registros Genealógicos"
+description: "Orocovis, Puerto Rico: registros civiles desde 1885, parroquia San Juan Bautista de Barros desde 1825, 16 barrios, centro geográfico de Puerto Rico, FamilySearch."
 lang: es
 ref: municipality-orocovis
 muni_id: orocovis

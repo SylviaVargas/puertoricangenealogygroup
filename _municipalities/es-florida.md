@@ -1,7 +1,7 @@
 ---
 layout: municipality
-title: "Florida"
-description: "Guía de investigación genealógica para Florida, Puerto Rico — registros parroquiales, registro civil, barrios y archivos."
+title: "Florida: Registros Genealógicos"
+description: "Florida, Puerto Rico: registros civiles desde 1885, parroquia Nuestra Señora de la Merced desde 1884, 2 barrios, municipio incorporado en 1971, FamilySearch."
 lang: es
 ref: municipality-florida
 muni_id: florida

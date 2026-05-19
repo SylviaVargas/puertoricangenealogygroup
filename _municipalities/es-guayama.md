@@ -1,7 +1,7 @@
 ---
 layout: municipality
-title: "Guayama"
-description: "Guía de investigación genealógica para Guayama, Puerto Rico — registros parroquiales, registro civil, barrios y archivos."
+title: "Guayama: Registros Genealógicos"
+description: "Guayama, Puerto Rico: municipio madre fundado en 1736, registros civiles desde 1885, parroquia San Antonio de Padua, 10 barrios, enlaces FamilySearch."
 lang: es
 ref: municipality-guayama
 muni_id: guayama

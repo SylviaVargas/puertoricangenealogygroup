@@ -1,7 +1,7 @@
 ---
 layout: municipality
-title: "Loíza"
-description: "Genealogy research guide for Loíza, Puerto Rico — parish records, civil registration, barrios, and archives."
+title: "Loíza Genealogy Records"
+description: "Loíza, Puerto Rico genealogy: mother municipality since 1719, civil registration from 1885, Espíritu Santo y San Patricio parish, 6 barrios, FamilySearch links."
 lang: en
 ref: municipality-loiza
 muni_id: loiza

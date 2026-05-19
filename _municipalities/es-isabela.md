@@ -1,7 +1,7 @@
 ---
 layout: municipality
-title: "Isabela"
-description: "Guía de investigación genealógica para Isabela, Puerto Rico — registros parroquiales, registro civil, barrios y archivos."
+title: "Isabela: Registros Genealógicos"
+description: "Isabela, Puerto Rico: registros civiles desde 1885, parroquia San Antonio de Padua desde 1818, municipio fundado en 1819, 14 barrios, FamilySearch."
 lang: es
 ref: municipality-isabela
 muni_id: isabela

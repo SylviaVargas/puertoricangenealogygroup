@@ -1,7 +1,7 @@
 ---
 layout: municipality
-title: "Canóvanas"
-description: "Genealogy research guide for Canóvanas, Puerto Rico — parish records, civil registration, barrios, and archives."
+title: "Canóvanas Genealogy Records"
+description: "Canóvanas, Puerto Rico genealogy: civil records from 1885, Nuestra Señora del Pilar parish since 1903, 8 barrios, established 1909, FamilySearch links."
 lang: en
 ref: municipality-canovanas
 muni_id: canovanas

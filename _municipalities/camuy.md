@@ -1,7 +1,7 @@
 ---
 layout: municipality
-title: "Camuy"
-description: "Genealogy research guide for Camuy, Puerto Rico — parish records, civil registration, barrios, and archives."
+title: "Camuy Genealogy Records"
+description: "Camuy, Puerto Rico genealogy: civil registration from 1885, San José parish records since 1836, founded 1807, 13 barrios, direct FamilySearch links."
 lang: en
 ref: municipality-camuy
 muni_id: camuy

@@ -1,7 +1,7 @@
 ---
 layout: municipality
-title: "Ciales"
-description: "Guía de investigación genealógica para Ciales, Puerto Rico — registros parroquiales, registro civil, barrios y archivos."
+title: "Ciales: Registros Genealógicos"
+description: "Ciales, Puerto Rico: registros civiles desde 1885, parroquia Nuestra Señora del Carmen desde 1820, 9 barrios, región de la Cordillera Central, FamilySearch."
 lang: es
 ref: municipality-ciales
 muni_id: ciales

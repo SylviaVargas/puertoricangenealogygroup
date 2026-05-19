@@ -1,7 +1,7 @@
 ---
 layout: municipality
-title: "Guayanilla"
-description: "Genealogy research guide for Guayanilla, Puerto Rico — parish records, civil registration, barrios, and archives."
+title: "Guayanilla Genealogy Records"
+description: "Guayanilla, Puerto Rico genealogy: civil records from 1885, Inmaculada Concepción parish since 1841, founded 1833, 8 barrios, direct FamilySearch links."
 lang: en
 ref: municipality-guayanilla
 muni_id: guayanilla

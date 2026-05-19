@@ -1,7 +1,7 @@
 ---
 layout: municipality
-title: "Barceloneta"
-description: "Genealogy research guide for Barceloneta, Puerto Rico — parish records, civil registration, barrios, and archives."
+title: "Barceloneta Genealogy Records"
+description: "Barceloneta, Puerto Rico genealogy: civil records from 1885, Nuestra Señora del Carmen parish since 1881, 4 barrios, newest pre-1900 municipality, FamilySearch."
 lang: en
 ref: municipality-barceloneta
 muni_id: barceloneta

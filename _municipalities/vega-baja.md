@@ -1,7 +1,7 @@
 ---
 layout: municipality
-title: "Vega Baja"
-description: "Genealogy research guide for Vega Baja, Puerto Rico — parish records, civil registration, barrios, and archives."
+title: "Vega Baja Genealogy Records"
+description: "Vega Baja, Puerto Rico genealogy: mother municipality since 1776, civil registration from 1885, Nuestra Señora del Rosario parish, 14 barrios, north coast, FamilySearch."
 lang: en
 ref: municipality-vega-baja
 muni_id: vega_baja

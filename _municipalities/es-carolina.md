@@ -1,7 +1,7 @@
 ---
 layout: municipality
-title: "Carolina"
-description: "Guía de investigación genealógica para Carolina, Puerto Rico — registros parroquiales, registro civil, barrios y archivos."
+title: "Carolina: Registros Genealógicos"
+description: "Carolina, Puerto Rico: registros civiles desde 1885, parroquia San Fernando desde 1816, 19 barrios, municipio fundado en 1816, enlaces FamilySearch."
 lang: es
 ref: municipality-carolina
 muni_id: carolina

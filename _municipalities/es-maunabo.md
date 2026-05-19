@@ -1,7 +1,7 @@
 ---
 layout: municipality
-title: "Maunabo"
-description: "Guía de investigación genealógica para Maunabo, Puerto Rico — registros parroquiales, registro civil, barrios y archivos."
+title: "Maunabo: Registros Genealógicos"
+description: "Maunabo, Puerto Rico: registros civiles desde 1885, parroquia San Isidro Labrador desde 1800, 4 barrios, municipio fundado en 1799, FamilySearch."
 lang: es
 ref: municipality-maunabo
 muni_id: maunabo

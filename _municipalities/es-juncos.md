@@ -1,7 +1,7 @@
 ---
 layout: municipality
-title: "Juncos"
-description: "Guía de investigación genealógica para Juncos, Puerto Rico — registros parroquiales, registro civil, barrios y archivos."
+title: "Juncos: Registros Genealógicos"
+description: "Juncos, Puerto Rico: registros civiles desde 1885, parroquia Inmaculada Concepción desde 1797, 9 barrios, municipio fundado en 1797, FamilySearch."
 lang: es
 ref: municipality-juncos
 muni_id: juncos

@@ -1,7 +1,7 @@
 ---
 layout: municipality
-title: "Cabo Rojo"
-description: "Genealogy research guide for Cabo Rojo, Puerto Rico — parish records, civil registration, barrios, and archives."
+title: "Cabo Rojo Genealogy Records"
+description: "Cabo Rojo, Puerto Rico genealogy: civil records from 1885, San Miguel Arcángel parish since 1771, 8 barrios, southwestern Puerto Rico, FamilySearch links."
 lang: en
 ref: municipality-cabo-rojo
 muni_id: cabo_rojo

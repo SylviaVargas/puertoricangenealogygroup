@@ -1,7 +1,7 @@
 ---
 layout: municipality
-title: "Aguada"
-description: "Genealogy research guide for Aguada, Puerto Rico — parish records, civil registration, barrios, and archives."
+title: "Aguada Genealogy Records"
+description: "Aguada, Puerto Rico genealogy: mother municipality founded 1639, civil registration from 1885, San Francisco de Asís parish, 18 barrios, FamilySearch links."
 lang: en
 ref: municipality-aguada
 muni_id: aguada

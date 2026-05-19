@@ -1,7 +1,7 @@
 ---
 layout: municipality
-title: "Las Piedras"
-description: "Genealogy research guide for Las Piedras, Puerto Rico — parish records, civil registration, barrios, and archives."
+title: "Las Piedras Genealogy Records"
+description: "Las Piedras, Puerto Rico genealogy: civil registration from 1885, Nuestra Señora de la Inmaculada Concepción parish since 1773, 8 barrios, FamilySearch links."
 lang: en
 ref: municipality-las-piedras
 muni_id: las_piedras

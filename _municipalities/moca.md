@@ -1,7 +1,7 @@
 ---
 layout: municipality
-title: "Moca"
-description: "Genealogy research guide for Moca, Puerto Rico — parish records, civil registration, barrios, and archives."
+title: "Moca Genealogy Records"
+description: "Moca, Puerto Rico genealogy: civil records from 1885, Nuestra Señora de la Monserrate parish since 1775, 12 barrios, founded 1772, direct FamilySearch links."
 lang: en
 ref: municipality-moca
 muni_id: moca

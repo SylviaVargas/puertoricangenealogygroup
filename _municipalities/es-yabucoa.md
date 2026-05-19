@@ -1,7 +1,7 @@
 ---
 layout: municipality
-title: "Yabucoa"
-description: "Guía de investigación genealógica para Yabucoa, Puerto Rico — registros parroquiales, registro civil, barrios y archivos."
+title: "Yabucoa: Registros Genealógicos"
+description: "Yabucoa, Puerto Rico: municipio madre desde 1793, registros civiles desde 1885, parroquia Santos Ángeles Custodios, 10 barrios, FamilySearch."
 lang: es
 ref: municipality-yabucoa
 muni_id: yabucoa

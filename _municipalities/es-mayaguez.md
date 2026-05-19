@@ -1,7 +1,7 @@
 ---
 layout: municipality
-title: "Mayagüez"
-description: "Guía de investigación genealógica para Mayagüez, Puerto Rico — registros parroquiales, registro civil, barrios y archivos."
+title: "Mayagüez: Registros Genealógicos"
+description: "Mayagüez, Puerto Rico: municipio madre fundado en 1760, registros civiles desde 1885, Catedral Nuestra Señora de la Candelaria, 22 barrios, FamilySearch."
 lang: es
 ref: municipality-mayaguez
 muni_id: mayaguez

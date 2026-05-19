@@ -1,7 +1,7 @@
 ---
 layout: municipality
-title: "Aibonito"
-description: "Genealogy research guide for Aibonito, Puerto Rico — parish records, civil registration, barrios, and archives."
+title: "Aibonito Genealogy Records"
+description: "Aibonito, Puerto Rico genealogy: civil registration from 1885, San José parish records since 1831, founded 1824, 9 barrios, direct FamilySearch links."
 lang: en
 ref: municipality-aibonito
 muni_id: aibonito

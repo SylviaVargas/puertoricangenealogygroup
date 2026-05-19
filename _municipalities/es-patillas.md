@@ -1,7 +1,7 @@
 ---
 layout: municipality
-title: "Patillas"
-description: "Guía de investigación genealógica para Patillas, Puerto Rico — registros parroquiales, registro civil, barrios y archivos."
+title: "Patillas: Registros Genealógicos"
+description: "Patillas, Puerto Rico: registros civiles desde 1885, parroquia San Benito Abad y Santa Bárbara desde 1810, 16 barrios, fundado en 1811, FamilySearch."
 lang: es
 ref: municipality-patillas
 muni_id: patillas

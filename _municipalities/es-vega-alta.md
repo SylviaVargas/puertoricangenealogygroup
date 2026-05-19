@@ -1,7 +1,7 @@
 ---
 layout: municipality
-title: "Vega Alta"
-description: "Guía de investigación genealógica para Vega Alta, Puerto Rico — registros parroquiales, registro civil, barrios y archivos."
+title: "Vega Alta: Registros Genealógicos"
+description: "Vega Alta, Puerto Rico: registros civiles desde 1885, parroquia Inmaculada Concepción desde 1777, 9 barrios, municipio fundado en 1775, FamilySearch."
 lang: es
 ref: municipality-vega-alta
 muni_id: vega_alta

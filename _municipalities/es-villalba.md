@@ -1,7 +1,7 @@
 ---
 layout: municipality
-title: "Villalba"
-description: "Guía de investigación genealógica para Villalba, Puerto Rico — registros parroquiales, registro civil, barrios y archivos."
+title: "Villalba: Registros Genealógicos"
+description: "Villalba, Puerto Rico: registros civiles desde 1885, parroquia Nuestra Señora del Carmen desde 1895, 7 barrios, municipio incorporado en 1917, FamilySearch."
 lang: es
 ref: municipality-villalba
 muni_id: villalba

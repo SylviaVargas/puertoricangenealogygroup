@@ -1,7 +1,7 @@
 ---
 layout: municipality
-title: "Quebradillas"
-description: "Guía de investigación genealógica para Quebradillas, Puerto Rico — registros parroquiales, registro civil, barrios y archivos."
+title: "Quebradillas: Registros Genealógicos"
+description: "Quebradillas, Puerto Rico: registros civiles desde 1885, parroquia San Rafael Arcángel desde 1823, 8 barrios, municipio fundado en 1823, FamilySearch."
 lang: es
 ref: municipality-quebradillas
 muni_id: quebradillas

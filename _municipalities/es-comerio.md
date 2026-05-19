@@ -1,7 +1,7 @@
 ---
 layout: municipality
-title: "Comerío"
-description: "Guía de investigación genealógica para Comerío, Puerto Rico — registros parroquiales, registro civil, barrios y archivos."
+title: "Comerío: Registros Genealógicos"
+description: "Comerío, Puerto Rico: registros civiles desde 1885, parroquia Santo Cristo de la Salud desde 1832, fundado en 1826, 9 barrios, FamilySearch."
 lang: es
 ref: municipality-comerio
 muni_id: comerio

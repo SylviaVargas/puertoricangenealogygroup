@@ -1,7 +1,7 @@
 ---
 layout: municipality
-title: "Salinas"
-description: "Guía de investigación genealógica para Salinas, Puerto Rico — registros parroquiales, registro civil, barrios y archivos."
+title: "Salinas: Registros Genealógicos"
+description: "Salinas, Puerto Rico: registros civiles desde 1885, parroquia Nuestra Señora de la Monserrate desde 1854, 6 barrios, municipio fundado en 1820, FamilySearch."
 lang: es
 ref: municipality-salinas
 muni_id: salinas

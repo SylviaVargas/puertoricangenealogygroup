@@ -1,7 +1,7 @@
 ---
 layout: municipality
-title: "Luquillo"
-description: "Guía de investigación genealógica para Luquillo, Puerto Rico — registros parroquiales, registro civil, barrios y archivos."
+title: "Luquillo: Registros Genealógicos"
+description: "Luquillo, Puerto Rico: registros civiles desde 1885, parroquia San José desde 1797, 6 barrios, municipio en la costa noreste, FamilySearch."
 lang: es
 ref: municipality-luquillo
 muni_id: luquillo

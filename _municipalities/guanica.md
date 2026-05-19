@@ -1,7 +1,7 @@
 ---
 layout: municipality
-title: "Guánica"
-description: "Genealogy research guide for Guánica, Puerto Rico — parish records, civil registration, barrios, and archives."
+title: "Guánica Genealogy Records"
+description: "Guánica, Puerto Rico genealogy: civil registration from 1885, San Antonio Abad parish since 1885, 11 barrios, municipality formally established 1914, FamilySearch."
 lang: en
 ref: municipality-guanica
 muni_id: guanica

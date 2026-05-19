@@ -1,7 +1,7 @@
 ---
 layout: municipality
-title: "Caguas"
-description: "Genealogy research guide for Caguas, Puerto Rico — parish records, civil registration, barrios, and archives."
+title: "Caguas Genealogy Records"
+description: "Caguas, Puerto Rico genealogy: mother municipality founded 1775, civil registration from 1885, Catedral Dulce Nombre de Jesús, 11 barrios, FamilySearch links."
 lang: en
 ref: municipality-caguas
 muni_id: caguas

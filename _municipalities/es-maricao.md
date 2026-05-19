@@ -1,7 +1,7 @@
 ---
 layout: municipality
-title: "Maricao"
-description: "Guía de investigación genealógica para Maricao, Puerto Rico — registros parroquiales, registro civil, barrios y archivos."
+title: "Maricao: Registros Genealógicos"
+description: "Maricao, Puerto Rico: registros civiles desde 1885, parroquia San Juan Bautista desde 1864, 7 barrios, municipio establecido en 1874, FamilySearch."
 lang: es
 ref: municipality-maricao
 muni_id: maricao

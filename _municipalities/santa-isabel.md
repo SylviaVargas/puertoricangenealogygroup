@@ -1,7 +1,7 @@
 ---
 layout: municipality
-title: "Santa Isabel"
-description: "Genealogy research guide for Santa Isabel, Puerto Rico — parish records, civil registration, barrios, and archives."
+title: "Santa Isabel Genealogy Records"
+description: "Santa Isabel, Puerto Rico genealogy: civil records from 1885, Santiago Apóstol parish since 1852, 8 barrios, founded 1842, south coast, FamilySearch links."
 lang: en
 ref: municipality-santa-isabel
 muni_id: santa_isabel

@@ -1,7 +1,7 @@
 ---
 layout: municipality
-title: "Cidra"
-description: "Genealogy research guide for Cidra, Puerto Rico — parish records, civil registration, barrios, and archives."
+title: "Cidra Genealogy Records"
+description: "Cidra, Puerto Rico genealogy: civil registration from 1885, Nuestra Señora del Carmen parish since 1818, founded 1809, 14 barrios, FamilySearch links."
 lang: en
 ref: municipality-cidra
 muni_id: cidra

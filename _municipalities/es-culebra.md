@@ -1,7 +1,7 @@
 ---
 layout: municipality
-title: "Culebra"
-description: "Guía de investigación genealógica para Culebra, Puerto Rico — registros parroquiales, registro civil, barrios y archivos."
+title: "Culebra: Registros Genealógicos"
+description: "Culebra, Puerto Rico: municipio isleño fundado en 1880, registros civiles desde 1885, parroquia Nuestra Señora del Carmen desde 1891, 6 barrios, FamilySearch."
 lang: es
 ref: municipality-culebra
 muni_id: culebra

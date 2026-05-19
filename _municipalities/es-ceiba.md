@@ -1,7 +1,7 @@
 ---
 layout: municipality
-title: "Ceiba"
-description: "Guía de investigación genealógica para Ceiba, Puerto Rico — registros parroquiales, registro civil, barrios y archivos."
+title: "Ceiba: Registros Genealógicos"
+description: "Ceiba, Puerto Rico: registros civiles desde 1885, parroquia San Antonio de Padua desde 1838, 8 barrios, municipio fundado en 1838, FamilySearch."
 lang: es
 ref: municipality-ceiba
 muni_id: ceiba

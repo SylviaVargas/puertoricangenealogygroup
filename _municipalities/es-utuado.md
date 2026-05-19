@@ -1,7 +1,7 @@
 ---
 layout: municipality
-title: "Utuado"
-description: "Guía de investigación genealógica para Utuado, Puerto Rico — registros parroquiales, registro civil, barrios y archivos."
+title: "Utuado: Registros Genealógicos"
+description: "Utuado, Puerto Rico: municipio madre desde 1739, registros civiles desde 1885, parroquia San Miguel Arcángel, 24 barrios, FamilySearch."
 lang: es
 ref: municipality-utuado
 muni_id: utuado

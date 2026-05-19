@@ -1,7 +1,7 @@
 ---
 layout: municipality
-title: "Arroyo"
-description: "Genealogy research guide for Arroyo, Puerto Rico — parish records, civil registration, barrios, and archives."
+title: "Arroyo Genealogy Records"
+description: "Arroyo, Puerto Rico genealogy: civil registration from 1885, Nuestra Señora del Carmen parish since 1855, 4 barrios, FamilySearch links for all records."
 lang: en
 ref: municipality-arroyo
 muni_id: arroyo

@@ -1,7 +1,7 @@
 ---
 layout: municipality
-title: "Sabana Grande"
-description: "Genealogy research guide for Sabana Grande, Puerto Rico — parish records, civil registration, barrios, and archives."
+title: "Sabana Grande Genealogy Records"
+description: "Sabana Grande, Puerto Rico genealogy: civil records from 1885, San Isidro Labrador parish since 1808, 8 barrios, municipality founded 1813, FamilySearch links."
 lang: en
 ref: municipality-sabana-grande
 muni_id: sabana_grande

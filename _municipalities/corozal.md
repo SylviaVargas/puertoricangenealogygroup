@@ -1,7 +1,7 @@
 ---
 layout: municipality
-title: "Corozal"
-description: "Genealogy research guide for Corozal, Puerto Rico — parish records, civil registration, barrios, and archives."
+title: "Corozal Genealogy Records"
+description: "Corozal, Puerto Rico genealogy: civil registration from 1885, La Sagrada Familia parish since 1795, 13 barrios, founded 1795, direct FamilySearch links."
 lang: en
 ref: municipality-corozal
 muni_id: corozal

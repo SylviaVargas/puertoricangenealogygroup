@@ -1,7 +1,7 @@
 ---
 layout: municipality
-title: "Dorado"
-description: "Genealogy research guide for Dorado, Puerto Rico — parish records, civil registration, barrios, and archives."
+title: "Dorado Genealogy Records"
+description: "Dorado, Puerto Rico genealogy: civil registration from 1885, San Antonio de Padua parish since 1865, founded 1842, 6 barrios, direct FamilySearch links."
 lang: en
 ref: municipality-dorado
 muni_id: dorado

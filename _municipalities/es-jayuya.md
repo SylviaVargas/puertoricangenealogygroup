@@ -1,7 +1,7 @@
 ---
 layout: municipality
-title: "Jayuya"
-description: "Guía de investigación genealógica para Jayuya, Puerto Rico — registros parroquiales, registro civil, barrios y archivos."
+title: "Jayuya: Registros Genealógicos"
+description: "Jayuya, Puerto Rico: registros civiles desde 1885, parroquia Nuestra Señora de la Monserrate desde 1883, 11 barrios, municipio establecido en 1911, FamilySearch."
 lang: es
 ref: municipality-jayuya
 muni_id: jayuya

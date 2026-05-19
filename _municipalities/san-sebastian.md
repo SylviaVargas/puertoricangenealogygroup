@@ -1,7 +1,7 @@
 ---
 layout: municipality
-title: "San Sebastián"
-description: "Genealogy research guide for San Sebastián, Puerto Rico — parish records, civil registration, barrios, and archives for El Pueblo del Pepino."
+title: "San Sebastián Genealogy Records"
+description: "San Sebastián, Puerto Rico genealogy: civil records from 1885, San Sebastián Mártir parish since 1765, 22 barrios, founded 1752, direct FamilySearch links."
 lang: en
 ref: municipality-san-sebastian
 muni_id: san_sebastian

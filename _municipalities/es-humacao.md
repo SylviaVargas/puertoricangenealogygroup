@@ -1,7 +1,7 @@
 ---
 layout: municipality
-title: "Humacao"
-description: "Guía de investigación genealógica para Humacao, Puerto Rico — registros parroquiales, registro civil, barrios y archivos."
+title: "Humacao: Registros Genealógicos"
+description: "Humacao, Puerto Rico: municipio madre fundado en 1722, registros civiles desde 1885, parroquia Dulce Nombre de Jesús, 13 barrios, FamilySearch."
 lang: es
 ref: municipality-humacao
 muni_id: humacao

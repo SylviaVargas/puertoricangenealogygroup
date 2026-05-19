@@ -1,7 +1,7 @@
 ---
 layout: municipality
-title: "Toa Alta"
-description: "Genealogy research guide for Toa Alta, Puerto Rico — parish records, civil registration, barrios, and archives."
+title: "Toa Alta Genealogy Records"
+description: "Toa Alta, Puerto Rico genealogy: mother municipality since 1751, civil registration from 1885, San Fernando Rey parish, 9 barrios, direct FamilySearch links."
 lang: en
 ref: municipality-toa-alta
 muni_id: toa_alta

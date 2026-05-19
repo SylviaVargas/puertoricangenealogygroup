@@ -1,7 +1,7 @@
 ---
 layout: municipality
-title: "Yauco"
-description: "Genealogy research guide for Yauco, Puerto Rico — parish records, civil registration, barrios, and archives."
+title: "Yauco Genealogy Records"
+description: "Yauco, Puerto Rico genealogy: mother municipality founded 1756, civil registration from 1885, Nuestra Señora del Rosario parish, 21 barrios, FamilySearch links."
 lang: en
 ref: municipality-yauco
 muni_id: yauco

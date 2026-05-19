@@ -1,7 +1,7 @@
 ---
 layout: municipality
-title: "Arecibo"
-description: "Genealogy research guide for Arecibo, Puerto Rico — parish records, civil registration, barrios, and archives."
+title: "Arecibo Genealogy Records"
+description: "Arecibo, Puerto Rico genealogy: mother municipality founded 1616, civil registration from 1885, Catedral San Felipe Apóstol, 18 barrios, FamilySearch links."
 lang: en
 ref: municipality-arecibo
 muni_id: arecibo

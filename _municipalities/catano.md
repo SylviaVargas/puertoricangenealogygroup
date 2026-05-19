@@ -1,7 +1,7 @@
 ---
 layout: municipality
-title: "Cataño"
-description: "Genealogy research guide for Cataño, Puerto Rico — parish records, civil registration, barrios, and archives."
+title: "Cataño Genealogy Records"
+description: "Cataño, Puerto Rico genealogy: civil records from 1885, Nuestra Señora del Carmen parish since 1779, 2 barrios, municipality incorporated 1927, FamilySearch."
 lang: en
 ref: municipality-catano
 muni_id: catano

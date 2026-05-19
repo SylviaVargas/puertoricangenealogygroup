@@ -1,7 +1,7 @@
 ---
 layout: municipality
-title: "Lajas"
-description: "Genealogy research guide for Lajas, Puerto Rico — parish records, civil registration, barrios, and archives."
+title: "Lajas Genealogy Records"
+description: "Lajas, Puerto Rico genealogy: civil registration from 1885, San José parish records since 1885, 9 barrios, municipality founded 1883, FamilySearch links."
 lang: en
 ref: municipality-lajas
 muni_id: lajas

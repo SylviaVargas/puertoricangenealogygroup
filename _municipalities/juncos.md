@@ -1,7 +1,7 @@
 ---
 layout: municipality
-title: "Juncos"
-description: "Genealogy research guide for Juncos, Puerto Rico — parish records, civil registration, barrios, and archives."
+title: "Juncos Genealogy Records"
+description: "Juncos, Puerto Rico genealogy: civil registration from 1885, Inmaculada Concepción parish since 1797, 9 barrios, founded 1797, direct FamilySearch links."
 lang: en
 ref: municipality-juncos
 muni_id: juncos

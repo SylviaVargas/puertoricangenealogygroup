@@ -1,7 +1,7 @@
 ---
 layout: municipality
-title: "Aibonito"
-description: "Guía de investigación genealógica para Aibonito, Puerto Rico — registros parroquiales, registro civil, barrios y archivos."
+title: "Aibonito: Registros Genealógicos"
+description: "Aibonito, Puerto Rico: registros civiles desde 1885, parroquia San José desde 1831, municipio fundado en 1824, 9 barrios, enlaces a FamilySearch."
 lang: es
 ref: municipality-aibonito
 muni_id: aibonito

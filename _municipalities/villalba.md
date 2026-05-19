@@ -1,7 +1,7 @@
 ---
 layout: municipality
-title: "Villalba"
-description: "Genealogy research guide for Villalba, Puerto Rico — parish records, civil registration, barrios, and archives."
+title: "Villalba Genealogy Records"
+description: "Villalba, Puerto Rico genealogy: civil records from 1885, Nuestra Señora del Carmen parish since 1895, 7 barrios, municipality incorporated 1917, FamilySearch links."
 lang: en
 ref: municipality-villalba
 muni_id: villalba

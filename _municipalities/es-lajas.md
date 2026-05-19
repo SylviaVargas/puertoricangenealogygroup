@@ -1,7 +1,7 @@
 ---
 layout: municipality
-title: "Lajas"
-description: "Guía de investigación genealógica para Lajas, Puerto Rico — registros parroquiales, registro civil, barrios y archivos."
+title: "Lajas: Registros Genealógicos"
+description: "Lajas, Puerto Rico: registros civiles desde 1885, parroquia San José desde 1885, 9 barrios, municipio fundado apenas en 1883, FamilySearch."
 lang: es
 ref: municipality-lajas
 muni_id: lajas

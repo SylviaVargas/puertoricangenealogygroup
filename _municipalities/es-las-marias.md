@@ -1,7 +1,7 @@
 ---
 layout: municipality
-title: "Las Marías"
-description: "Guía de investigación genealógica para Las Marías, Puerto Rico — registros parroquiales, registro civil, barrios y archivos."
+title: "Las Marías: Registros Genealógicos"
+description: "Las Marías, Puerto Rico: registros civiles desde 1885, parroquia Nuestra Señora de la Monserrate desde 1842, 16 barrios, fundado en 1871, FamilySearch."
 lang: es
 ref: municipality-las-marias
 muni_id: las_marias

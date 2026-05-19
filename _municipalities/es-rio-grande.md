@@ -1,7 +1,7 @@
 ---
 layout: municipality
-title: "Río Grande"
-description: "Guía de investigación genealógica para Río Grande, Puerto Rico — registros parroquiales, registro civil, barrios y archivos."
+title: "Río Grande: Registros Genealógicos"
+description: "Río Grande, Puerto Rico: registros civiles desde 1885, parroquia Nuestra Señora del Carmen desde 1840, 11 barrios, puerta a El Yunque, FamilySearch."
 lang: es
 ref: municipality-rio-grande
 muni_id: rio_grande

@@ -1,7 +1,7 @@
 ---
 layout: municipality
-title: "San Germán"
-description: "Genealogy research guide for San Germán, Puerto Rico — parish records, civil registration, barrios, and archives."
+title: "San Germán Genealogy Records"
+description: "San Germán, Puerto Rico genealogy: second oldest city, founded 1573, civil records from 1885, San Germán de Auxerre parish, 16 barrios, FamilySearch links."
 lang: en
 ref: municipality-san-german
 muni_id: san_german

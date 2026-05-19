@@ -1,7 +1,7 @@
 ---
 layout: municipality
-title: "Aguadilla"
-description: "Genealogy research guide for Aguadilla, Puerto Rico — parish records, civil registration, barrios, and archives."
+title: "Aguadilla Genealogy Records"
+description: "Aguadilla, Puerto Rico genealogy: mother municipality since 1775, civil registration from 1885, San Carlos Borromeo parish, 16 barrios, FamilySearch links."
 lang: en
 ref: municipality-aguadilla
 muni_id: aguadilla

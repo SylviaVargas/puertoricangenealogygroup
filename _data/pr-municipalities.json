@@ -985,6 +985,71 @@
         "image": "assets/images/municipalities/maps/barranquitas-2026.png",
         "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
       }
+    ],
+    "has_detail_page": true,
+    "is_mother_municipality": false,
+    "neighbors": [
+      "Aibonito",
+      "Ciales",
+      "Coamo",
+      "Corozal",
+      "Naranjito",
+      "Orocovis"
+    ],
+    "familysearch_url": "https://www.familysearch.org/en/wiki/Barranquitas,_Puerto_Rico_Genealogy",
+    "findagrave_url": "https://www.findagrave.com/cemetery/search?locationId=county_3303",
+    "escudo": {
+      "image": "",
+      "alt": "Coat of arms of Barranquitas, Puerto Rico",
+      "description": "",
+      "license": "",
+      "attribution_url": ""
+    },
+    "online_resources": [
+      {
+        "title": "Puerto Rico, Catholic Church Records, 1645-2021",
+        "author": "FamilySearch",
+        "type": "Church Records",
+        "url": "https://www.familysearch.org/en/search/collection/1807092",
+        "description": "Island-wide Catholic collection including baptisms, confirmations, parish censuses, marriages, deaths, and indexes from parishes across Puerto Rico."
+      },
+      {
+        "title": "Puerto Rico Civil Registration, 1885-2001",
+        "author": "FamilySearch",
+        "type": "Digitized Records",
+        "url": "https://www.familysearch.org/en/search/collection/1682798",
+        "description": "Civil registration births, marriages, and deaths for all Puerto Rico municipalities including Barranquitas, beginning 1885."
+      },
+      {
+        "title": "Find A Grave: Barranquitas Municipality Cemeteries",
+        "author": "Find A Grave",
+        "type": "Cemetery Records",
+        "url": "https://www.findagrave.com/cemetery/search?locationId=county_3303",
+        "description": "Browse and search burial records across Barranquitas cemeteries."
+      }
+    ],
+    "genealogy_sources": [
+      {
+        "title": "Barranquitas, Puerto Rico Genealogy (FamilySearch Wiki)",
+        "author": "FamilySearch",
+        "type": "Research Guide",
+        "url": "https://www.familysearch.org/en/wiki/Barranquitas,_Puerto_Rico_Genealogy",
+        "description": "FamilySearch wiki page for Barranquitas with links to civil registration and Catholic church records."
+      },
+      {
+        "title": "U.S. Census Bureau: Barranquitas Municipio Profile",
+        "author": "U.S. Census Bureau",
+        "type": "Census Data",
+        "url": "https://data.census.gov/profile/Barranquitas_Municipio,_Puerto_Rico?g=050XX00US72021",
+        "description": "Authoritative 2020 Census profile for Barranquitas, including population data and geographic boundary information."
+      },
+      {
+        "title": "Municipio de Barranquitas (Enciclopedia de Puerto Rico)",
+        "author": "Fundación Puertorriqueña de las Humanidades",
+        "type": "Municipal History",
+        "url": "https://enciclopediapr.org/content/municipio-de-barranquitas/",
+        "description": "Authoritative overview of Barranquitas founding, geographic context, and administrative history."
+      }
     ]
   },
   {
