@@ -987,23 +987,23 @@
       }
     ],
     "has_detail_page": true,
-    "is_mother_municipality": false,
+    "is_mother_municipality": true,
     "neighbors": [
       "Aibonito",
-      "Ciales",
+      "Cidra",
       "Coamo",
+      "Comerío",
       "Corozal",
       "Naranjito",
       "Orocovis"
     ],
     "familysearch_url": "https://www.familysearch.org/en/wiki/Barranquitas,_Puerto_Rico_Genealogy",
-    "findagrave_url": "https://www.findagrave.com/cemetery/search?locationId=county_3303",
     "escudo": {
       "image": "",
       "alt": "Coat of arms of Barranquitas, Puerto Rico",
-      "description": "",
+      "description": "The shield displays two ravines (barrancas) representing Cañón San Cristóbal and the origin of the municipality's name. Two yagrumo trees, one masculine and one feminine, represent the mountain setting and high elevation. A mural crown at the top serves as the standard municipal insignia.",
       "license": "",
-      "attribution_url": ""
+      "attribution_url": "https://barranquitas.pr.gov/simbolos/"
     },
     "online_resources": [
       {
@@ -1021,11 +1021,11 @@
         "description": "Civil registration births, marriages, and deaths for all Puerto Rico municipalities including Barranquitas, beginning 1885."
       },
       {
-        "title": "Find A Grave: Barranquitas Municipality Cemeteries",
-        "author": "Find A Grave",
-        "type": "Cemetery Records",
-        "url": "https://www.findagrave.com/cemetery/search?locationId=county_3303",
-        "description": "Browse and search burial records across Barranquitas cemeteries."
+        "title": "Municipio de Barranquitas",
+        "author": "Fundación Puertorriqueña de las Humanidades",
+        "type": "Municipal History",
+        "url": "https://enciclopediapr.org/content/municipio-de-barranquitas/",
+        "description": "Authoritative overview of Barranquitas history, barrios, neighboring municipalities, founding, symbols, and daughter municipalities."
       }
     ],
     "genealogy_sources": [
@@ -1037,10 +1037,17 @@
         "description": "FamilySearch wiki page for Barranquitas with links to civil registration and Catholic church records."
       },
       {
+        "title": "Registros parroquiales, 1860-1952 (FamilySearch Catalog)",
+        "author": "FamilySearch",
+        "type": "Parish Records",
+        "url": "https://www.familysearch.org/ka/search/catalog/359961",
+        "description": "San Antonio de Padua parish registers for Barranquitas: baptisms and marriages 1860-1952, some volumes indexed. Start here for Catholic genealogy research."
+      },
+      {
         "title": "U.S. Census Bureau: Barranquitas Municipio Profile",
         "author": "U.S. Census Bureau",
         "type": "Census Data",
-        "url": "https://data.census.gov/profile/Barranquitas_Municipio,_Puerto_Rico?g=050XX00US72021",
+        "url": "https://www.census.gov/quickfacts/fact/table/barranquitasmunicipiopuertorico/PST045224",
         "description": "Authoritative 2020 Census profile for Barranquitas, including population data and geographic boundary information."
       },
       {
@@ -1048,7 +1055,45 @@
         "author": "Fundación Puertorriqueña de las Humanidades",
         "type": "Municipal History",
         "url": "https://enciclopediapr.org/content/municipio-de-barranquitas/",
-        "description": "Authoritative overview of Barranquitas founding, geographic context, and administrative history."
+        "description": "Covers founding, barrios, neighboring municipalities, mother-town history, and the separation of Orocovis (1825) and Comerío (1826)."
+      },
+      {
+        "title": "Símbolos — Municipio de Barranquitas",
+        "author": "Municipio de Barranquitas",
+        "type": "Official Municipal Source",
+        "url": "https://barranquitas.pr.gov/simbolos/",
+        "description": "Official coat of arms description and symbolism: barrancas for Cañón San Cristóbal, yagrumo trees for mountain setting, mural crown as municipal insignia."
+      },
+      {
+        "title": "Notas para su Historia: Barranquitas",
+        "author": "Archivo General de Puerto Rico",
+        "type": "Municipal History",
+        "url": "https://prac.rutgers.edu/historias-de-los-pueblos-1980s/",
+        "description": "Barranquitas is included in this publication series. See the PRAC portal for access; the direct PDF URL was not fully confirmable at time of publication."
+      }
+    ],
+    "barrios": [
+      "Barranquitas barrio-pueblo",
+      "Barrancas",
+      "Cañabón",
+      "Helechal",
+      "Honduras",
+      "Palo Hincado",
+      "Quebrada Grande",
+      "Quebradillas"
+    ],
+    "findagrave_cemeteries": [
+      {
+        "name": "Barranquitas Cemetery",
+        "url": "https://www.findagrave.com/cemetery/2467911/barranquitas-cemetery"
+      },
+      {
+        "name": "Cementerio Municipal de Barranquitas",
+        "url": "https://www.findagrave.com/cemetery/2171332/cementerio-municipal-de-barranquitas"
+      },
+      {
+        "name": "Cementerio Municipal Nuevo",
+        "url": "https://www.findagrave.com/cemetery/1973643/cementerio-municipal-nuevo"
       }
     ]
   },
