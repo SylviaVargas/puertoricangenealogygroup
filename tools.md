@@ -5,7 +5,18 @@ description: "All 78 Puerto Rico municipalities in one searchable guide — pari
 lang: en
 permalink: /tools/
 ref: tools
-last_modified_at: 2026-02-28
+last_modified_at: 2026-05-18
+faqs:
+  - q: "What is the Puerto Rico Municipality Guide?"
+    a: "The Municipality Guide covers all 78 Puerto Rico municipalities with information useful for genealogical research: the primary Catholic parish name and founding date, civil registry start date, major barrios, neighboring municipalities, and direct links to FamilySearch collections for that town. It is the fastest way to orient your research to a specific place."
+  - q: "Why does it matter which municipality my ancestor is from?"
+    a: "Each of Puerto Rico's 78 municipalities has its own civil registry and was served by specific Catholic parishes. Records are organized by municipality, not by island-wide index. Without knowing the correct municipality, you cannot efficiently navigate the FamilySearch collections — which are browsable by town and date rather than fully searchable by name."
+  - q: "How do I find out which municipality my ancestor is from if I do not know?"
+    a: "Start with documents you already have: naturalization records, U.S. census entries, and death certificates often list the town of birth. If you know a general region, use the Municipality Guide's map to identify nearby towns and check each one. Godparents in baptism records were often neighbors or relatives from the same town, which can help confirm a location."
+  - q: "What is a barrio in Puerto Rico?"
+    a: "A barrio is a sub-division of a municipality, similar to a ward or district. Puerto Rico municipalities are divided into barrios, and historical records often record a barrio name rather than a street address. Knowing the correct barrio can narrow your search within a municipality's records and help locate property records, agricultural census data, and church registries tied to rural chapels."
+  - q: "Are there records for Puerto Rican municipalities that no longer exist?"
+    a: "Yes. Some municipalities were merged, dissolved, or reorganized over time. Records created under a former municipality's name are still filed under that original designation. The Municipality Guide notes founding dates and, where applicable, notes when a town absorbed neighboring settlements. For former municipalities, check the records of the town that absorbed them."
 ---
 
 ## Tools

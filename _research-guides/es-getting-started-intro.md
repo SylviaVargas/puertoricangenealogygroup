@@ -6,7 +6,18 @@ difficulty: beginner
 lang: es
 permalink: /es/guias-investigacion/primeros-pasos/
 ref: getting-started-intro
-last_modified_at: 2026-05-17
+last_modified_at: 2026-05-18
+faqs:
+  - q: "¿Por qué los antepasados puertorriqueños tienen cuatro nombres en los registros antiguos?"
+    a: "Los registros históricos puertorriqueños solían anotar dos nombres de pila (por ejemplo, José María) más dos apellidos (el primer apellido del padre y el primer apellido de soltera de la madre). El resultado es cuatro elementos de nombre. También puedes encontrar honoríficos religiosos como 'Don' o 'Doña' antes del nombre, que indicaban posición social y no forman parte del nombre propiamente dicho."
+  - q: "¿Cuál es la diferencia entre registros civiles y registros eclesiásticos en Puerto Rico?"
+    a: "El registro civil comenzó en 1885 bajo la ley española y documenta nacimientos, matrimonios y defunciones en los registros municipales. Los registros eclesiásticos son anteriores al registro civil por siglos: los libros de bautismos, matrimonios y entierros fueron llevados por parroquias católicas desde tan temprano como el siglo XVII. Ambas fuentes se superponen desde 1885 en adelante y suelen contener información complementaria."
+  - q: "¿Cómo encuentro a qué parroquia pertenecía mi antepasado puertorriqueño?"
+    a: "Cada municipio tenía una parroquia católica principal. Usa nuestra Guía de Municipios para encontrar el nombre de la parroquia del pueblo de tu antepasado. En algunos pueblos se crearon parroquias adicionales a medida que crecía la población. La colección de Registros de la Iglesia Católica de Puerto Rico (1645-2021) en FamilySearch es la principal fuente digitalizada de libros parroquiales."
+  - q: "¿Qué significa 'natural' en un registro de nacimiento o bautismo puertorriqueño?"
+    a: "En los registros coloniales españoles, 'natural de' seguido de un nombre de lugar significa 'nacido en' o 'nativo de' ese lugar. No es un comentario sobre la legitimidad. Un término distinto, 'hijo natural', indica un niño nacido fuera del matrimonio."
+  - q: "El apellido de mi antepasado aparece escrito de forma diferente en distintos registros. ¿Es la misma persona?"
+    a: "Casi con certeza, sí. Los nombres en español se escribían frecuentemente de forma fonética por el amanuense, y los acentos y variantes eran inconsistentes. José y Josef, Inés e Inez, Díaz y Dias suelen referirse a la misma persona. Concéntrate en la combinación de nombre, lugar, edad aproximada y miembros de la familia asociados para confirmar la identidad entre registros."
 ---
 
 ## Video: Primeros Pasos en la Genealogía Puertorriqueña {#video-intro}

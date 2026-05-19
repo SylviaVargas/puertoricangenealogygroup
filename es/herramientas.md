@@ -5,7 +5,18 @@ description: "Los 78 municipios de Puerto Rico en una guía con búsqueda: nombr
 lang: es
 permalink: /es/herramientas/
 ref: tools
-last_modified_at: 2026-02-28
+last_modified_at: 2026-05-18
+faqs:
+  - q: "¿Qué es la Guía de Municipios de Puerto Rico?"
+    a: "La Guía de Municipios cubre los 78 municipios de Puerto Rico con información útil para la investigación genealógica: nombre y fecha de fundación de la parroquia católica principal, fecha de inicio del registro civil, barrios principales, municipios vecinos y enlaces directos a las colecciones de FamilySearch para ese pueblo. Es la forma más rápida de orientar tu investigación a un lugar específico."
+  - q: "¿Por qué es importante saber de qué municipio es mi antepasado?"
+    a: "Cada uno de los 78 municipios de Puerto Rico tiene su propio registro civil y fue atendido por parroquias católicas específicas. Los registros están organizados por municipio, no por un índice de toda la isla. Sin conocer el municipio correcto, no puedes navegar eficientemente las colecciones de FamilySearch, que se exploran por pueblo y fecha en lugar de por nombre completo."
+  - q: "¿Cómo averiguo de qué municipio es mi antepasado si no lo sé?"
+    a: "Comienza con los documentos que ya tienes: los registros de naturalización, los censos de Estados Unidos y los certificados de defunción suelen indicar el pueblo de nacimiento. Si conoces una región general, usa el mapa de la Guía de Municipios para identificar los pueblos cercanos y revisa cada uno. Los padrinos en los registros de bautismo solían ser vecinos o parientes del mismo pueblo, lo que puede ayudar a confirmar un lugar."
+  - q: "¿Qué es un barrio en Puerto Rico?"
+    a: "Un barrio es una subdivisión de un municipio, similar a un distrito o sector. Los municipios de Puerto Rico están divididos en barrios, y los registros históricos suelen anotar el nombre del barrio en lugar de una dirección de calle. Conocer el barrio correcto puede delimitar tu búsqueda dentro de los registros de un municipio y ayudar a localizar registros de propiedad, datos del censo agrícola y registros de iglesias vinculados a capillas rurales."
+  - q: "¿Existen registros de municipios puertorriqueños que ya no existen?"
+    a: "Sí. Algunos municipios fueron fusionados, disueltos o reorganizados con el tiempo. Los registros creados bajo el nombre de un antiguo municipio siguen archivados con esa denominación original. La Guía de Municipios indica las fechas de fundación y, cuando corresponde, señala cuándo un pueblo absorbió a otros. Para municipios extintos, revisa los registros del pueblo que los absorbió."
 ---
 
 ## Herramientas

@@ -5,7 +5,24 @@ description: "Cursos gratuitos y autodidactas sobre genealogía puertorriqueña:
 lang: es
 permalink: /es/guias-investigacion/
 ref: research-guides
-last_modified_at: 2026-02-07
+last_modified_at: 2026-05-18
+faqs:
+  - q: "¿Por dónde empiezo la investigación genealógica puertorriqueña?"
+    a: "Comienza contigo mismo y trabaja hacia atrás. Reúne certificados de nacimiento, actas de matrimonio y certificados de defunción de tus padres y abuelos. Luego usa la colección de Registro Civil de Puerto Rico (1885-2001) y la colección de Registros de la Iglesia Católica (1645-2021) en FamilySearch para avanzar más atrás. Nuestra guía de Primeros Pasos explica el proceso completo."
+  - q: "¿Qué registros existen de Puerto Rico antes de 1885?"
+    a: "Antes de que comenzara el registro civil en 1885, los registros principales son los libros sacramentales de la Iglesia Católica: bautismos, matrimonios y entierros. Algunos registros parroquiales datan del siglo XVII. Están disponibles a través de la colección de Registros de la Iglesia Católica de Puerto Rico (1645-2021) en FamilySearch. Los registros sacramentales a menudo incluían nombres de los padres, edades, origen y condición social."
+  - q: "¿Necesito hablar español para investigar genealogía puertorriqueña?"
+    a: "No es necesario ser fluido, pero es esencial familiarizarse con los términos genealógicos españoles más comunes. La mayoría de los registros históricos están en español. Nuestro Glosario Genealógico Español gratuito lista los términos más frecuentes en los registros civiles y eclesiásticos."
+  - q: "¿Están disponibles en línea y de forma gratuita los registros genealógicos de Puerto Rico?"
+    a: "Sí. FamilySearch ofrece acceso gratuito a dos colecciones principales: Registro Civil 1885-2001 y Registros de la Iglesia Católica 1645-2021. Muchos registros están digitalizados y son navegables sin suscripción de pago. Nuestras guías de investigación explican cómo utilizar ambas colecciones."
+  - q: "¿Qué es el sistema de doble apellido en los registros puertorriqueños?"
+    a: "En Puerto Rico, las personas llevan tradicionalmente dos apellidos: el primer apellido del padre seguido del primer apellido de soltera de la madre. Por ejemplo, Juan Rivera Rodríguez indica que Rivera es del padre y Rodríguez es de la madre. Las mujeres conservan sus apellidos de nacimiento tras el matrimonio. Conocer los dos apellidos de los padres es esencial para encontrar registros."
+  - q: "¿Hasta qué época puedo rastrear a mis antepasados puertorriqueños?"
+    a: "Con los registros eclesiásticos es posible rastrear algunas familias hasta el siglo XVII, aunque la cobertura varía según la parroquia y la supervivencia de los documentos. El registro civil ofrece cobertura confiable desde 1885 en adelante. Los registros de esclavos (Registros de Esclavos) de 1872 pueden conectar a los descendientes de personas esclavizadas con pueblos específicos y, en algunos casos, con orígenes africanos."
+  - q: "¿Qué es la guía de los 78 municipios?"
+    a: "Puerto Rico tiene 78 municipios, cada uno con su propio registro civil, historia parroquial católica y fechas de inicio de los registros. Nuestra Guía de Municipios cubre los 78 con nombres de parroquias, fechas de inicio del registro civil, barrios y enlaces directos a FamilySearch, para que sepas exactamente qué registros buscar para el pueblo de tu antepasado."
+  - q: "¿Son gratuitas estas guías de investigación?"
+    a: "Sí. Todas las guías de este sitio son gratuitas y autodidactas. Están elaboradas siguiendo el Estándar de Prueba Genealógica (GPS, por sus siglas en inglés) desarrollado por la Junta de Certificación de Genealogistas."
 ---
 
 ## Guías de Investigación Genealógica Puertorriqueña

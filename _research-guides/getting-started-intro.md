@@ -6,7 +6,18 @@ difficulty: beginner
 lang: en
 permalink: /research-guides/getting-started-intro/
 ref: getting-started-intro
-last_modified_at: 2026-05-17
+last_modified_at: 2026-05-18
+faqs:
+  - q: "Why do Puerto Rican ancestors have four names in old records?"
+    a: "Historical Puerto Rican records often recorded two given names (for example, Jose Maria) plus two surnames (father's first surname and mother's first maiden surname). The result is four name elements. You may also see religious honorifics like 'Don' or 'Dona' added before the name, which indicated social standing and are not part of the name itself."
+  - q: "What is the difference between civil records and church records in Puerto Rico?"
+    a: "Civil registration began in 1885 under Spanish law and records births, marriages, and deaths in municipal registries. Church records predate civil registration by centuries: baptism, marriage, and burial registers were kept by Catholic parishes from as early as the 1600s. Both sources overlap from 1885 onward and often contain complementary information."
+  - q: "How do I find which parish my Puerto Rican ancestor belonged to?"
+    a: "Each municipality had a primary Catholic parish. Use our Municipality Guide to find the parish name for your ancestor's town. For some towns, additional parishes were created as populations grew. FamilySearch's Puerto Rico Catholic Church Records collection (1645-2021) is the main digitized source for parish registers."
+  - q: "What does 'natural' mean in a Puerto Rican birth or baptism record?"
+    a: "In Spanish colonial records, 'natural de' followed by a place name means 'born in' or 'a native of' that place. It is not a comment on legitimacy. A separate term, 'hijo natural,' indicates a child born outside of marriage."
+  - q: "My ancestor's name is spelled differently across records. Is this the same person?"
+    a: "Almost certainly. Spanish names were frequently spelled phonetically by the recording clerk, and accents and variants were inconsistent. Jose and Josef, Ines and Inez, Diaz and Dias often refer to the same person. Focus on the combination of name, place, approximate age, and associated family members to confirm identity across records."
 ---
 
 ## Video: Getting Started with Puerto Rican Genealogy {#intro-video}

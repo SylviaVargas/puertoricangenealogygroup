@@ -6,7 +6,18 @@ difficulty: intermediate
 lang: en
 permalink: /research-guides/navigating-civil-records/
 ref: navigating-civil-records-overview
-last_modified_at: 2026-02-25
+last_modified_at: 2026-05-18
+faqs:
+  - q: "Why does my search on FamilySearch return no results for a Puerto Rican ancestor?"
+    a: "Most Puerto Rican records on FamilySearch are not fully indexed. The Civil Registration collection has partial indexing, and many records are only browsable as images. A name search that returns nothing does not mean the record does not exist. Use the municipality-and-date browsing method: navigate to the correct town and year range and search page by page."
+  - q: "What is the Registro Demografico and how is it different from older civil records?"
+    a: "The Registro Demografico is the Puerto Rico civil registry system established under U.S. administration after 1898. Records from 1931 onward moved to this system. These records are held by the Puerto Rico Department of Health, not by municipal offices. Access rules are stricter than for older records, and most post-1931 records are not available on FamilySearch."
+  - q: "Civil registration began in 1885, but I cannot find my ancestor. What should I try next?"
+    a: "Search the Catholic Church records instead. For ancestors born before 1885, baptism registers are the primary substitute for birth records. Marriage and burial registers can also establish names, ages, and parentage. If your ancestor was born after 1885 and records are missing, check neighboring municipalities — boundary changes and record survival gaps are common."
+  - q: "How do I read handwritten Spanish in 19th century Puerto Rican records?"
+    a: "Start by identifying the record type's standard boilerplate. Baptism entries follow a predictable formula: date, names of officiating priest, child, parents, and godparents. Once you recognize the formula, you can focus on the variable data even if you cannot read every word. The FamilySearch Learning Center has a free Spanish handwriting course covering colonial script."
+  - q: "What information does a Puerto Rican civil birth record from 1885-1930 contain?"
+    a: "A civil birth record (acta de nacimiento) from this period typically includes: date and place of birth, child's name, father's name and age, mother's name and age, both parents' places of origin, names of the paternal and maternal grandparents, and names of witnesses. Legitimacy status was recorded. This makes the birth record one of the richest sources for a single generation."
 ---
 
 ## Who Is This Course For?

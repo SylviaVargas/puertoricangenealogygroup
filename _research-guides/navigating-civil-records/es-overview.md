@@ -6,7 +6,18 @@ difficulty: intermediate
 lang: es
 permalink: /es/guias-investigacion/navegar-registros-civiles/
 ref: navigating-civil-records-overview
-last_modified_at: 2026-02-25
+last_modified_at: 2026-05-18
+faqs:
+  - q: "¿Por qué mi búsqueda en FamilySearch no arroja resultados para un antepasado puertorriqueño?"
+    a: "La mayoría de los registros puertorriqueños en FamilySearch no están completamente indexados. La colección de Registro Civil tiene indexación parcial, y muchos registros solo son navegables como imágenes. Una búsqueda por nombre que no devuelve resultados no significa que el registro no exista. Usa el método de navegación por municipio y fecha: accede al pueblo y el rango de años correspondiente y busca página por página."
+  - q: "¿Qué es el Registro Demográfico y en qué se diferencia de los registros civiles anteriores?"
+    a: "El Registro Demográfico es el sistema de registro civil de Puerto Rico establecido bajo la administración estadounidense después de 1898. Los registros a partir de 1931 pasaron a este sistema. Estos registros están en poder del Departamento de Salud de Puerto Rico, no en las oficinas municipales. Las reglas de acceso son más estrictas que para los registros más antiguos, y la mayoría de los registros posteriores a 1931 no están disponibles en FamilySearch."
+  - q: "El registro civil comenzó en 1885, pero no puedo encontrar a mi antepasado. ¿Qué más puedo intentar?"
+    a: "Busca en los registros de la Iglesia Católica. Para los antepasados nacidos antes de 1885, los registros de bautismo son el sustituto principal de las actas de nacimiento. Los registros de matrimonio y entierro también pueden establecer nombres, edades y filiación. Si tu antepasado nació después de 1885 y faltan registros, revisa los municipios vecinos: los cambios de límites y las lagunas en la conservación de documentos son frecuentes."
+  - q: "¿Cómo leo el español manuscrito en los registros puertorriqueños del siglo XIX?"
+    a: "Comienza identificando el modelo estándar del tipo de registro. Los asientos de bautismo siguen una fórmula predecible: fecha, nombres del sacerdote que oficia, del niño, de los padres y de los padrinos. Una vez que reconoces la fórmula, puedes concentrarte en los datos variables aunque no puedas leer todas las palabras. El Centro de Aprendizaje de FamilySearch ofrece un curso gratuito de escritura española que cubre la letra colonial."
+  - q: "¿Qué información contiene un acta de nacimiento civil puertorriqueña de 1885 a 1930?"
+    a: "Un acta de nacimiento civil (acta de nacimiento) de este período incluye típicamente: fecha y lugar de nacimiento, nombre del niño, nombre y edad del padre, nombre y edad de la madre, lugar de origen de ambos padres, nombres de los abuelos paternos y maternos, y nombres de los testigos. Se registraba la legitimidad. Esto convierte el acta de nacimiento en una de las fuentes más ricas para una sola generación."
 ---
 
 ## ¿Para Quién Es Este Curso?
