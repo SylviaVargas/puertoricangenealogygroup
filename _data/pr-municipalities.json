@@ -383,6 +383,12 @@
         "type": "Book",
         "description": "A commemorative anthology for Aguadilla's 250th anniversary, bringing together historical essays and local memory tied to the town's founding."
       }
+    ],
+    "genealogiapr_transcriptions": [
+      {
+        "label": "Aguadilla",
+        "url": "https://genealogiapr.com/recursos-spg/#644-758-wpfd-la-aguadilla"
+      }
     ]
   },
   {
@@ -1095,6 +1101,12 @@
         "name": "Cementerio Municipal Nuevo",
         "url": "https://www.findagrave.com/cemetery/1973643/cementerio-municipal-nuevo"
       }
+    ],
+    "genealogiapr_transcriptions": [
+      {
+        "label": "Barranquitas",
+        "url": "https://genealogiapr.com/recursos-spg/#644-754-wpfd-la-barranquitas"
+      }
     ]
   },
   {
@@ -1385,6 +1397,12 @@
         "url": "https://www.oech.pr.gov/libros-revistas-y-publicaciones",
         "type": "Book",
         "description": "A specialized study on the geological and economic history of the salt flats in the Boquerón region."
+      }
+    ],
+    "genealogiapr_transcriptions": [
+      {
+        "label": "Cabo Rojo",
+        "url": "https://genealogiapr.com/recursos-spg/#644-722-wpfd-la-cabo-rojo"
       }
     ]
   },
@@ -2023,6 +2041,12 @@
         "type": "Cemetery Records",
         "description": "Find a Grave memorial page for Cementerio La Resurrección in Carolina."
       }
+    ],
+    "genealogiapr_transcriptions": [
+      {
+        "label": "Carolina",
+        "url": "https://genealogiapr.com/recursos-spg/#644-751-wpfd-la-carolina"
+      }
     ]
   },
   {
@@ -2388,6 +2412,12 @@
         "type": "Digitized Records",
         "description": "Civil registration births, marriages, and deaths for all Puerto Rico municipalities including Cayey, beginning 1885."
       }
+    ],
+    "genealogiapr_transcriptions": [
+      {
+        "label": "Cayey",
+        "url": "https://genealogiapr.com/recursos-spg/#644-721-wpfd-la-cayey"
+      }
     ]
   },
   {
@@ -2740,6 +2770,12 @@
         "type": "Digitized Records",
         "description": "Civil registration births, marriages, and deaths for all Puerto Rico municipalities including Cidra, beginning 1885."
       }
+    ],
+    "genealogiapr_transcriptions": [
+      {
+        "label": "Cidra",
+        "url": "https://genealogiapr.com/recursos-spg/#644-723-wpfd-la-cidra"
+      }
     ]
   },
   {
@@ -2832,6 +2868,12 @@
         "url": "",
         "type": "Book",
         "description": "San Juan: Instituto de Cultura Puertorriqueña, 1979."
+      }
+    ],
+    "genealogiapr_transcriptions": [
+      {
+        "label": "Coamo",
+        "url": "https://genealogiapr.com/recursos-spg/#644-745-wpfd-la-coamo"
       }
     ]
   },
@@ -2941,6 +2983,12 @@
         "url": "https://genealogianuestra.com/comerio-church-records-1832-1940/",
         "type": "Research Guide",
         "description": "Guide to Comerío church records with 1832 start date and book-by-book coverage notes for baptisms, marriages, and burials."
+      }
+    ],
+    "genealogiapr_transcriptions": [
+      {
+        "label": "Comerío",
+        "url": "https://genealogiapr.com/recursos-spg/#644-788-wpfd-la-comerio"
       }
     ]
   },
@@ -3930,6 +3978,12 @@
         "type": "Digitized Records",
         "description": "Civil registration births, marriages, and deaths for all Puerto Rico municipalities including Gurabo, beginning 1885."
       }
+    ],
+    "genealogiapr_transcriptions": [
+      {
+        "label": "Gurabo",
+        "url": "https://genealogiapr.com/recursos-spg/#644-743-wpfd-la-gurabo"
+      }
     ]
   },
   {
@@ -4492,6 +4546,12 @@
         "type": "Digitized Records",
         "description": "Civil registration births, marriages, and deaths for all Puerto Rico municipalities including Juana Díaz, beginning 1885."
       }
+    ],
+    "genealogiapr_transcriptions": [
+      {
+        "label": "Juana Díaz",
+        "url": "https://genealogiapr.com/recursos-spg/#644-747-wpfd-la-juana-diaz"
+      }
     ]
   },
   {
@@ -4579,6 +4639,12 @@
         "url": "https://www.familysearch.org/en/search/collection/1682798",
         "type": "Digitized Records",
         "description": "Civil registration births, marriages, and deaths for all Puerto Rico municipalities including Juncos, beginning 1885."
+      }
+    ],
+    "genealogiapr_transcriptions": [
+      {
+        "label": "Juncos",
+        "url": "https://genealogiapr.com/recursos-spg/#644-746-wpfd-la-juncos"
       }
     ]
   },
@@ -5040,6 +5106,12 @@
         "type": "Digitized Records",
         "description": "Civil registration births, marriages, and deaths for all Puerto Rico municipalities including Loíza, beginning 1885."
       }
+    ],
+    "genealogiapr_transcriptions": [
+      {
+        "label": "Loíza",
+        "url": "https://genealogiapr.com/recursos-spg/#644-742-wpfd-la-loiza"
+      }
     ]
   },
   {
@@ -5135,6 +5207,12 @@
         "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
         "image": "assets/images/municipalities/maps/luquillo-2026.png",
         "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      }
+    ],
+    "genealogiapr_transcriptions": [
+      {
+        "label": "Luquillo",
+        "url": "https://genealogiapr.com/recursos-spg/#644-749-wpfd-la-luquillo"
       }
     ]
   },
@@ -6184,6 +6262,12 @@
         "type": "Digitized Records",
         "description": "Civil registration births, marriages, and deaths for all Puerto Rico municipalities including Patillas, beginning 1885."
       }
+    ],
+    "genealogiapr_transcriptions": [
+      {
+        "label": "Patillas",
+        "url": "https://genealogiapr.com/recursos-spg/#644-750-wpfd-la-patillas"
+      }
     ]
   },
   {
@@ -6696,6 +6780,12 @@
         "type": "Encyclopedia Entry",
         "description": "Municipal overview with founding context, geography, and historical notes for Río Grande, Puerto Rico."
       }
+    ],
+    "genealogiapr_transcriptions": [
+      {
+        "label": "Río Grande",
+        "url": "https://genealogiapr.com/recursos-spg/#644-753-wpfd-la-rio-grande"
+      }
     ]
   },
   {
@@ -6893,6 +6983,12 @@
         "url": "https://enciclopediapr.org/content/municipio-de-salinas/",
         "type": "Encyclopedia Entry",
         "description": "Municipal overview with founding context, geography, and historical notes for Salinas, Puerto Rico."
+      }
+    ],
+    "genealogiapr_transcriptions": [
+      {
+        "label": "Salinas",
+        "url": "https://genealogiapr.com/recursos-spg/#644-752-wpfd-la-salinas"
       }
     ]
   },
@@ -8441,6 +8537,16 @@
         "type": "Church Records",
         "description": "Marriage register for Nuestra Señora de los Remedios parish, San Juan, 1913-1931. Digitized image set on FamilySearch."
       }
+    ],
+    "genealogiapr_transcriptions": [
+      {
+        "label": "San Juan",
+        "url": "https://genealogiapr.com/recursos-spg/#644-720-wpfd-la-san-juan"
+      },
+      {
+        "label": "Río Piedras",
+        "url": "https://genealogiapr.com/recursos-spg/#644-724-wpfd-la-rio-piedras"
+      }
     ]
   },
   {
@@ -8705,6 +8811,12 @@
         "url": "https://www.coleccionesicp.pr.gov/",
         "type": "Book",
         "description": "A specialized study on the clandestine revolutionary cells that operated in San Sebastián leading up to the Grito de Lares in 1868."
+      }
+    ],
+    "genealogiapr_transcriptions": [
+      {
+        "label": "San Sebastián",
+        "url": "https://genealogiapr.com/recursos-spg/#644-719-wpfd-la-san-sebastian"
       }
     ]
   },
@@ -8982,6 +9094,12 @@
         "url": "https://www.familysearch.org/en/search/collection/1682798",
         "type": "Digitized Records",
         "description": "Civil registration births, marriages, and deaths for all Puerto Rico municipalities including Toa Baja, beginning 1885."
+      }
+    ],
+    "genealogiapr_transcriptions": [
+      {
+        "label": "Toa Baja",
+        "url": "https://genealogiapr.com/recursos-spg/#644-748-wpfd-la-toa-baja"
       }
     ]
   },

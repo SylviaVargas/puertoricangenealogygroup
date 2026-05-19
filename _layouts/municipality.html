@@ -297,6 +297,22 @@ layout: default
       </section>
       {% endif %}
 
+      {% if muni.genealogiapr_transcriptions and muni.genealogiapr_transcriptions.size > 0 %}
+      <section id="genealogiapr" class="muni-section muni-genealogiapr-section">
+        <h2>{% if page.lang == 'es' %}Transcripciones de GenealogíaPR.com{% else %}GenealogíaPR.com Transcriptions{% endif %}</h2>
+        <p>{% if page.lang == 'es' %}Los siguientes enlaces conectan con recursos gratuitos de transcripción de registros parroquiales disponibles a través de <strong>GenealogíaPR.com</strong>, el sitio web de la <strong>Sociedad Puertorriqueña de Genealogía</strong>. Estos valiosos recursos fueron creados y compartidos gracias al trabajo dedicado de los miembros de la Sociedad.{% else %}The following links connect to free church record transcription resources available through <strong>GenealogíaPR.com</strong>, the website of the <strong>Sociedad Puertorriqueña de Genealogía</strong>. These valuable resources were created and shared through the dedicated work of Sociedad members.{% endif %}</p>
+        <ul class="muni-sources-list">
+          {% for entry in muni.genealogiapr_transcriptions %}
+          <li>
+            <a href="{{ entry.url }}" target="_blank" rel="noopener noreferrer"><em>{{ entry.label }}: {% if page.lang == 'es' %}Transcripciones de Registros Parroquiales{% else %}Church Record Transcriptions{% endif %}</em></a>
+            <span class="muni-source-type">{% if page.lang == 'es' %}Sociedad Puertorriqueña de Genealogía{% else %}Sociedad Puertorriqueña de Genealogía{% endif %}</span>
+          </li>
+          {% endfor %}
+        </ul>
+        <p class="muni-genealogiapr-cta">{% if page.lang == 'es' %}Si estas transcripciones ayudan a avanzar su investigación genealógica puertorriqueña, considere apoyar este importante trabajo convirtiéndose en miembro de la Sociedad Puertorriqueña de Genealogía: <a href="https://genealogiapr.com/nueva-membresia/" target="_blank" rel="noopener noreferrer"><em>Únase aquí</em></a>.{% else %}If these transcriptions help advance your Puerto Rican genealogy research, please consider supporting this important work by becoming a member of the Sociedad Puertorriqueña de Genealogía: <a href="https://genealogiapr.com/nueva-membresia/" target="_blank" rel="noopener noreferrer"><em>Join here</em></a>.{% endif %}</p>
+      </section>
+      {% endif %}
+
     </main>
 
     <aside class="muni-sidebar">
@@ -314,6 +330,7 @@ layout: default
           <li><a href="#toolkit">{% if page.lang == 'es' %}Recursos de Genealogía{% else %}Genealogy Toolkit{% endif %}</a></li>
           <li><a href="#archives">{% if page.lang == 'es' %}Archivos Digitales{% else %}Digital Archives{% endif %}</a></li>
           {% if muni.genealogy_sources %}<li><a href="#sources">{% if page.lang == 'es' %}Lecturas Recomendadas{% else %}Further Reading{% endif %}</a></li>{% endif %}
+          {% if muni.genealogiapr_transcriptions %}<li><a href="#genealogiapr">{% if page.lang == 'es' %}Transcripciones GenealogíaPR{% else %}GenealogíaPR Transcriptions{% endif %}</a></li>{% endif %}
           <li><a href="#research-checklist">{% if page.lang == 'es' %}Lista de Verificación{% else %}Research Checklist{% endif %}</a></li>
         </ul>
       </nav>
