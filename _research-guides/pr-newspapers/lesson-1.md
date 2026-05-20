@@ -139,4 +139,4 @@ For each newspaper title, identify its type and one genealogical record type you
 
 ---
 
-*© 2026 Sylvia Vargas. Puerto Rican Genealogy Group. All rights reserved.*
+*© 2026 Sylvia Vargas. PuertoRicanGenealogy.org. All rights reserved.*

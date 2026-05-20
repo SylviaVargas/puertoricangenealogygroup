@@ -7,6 +7,10 @@ lang: en
 permalink: /research-guides/census-records/
 ref: census-records-overview
 last_modified_at: 2026-02-26
+related_guides:
+  - /research-guides/navigating-civil-records/
+  - /research-guides/slave-records/
+  - /research-guides/getting-started/
 ---
 
 ## Who Is This Course For?

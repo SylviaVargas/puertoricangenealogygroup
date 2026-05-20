@@ -7,6 +7,12 @@ ref: meeting-july-2026
 last_modified_at: 2026-05-13
 parent_title: Reuniones
 parent_url: /es/reuniones/
+event_name: "Reunión de Julio 2026 — Grupo de Genealogía Puertorriqueña"
+event_description: "Reunión mensual de genealogía puertorriqueña por Zoom. Tema por anunciar. Únete para aprender, compartir y conectar con otros investigadores de genealogía puertorriqueña."
+event_start: "2026-07-13T19:00:00-04:00"
+event_end: "2026-07-13T21:00:00-04:00"
+event_url: "https://us06web.zoom.us/meeting/register/chSyaQqxRzSxOaeXxJmM0Q"
+event_status: "EventScheduled"
 ---
 
 ## Reunión Virtual de Genealogía Puertorriqueña

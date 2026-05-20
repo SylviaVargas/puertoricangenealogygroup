@@ -18,6 +18,10 @@ faqs:
     a: "Start by identifying the record type's standard boilerplate. Baptism entries follow a predictable formula: date, names of officiating priest, child, parents, and godparents. Once you recognize the formula, you can focus on the variable data even if you cannot read every word. The FamilySearch Learning Center has a free Spanish handwriting course covering colonial script."
   - q: "What information does a Puerto Rican civil birth record from 1885-1930 contain?"
     a: "A civil birth record (acta de nacimiento) from this period typically includes: date and place of birth, child's name, father's name and age, mother's name and age, both parents' places of origin, names of the paternal and maternal grandparents, and names of witnesses. Legitimacy status was recorded. This makes the birth record one of the richest sources for a single generation."
+related_guides:
+  - /research-guides/census-records/
+  - /research-guides/slave-records/
+  - /research-guides/getting-started/
 ---
 
 ## Who Is This Course For?

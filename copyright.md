@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Copyright and Usage"
-description: "Copyright notice and terms of use for content on the Puerto Rican Genealogy Group website."
+description: "Copyright notice and terms of use for content on PuertoRicanGenealogy.org website."
 lang: en
 ref: copyright
 permalink: /copyright/
@@ -9,9 +9,9 @@ permalink: /copyright/
 
 ## Copyright Notice
 
-The content on this website is the original creative work of **Sylvia Vargas** and the **Puerto Rican Genealogy Group**.
+The content on this website is the original creative work of **Sylvia Vargas** and the **PuertoRicanGenealogy.org**.
 
-&copy; 2024&#8211;2026 Sylvia Vargas / Puerto Rican Genealogy Group. All rights reserved.
+&copy; 2024&#8211;2026 Sylvia Vargas / PuertoRicanGenealogy.org. All rights reserved.
 
 ---
 
@@ -58,10 +58,10 @@ Please include a description of the intended use, the specific content you wish 
 When citing content from this website in genealogical publications or research logs, use the following format (Evidence Explained style):
 
 **Website page:**
-Sylvia Vargas, "Page Title," Puerto Rican Genealogy Group (puertoricangenealogy.org : accessed [date]), URL.
+Sylvia Vargas, "Page Title," PuertoRicanGenealogy.org (puertoricangenealogy.org : accessed [date]), URL.
 
 **Course module:**
-Sylvia Vargas, *Teaching Genealogists AI&#8482;* course, "Module Title," Puerto Rican Genealogy Group (puertoricangenealogy.org : accessed [date]), URL.
+Sylvia Vargas, *Teaching Genealogists AI&#8482;* course, "Module Title," PuertoRicanGenealogy.org (puertoricangenealogy.org : accessed [date]), URL.
 
 ---
 

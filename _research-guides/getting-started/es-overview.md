@@ -7,6 +7,10 @@ lang: es
 permalink: /es/guias-investigacion/empezar/
 ref: getting-started-overview
 last_modified_at: 2026-02-18
+related_guides:
+  - /es/guias-investigacion/navegar-registros-civiles/
+  - /es/guias-investigacion/registros-censales/
+  - /es/guias-investigacion/registros-esclavos/
 ---
 
 ## ¿Para Quién Es Este Curso?
@@ -111,4 +115,4 @@ No necesitas hablar español con fluidez para investigar tu familia puertorrique
 
 ---
 
-*Curso creado por Sylvia Vargas para el Puerto Rican Genealogy Group. © 2026 Sylvia Vargas. Teaching Genealogists AI™. Todos los derechos reservados.*
+*Curso creado por Sylvia Vargas para el PuertoRicanGenealogy.org. © 2026 Sylvia Vargas. Teaching Genealogists AI™. Todos los derechos reservados.*

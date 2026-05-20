@@ -8,7 +8,7 @@ permalink: /starter-kit/
 last_modified_at: 2026-05-12
 ---
 
-Thank you for subscribing to the Puerto Rican Genealogy Group newsletter. Your free guides are ready below.
+Thank you for subscribing to PuertoRicanGenealogy.org newsletter. Your free guides are ready below.
 
 ---
 

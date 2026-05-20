@@ -7,6 +7,12 @@ ref: meeting-april-2026
 last_modified_at: 2026-03-14
 parent_title: Reuniones
 parent_url: /es/reuniones/
+event_name: "Reunión de Abril 2026 — Resúmenes de RootsTech y Compartir de Miembros"
+event_description: "Reunión mensual de genealogía puertorriqueña por Zoom: resúmenes de RootsTech 2026, logros de miembros, muros de ladrillo y discusión abierta."
+event_start: "2026-04-13T19:00:00-04:00"
+event_end: "2026-04-13T21:00:00-04:00"
+event_url: "https://us06web.zoom.us/meeting/register/chSyaQqxRzSxOaeXxJmM0Q"
+event_status: "EventScheduled"
 ---
 
 ## Reunión Virtual de Genealogía Puertorriqueña

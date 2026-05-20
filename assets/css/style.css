@@ -1290,6 +1290,40 @@ td:first-child {
   color: var(--color-navy);
 }
 
+/* ===== Related Guides Box ===== */
+.related-guides {
+  margin-top: var(--spacing-lg);
+  padding: var(--spacing-md) var(--spacing-lg);
+  background: var(--color-cream);
+  border: 1px solid rgba(26, 58, 92, 0.15);
+  border-left: 4px solid var(--color-navy);
+  border-radius: 0 6px 6px 0;
+}
+
+.related-guides h3 {
+  font-size: 1.1rem;
+  color: var(--color-navy);
+  margin-bottom: var(--spacing-sm);
+  margin-top: 0;
+}
+
+.related-guides ul {
+  margin: 0;
+  padding-left: var(--spacing-lg);
+}
+
+.related-guides li {
+  margin-bottom: var(--spacing-xs);
+}
+
+.related-guides a {
+  color: var(--color-link);
+}
+
+.related-guides a:hover {
+  color: var(--color-link-hover);
+}
+
 /* ===== Contact Form ===== */
 .contact-info {
   background: var(--color-cream);

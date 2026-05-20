@@ -7,6 +7,10 @@ lang: en
 permalink: /research-guides/getting-started/
 ref: getting-started-overview
 last_modified_at: 2026-02-18
+related_guides:
+  - /research-guides/navigating-civil-records/
+  - /research-guides/census-records/
+  - /research-guides/slave-records/
 ---
 
 ## Who Is This Course For?
@@ -111,4 +115,4 @@ You do not need to be fluent in Spanish to research your Puerto Rican family.
 
 ---
 
-*Course created by Sylvia Vargas for the Puerto Rican Genealogy Group. © 2026 Sylvia Vargas. Teaching Genealogists AI™. All rights reserved.*
+*Course created by Sylvia Vargas for PuertoRicanGenealogy.org. © 2026 Sylvia Vargas. Teaching Genealogists AI™. All rights reserved.*

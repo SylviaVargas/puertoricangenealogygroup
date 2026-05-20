@@ -133,7 +133,7 @@ Ahora tienes:
 - <a href="/assets/pdfs/getting-started/ES_Tarjeta_de_Referencia_Rapida.pdf" target="_blank" rel="noopener noreferrer">Descargar la Tarjeta de Referencia Rápida (PDF)</a> — un resumen imprimible de todo lo que aprendiste
 - <a href="/assets/pdfs/getting-started/ES_Plantillas_de_Google_Sheets.pdf" target="_blank" rel="noopener noreferrer">Configurar tus plantillas de Google Sheets (PDF)</a>
 - Explora las [Guías de Investigación Genealógica Puertorriqueña](/es/guias-investigacion/) para profundizar en registros civiles, eclesiásticos y censales
-- Conéctate con la comunidad del Puerto Rican Genealogy Group para compartir tu progreso
+- Conéctate con la comunidad del PuertoRicanGenealogy.org para compartir tu progreso
 
 ---
 

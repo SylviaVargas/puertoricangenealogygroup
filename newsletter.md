@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Monthly Newsletter"
-description: "Subscribe to the Puerto Rican Genealogy Group newsletter for records alerts, research tips, and community news. Subscribers receive our free Puerto Rico Research Starter Kit."
+description: "Subscribe to PuertoRicanGenealogy.org newsletter for records alerts, research tips, and community news. Subscribers receive our free Puerto Rico Research Starter Kit."
 lang: en
 ref: newsletter
 permalink: /newsletter/

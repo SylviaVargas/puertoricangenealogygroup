@@ -160,7 +160,7 @@ You have now covered the full cycle of Puerto Rican newspaper research:
 
 Newspaper research opens a part of Puerto Rican family history that most researchers never reach. The records are there: in official colonial government pronouncements, in community press vital notices, in *esquelas* that families published when someone they loved died. Learning to find and read these sources is one of the most significant skills you can add to your genealogical practice.
 
-**Puerto Rican Genealogy Group:** <a href="https://puertoricangenealogy.org" target="_blank" rel="noopener noreferrer"><em>puertoricangenealogy.org</em></a>
+**PuertoRicanGenealogy.org:** <a href="https://puertoricangenealogy.org" target="_blank" rel="noopener noreferrer"><em>puertoricangenealogy.org</em></a>
 
 ---
 
@@ -168,4 +168,4 @@ Newspaper research opens a part of Puerto Rican family history that most researc
 
 ---
 
-*© 2026 Sylvia Vargas. Puerto Rican Genealogy Group. All rights reserved.*
+*© 2026 Sylvia Vargas. PuertoRicanGenealogy.org. All rights reserved.*

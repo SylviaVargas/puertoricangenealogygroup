@@ -7,6 +7,12 @@ ref: meeting-may-2026
 last_modified_at: 2026-04-16
 parent_title: Meetings
 parent_url: /meetings/
+event_name: "May 2026 Meeting — From Cabo Rojo to San Francisco"
+event_description: "Monthly Puerto Rican genealogy Zoom meeting featuring Fred Rodriguez Segarra presenting 'From Cabo Rojo to San Francisco,' tracing Puerto Rican roots across generations and geography."
+event_start: "2026-05-11T19:00:00-04:00"
+event_end: "2026-05-11T21:00:00-04:00"
+event_url: "https://us06web.zoom.us/meeting/register/chSyaQqxRzSxOaeXxJmM0Q"
+event_status: "EventScheduled"
 ---
 
 ## Puerto Rican Genealogy Zoom Meeting
@@ -19,7 +25,7 @@ Join us as Fred Rodríguez Segarra, board member of the Sociedad Puertorriqueña
 
 ### Special Presentation
 
-**Fred Rodríguez Segarra** is a board member of the Sociedad Puertorriqueña de Genealogía and a longtime friend of the Puerto Rican Genealogy Group. His presentation traces a family's journey from the western coast of Puerto Rico to San Francisco, illustrating the research strategies and record types that can help you follow your own ancestors across borders.
+**Fred Rodríguez Segarra** is a board member of the Sociedad Puertorriqueña de Genealogía and a longtime friend of PuertoRicanGenealogy.org. His presentation traces a family's journey from the western coast of Puerto Rico to San Francisco, illustrating the research strategies and record types that can help you follow your own ancestors across borders.
 
 ---
 

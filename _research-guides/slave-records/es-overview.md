@@ -7,6 +7,9 @@ lang: es
 permalink: /es/guias-investigacion/registros-esclavos/
 ref: slave-records-overview
 last_modified_at: 2026-02-27
+related_guides:
+  - /es/guias-investigacion/navegar-registros-civiles/
+  - /es/guias-investigacion/registros-censales/
 ---
 
 ## Una Nota Antes de Comenzar

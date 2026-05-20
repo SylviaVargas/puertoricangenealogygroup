@@ -10,7 +10,7 @@ last_modified_at: 2026-03-14
 
 ## Join Our Virtual Meetings
 
-The Puerto Rican Genealogy Group hosts regular virtual meetings where members can learn, share, and connect with fellow researchers.
+PuertoRicanGenealogy.org hosts regular virtual meetings where members can learn, share, and connect with fellow researchers.
 
 <div class="meetings-hero">
 

@@ -7,6 +7,12 @@ ref: meeting-april-2026
 last_modified_at: 2026-03-14
 parent_title: Meetings
 parent_url: /meetings/
+event_name: "April 2026 Meeting — RootsTech Recaps and Member Sharing"
+event_description: "Monthly Puerto Rican genealogy Zoom meeting: RootsTech 2026 recaps, member research highlights, brick walls, and open discussion for Puerto Rican genealogy researchers."
+event_start: "2026-04-13T19:00:00-04:00"
+event_end: "2026-04-13T21:00:00-04:00"
+event_url: "https://us06web.zoom.us/meeting/register/chSyaQqxRzSxOaeXxJmM0Q"
+event_status: "EventScheduled"
 ---
 
 ## Puerto Rican Genealogy Zoom Meeting

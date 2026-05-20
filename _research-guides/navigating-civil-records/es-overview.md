@@ -18,6 +18,10 @@ faqs:
     a: "Comienza identificando el modelo estándar del tipo de registro. Los asientos de bautismo siguen una fórmula predecible: fecha, nombres del sacerdote que oficia, del niño, de los padres y de los padrinos. Una vez que reconoces la fórmula, puedes concentrarte en los datos variables aunque no puedas leer todas las palabras. El Centro de Aprendizaje de FamilySearch ofrece un curso gratuito de escritura española que cubre la letra colonial."
   - q: "¿Qué información contiene un acta de nacimiento civil puertorriqueña de 1885 a 1930?"
     a: "Un acta de nacimiento civil (acta de nacimiento) de este período incluye típicamente: fecha y lugar de nacimiento, nombre del niño, nombre y edad del padre, nombre y edad de la madre, lugar de origen de ambos padres, nombres de los abuelos paternos y maternos, y nombres de los testigos. Se registraba la legitimidad. Esto convierte el acta de nacimiento en una de las fuentes más ricas para una sola generación."
+related_guides:
+  - /es/guias-investigacion/registros-censales/
+  - /es/guias-investigacion/registros-esclavos/
+  - /es/guias-investigacion/empezar/
 ---
 
 ## ¿Para Quién Es Este Curso?

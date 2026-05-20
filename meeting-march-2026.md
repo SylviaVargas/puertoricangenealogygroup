@@ -7,6 +7,12 @@ ref: meeting-march-2026
 last_modified_at: 2026-02-09
 parent_title: Meetings
 parent_url: /meetings/
+event_name: "March 2026 Meeting — Guest Speaker: Luis Ariel Rivera"
+event_description: "Monthly Puerto Rican genealogy Zoom meeting featuring guest speaker Luis Ariel Rivera, followed by member brick walls, breakthroughs, and open discussion."
+event_start: "2026-03-09T19:00:00-04:00"
+event_end: "2026-03-09T21:00:00-04:00"
+event_url: "https://us06web.zoom.us/meeting/register/chSyaQqxRzSxOaeXxJmM0Q"
+event_status: "EventScheduled"
 ---
 
 ## Puerto Rican Genealogy Zoom Meeting

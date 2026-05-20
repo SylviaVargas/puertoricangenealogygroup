@@ -94,4 +94,4 @@ Al usar herramientas de IA con datos genealógicos:
 
 ← [Volver a IA en Genealogía](/es/ia-genealogia/)
 
-*El Puerto Rican Genealogy Group fomenta el uso reflexivo y responsable de todas las herramientas---incluyendo la IA---al servicio de una investigación genealógica precisa y bien documentada.*
+*El PuertoRicanGenealogy.org fomenta el uso reflexivo y responsable de todas las herramientas---incluyendo la IA---al servicio de una investigación genealógica precisa y bien documentada.*

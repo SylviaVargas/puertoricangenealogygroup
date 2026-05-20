@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Derechos de Autor y Uso"
-description: "Aviso de derechos de autor y términos de uso para el contenido del sitio web del Puerto Rican Genealogy Group."
+description: "Aviso de derechos de autor y términos de uso para el contenido del sitio web del PuertoRicanGenealogy.org."
 lang: es
 ref: copyright
 permalink: /es/derechos-de-autor/
@@ -9,9 +9,9 @@ permalink: /es/derechos-de-autor/
 
 ## Aviso de Derechos de Autor
 
-El contenido de este sitio web es la obra creativa original de **Sylvia Vargas** y el **Puerto Rican Genealogy Group**.
+El contenido de este sitio web es la obra creativa original de **Sylvia Vargas** y el **PuertoRicanGenealogy.org**.
 
-&copy; 2024&#8211;2026 Sylvia Vargas / Puerto Rican Genealogy Group. Todos los derechos reservados.
+&copy; 2024&#8211;2026 Sylvia Vargas / PuertoRicanGenealogy.org. Todos los derechos reservados.
 
 ---
 
@@ -58,10 +58,10 @@ Por favor incluya una descripción del uso previsto, el contenido específico qu
 Al citar contenido de este sitio web en publicaciones genealógicas o registros de investigación, utilice el siguiente formato (estilo Evidence Explained):
 
 **Página del sitio web:**
-Sylvia Vargas, "Título de la página," Puerto Rican Genealogy Group (puertoricangenealogy.org : consultado el [fecha]), URL.
+Sylvia Vargas, "Título de la página," PuertoRicanGenealogy.org (puertoricangenealogy.org : consultado el [fecha]), URL.
 
 **Módulo del curso:**
-Sylvia Vargas, curso *Teaching Genealogists AI&#8482;*, "Título del módulo," Puerto Rican Genealogy Group (puertoricangenealogy.org : consultado el [fecha]), URL.
+Sylvia Vargas, curso *Teaching Genealogists AI&#8482;*, "Título del módulo," PuertoRicanGenealogy.org (puertoricangenealogy.org : consultado el [fecha]), URL.
 
 ---
 

@@ -82,4 +82,4 @@ La palabra clave es *con cuidado.* El resultado de la IA es siempre un borrador.
 
 ---
 
-*El Puerto Rican Genealogy Group fomenta el uso reflexivo y responsable de todas las herramientas---incluyendo la IA---al servicio de una investigación genealógica precisa y bien documentada.*
+*El PuertoRicanGenealogy.org fomenta el uso reflexivo y responsable de todas las herramientas---incluyendo la IA---al servicio de una investigación genealógica precisa y bien documentada.*

@@ -1,0 +1,24 @@
+{% if page.event_start %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Event",
+  "name": "{{ page.event_name | default: page.title | escape }}",
+  "description": "{{ page.event_description | default: page.description | escape }}",
+  "startDate": "{{ page.event_start }}",
+  "endDate": "{{ page.event_end }}",
+  "eventAttendanceMode": "https://schema.org/OnlineEventAttendanceMode",
+  "eventStatus": "https://schema.org/{{ page.event_status | default: 'EventScheduled' }}",
+  "location": {
+    "@type": "VirtualLocation",
+    "url": "{{ page.event_url | default: site.url }}"
+  },
+  "organizer": {
+    "@type": "Organization",
+    "name": "{{ site.title }}",
+    "url": "{{ site.url }}"
+  },
+  "url": "{{ page.url | absolute_url }}"
+}
+</script>
+{% endif %}

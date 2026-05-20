@@ -7,6 +7,10 @@ lang: es
 permalink: /es/guias-investigacion/periodicos-pr/
 ref: pr-newspapers-overview
 last_modified_at: 2026-04-20
+related_guides:
+  - /es/guias-investigacion/navegar-registros-civiles/
+  - /es/guias-investigacion/registros-censales/
+  - /es/guias-investigacion/primeros-pasos/
 ---
 
 El registro civil de Puerto Rico no comenzó hasta 1885. Para las décadas anteriores a esa fecha, y para los detalles que los documentos oficiales nunca capturaron, los periódicos históricos son una de las fuentes genealógicas más subutilizadas disponibles. Y las mejores colecciones son completamente gratuitas.
@@ -73,4 +77,4 @@ Los periódicos históricos puertorriqueños, en particular la *Gaceta de Puerto
 
 ---
 
-*© 2026 Sylvia Vargas. Puerto Rican Genealogy Group. All rights reserved.*
+*© 2026 Sylvia Vargas. PuertoRicanGenealogy.org. All rights reserved.*

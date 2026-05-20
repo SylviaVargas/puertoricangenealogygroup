@@ -7,6 +7,10 @@ lang: en
 permalink: /research-guides/pr-newspapers/
 ref: pr-newspapers-overview
 last_modified_at: 2026-04-20
+related_guides:
+  - /research-guides/navigating-civil-records/
+  - /research-guides/census-records/
+  - /research-guides/getting-started-intro/
 ---
 
 Puerto Rican civil registration did not begin until 1885. For the decades before that, and for the details that official records never captured, historical newspapers are one of the most underused genealogical sources available. And the best collections are completely free.
@@ -73,4 +77,4 @@ Historical Puerto Rican newspapers, particularly the *Gaceta de Puerto Rico* and
 
 ---
 
-*© 2026 Sylvia Vargas. Puerto Rican Genealogy Group. All rights reserved.*
+*© 2026 Sylvia Vargas. PuertoRicanGenealogy.org. All rights reserved.*

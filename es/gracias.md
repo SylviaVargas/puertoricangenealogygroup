@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Gracias por Suscribirte"
-description: "Te has suscrito exitosamente al boletin del Puerto Rican Genealogy Group. Revisa tu correo para recibir tu Kit de Inicio gratuito para investigacion puertorriquena."
+description: "Te has suscrito exitosamente al boletin del PuertoRicanGenealogy.org. Revisa tu correo para recibir tu Kit de Inicio gratuito para investigacion puertorriquena."
 lang: es
 ref: thank-you
 permalink: /es/gracias/

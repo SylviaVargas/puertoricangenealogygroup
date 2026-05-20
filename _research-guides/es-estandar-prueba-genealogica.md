@@ -167,4 +167,4 @@ Aplicar el GPS sistemáticamente — en lugar de aceptar cualquier registro indi
 
 ---
 
-*Guía creada por Sylvia Vargas para el Puerto Rican Genealogy Group. © 2026 Sylvia Vargas. Teaching Genealogists AI™. Todos los derechos reservados.*
+*Guía creada por Sylvia Vargas para el PuertoRicanGenealogy.org. © 2026 Sylvia Vargas. Teaching Genealogists AI™. Todos los derechos reservados.*

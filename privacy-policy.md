@@ -1,13 +1,13 @@
 ---
 layout: page
 title: "Privacy Policy"
-description: "Privacy policy for the Puerto Rican Genealogy Group website."
+description: "Privacy policy for PuertoRicanGenealogy.org website."
 lang: en
 ref: privacy-policy
 permalink: /privacy-policy/
 ---
 
-This Privacy Policy explains what information the Puerto Rican Genealogy Group website (puertoricangenealogy.org) collects, how it is used, and your choices.
+This Privacy Policy explains what information PuertoRicanGenealogy.org website (puertoricangenealogy.org) collects, how it is used, and your choices.
 
 ---
 

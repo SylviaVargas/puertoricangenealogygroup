@@ -8,7 +8,7 @@ permalink: /es/kit-de-inicio/
 last_modified_at: 2026-05-12
 ---
 
-Gracias por suscribirte al boletin del Puerto Rican Genealogy Group. Tus guias gratuitas estan listas a continuacion.
+Gracias por suscribirte al boletin del PuertoRicanGenealogy.org. Tus guias gratuitas estan listas a continuacion.
 
 ---
 

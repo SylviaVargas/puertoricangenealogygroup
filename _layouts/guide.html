@@ -69,7 +69,17 @@ layout: default
     <h3>{% if page.lang == 'es' %}Guías Relacionadas{% else %}Related Guides{% endif %}</h3>
     <ul>
       {% for guide_url in page.related_guides %}
-      <li><a href="{{ guide_url | relative_url }}">{{ guide_url }}</a></li>
+      {% assign matched_pages = site.pages | where: "url", guide_url %}
+      {% if matched_pages.size == 0 %}
+        {% assign matched_pages = site.documents | where: "url", guide_url %}
+      {% endif %}
+      <li>
+        {% if matched_pages.size > 0 %}
+        <a href="{{ guide_url | relative_url }}">{{ matched_pages[0].title }}</a>
+        {% else %}
+        <a href="{{ guide_url | relative_url }}">{{ guide_url }}</a>
+        {% endif %}
+      </li>
       {% endfor %}
     </ul>
   </aside>

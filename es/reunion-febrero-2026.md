@@ -7,6 +7,12 @@ ref: meeting-february-2026
 last_modified_at: 2026-02-07
 parent_title: Reuniones
 parent_url: /es/reuniones/
+event_name: "Reunión de Febrero 2026 — Muros de Ladrillo y Estrategias"
+event_description: "Reunión mensual de genealogía puertorriqueña por Zoom: comparte tus retos de investigación, aprende nuevas estrategias y conéctate con otros investigadores."
+event_start: "2026-02-09T19:00:00-05:00"
+event_end: "2026-02-09T21:00:00-05:00"
+event_url: "https://us06web.zoom.us/meeting/register/chSyaQqxRzSxOaeXxJmM0Q"
+event_status: "EventScheduled"
 ---
 
 ## Reunión Virtual de Genealogía Puertorriqueña

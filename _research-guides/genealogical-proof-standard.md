@@ -167,4 +167,4 @@ Applying the GPS systematically — rather than accepting any single record as d
 
 ---
 
-*Guide created by Sylvia Vargas for the Puerto Rican Genealogy Group. © 2026 Sylvia Vargas. Teaching Genealogists AI™. All rights reserved.*
+*Guide created by Sylvia Vargas for PuertoRicanGenealogy.org. © 2026 Sylvia Vargas. Teaching Genealogists AI™. All rights reserved.*

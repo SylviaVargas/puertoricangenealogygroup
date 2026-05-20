@@ -94,4 +94,4 @@ When using AI tools with genealogical data:
 
 ← [Back to AI in Genealogy](/ai-genealogy/)
 
-*The Puerto Rican Genealogy Group encourages thoughtful, responsible use of all tools---including AI---in service of accurate, well-documented genealogical research.*
+*PuertoRicanGenealogy.org encourages thoughtful, responsible use of all tools---including AI---in service of accurate, well-documented genealogical research.*

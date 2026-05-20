@@ -168,4 +168,4 @@ La investigación en periódicos abre una parte de la historia familiar puertorr
 
 ---
 
-*© 2026 Sylvia Vargas. Puerto Rican Genealogy Group. All rights reserved.*
+*© 2026 Sylvia Vargas. PuertoRicanGenealogy.org. All rights reserved.*

@@ -133,7 +133,7 @@ You now have:
 - <a href="/assets/pdfs/getting-started/Quick_Reference_Card.pdf" target="_blank" rel="noopener noreferrer">Download the Quick Reference Card</a> — a printable summary of everything you've learned
 - <a href="/assets/pdfs/getting-started/Google_Sheets_Templates.pdf" target="_blank" rel="noopener noreferrer">Set up your Google Sheets templates</a>
 - Explore the [Puerto Rican Genealogy Research Guides](/research-guides/) to go deeper into civil records, church records, and census research
-- Connect with the Puerto Rican Genealogy Group community to share your progress
+- Connect with PuertoRicanGenealogy.org community to share your progress
 
 ---
 

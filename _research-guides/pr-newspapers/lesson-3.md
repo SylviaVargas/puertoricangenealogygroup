@@ -151,4 +151,4 @@ Repeat the same search in <a href="https://dloc.com/" target="_blank" rel="noope
 
 ---
 
-*© 2026 Sylvia Vargas. Puerto Rican Genealogy Group. All rights reserved.*
+*© 2026 Sylvia Vargas. PuertoRicanGenealogy.org. All rights reserved.*

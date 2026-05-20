@@ -18,6 +18,10 @@ faqs:
     a: "En los registros coloniales españoles, 'natural de' seguido de un nombre de lugar significa 'nacido en' o 'nativo de' ese lugar. No es un comentario sobre la legitimidad. Un término distinto, 'hijo natural', indica un niño nacido fuera del matrimonio."
   - q: "El apellido de mi antepasado aparece escrito de forma diferente en distintos registros. ¿Es la misma persona?"
     a: "Casi con certeza, sí. Los nombres en español se escribían frecuentemente de forma fonética por el amanuense, y los acentos y variantes eran inconsistentes. José y Josef, Inés e Inez, Díaz y Dias suelen referirse a la misma persona. Concéntrate en la combinación de nombre, lugar, edad aproximada y miembros de la familia asociados para confirmar la identidad entre registros."
+related_guides:
+  - /es/guias-investigacion/empezar/
+  - /es/guias-investigacion/navegar-registros-civiles/
+  - /es/guias-investigacion/registros-censales/
 ---
 
 ## Video: Primeros Pasos en la Genealogía Puertorriqueña {#video-intro}

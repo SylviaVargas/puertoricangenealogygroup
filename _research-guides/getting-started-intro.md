@@ -18,6 +18,10 @@ faqs:
     a: "In Spanish colonial records, 'natural de' followed by a place name means 'born in' or 'a native of' that place. It is not a comment on legitimacy. A separate term, 'hijo natural,' indicates a child born outside of marriage."
   - q: "My ancestor's name is spelled differently across records. Is this the same person?"
     a: "Almost certainly. Spanish names were frequently spelled phonetically by the recording clerk, and accents and variants were inconsistent. Jose and Josef, Ines and Inez, Diaz and Dias often refer to the same person. Focus on the combination of name, place, approximate age, and associated family members to confirm identity across records."
+related_guides:
+  - /research-guides/getting-started/
+  - /research-guides/navigating-civil-records/
+  - /research-guides/census-records/
 ---
 
 ## Video: Getting Started with Puerto Rican Genealogy {#intro-video}

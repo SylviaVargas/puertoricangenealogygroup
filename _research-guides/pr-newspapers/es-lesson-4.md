@@ -193,4 +193,4 @@ Cuando hayas completado el formulario, escribe dos oraciones describiendo lo que
 
 ---
 
-*© 2026 Sylvia Vargas. Puerto Rican Genealogy Group. All rights reserved.*
+*© 2026 Sylvia Vargas. PuertoRicanGenealogy.org. All rights reserved.*

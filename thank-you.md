@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Thank You for Subscribing!"
-description: "You have successfully subscribed to the Puerto Rican Genealogy Group newsletter. Check your email for your free Puerto Rico Research Starter Kit."
+description: "You have successfully subscribed to PuertoRicanGenealogy.org newsletter. Check your email for your free Puerto Rico Research Starter Kit."
 lang: en
 ref: thank-you
 permalink: /thank-you/

@@ -82,4 +82,4 @@ The key word is *carefully.* AI output is always a draft. Every fact must be ver
 
 ---
 
-*The Puerto Rican Genealogy Group encourages thoughtful, responsible use of all tools---including AI---in service of accurate, well-documented genealogical research.*
+*PuertoRicanGenealogy.org encourages thoughtful, responsible use of all tools---including AI---in service of accurate, well-documented genealogical research.*

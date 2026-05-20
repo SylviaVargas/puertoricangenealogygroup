@@ -7,6 +7,12 @@ ref: meeting-february-2026
 last_modified_at: 2026-02-07
 parent_title: Meetings
 parent_url: /meetings/
+event_name: "February 2026 Meeting — Brick Walls and Strategies"
+event_description: "Monthly Puerto Rican genealogy Zoom meeting: share your toughest research challenges, learn new tools and strategies, and connect with fellow researchers."
+event_start: "2026-02-09T19:00:00-05:00"
+event_end: "2026-02-09T21:00:00-05:00"
+event_url: "https://us06web.zoom.us/meeting/register/chSyaQqxRzSxOaeXxJmM0Q"
+event_status: "EventScheduled"
 ---
 
 ## Puerto Rican Genealogy Zoom Meeting

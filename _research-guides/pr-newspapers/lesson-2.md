@@ -162,4 +162,4 @@ If no results appear for `manumision`, try `liberto` or `esclava` in the same da
 
 ---
 
-*© 2026 Sylvia Vargas. Puerto Rican Genealogy Group. All rights reserved.*
+*© 2026 Sylvia Vargas. PuertoRicanGenealogy.org. All rights reserved.*

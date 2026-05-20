@@ -7,6 +7,10 @@ lang: es
 permalink: /es/guias-investigacion/registros-censales/
 ref: census-records-overview
 last_modified_at: 2026-02-26
+related_guides:
+  - /es/guias-investigacion/navegar-registros-civiles/
+  - /es/guias-investigacion/registros-esclavos/
+  - /es/guias-investigacion/empezar/
 ---
 
 ## ¿Para Quién Es Este Curso?

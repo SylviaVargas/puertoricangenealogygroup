@@ -7,6 +7,12 @@ ref: meeting-march-2026
 last_modified_at: 2026-02-09
 parent_title: Reuniones
 parent_url: /es/reuniones/
+event_name: "Reunión de Marzo 2026 — Conferencista: Luis Ariel Rivera"
+event_description: "Reunión mensual de genealogía puertorriqueña por Zoom con conferencista invitado Luis Ariel Rivera, seguida de muros de ladrillo, descubrimientos y discusión abierta."
+event_start: "2026-03-09T19:00:00-04:00"
+event_end: "2026-03-09T21:00:00-04:00"
+event_url: "https://us06web.zoom.us/meeting/register/chSyaQqxRzSxOaeXxJmM0Q"
+event_status: "EventScheduled"
 ---
 
 ## Reunión Virtual de Genealogía Puertorriqueña
