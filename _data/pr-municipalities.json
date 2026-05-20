@@ -8694,28 +8694,29 @@
     },
     "civil_registry_start": 1885,
     "barrios": [
+      "Aibonito",
       "Alto Sano",
       "Bahomamey",
       "Calabazas",
       "Cibao",
+      "Cidral",
       "Culebrinas",
       "Eneas",
       "Guacio",
       "Guajataca",
       "Guatemala",
       "Hato Arriba",
-      "Hoyamala",
+      "Hoya Mala",
+      "Juncal",
       "Magos",
       "Mirabales",
-      "Perchas 1",
-      "Perchas 2",
+      "Perchas",
       "Piedras Blancas",
       "Pozas",
       "Robles",
-      "Saltos",
+      "Salto",
       "San Sebastián Pueblo",
-      "Sonador",
-      "Vicentes"
+      "Sonador"
     ],
     "neighbors": [
       "Isabela",
@@ -8736,11 +8737,12 @@
     },
     "historical_maps": [
       {
-        "image": null,
+        "municipality": "san-sebastián",
         "year": null,
-        "caption": "Historical map coming soon.",
-        "source": null,
-        "source_url": null
+        "caption": "Map of San Sebastián, Puerto Rico barrios. Image by The Eloquent Peasant via Wikimedia Commons, licensed under CC BY-SA 4.0. No changes made.",
+        "source": "The Eloquent Peasant / Wikimedia Commons",
+        "image": "assets/images/municipalities/maps/san-sebastián-unknown.png",
+        "source_url": "https://commons.wikimedia.org/wiki/File:San_Sebasti%C3%A1n,_Puerto_Rico_locator_map.png"
       },
       {
         "municipality": "San-sebastián",
