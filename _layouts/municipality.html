@@ -96,16 +96,16 @@ layout: default
         <div class="muni-escudo">
           {% if muni.escudo %}
             {% if muni.escudo.image %}
-            <img src="{{ muni.escudo.image | relative_url }}" alt="{{ muni.escudo.alt }}" class="muni-escudo-img" loading="lazy">
+            {% if page.lang == 'es' and muni.escudo.alt_es %}{% assign escudo_alt = muni.escudo.alt_es %}{% else %}{% assign escudo_alt = muni.escudo.alt %}{% endif %}
+            <img src="{{ muni.escudo.image | relative_url }}" alt="{{ escudo_alt }}" class="muni-escudo-img" loading="lazy">
             {% else %}
             <div class="muni-escudo-placeholder" aria-hidden="true">
               <span class="muni-escudo-icon">&#x1F6E1;</span>
               <p>{% if page.lang == 'es' %}Escudo próximamente{% else %}Coat of arms coming soon{% endif %}</p>
             </div>
             {% endif %}
-            {% if muni.escudo.description %}
-            <p class="muni-escudo-caption">{{ muni.escudo.description }}</p>
-            {% endif %}
+            {% if page.lang == 'es' and muni.escudo.description_es %}{% assign escudo_desc = muni.escudo.description_es %}{% elsif muni.escudo.description %}{% assign escudo_desc = muni.escudo.description %}{% else %}{% assign escudo_desc = nil %}{% endif %}
+            {% if escudo_desc %}<p class="muni-escudo-caption">{{ escudo_desc }}</p>{% endif %}
           {% endif %}
         </div>
       </section>
