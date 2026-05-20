@@ -40,7 +40,7 @@ Census records are the primary tool for tracking these movements — but only if
 
 Puerto Rico's pre-1898 economy was built around two primary crops with different geographic footprints:
 
-**Coffee** grew in the western and central highlands — municipalities including Rincón, Añasco, Las Marías, Lares, and Yauco. The coffee economy required large, stable labor forces living near the haciendas. Families in these *municipios* tended to remain in the same barrio across generations.
+**Coffee** grew in the western and central highlands — municipalities including Añasco, Las Marías, Lares, and Yauco. The coffee economy required large, stable labor forces living near the haciendas. Families in these *municipios* tended to remain in the same barrio across generations.
 
 **Sugar** dominated the coastal lowlands — the north and east coasts and the southern plain. Sugar operations were more industrial, and labor demands shifted seasonally.
 
@@ -66,7 +66,7 @@ The 1940 and 1950 U.S. federal censuses capture Puerto Rican families just befor
 
 ### Step 1: Build a Census Timeline
 
-For each known ancestor, create a log recording their location in every available census year:
+For each known ancestor, create a log recording their location in every available census year. The table below is a hypothetical example — substitute your own ancestor's locations as you research:
 
 | Year | Location | Source |
 |------|----------|--------|

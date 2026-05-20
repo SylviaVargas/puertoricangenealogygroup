@@ -61,7 +61,7 @@ This transition is visible in the records themselves — a 1897 birth record loo
 |------------|-------------|------|
 | FamilySearch: Puerto Rico Civil Registration (1805–2001) | Births, marriages, and deaths for most municipalities | <a href="https://www.familysearch.org/en/search/collection/1682798" target="_blank" rel="noopener noreferrer"><em>Search the Collection</em></a> |
 | FamilySearch Catalog (By Municipality) | Browse unindexed images organized by *pueblo* | <a href="https://www.familysearch.org/catalog/results?place=11543" target="_blank" rel="noopener noreferrer"><em>Browse the Catalog</em></a> |
-| Ancestry.com: Puerto Rico Civil Registrations (1885–2001) | Indexed name search across the civil registration collection | <a href="https://www.ancestry.com/search/collections/1227/" target="_blank" rel="noopener noreferrer"><em>Search Ancestry Collection</em></a> |
+| Ancestry.com: Puerto Rico Civil Registrations (1885–2001) | Indexed name search across the civil registration collection | <a href="https://www.ancestry.com/search/collections/9100/" target="_blank" rel="noopener noreferrer"><em>Search Ancestry Collection</em></a> |
 
 > **Tip:** FamilySearch is free. Ancestry requires a subscription but is often available free through public libraries. Use both — their indexes are different and each may surface records the other misses.
 

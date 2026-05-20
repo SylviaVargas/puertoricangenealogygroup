@@ -40,7 +40,7 @@ Los registros censales son la herramienta principal para rastrear estos movimien
 
 La economía de Puerto Rico antes de 1898 se basaba en dos cultivos principales con diferentes huellas geográficas:
 
-**El café** se cultivaba en las tierras altas del oeste y del centro: municipios como Rincón, Añasco, Las Marías, Lares y Yauco. La economía cafetalera requería grandes fuerzas laborales estables que vivieran cerca de las haciendas. Las familias en estos *municipios* tendían a permanecer en el mismo barrio a través de generaciones.
+**El café** se cultivaba en las tierras altas del oeste y del centro: municipios como Añasco, Las Marías, Lares y Yauco. La economía cafetalera requería grandes fuerzas laborales estables que vivieran cerca de las haciendas. Las familias en estos *municipios* tendían a permanecer en el mismo barrio a través de generaciones.
 
 **El azúcar** dominaba las tierras bajas costeras: las costas norte y este y la llanura sur. Las operaciones azucareras eran más industriales y la demanda de mano de obra variaba estacionalmente.
 
@@ -64,7 +64,7 @@ Los censos de EE.UU. de 1940 y 1950 capturan familias puertorriqueñas justo ant
 
 ## Cómo Rastrear la Migración en los Registros Censales
 
-Para cada antepasado conocido, crea un registro de su ubicación en cada año censal disponible:
+Para cada antepasado conocido, crea un registro de su ubicación en cada año censal disponible. La tabla a continuación es un ejemplo hipotético: sustituye las ubicaciones de tu propio antepasado a medida que investigas:
 
 | Año | Ubicación | Fuente |
 |-----|-----------|--------|

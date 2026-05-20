@@ -61,7 +61,7 @@ Esta transición es visible en los propios documentos — un acta de nacimiento 
 |-----------|-------------|--------|
 | FamilySearch: Registro Civil de Puerto Rico (1805–2001) | Nacimientos, matrimonios y defunciones para la mayoría de los municipios | <a href="https://www.familysearch.org/en/search/collection/1682798" target="_blank" rel="noopener noreferrer"><em>Buscar en la Colección</em></a> |
 | Catálogo de FamilySearch (Por Municipio) | Explora imágenes no indexadas organizadas por *pueblo* | <a href="https://www.familysearch.org/catalog/results?place=11543" target="_blank" rel="noopener noreferrer"><em>Explorar el Catálogo</em></a> |
-| Ancestry.com: Registros Civiles de Puerto Rico (1885–2001) | Búsqueda por nombre indexada en la colección de registros civiles | <a href="https://www.ancestry.com/search/collections/1227/" target="_blank" rel="noopener noreferrer"><em>Buscar en Ancestry</em></a> |
+| Ancestry.com: Registros Civiles de Puerto Rico (1885–2001) | Búsqueda por nombre indexada en la colección de registros civiles | <a href="https://www.ancestry.com/search/collections/9100/" target="_blank" rel="noopener noreferrer"><em>Buscar en Ancestry</em></a> |
 
 > **Consejo:** FamilySearch es gratuito. Ancestry requiere suscripción, pero frecuentemente está disponible de forma gratuita a través de las bibliotecas públicas. Usa ambos — sus índices son distintos y cada uno puede mostrar registros que el otro no encuentra.
 
