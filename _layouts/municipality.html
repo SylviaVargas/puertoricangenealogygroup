@@ -97,7 +97,10 @@ layout: default
           {% if muni.escudo %}
             {% if muni.escudo.image %}
             {% if page.lang == 'es' and muni.escudo.alt_es %}{% assign escudo_alt = muni.escudo.alt_es %}{% else %}{% assign escudo_alt = muni.escudo.alt %}{% endif %}
-            <img src="{{ muni.escudo.image | relative_url }}" alt="{{ escudo_alt }}" class="muni-escudo-img" loading="lazy">
+            <div class="muni-escudo-image-block">
+              <img src="{{ muni.escudo.image | relative_url }}" alt="{{ escudo_alt }}" class="muni-escudo-img" loading="lazy">
+              {% if muni.escudo.attribution_url and muni.escudo.attribution_url != "" %}<p class="muni-escudo-attribution">{% if page.lang == 'es' %}Imagen:{% else %}Image:{% endif %} <a href="{{ muni.escudo.attribution_url }}" target="_blank" rel="noopener noreferrer"><em>Wikimedia Commons</em></a>{% if muni.escudo.license and muni.escudo.license != "" %} ({{ muni.escudo.license }}){% endif %}</p>{% endif %}
+            </div>
             {% else %}
             <div class="muni-escudo-placeholder" aria-hidden="true">
               <span class="muni-escudo-icon">&#x1F6E1;</span>

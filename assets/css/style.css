@@ -2393,6 +2393,22 @@ body.fc-modal-open {
   margin: 0;
 }
 
+.muni-escudo-image-block {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-shrink: 0;
+  width: 140px;
+}
+
+.muni-escudo-attribution {
+  font-size: 0.75rem;
+  color: var(--color-dark-gray);
+  text-align: center;
+  margin-top: var(--spacing-xs);
+  line-height: 1.4;
+}
+
 .muni-escudo-caption {
   font-size: 0.9rem;
   color: var(--color-dark-gray);
