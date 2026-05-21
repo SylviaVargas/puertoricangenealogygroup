@@ -433,11 +433,11 @@
     ],
     "familysearch_url": "https://www.familysearch.org/en/wiki/Aguas_Buenas,_Puerto_Rico_Genealogy",
     "escudo": {
-      "image": "",
+      "image": "assets/images/municipalities/escudos/aguas-buenas-unknown.svg",
       "alt": "Coat of arms of Aguas Buenas, Puerto Rico",
       "description": "The coat of arms is a four-paneled shield crowned by a castle. A cross divides the four panels: the upper left features the Virgen de Monserrate, representing religious devotion; the upper right depicts a Taíno figure, honoring the indigenous heritage of the region; the lower left shows traditional folk instruments and cultural elements, symbolizing local traditions and celebrations; and the lower right displays a cornucopia filled with local fruits, representing the agricultural richness and the clear waters that give Aguas Buenas its name.",
-      "license": "",
-      "attribution_url": "",
+      "license": "CC BY-SA 4.0",
+      "attribution_url": "https://commons.wikimedia.org/wiki/File:Escudo_de_Aguas_Buenas,_Puerto_Rico.svg",
       "alt_es": "Escudo de armas de Aguas Buenas, Puerto Rico",
       "description_es": "El escudo es un campo de cuatro paneles coronado por un castillo. Una cruz divide los cuatro cuarteles: el superior izquierdo presenta a la Virgen de Monserrate, representando la devoción religiosa; el superior derecho muestra una figura taína, en honor a la herencia indígena de la región; el inferior izquierdo exhibe instrumentos folclóricos y elementos culturales que simbolizan las tradiciones y celebraciones locales; y el inferior derecho presenta una cornucopia llena de frutos locales, representando la riqueza agrícola y las aguas cristalinas que dan nombre a Aguas Buenas."
     },
@@ -1808,11 +1808,11 @@
     ],
     "familysearch_url": "https://www.familysearch.org/en/wiki/Carolina,_Puerto_Rico_Genealogy",
     "escudo": {
-      "image": "",
+      "image": "assets/images/municipalities/escudos/carolina-unknown.png",
       "alt": "Coat of arms of Carolina, Puerto Rico",
       "description": "The coat of arms features a red field, the color chosen to commemorate the 1838 separatist uprising led by Andrés Salvador de Vizcarrondo, brother of Carolina's founding mayor, who proposed that Puerto Rico join Simón Bolívar's Gran Colombia; the uprising was suppressed by Spanish authorities.",
-      "license": "",
-      "attribution_url": "",
+      "license": "CC BY-SA 4.0",
+      "attribution_url": "https://commons.wikimedia.org/wiki/File:Escudo_de_Carolina,_Puerto_Rico.svg",
       "alt_es": "Escudo de armas de Carolina, Puerto Rico",
       "description_es": "El escudo presenta un campo rojo, color elegido para conmemorar el levantamiento separatista de 1838 liderado por Andrés Salvador de Vizcarrondo, hermano del alcalde fundador de Carolina, quien propuso que Puerto Rico se uniera a la Gran Colombia de Simón Bolívar; el levantamiento fue reprimido por las autoridades españolas."
     },
@@ -1824,6 +1824,14 @@
         "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
         "image": "assets/images/municipalities/maps/carolina-2026.png",
         "url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+      },
+      {
+        "municipality": "carolina",
+        "year": 2010,
+        "caption": "Municipal subdivisions, barrios, and places in Carolina, Canóvanas, Loíza, Río Grande, San Juan, and Trujillo Alto. U.S. Census Bureau, 2010 Census of Population and Housing. Public domain.",
+        "source": "U.S. Census Bureau / Wikimedia Commons",
+        "image": "assets/images/municipalities/maps/carolina-2010.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Maps_in_the_Puerto_Rico_2010_Census_of_Population_and_Housing_Page_124.jpg"
       }
     ],
     "genealogy_sources": [
@@ -9714,11 +9722,11 @@
     ],
     "familysearch_url": "https://www.familysearch.org/en/wiki/Vieques,_Puerto_Rico_Genealogy",
     "escudo": {
-      "image": "",
+      "image": "assets/images/municipalities/escudos/vieques-unknown.svg",
       "alt": "Coat of arms of Vieques, Puerto Rico",
       "description": "The coat of arms features blue and white horizontal waves symbolizing the sea surrounding the island. A green rhombus at the center contains a gold castle, representing the island landmass and the historic Fortín Conde de Mirasol. A naval crown surmounts the shield, emphasizing Vieques's maritime identity and its history as a Spanish naval station. The overall design reflects the island's geographic isolation, colonial military heritage, and dependence on the sea.",
-      "license": "",
-      "attribution_url": "",
+      "license": "CC BY-SA 4.0",
+      "attribution_url": "https://commons.wikimedia.org/wiki/File:Escudo_de_armas_de_Vieques,_Puerto_Rico.svg",
       "alt_es": "Escudo de armas de Vieques, Puerto Rico",
       "description_es": "El escudo presenta ondas horizontales azules y blancas que simbolizan el mar que rodea la isla. Un rombo verde al centro contiene un castillo dorado, que representa la masa terrestre insular y el histórico Fortín Conde de Mirasol. Una corona naval corona el escudo, enfatizando la identidad marítima de Vieques y su historia como estación naval española. El diseño general refleja el aislamiento geográfico de la isla, la herencia militar colonial y su dependencia del mar."
     },
@@ -9930,11 +9938,11 @@
     ],
     "familysearch_url": "https://www.familysearch.org/en/wiki/Yabucoa,_Puerto_Rico_Genealogy",
     "escudo": {
-      "image": "",
+      "image": "assets/images/municipalities/escudos/yabucoa-unknown.svg",
       "alt": "Coat of arms of Yabucoa, Puerto Rico",
       "description": "The coat of arms features a green field representing the fertile valley. Two silver angels represent the Holy Guardian Angels (Santos Ángeles Custodios), the patron saints of the municipality. Two gold sugarcane stalks represent the agricultural industry that sustained the local economy for centuries. The three-towered mural crown identifies the settlement as a municipality.",
-      "license": "",
-      "attribution_url": "",
+      "license": "CC BY-SA 4.0",
+      "attribution_url": "https://commons.wikimedia.org/wiki/File:Escudo_de_Yabucoa,_Puerto_Rico.svg",
       "alt_es": "Escudo de armas de Yabucoa, Puerto Rico",
       "description_es": "El escudo presenta un campo verde que representa el fértil valle. Dos ángeles de plata representan a los Santos Ángeles Custodios, los santos patronos del municipio. Dos tallos de caña de azúcar dorados representan la industria agrícola que sostuvo la economía local durante siglos. La corona mural de tres torres identifica el asentamiento como municipio."
     },
@@ -10034,11 +10042,11 @@
     ],
     "familysearch_url": "https://www.familysearch.org/en/wiki/Yauco,_Puerto_Rico_Genealogy",
     "escudo": {
-      "image": "",
+      "image": "assets/images/municipalities/escudos/yauco-unknown.svg",
       "alt": "Coat of arms of Yauco, Puerto Rico",
       "description": "The Yauco coat of arms features the ancestral boiler with serpent handles from the heraldry of founder Fernando Pacheco on a silver field; two silver coffee flowers representing the town's defining industry; a central cross signifying the Christian faith of the community; and a border stylized as rosary beads honoring the town's patroness, Nuestra Señora del Rosario. A mural crown of four towers atop the shield reflects its historic status as a villa.",
-      "license": "",
-      "attribution_url": "",
+      "license": "CC BY-SA 4.0",
+      "attribution_url": "https://commons.wikimedia.org/wiki/File:Escudo_de_Yabucoa,_Puerto_Rico.svg",
       "alt_es": "Escudo de armas de Yauco, Puerto Rico",
       "description_es": "El escudo de Yauco presenta la ancestral caldera con asas de serpiente proveniente de la heráldica del fundador Fernando Pacheco sobre campo de plata; dos flores de café de plata que representan la industria definitoria del pueblo; una cruz central que significa la fe cristiana de la comunidad; y una bordura estilizada como cuentas de rosario en honor a la patrona del pueblo, Nuestra Señora del Rosario. Una corona mural de cuatro torres sobre el escudo refleja su histórico estatus de villa."
     },
