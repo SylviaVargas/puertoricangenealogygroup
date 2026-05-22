@@ -178,7 +178,13 @@ layout: default
             {% for map in muni.historical_maps %}
             {% if map.image %}
             <div class="muni-map-card">
+              {% if map.source_url %}
+              <a href="{{ map.source_url }}" target="_blank" rel="noopener noreferrer" class="muni-map-link" aria-label="View source for {{ map.caption }} map">
+                <img src="{{ map.image | relative_url }}" alt="{{ map.caption }}" class="muni-map-img" loading="lazy">
+              </a>
+              {% else %}
               <img src="{{ map.image | relative_url }}" alt="{{ map.caption }}" class="muni-map-img" loading="lazy">
+              {% endif %}
               <div class="muni-map-info">
                 <p class="muni-map-caption">{{ map.caption }}{% if map.year %} ({{ map.year }}){% endif %}</p>
                 {% if map.source and map.source != "TBD" %}

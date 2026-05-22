@@ -54,7 +54,7 @@
         "caption": "Adjuntas",
         "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
         "image": "assets/images/municipalities/maps/adjuntas-2026.png",
-        "url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
       }
     ],
     "genealogy_sources": [
@@ -181,7 +181,7 @@
         "caption": "Aguada",
         "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
         "image": "assets/images/municipalities/maps/aguada-2026.png",
-        "url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
       }
     ],
     "online_resources": [
@@ -343,7 +343,7 @@
         "caption": "Aguadilla",
         "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
         "image": "assets/images/municipalities/maps/aguadilla-2026.png",
-        "url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
       }
     ],
     "genealogy_sources": [
@@ -448,7 +448,7 @@
         "caption": "Aguas-buenas",
         "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
         "image": "assets/images/municipalities/maps/aguas-buenas-2026.png",
-        "url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
       }
     ],
     "online_resources": [
@@ -563,7 +563,7 @@
         "caption": "Aibonito",
         "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
         "image": "assets/images/municipalities/maps/aibonito-2026.png",
-        "url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
       }
     ],
     "online_resources": [
@@ -694,7 +694,7 @@
         "caption": "Añasco",
         "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
         "image": "assets/images/municipalities/maps/añasco-2026.png",
-        "url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
       }
     ],
     "genealogy_sources": [
@@ -776,7 +776,7 @@
         "caption": "Arecibo",
         "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
         "image": "assets/images/municipalities/maps/arecibo-2026.png",
-        "url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
       }
     ],
     "genealogy_sources": [
@@ -859,7 +859,7 @@
         "caption": "Arroyo",
         "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
         "image": "assets/images/municipalities/maps/arroyo-2026.png",
-        "url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
       }
     ],
     "online_resources": [
@@ -941,7 +941,7 @@
         "caption": "Barceloneta",
         "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
         "image": "assets/images/municipalities/maps/barceloneta-2026.png",
-        "url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
       }
     ],
     "online_resources": [
@@ -1709,7 +1709,7 @@
         "caption": "Canóvanas",
         "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
         "image": "assets/images/municipalities/maps/canóvanas-2026.png",
-        "url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
       }
     ],
     "online_resources": [
@@ -1823,7 +1823,7 @@
         "caption": "Carolina",
         "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
         "image": "assets/images/municipalities/maps/carolina-2026.png",
-        "url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
       },
       {
         "municipality": "carolina",
@@ -2608,7 +2608,7 @@
         "caption": "Ciales",
         "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
         "image": "assets/images/municipalities/maps/ciales-2026.png",
-        "url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
       }
     ],
     "genealogy_sources": [
@@ -2981,7 +2981,7 @@
         "caption": "Comerío",
         "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
         "image": "assets/images/municipalities/maps/comerío-2026.png",
-        "url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
       }
     ],
     "online_resources": [
@@ -3202,7 +3202,7 @@
         "caption": "Culebra",
         "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
         "image": "assets/images/municipalities/maps/culebra-2026.png",
-        "url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
       }
     ],
     "online_resources": [
@@ -3294,7 +3294,7 @@
         "caption": "Dorado",
         "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
         "image": "assets/images/municipalities/maps/dorado-2026.png",
-        "url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
       }
     ],
     "online_resources": [
@@ -3484,7 +3484,7 @@
         "caption": "Florida",
         "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
         "image": "assets/images/municipalities/maps/florida-2026.png",
-        "url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
       }
     ],
     "online_resources": [
@@ -3574,7 +3574,7 @@
         "caption": "Guánica",
         "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
         "image": "assets/images/municipalities/maps/guánica-2026.png",
-        "url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
       }
     ],
     "online_resources": [
@@ -3992,7 +3992,7 @@
         "caption": "Gurabo",
         "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
         "image": "assets/images/municipalities/maps/gurabo-2026.png",
-        "url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
       }
     ],
     "genealogy_sources": [
@@ -4107,7 +4107,7 @@
         "caption": "Hatillo",
         "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
         "image": "assets/images/municipalities/maps/hatillo-2026.png",
-        "url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
       }
     ],
     "genealogy_sources": [
@@ -4980,7 +4980,7 @@
         "caption": "Las Marías",
         "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
         "image": "assets/images/municipalities/maps/las-marias-2026.png",
-        "url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
       }
     ],
     "online_resources": [
@@ -5165,7 +5165,7 @@
         "caption": "Loíza",
         "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
         "image": "assets/images/municipalities/maps/loíza-2026.png",
-        "url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
       }
     ],
     "genealogy_sources": [
@@ -6003,7 +6003,7 @@
         "caption": "Naguabo",
         "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
         "image": "assets/images/municipalities/maps/naguabo-2026.png",
-        "url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
       }
     ],
     "genealogy_sources": [
@@ -6865,7 +6865,7 @@
         "caption": "Río Grande",
         "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
         "image": "assets/images/municipalities/maps/río-grande-2026.png",
-        "url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
       }
     ],
     "online_resources": [
@@ -9858,7 +9858,7 @@
         "caption": "Villalba",
         "source": "U.S. Census Bureau, TIGER/Line Shapefiles",
         "image": "assets/images/municipalities/maps/villalba-2026.png",
-        "url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
+        "source_url": "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"
       }
     ],
     "online_resources": [

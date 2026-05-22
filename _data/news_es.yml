@@ -11,9 +11,16 @@
 # Mantenimiento: agregar entradas nuevas al inicio. Cambiar featured anterior a false.
 # Para archivar: mover entradas con más de ~12 meses a _data/news_es_archive_YYYY.yml
 
-- date: 2026-05-18
+- date: 2026-05-21
   category: funciones
   featured: true
+  title: "Mejora: Las Imágenes de Mapas Municipales Ahora Enlazan a Sus Fuentes"
+  body: "Las imágenes de mapas históricos en cada página municipal ahora son enlaces activos que abren la fuente original (Archivos TIGER/Line del Censo de EE. UU.) en una nueva pestaña. Pasa el cursor sobre cualquier mapa para ver el indicador de borde dorado. Cubre los 78 municipios."
+  link: /es/guia-municipios/adjuntas/
+
+- date: 2026-05-18
+  category: funciones
+  featured: false
   title: "Nuevo: Página de Detalle del Municipio Barranquitas"
   body: "La página de detalle de Barranquitas ya está disponible — con la historia de este municipio de la Cordillera Central fundado en 1803 junto con su parroquia San Antonio de Padua. Barranquitas no tiene divisiones formales de barrios, lo que convierte los registros parroquiales y civiles en las principales herramientas de localización. También es el lugar de nacimiento del estadista Luis Muñoz Rivera (1859-1916), cuyos registros familiares aparecen en los archivos parroquiales."
   link: /es/guia-municipios/barranquitas/

@@ -2548,6 +2548,15 @@ body.fc-modal-open {
   border: 1px solid var(--color-light-gray);
   border-radius: 6px;
   overflow: hidden;
+  transition: border-color 0.2s ease;
+}
+
+.muni-map-card:has(a.muni-map-link):hover {
+  border-color: var(--gold);
+}
+
+.muni-map-link {
+  display: block;
 }
 
 .muni-map-img {

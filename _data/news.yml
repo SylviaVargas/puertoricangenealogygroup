@@ -10,9 +10,16 @@
 #
 # Maintenance: add new entries at the top. Move old featured to non-featured.
 # To archive: move entries older than ~12 months to _data/news_archive_YYYY.yml
-- date: 2026-05-18
+- date: 2026-05-21
   category: features
   featured: true
+  title: "Enhancement: Municipality Map Images Now Link to Sources"
+  body: "Historical map images on every municipality page are now clickable, opening the original source (U.S. Census Bureau TIGER/Line Shapefiles) in a new tab. Hover over any map image to see the gold border indicator. Covers all 78 municipalities."
+  link: /tools/municipality-guide/adjuntas/
+
+- date: 2026-05-18
+  category: features
+  featured: false
   title: "New: Barranquitas Municipality Detail Page"
   body: "The Barranquitas detail page is now live — covering this Cordillera Central municipality founded in 1803 alongside its San Antonio de Padua parish. Barranquitas has no formal barrio divisions, making parish and civil records the primary locator tools. Also the birthplace of statesman Luis Muñoz Rivera (1859-1916), whose family records appear in the parish registers."
   link: /tools/municipality-guide/barranquitas/
