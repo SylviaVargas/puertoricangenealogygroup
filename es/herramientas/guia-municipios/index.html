@@ -46,6 +46,18 @@ last_modified_at: 2026-03-01
       <option value="West">Oeste</option>
     </select>
   </div>
+  <div class="muni-filter-wrap">
+    <label for="muni-diocese-filter">Diócesis:</label>
+    <select id="muni-diocese-filter">
+      <option value="">Todas las Diócesis</option>
+      <option value="Archdiocese of San Juan">San Juan (Arquidiócesis)</option>
+      <option value="Diocese of Arecibo">Arecibo</option>
+      <option value="Diocese of Caguas">Caguas</option>
+      <option value="Diocese of Fajardo-Humacao">Fajardo-Humacao</option>
+      <option value="Diocese of Mayagüez">Mayagüez</option>
+      <option value="Diocese of Ponce">Ponce</option>
+    </select>
+  </div>
   <span id="muni-count" class="muni-count"></span>
 </div>
 
@@ -56,16 +68,17 @@ last_modified_at: 2026-03-01
         <th class="sortable" data-col="0">Municipio <span class="sort-icon" aria-hidden="true">↕</span></th>
         <th class="sortable" data-col="1">Fundado <span class="sort-icon" aria-hidden="true">↕</span></th>
         <th>Parroquia</th>
-        <th class="sortable" data-col="3"><abbr title="Registros Parroquiales">Reg.<br>Parroquiales</abbr> <span class="sort-icon" aria-hidden="true">↕</span></th>
-        <th class="sortable" data-col="4"><abbr title="Registros Civiles">Reg.<br>Civiles</abbr> <span class="sort-icon" aria-hidden="true">↕</span></th>
+        <th class="sortable" data-col="3">Diócesis <span class="sort-icon" aria-hidden="true">↕</span></th>
+        <th class="sortable" data-col="4"><abbr title="Registros Parroquiales">Reg.<br>Parroquiales</abbr> <span class="sort-icon" aria-hidden="true">↕</span></th>
+        <th class="sortable" data-col="5"><abbr title="Registros Civiles">Reg.<br>Civiles</abbr> <span class="sort-icon" aria-hidden="true">↕</span></th>
         <th>Pueblo(s)<br>Madre</th>
-        <th class="sortable" data-col="6">Región <span class="sort-icon" aria-hidden="true">↕</span></th>
+        <th class="sortable" data-col="7">Región <span class="sort-icon" aria-hidden="true">↕</span></th>
       </tr>
     </thead>
     <tbody>
       {% assign municipalities = site.data['pr-municipalities'] %}
       {% for m in municipalities %}
-      <tr data-region="{{ m.region }}">
+      <tr data-region="{{ m.region }}" data-diocese="{{ m.diocese.name }}">
         <td>
           {% if m.has_detail_page %}
           <a href="/es/guia-municipios/{{ m.id | replace: '_', '-' }}/" class="muni-detail-link">{{ m.name }}</a>
@@ -76,6 +89,7 @@ last_modified_at: 2026-03-01
         </td>
         <td>{{ m.founded }}</td>
         <td>{{ m.parish.name }}</td>
+        <td>{% if m.diocese.url and m.diocese.url != "" %}<a href="{{ m.diocese.url }}" title="{{ m.diocese.name_es }}" target="_blank" rel="noopener noreferrer">{{ m.diocese.short_name }}</a>{% else %}{{ m.diocese.short_name }}{% endif %}</td>
         <td>{{ m.parish.records_start }}</td>
         <td>{{ m.civil_registry_start }}</td>
         <td>{{ m.mother_town | join: ", " }}</td>
@@ -141,7 +155,8 @@ last_modified_at: 2026-03-01
     font-weight: 600;
     white-space: nowrap;
   }
-  #muni-region-filter {
+  #muni-region-filter,
+  #muni-diocese-filter {
     padding: 0.42rem 0.65rem;
     font-size: 1rem;
     border: 2px solid var(--color-navy);
@@ -150,7 +165,8 @@ last_modified_at: 2026-03-01
     background: #fff;
     cursor: pointer;
   }
-  #muni-region-filter:focus {
+  #muni-region-filter:focus,
+  #muni-diocese-filter:focus {
     outline: none;
     border-color: var(--color-gold);
     box-shadow: 0 0 0 2px rgba(201,169,98,0.25);
@@ -166,7 +182,7 @@ last_modified_at: 2026-03-01
     -webkit-overflow-scrolling: touch;
   }
   #muni-table {
-    min-width: 780px;
+    min-width: 870px;
     width: 100%;
     font-size: 0.875rem;
     table-layout: fixed;
@@ -178,31 +194,37 @@ last_modified_at: 2026-03-01
     width: 110px;
     overflow-wrap: break-word;
   }
-  /* Keep numeric and short columns from hogging space */
+  /* Fundado column */
   #muni-table th:nth-child(2),
   #muni-table td:nth-child(2) { width: 68px; }
-  #muni-table th:nth-child(4),
-  #muni-table td:nth-child(4),
-  #muni-table th:nth-child(5),
-  #muni-table td:nth-child(5) { width: 68px; }
-  #muni-table th:nth-child(7),
-  #muni-table td:nth-child(7) { width: 90px; white-space: nowrap; }
-
-  /* Parish column — constrain width so long names wrap */
+  /* Parroquia column — constrain width so long names wrap */
   #muni-table th:nth-child(3),
   #muni-table td:nth-child(3) {
-    width: 170px;
+    width: 160px;
     overflow-wrap: break-word;
   }
-
-  /* Mother Town(s) column — constrain width so multiple towns wrap */
+  /* Diócesis column */
+  #muni-table th:nth-child(4),
+  #muni-table td:nth-child(4) {
+    width: 110px;
+    overflow-wrap: break-word;
+  }
+  /* Reg. Parroquiales and Reg. Civiles numeric columns */
+  #muni-table th:nth-child(5),
+  #muni-table td:nth-child(5),
   #muni-table th:nth-child(6),
-  #muni-table td:nth-child(6) {
-    width: 140px;
+  #muni-table td:nth-child(6) { width: 68px; }
+  /* Pueblo(s) Madre column — constrain width so multiple towns wrap */
+  #muni-table th:nth-child(7),
+  #muni-table td:nth-child(7) {
+    width: 130px;
     overflow-wrap: break-word;
   }
+  /* Región column */
+  #muni-table th:nth-child(8),
+  #muni-table td:nth-child(8) { width: 85px; white-space: nowrap; }
 
-  /* Tighter cell padding for 7-column layout */
+  /* Tighter cell padding for 8-column layout */
   #muni-table th,
   #muni-table td {
     padding: 0.4rem 0.4rem;
@@ -296,7 +318,7 @@ last_modified_at: 2026-03-01
   }
 
   @media (max-width: 768px) {
-    #muni-table { font-size: 0.82rem; min-width: 660px; }
+    #muni-table { font-size: 0.82rem; min-width: 750px; }
     #muni-search { width: 100%; }
     .muni-toolbar { flex-direction: column; align-items: flex-start; }
   }
@@ -304,28 +326,31 @@ last_modified_at: 2026-03-01
 
 <script>
   (function () {
-    const search       = document.getElementById('muni-search');
-    const regionFilter = document.getElementById('muni-region-filter');
-    const table        = document.getElementById('muni-table');
-    const tbody        = table.querySelector('tbody');
-    const rows         = Array.from(tbody.querySelectorAll('tr'));
-    const countEl      = document.getElementById('muni-count');
-    const noRes        = document.getElementById('muni-no-results');
-    const clearBtn     = document.getElementById('muni-clear');
-    const total        = rows.length;
+    const search        = document.getElementById('muni-search');
+    const regionFilter  = document.getElementById('muni-region-filter');
+    const dioceseFilter = document.getElementById('muni-diocese-filter');
+    const table         = document.getElementById('muni-table');
+    const tbody         = table.querySelector('tbody');
+    const rows          = Array.from(tbody.querySelectorAll('tr'));
+    const countEl       = document.getElementById('muni-count');
+    const noRes         = document.getElementById('muni-no-results');
+    const clearBtn      = document.getElementById('muni-clear');
+    const total         = rows.length;
 
     function setCount(n) {
       countEl.textContent = n === total ? total + ' municipios' : n + ' de ' + total + ' municipios';
     }
 
     function applySearch() {
-      const term   = search.value.toLowerCase().trim();
-      const region = regionFilter.value;
-      let visible  = 0;
+      const term    = search.value.toLowerCase().trim();
+      const region  = regionFilter.value;
+      const diocese = dioceseFilter.value;
+      let visible   = 0;
       rows.forEach(function (row) {
-        const matchText   = !term   || row.textContent.toLowerCase().includes(term);
-        const matchRegion = !region || row.dataset.region === region;
-        const show = matchText && matchRegion;
+        const matchText    = !term    || row.textContent.toLowerCase().includes(term);
+        const matchRegion  = !region  || row.dataset.region === region;
+        const matchDiocese = !diocese || row.dataset.diocese === diocese;
+        const show = matchText && matchRegion && matchDiocese;
         row.style.display = show ? '' : 'none';
         if (show) visible++;
       });
@@ -335,9 +360,11 @@ last_modified_at: 2026-03-01
 
     search.addEventListener('input', applySearch);
     regionFilter.addEventListener('change', applySearch);
+    dioceseFilter.addEventListener('change', applySearch);
     clearBtn.addEventListener('click', function () {
       search.value = '';
       regionFilter.value = '';
+      dioceseFilter.value = '';
       applySearch();
     });
     setCount(total);

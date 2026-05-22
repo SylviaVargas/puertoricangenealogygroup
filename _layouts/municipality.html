@@ -244,6 +244,24 @@ layout: default
             <p>{% if page.lang == 'es' %}Registros desde{% else %}Records from{% endif %} <strong>{{ muni.parish.records_start }}</strong></p>
             <a href="{% if muni.catholic_records_url %}{{ muni.catholic_records_url }}{% else %}https://www.familysearch.org/en/search/collection/1807092{% endif %}" class="btn btn-primary muni-toolkit-btn" target="_blank" rel="noopener noreferrer">⬇ {% if page.lang == 'es' %}Buscar Registros Católicos{% else %}Search Catholic Records{% endif %}</a>
           </div>
+          {% if muni.diocese %}
+          <div class="muni-toolkit-card">
+            <h3>{% if page.lang == 'es' %}Archivo Diocesano{% else %}Diocesan Archive{% endif %}</h3>
+            <p>{% if page.lang == 'es' %}Diócesis:{% else %}Diocese:{% endif %}
+              {% if muni.diocese.url and muni.diocese.url != "" %}
+              <strong><a href="{{ muni.diocese.url }}" target="_blank" rel="noopener noreferrer">{% if page.lang == 'es' %}{{ muni.diocese.name_es }}{% else %}{{ muni.diocese.name }}{% endif %}</a></strong>
+              {% else %}
+              <strong>{% if page.lang == 'es' %}{{ muni.diocese.name_es }}{% else %}{{ muni.diocese.name }}{% endif %}</strong>
+              {% endif %}
+            </p>
+            <p class="muni-toolkit-note">{% if page.lang == 'es' %}Para registros sacramentales que no están disponibles digitalmente, contacta directamente el archivo diocesano.{% else %}For sacramental records not available digitally, contact the diocesan archive directly.{% endif %}</p>
+            {% if muni.diocese.archive_url and muni.diocese.archive_url != "" %}
+            <a href="{{ muni.diocese.archive_url }}" class="btn btn-primary muni-toolkit-btn" target="_blank" rel="noopener noreferrer">{% if page.lang == 'es' %}Contactar Archivo{% else %}Contact Archive{% endif %}</a>
+            {% elsif muni.diocese.url and muni.diocese.url != "" %}
+            <a href="{{ muni.diocese.url }}" class="btn btn-primary muni-toolkit-btn" target="_blank" rel="noopener noreferrer">{% if page.lang == 'es' %}Sitio de la Diócesis{% else %}Diocese Website{% endif %}</a>
+            {% endif %}
+          </div>
+          {% endif %}
         </div>
       </section>
 
@@ -273,8 +291,8 @@ layout: default
           {% for resource in muni.online_resources %}
           <li>
             <a href="{{ resource.url }}" target="_blank" rel="noopener noreferrer"><em>{{ resource.title }}</em></a>
-            {% if resource.type %}<span class="muni-source-type">{{ resource.type }}</span>{% endif %}
-            {% if resource.description %}<span class="muni-source-desc">{{ resource.description }}</span>{% endif %}
+            {% if resource.type %}{% if page.lang == 'es' %}{% assign type_es = site.data.municipality_types_es[resource.type] %}<span class="muni-source-type">{% if type_es %}{{ type_es }}{% else %}{{ resource.type }}{% endif %}</span>{% else %}<span class="muni-source-type">{{ resource.type }}</span>{% endif %}{% endif %}
+            {% if page.lang == 'es' and resource.description_es %}<span class="muni-source-desc">{{ resource.description_es }}</span>{% elsif resource.description %}<span class="muni-source-desc">{{ resource.description }}</span>{% endif %}
           </li>
           {% endfor %}
           {% endif %}
@@ -298,8 +316,8 @@ layout: default
             {% endif %}
             {% if source.author %} — {{ source.author }}{% endif %}
             {% if source.year %} ({{ source.year }}){% endif %}
-            {% if source.type %}<span class="muni-source-type">{{ source.type }}</span>{% endif %}
-            {% if source.description %}<span class="muni-source-desc">{{ source.description }}</span>{% endif %}
+            {% if source.type %}{% if page.lang == 'es' %}{% assign type_es = site.data.municipality_types_es[source.type] %}<span class="muni-source-type">{% if type_es %}{{ type_es }}{% else %}{{ source.type }}{% endif %}</span>{% else %}<span class="muni-source-type">{{ source.type }}</span>{% endif %}{% endif %}
+            {% if page.lang == 'es' and source.description_es %}<span class="muni-source-desc">{{ source.description_es }}</span>{% elsif source.description %}<span class="muni-source-desc">{{ source.description }}</span>{% endif %}
           </li>
           {% endfor %}
         </ul>

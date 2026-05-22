@@ -14,6 +14,13 @@
 - date: 2026-05-21
   category: funciones
   featured: true
+  title: "Nuevo: Columna de Diócesis en la Guía de Municipios"
+  body: "La Guía de Municipios de Puerto Rico ahora muestra la diócesis católica que gobierna cada uno de los 78 municipios. Filtra por diócesis, ordena la columna o haz clic en el nombre de la diócesis para visitar su sitio oficial. Cada página municipal también incluye una nueva tarjeta de Archivo Diocesano en el Kit de Genealogía."
+  link: /es/herramientas/guia-municipios/
+
+- date: 2026-05-21
+  category: funciones
+  featured: false
   title: "Mejora: Las Imágenes de Mapas Municipales Ahora Enlazan a Sus Fuentes"
   body: "Las imágenes de mapas históricos en cada página municipal ahora son enlaces activos que abren la fuente original (Archivos TIGER/Line del Censo de EE. UU.) en una nueva pestaña. Pasa el cursor sobre cualquier mapa para ver el indicador de borde dorado. Cubre los 78 municipios."
   link: /es/guia-municipios/adjuntas/

@@ -13,6 +13,13 @@
 - date: 2026-05-21
   category: features
   featured: true
+  title: "New: Diocese Column Added to Municipality Guide"
+  body: "The Puerto Rico Municipality Guide now shows the governing Catholic diocese for each of the 78 municipalities. Filter by diocese, sort the column, or click the diocese name to visit the official website. Each municipality detail page also has a new Diocesan Archive card in the Genealogy Toolkit for contacting the archive directly."
+  link: /tools/municipality-guide/
+
+- date: 2026-05-21
+  category: features
+  featured: false
   title: "Enhancement: Municipality Map Images Now Link to Sources"
   body: "Historical map images on every municipality page are now clickable, opening the original source (U.S. Census Bureau TIGER/Line Shapefiles) in a new tab. Hover over any map image to see the gold border indicator. Covers all 78 municipalities."
   link: /tools/municipality-guide/adjuntas/
