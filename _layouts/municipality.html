@@ -374,6 +374,18 @@ layout: default
         </ul>
       </div>
 
+      <div class="muni-sidebar-widget">
+        <h3>{% if page.lang == 'es' %}Guías de Investigación{% else %}Research Guides{% endif %}</h3>
+        <ul>
+          <li><a href="{% if page.lang == 'es' %}/es/guias-investigacion/navegar-registros-civiles/{% else %}/research-guides/navigating-civil-records/{% endif %}">{% if page.lang == 'es' %}Cómo Navegar los Registros Civiles{% else %}Navigating Civil Records{% endif %}</a></li>
+          <li><a href="{% if page.lang == 'es' %}/es/guias-investigacion/registros-censales/{% else %}/research-guides/census-records/{% endif %}">{% if page.lang == 'es' %}Registros Censales{% else %}Census Records{% endif %}</a></li>
+          <li><a href="{% if page.lang == 'es' %}/es/guias-investigacion/empezar/{% else %}/research-guides/getting-started/{% endif %}">{% if page.lang == 'es' %}Cómo Empezar{% else %}Getting Started{% endif %}</a></li>
+          <li><a href="{% if page.lang == 'es' %}/es/guias-investigacion/periodicos-pr/{% else %}/research-guides/pr-newspapers/{% endif %}">{% if page.lang == 'es' %}Periódicos de Puerto Rico{% else %}Puerto Rico Newspapers{% endif %}</a></li>
+          <li><a href="{% if page.lang == 'es' %}/es/guias-investigacion/registros-esclavos/{% else %}/research-guides/slave-records/{% endif %}">{% if page.lang == 'es' %}Registros de Esclavitud{% else %}Slave Records{% endif %}</a></li>
+          <li><a href="/research-guides/genealogical-spanish-glossary/">{% if page.lang == 'es' %}Glosario de Español Genealógico{% else %}Genealogical Spanish Glossary{% endif %}</a></li>
+        </ul>
+      </div>
+
       {% if muni.findagrave_cemeteries or muni.findagrave_url %}
       <div class="muni-sidebar-widget">
         <h3>{% if page.lang == 'es' %}Cementerios{% else %}Cemetery Index{% endif %}</h3>
