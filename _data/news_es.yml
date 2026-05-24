@@ -11,9 +11,16 @@
 # Mantenimiento: agregar entradas nuevas al inicio. Cambiar featured anterior a false.
 # Para archivar: mover entradas con más de ~12 meses a _data/news_es_archive_YYYY.yml
 
-- date: 2026-05-21
+- date: 2026-05-24
   category: funciones
   featured: true
+  title: "Nuevo: Pestaña de Ayuda y Estadísticas en el Registro de Investigación"
+  body: "El Registro de Investigación ahora tiene una pestaña de Ayuda con respuestas a las cinco preguntas más frecuentes sobre guardar datos, formatear citas, exportar e importar. La barra de herramientas también muestra el conteo de entradas y la hora del último guardado."
+  link: /es/registro-investigacion/
+
+- date: 2026-05-21
+  category: funciones
+  featured: false
   title: "Nuevo: Columna de Diócesis en la Guía de Municipios"
   body: "La Guía de Municipios de Puerto Rico ahora muestra la diócesis católica que gobierna cada uno de los 78 municipios. Filtra por diócesis, ordena la columna o haz clic en el nombre de la diócesis para visitar su sitio oficial. Cada página municipal también incluye una nueva tarjeta de Archivo Diocesano en el Kit de Genealogía."
   link: /es/herramientas/guia-municipios/

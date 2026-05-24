@@ -10,9 +10,16 @@
 #
 # Maintenance: add new entries at the top. Move old featured to non-featured.
 # To archive: move entries older than ~12 months to _data/news_archive_YYYY.yml
-- date: 2026-05-21
+- date: 2026-05-24
   category: features
   featured: true
+  title: "New: Help Tab and Stats Added to Research Log"
+  body: "The Research Log now has a Help tab with answers to the five most common questions about saving data, formatting citations, exporting, and importing. The toolbar also shows a live entry count and last-saved timestamp so you always know where you stand."
+  link: /research-log/
+
+- date: 2026-05-21
+  category: features
+  featured: false
   title: "New: Diocese Column Added to Municipality Guide"
   body: "The Puerto Rico Municipality Guide now shows the governing Catholic diocese for each of the 78 municipalities. Filter by diocese, sort the column, or click the diocese name to visit the official website. Each municipality detail page also has a new Diocesan Archive card in the Genealogy Toolkit for contacting the archive directly."
   link: /tools/municipality-guide/

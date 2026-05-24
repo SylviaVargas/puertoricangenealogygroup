@@ -186,6 +186,16 @@ last_modified_at: 2026-02-25
   }
   .rl-link-card p { font-size: 0.85rem; color: var(--color-gray); margin: 0; }
 
+  /* FAQ / Ayuda tab */
+  .rl-faq { list-style: none; padding: 0; margin: 0; }
+  .rl-faq li { border-bottom: 1px solid #e5e7eb; padding: 1rem 0; }
+  .rl-faq li:last-child { border-bottom: none; }
+  .rl-faq strong { display: block; font-size: 1rem; color: var(--color-navy); margin-bottom: 0.4rem; }
+  .rl-faq p { margin: 0; font-size: 0.9rem; color: var(--color-gray); }
+
+  /* Stats chip */
+  #rl-stats { font-size: 0.8rem; color: var(--color-gray); }
+
   /* Google Sheets how-to */
   .rl-sheets-details {
     margin-top: 1.5rem;
@@ -263,12 +273,16 @@ last_modified_at: 2026-02-25
   <button class="rl-tab-btn active" onclick="switchTab('log', this)">Registro de Investigación</button>
   <button class="rl-tab-btn" onclick="switchTab('guide', this)">Guía de Estrategia</button>
   <button class="rl-tab-btn" onclick="switchTab('links', this)">Enlaces Rápidos</button>
+  <button class="rl-tab-btn" onclick="switchTab('ayuda', this)">Ayuda</button>
 </div>
 
 <!-- Research Log Panel -->
 <div id="panel-log" class="rl-panel active">
   <div class="rl-toolbar">
-    <h2>Registro Sistemático de Investigación</h2>
+    <div style="display:flex;align-items:baseline;gap:0.75rem;">
+      <h2>Registro Sistemático de Investigación</h2>
+      <span id="rl-stats"></span>
+    </div>
     <button class="rl-btn rl-btn-ghost" onclick="addRow()">+ Agregar Entrada</button>
   </div>
   <div class="rl-table-wrap">
@@ -382,6 +396,33 @@ last_modified_at: 2026-02-25
   </details>
 </div>
 
+<!-- Ayuda Panel -->
+<div id="panel-ayuda" class="rl-panel">
+  <h2>Cómo Utilizar Este Registro de Investigación</h2>
+  <ul class="rl-faq">
+    <li>
+      <strong>¿Cuál es el propósito de este registro de investigación?</strong>
+      <p>Este registro le ayuda a rastrear sus búsquedas genealógicas, previene la duplicación de esfuerzos y apoya el Estándar de Prueba Genealógica (GPS) al documentar tanto los resultados positivos como los negativos.</p>
+    </li>
+    <li>
+      <strong>¿Dónde se guardan mis datos?</strong>
+      <p>Sus entradas se guardan automáticamente en el almacenamiento local de su navegador web. Debe utilizar el botón "Descargar CSV" para hacer una copia de seguridad de sus datos localmente; de lo contrario, borrar la memoria caché de su navegador eliminará su registro permanentemente.</p>
+    </li>
+    <li>
+      <strong>¿Cómo doy formato a mis fuentes?</strong>
+      <p>Ingrese sus citas en la columna "Fuente / Repositorio" utilizando el estándar de <a href="https://www.evidenceexplained.com/" target="_blank" rel="noopener noreferrer"><em>Evidence Explained</em></a>. Asegúrese de capturar los matices específicos de los registros de manuscritos originales en lugar de depender de citas derivadas genéricas.</p>
+    </li>
+    <li>
+      <strong>¿Cómo exporto mis datos?</strong>
+      <p>Haga clic en "Descargar CSV" para guardar un archivo en su computadora, o use "Copiar para Sheets" para pegar instantáneamente su registro en Google Sheets o Excel.</p>
+    </li>
+    <li>
+      <strong>¿Puedo cargar registros anteriores?</strong>
+      <p>Sí. Utilice el botón "Importar CSV" para subir un registro guardado previamente desde su computadora y continuar su sesión de investigación.</p>
+    </li>
+  </ul>
+</div>
+
 <!-- Export Modal -->
 <div id="exportModal" class="rl-modal-overlay" role="dialog" aria-modal="true" aria-labelledby="exportTitle">
   <div class="rl-modal">
@@ -414,6 +455,24 @@ last_modified_at: 2026-02-25
 
   function saveData() {
     try { localStorage.setItem(STORAGE_KEY, JSON.stringify(logData)); } catch (e) {}
+    updateStats(true);
+  }
+
+  function updateStats(saved) {
+    var el = document.getElementById('rl-stats');
+    if (!el) return;
+    var count = logData.length;
+    var countStr = count === 1 ? '1 entrada' : count + ' entradas';
+    if (saved) {
+      var now = new Date();
+      var h = now.getHours(), m = now.getMinutes();
+      var ampm = h >= 12 ? 'PM' : 'AM';
+      h = h % 12 || 12;
+      var timeStr = h + ':' + (m < 10 ? '0' : '') + m + ' ' + ampm;
+      el.textContent = countStr + ' · Guardado ' + timeStr;
+    } else {
+      el.textContent = countStr;
+    }
   }
 
   /* ── Table rendering ── */
@@ -445,6 +504,7 @@ last_modified_at: 2026-02-25
         '<td><button class="rl-delete-btn" onclick="window._rl.del(' + i + ')" aria-label="Eliminar fila" title="Eliminar">&#10006;</button></td>' +
         '</tr>';
     }).join('');
+    updateStats(false);
   }
 
   window._rl = {
