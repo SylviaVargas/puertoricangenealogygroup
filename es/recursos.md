@@ -4,7 +4,7 @@ title: Recursos
 lang: es
 permalink: /es/recursos/
 ref: resources
-last_modified_at: 2026-03-16
+last_modified_at: 2026-05-26
 ---
 
 ## Recursos de Genealog&#237;a Puertorrique&#241;a
@@ -18,7 +18,7 @@ Una colecci&#243;n curada de archivos, bases de datos y herramientas para invest
 <div class="quicklink-buttons">
 <a href="/es/guias-investigacion/primeros-pasos/" class="quicklink-btn">Comenzando desde cero</a>
 <a href="https://www.familysearch.org/en/search/collection/1682798" target="_blank" rel="noopener noreferrer" class="quicklink-btn">Registros del siglo XIX</a>
-<a href="https://genealogianuestra.com/" target="_blank" rel="noopener noreferrer" class="quicklink-btn">Buscar por pueblo</a>
+<a href="/es/herramientas/guia-municipios/" class="quicklink-btn">Buscar por municipio</a>
 </div>
 </div>
 

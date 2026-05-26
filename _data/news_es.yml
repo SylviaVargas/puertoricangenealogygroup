@@ -11,9 +11,23 @@
 # Mantenimiento: agregar entradas nuevas al inicio. Cambiar featured anterior a false.
 # Para archivar: mover entradas con más de ~12 meses a _data/news_es_archive_YYYY.yml
 
-- date: 2026-05-24
+- date: 2026-05-26
   category: funciones
   featured: true
+  title: "Mejorado: Guías de Investigación Ahora con Filtros"
+  body: "La página de Guías de Investigación ahora tiene un cuadro de navegación '¿Qué estás buscando?' y filtros por categoría: haz clic en Principiantes, Registros, Estándares y Herramientas, o ADN para ver solo las guías relevantes."
+  link: /es/guias-investigacion/
+
+- date: 2026-05-26
+  category: guias
+  featured: false
+  title: "Nuevo: Guía de ADN para Investigadores Puertorriqueños"
+  body: "Una nueva guía para principiantes explica qué puede y qué no puede decirte una prueba de ADN sobre tu ascendencia puertorriqueña, incluyendo estimaciones de etnicidad, coincidencias de ADN, preguntas sobre la ascendencia taína y por qué la endogamia afecta los resultados puertorriqueños de manera diferente."
+  link: /es/guias-investigacion/por-que-prueba-adn/
+
+- date: 2026-05-24
+  category: funciones
+  featured: false
   title: "Nuevo: Pestaña de Ayuda y Estadísticas en el Registro de Investigación"
   body: "El Registro de Investigación ahora tiene una pestaña de Ayuda con respuestas a las cinco preguntas más frecuentes sobre guardar datos, formatear citas, exportar e importar. La barra de herramientas también muestra el conteo de entradas y la hora del último guardado."
   link: /es/registro-investigacion/

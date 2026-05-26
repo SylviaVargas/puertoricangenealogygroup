@@ -10,9 +10,23 @@
 #
 # Maintenance: add new entries at the top. Move old featured to non-featured.
 # To archive: move entries older than ~12 months to _data/news_archive_YYYY.yml
-- date: 2026-05-24
+- date: 2026-05-26
   category: features
   featured: true
+  title: "Improved: Research Guides Now Filterable"
+  body: "The Research Guides page now has a 'What are you looking for?' navigation box and filter chips — click Beginner, Records, Standards and Tools, or DNA to instantly narrow the guide list. Matches the Resources page experience."
+  link: /research-guides/
+
+- date: 2026-05-26
+  category: guides
+  featured: false
+  title: "New: DNA Guide for Puerto Rican Researchers"
+  body: "A new beginner guide explains what DNA testing can and cannot tell you about your Puerto Rican ancestry — including ethnicity estimates, DNA matches, Taino ancestry questions, and why endogamy affects Puerto Rican results differently."
+  link: /research-guides/why-dna-testing/
+
+- date: 2026-05-24
+  category: features
+  featured: false
   title: "New: Help Tab and Stats Added to Research Log"
   body: "The Research Log now has a Help tab with answers to the five most common questions about saving data, formatting citations, exporting, and importing. The toolbar also shows a live entry count and last-saved timestamp so you always know where you stand."
   link: /research-log/

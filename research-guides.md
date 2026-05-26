@@ -5,7 +5,7 @@ description: "Free self-paced courses on Puerto Rican genealogy: civil records, 
 lang: en
 permalink: /research-guides/
 ref: research-guides
-last_modified_at: 2026-05-18
+last_modified_at: 2026-05-26
 faqs:
   - q: "Where do I start with Puerto Rican genealogy research?"
     a: "Start with yourself and work backward. Collect birth certificates, marriage records, and death certificates for your parents and grandparents. Then use FamilySearch's Puerto Rico Civil Registration collection (1885-2001) and Catholic Church Records collection (1645-2021) to push further back. Our Getting Started guide walks through the full process."
@@ -29,9 +29,26 @@ faqs:
 
 Puerto Rican genealogy comes with unique challenges — Spanish-language records, a complex colonial history, and records scattered across archives in Puerto Rico, Spain, and the United States. These guides are built specifically for that journey.
 
-<div class="card-grid">
+<div class="resource-quicklinks">
+<p>What are you looking for?</p>
+<div class="quicklink-buttons">
+<button class="quicklink-btn" style="border:none;cursor:pointer;" data-filter="beginner">New to genealogy</button>
+<button class="quicklink-btn" style="border:none;cursor:pointer;" data-filter="records">Find records</button>
+<button class="quicklink-btn" style="border:none;cursor:pointer;" data-filter="dna">DNA research</button>
+</div>
+</div>
 
-<div class="card">
+<div class="resource-filters" id="guide-filters">
+<button class="filter-chip active" data-filter="all">All</button>
+<button class="filter-chip" data-filter="beginner">Beginner</button>
+<button class="filter-chip" data-filter="records">Records</button>
+<button class="filter-chip" data-filter="standards">Standards &amp; Tools</button>
+<button class="filter-chip" data-filter="dna">DNA</button>
+</div>
+
+<div class="card-grid" id="guide-grid">
+
+<div class="card guide-card" data-category="beginner">
 <h3>Getting Started</h3>
 <span class="badge badge-available">✓ Available</span>
 <p>New to Puerto Rican genealogy? Start here with the fundamentals.</p>
@@ -43,7 +60,7 @@ Puerto Rican genealogy comes with unique challenges — Spanish-language records
 </ul>
 </div>
 
-<div class="card">
+<div class="card guide-card" data-category="beginner">
 <h3>Free Beginner Course</h3>
 <span class="badge badge-available">✓ Full Course Available</span>
 <p>New to genealogy? Work through this self-paced, four-module course designed for Puerto Rican researchers starting from scratch.</p>
@@ -58,20 +75,7 @@ Puerto Rican genealogy comes with unique challenges — Spanish-language records
 </ul>
 </div>
 
-<div class="card">
-<h3>Research Standards: GPS</h3>
-<span class="badge badge-available">✓ Available</span>
-<p>Understand the Genealogical Proof Standard — the five-element framework that defines what makes a genealogical conclusion reliable.</p>
-<ul>
-  <li><a href="/research-guides/genealogical-proof-standard/">What Is the GPS?</a></li>
-  <li><a href="/research-guides/genealogical-proof-standard/#the-five-elements">The Five Elements</a></li>
-  <li><a href="/research-guides/genealogical-proof-standard/#the-three-layer-analysis-framework">Three-Layer Framework (Sources / Information / Evidence)</a></li>
-  <li><a href="https://bcgcertification.org/ethics-standards" target="_blank" rel="noopener noreferrer"><em>BCG Genealogy Standards</em></a></li>
-  <li><a href="https://www.genealogyexplained.com/genealogical-proof-standard/#cbe9577ac9" target="_blank" rel="noopener noreferrer"><em>GPS Explained (Genealogy Explained)</em></a></li>
-</ul>
-</div>
-
-<div class="card">
+<div class="card guide-card" data-category="beginner">
 <h3>Genealogical Spanish Glossary</h3>
 <span class="badge badge-available">✓ Available</span>
 <p>Common Spanish terms found in Puerto Rican genealogical records — civil registration, church records, census enumerations, and notarial documents.</p>
@@ -84,7 +88,7 @@ Puerto Rican genealogy comes with unique challenges — Spanish-language records
 </ul>
 </div>
 
-<div class="card">
+<div class="card guide-card" data-category="records">
 <h3>Navigating Civil Records</h3>
 <span class="badge badge-available">✓ Full Course Available</span>
 <p>A five-module intermediate course on navigating Puerto Rico's civil registration system (1885–Present). Move from basic name searches to advanced digital browsing, with hands-on practice using original Rincón records.</p>
@@ -98,20 +102,7 @@ Puerto Rican genealogy comes with unique challenges — Spanish-language records
 </ul>
 </div>
 
-<div class="card">
-<h3>Church Records</h3>
-<span class="badge badge-coming-soon">🔜 Coming Soon</span>
-<p>Discover the wealth of information in Catholic parish records.</p>
-<ul>
-  <li><a href="#parish">Understanding Parish Records</a></li>
-  <li><a href="#baptisms">Baptismal Records</a> · <a href="https://genealogianuestra.com/unlocking-church-records-for-mayaguez-new-19th-century-baptismal-transcriptions/" target="_blank" rel="noopener noreferrer"><em>New Mayagüez Baptismal Transcriptions, 19th Century</em></a></li>
-  <li><a href="#church-marriages">Marriage Records</a> · <a href="https://www.familysearch.org/en/search/collection/1807092" target="_blank" rel="noopener noreferrer"><em>Browse on FamilySearch</em></a></li>
-  <li><a href="#burials">Burial Records</a></li>
-  <li><a href="https://www.familysearch.org/en/search/collection/1807092" target="_blank" rel="noopener noreferrer"><em>Browse: Catholic Church Records, 1645–2021</em></a></li>
-</ul>
-</div>
-
-<div class="card">
+<div class="card guide-card" data-category="records">
 <h3>Census Records</h3>
 <span class="badge badge-available">✓ Full Course Available</span>
 <p>A ten-module advanced course on locating, analyzing, and correlating Puerto Rican census records across three political eras: Spanish Colonial, U.S. Military (1899), and U.S. Federal (1910–1950).</p>
@@ -129,7 +120,7 @@ Puerto Rican genealogy comes with unique challenges — Spanish-language records
 </ul>
 </div>
 
-<div class="card">
+<div class="card guide-card" data-category="records">
 <h3>Slave Record Research</h3>
 <span class="badge badge-available">✓ Full Course Available</span>
 <p>A four-module beginner-to-intermediate course on locating, extracting, and using the 1872 Registro Central de Esclavos and related slave registers to trace enslaved ancestors in Puerto Rico.</p>
@@ -144,21 +135,7 @@ Puerto Rican genealogy comes with unique challenges — Spanish-language records
 </ul>
 </div>
 
-<div class="card">
-<h3>AI Tools for Research and Organization</h3>
-<span class="badge badge-available">✓ Full Course Available</span>
-<p>A four-module beginner course on using AI tools like Gemini and Claude to match records, organize data, and plan genealogical research -- with GPS-aligned best practices throughout.</p>
-<ul>
-  <li><a href="/research-guides/ai-research-organization/">Course Overview</a></li>
-  <li><a href="/research-guides/ai-research-organization-module-1/">Module 1 — AI as a Research Assistant: What It Can and Cannot Do</a></li>
-  <li><a href="/research-guides/ai-research-organization-module-2/">Module 2 — Record Matching: Solving Common-Name Problems</a></li>
-  <li><a href="/research-guides/ai-research-organization-module-3/">Module 3 — Organizing Your Data with AI</a></li>
-  <li><a href="/research-guides/ai-research-organization-module-4/">Module 4 — Research Planning: Breaking Through Brick Walls</a></li>
-  <li><a href="/assets/pdfs/ai-research-organization/Module_4_Research_Planning.pdf" target="_blank">⬇ Module 4 Research Planning (PDF)</a></li>
-</ul>
-</div>
-
-<div class="card">
+<div class="card guide-card" data-category="records">
 <h3>Historical Newspapers</h3>
 <span class="badge badge-available">✓ Full Course Available</span>
 <p>A five-lesson intermediate course on finding and using digitized Puerto Rican historical newspapers for genealogy. All free platforms. Includes a real 1872 Rincón case study and search strategies for slavery-related records.</p>
@@ -175,6 +152,57 @@ Puerto Rican genealogy comes with unique challenges — Spanish-language records
 </ul>
 </div>
 
+<div class="card guide-card" data-category="records">
+<h3>Church Records</h3>
+<span class="badge badge-coming-soon">🔜 Coming Soon</span>
+<p>Discover the wealth of information in Catholic parish records.</p>
+<ul>
+  <li><a href="#parish">Understanding Parish Records</a></li>
+  <li><a href="#baptisms">Baptismal Records</a> · <a href="https://genealogianuestra.com/unlocking-church-records-for-mayaguez-new-19th-century-baptismal-transcriptions/" target="_blank" rel="noopener noreferrer"><em>New Mayagüez Baptismal Transcriptions, 19th Century</em></a></li>
+  <li><a href="#church-marriages">Marriage Records</a> · <a href="https://www.familysearch.org/en/search/collection/1807092" target="_blank" rel="noopener noreferrer"><em>Browse on FamilySearch</em></a></li>
+  <li><a href="#burials">Burial Records</a></li>
+  <li><a href="https://www.familysearch.org/en/search/collection/1807092" target="_blank" rel="noopener noreferrer"><em>Browse: Catholic Church Records, 1645–2021</em></a></li>
+</ul>
+</div>
+
+<div class="card guide-card" data-category="standards">
+<h3>Research Standards: GPS</h3>
+<span class="badge badge-available">✓ Available</span>
+<p>Understand the Genealogical Proof Standard — the five-element framework that defines what makes a genealogical conclusion reliable.</p>
+<ul>
+  <li><a href="/research-guides/genealogical-proof-standard/">What Is the GPS?</a></li>
+  <li><a href="/research-guides/genealogical-proof-standard/#the-five-elements">The Five Elements</a></li>
+  <li><a href="/research-guides/genealogical-proof-standard/#the-three-layer-analysis-framework">Three-Layer Framework (Sources / Information / Evidence)</a></li>
+  <li><a href="https://bcgcertification.org/ethics-standards" target="_blank" rel="noopener noreferrer"><em>BCG Genealogy Standards</em></a></li>
+  <li><a href="https://www.genealogyexplained.com/genealogical-proof-standard/#cbe9577ac9" target="_blank" rel="noopener noreferrer"><em>GPS Explained (Genealogy Explained)</em></a></li>
+</ul>
+</div>
+
+<div class="card guide-card" data-category="standards">
+<h3>AI Tools for Research and Organization</h3>
+<span class="badge badge-available">✓ Full Course Available</span>
+<p>A four-module beginner course on using AI tools like Gemini and Claude to match records, organize data, and plan genealogical research -- with GPS-aligned best practices throughout.</p>
+<ul>
+  <li><a href="/research-guides/ai-research-organization/">Course Overview</a></li>
+  <li><a href="/research-guides/ai-research-organization-module-1/">Module 1 — AI as a Research Assistant: What It Can and Cannot Do</a></li>
+  <li><a href="/research-guides/ai-research-organization-module-2/">Module 2 — Record Matching: Solving Common-Name Problems</a></li>
+  <li><a href="/research-guides/ai-research-organization-module-3/">Module 3 — Organizing Your Data with AI</a></li>
+  <li><a href="/research-guides/ai-research-organization-module-4/">Module 4 — Research Planning: Breaking Through Brick Walls</a></li>
+  <li><a href="/assets/pdfs/ai-research-organization/Module_4_Research_Planning.pdf" target="_blank">⬇ Module 4 Research Planning (PDF)</a></li>
+</ul>
+</div>
+
+<div class="card guide-card" data-category="dna">
+<h3>DNA Testing for Puerto Rican Ancestry</h3>
+<span class="badge badge-available">✓ Available</span>
+<p>New to DNA testing? Start here. These guides explain what DNA can and cannot tell you about your Puerto Rican ancestry, how to read your AncestryDNA results, and why endogamy affects Puerto Rican matches differently.</p>
+<ul>
+  <li><a href="/research-guides/why-dna-testing/">Why Test? What DNA Can and Can't Tell You</a></li>
+  <li><a href="/research-guides/ancestrydna-results-next-steps/">I Have My AncestryDNA Results. Now What?</a> <span style="font-size:0.85em; color:#888;">(coming soon)</span></li>
+  <li><a href="/research-guides/puerto-rican-dna-endogamy/">Puerto Rican DNA and Endogamy</a> <span style="font-size:0.85em; color:#888;">(coming soon)</span></li>
+</ul>
+</div>
+
 </div>
 
 ---
@@ -184,7 +212,6 @@ Puerto Rican genealogy comes with unique challenges — Spanish-language records
 We are actively developing additional guides. Topics in development:
 
 <div style="display:flex; flex-wrap:wrap; gap:0.5rem; margin:1rem 0 1.5rem;">
-  <span class="filter-chip" style="opacity:0.5; cursor:default;">DNA Testing for Puerto Rican Ancestry</span>
   <span class="filter-chip" style="opacity:0.5; cursor:default;">Migration Patterns &amp; Mainland Records</span>
   <span class="filter-chip" style="opacity:0.5; cursor:default;">Spanish Colonial Military Records</span>
   <span class="filter-chip" style="opacity:0.5; cursor:default;">Notarial Records (Protocolos Notariales)</span>
@@ -197,3 +224,31 @@ We are actively developing additional guides. Topics in development:
 ---
 
 *These guides are created by and for the Puerto Rican genealogy research community. Suggestions and corrections are welcome.*
+
+<script>
+(function() {
+  function applyFilter(cat) {
+    document.querySelectorAll('#guide-filters .filter-chip').forEach(function(b) {
+      b.classList.remove('active');
+    });
+    var chip = document.querySelector('#guide-filters .filter-chip[data-filter="' + cat + '"]');
+    if (chip) chip.classList.add('active');
+    document.querySelectorAll('.guide-card').forEach(function(card) {
+      card.style.display = (cat === 'all' || card.getAttribute('data-category') === cat) ? '' : 'none';
+    });
+  }
+
+  document.querySelectorAll('#guide-filters .filter-chip').forEach(function(btn) {
+    btn.addEventListener('click', function() {
+      applyFilter(btn.getAttribute('data-filter'));
+    });
+  });
+
+  document.querySelectorAll('.resource-quicklinks button[data-filter]').forEach(function(btn) {
+    btn.addEventListener('click', function() {
+      applyFilter(btn.getAttribute('data-filter'));
+      document.getElementById('guide-filters').scrollIntoView({ behavior: 'smooth', block: 'start' });
+    });
+  });
+})();
+</script>

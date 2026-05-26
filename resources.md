@@ -4,7 +4,7 @@ title: Resources
 lang: en
 permalink: /resources/
 ref: resources
-last_modified_at: 2026-03-16
+last_modified_at: 2026-05-26
 ---
 
 ## Puerto Rican Genealogy Resources
@@ -18,7 +18,7 @@ A curated collection of archives, databases, and tools for researching Puerto Ri
 <div class="quicklink-buttons">
 <a href="/research-guides/getting-started/" class="quicklink-btn">Just starting out</a>
 <a href="https://www.familysearch.org/en/search/collection/1682798" target="_blank" rel="noopener noreferrer" class="quicklink-btn">19th-century records</a>
-<a href="https://genealogianuestra.com/" target="_blank" rel="noopener noreferrer" class="quicklink-btn">Search by town</a>
+<a href="/tools/municipality-guide/" class="quicklink-btn">Search by town</a>
 </div>
 </div>
 
