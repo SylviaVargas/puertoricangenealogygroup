@@ -12,8 +12,15 @@
 # Para archivar: mover entradas con más de ~12 meses a _data/news_es_archive_YYYY.yml
 
 - date: 2026-05-26
-  category: funciones
+  category: guias
   featured: true
+  title: "Nueva: Guía de Resultados de AncestryDNA para Investigadores Puertorriqueños"
+  body: "Una nueva guía paso a paso te lleva por lo que debes hacer después de que lleguen tus resultados de AncestryDNA: cómo leer tu lista de coincidencias, qué significan los centimorgans, cómo usar Coincidencias Compartidas para agrupar líneas familiares, y cuándo la evidencia de ADN se conecta con los registros documentales."
+  link: /es/guias-investigacion/resultados-ancestrydna-siguientes-pasos/
+
+- date: 2026-05-26
+  category: funciones
+  featured: false
   title: "Mejorado: Guías de Investigación Ahora con Filtros"
   body: "La página de Guías de Investigación ahora tiene un cuadro de navegación '¿Qué estás buscando?' y filtros por categoría: haz clic en Principiantes, Registros, Estándares y Herramientas, o ADN para ver solo las guías relevantes."
   link: /es/guias-investigacion/

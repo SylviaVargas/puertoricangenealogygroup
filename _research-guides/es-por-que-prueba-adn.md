@@ -116,7 +116,7 @@ El efecto genealógico es que tu ADN es más similar al de otros puertorriqueño
 
 Comprender la endogamia no hace que el ADN sea inútil para la investigación puertorriqueña. Cambia cómo lo usas: enfocándote en redes familiares en lugar de relaciones individuales, construyendo árboles de manera amplia (hacia los lados tanto como hacia arriba) y siempre anclando las conclusiones del ADN en evidencia documental de registros civiles, registros eclesiásticos y fuentes censales.
 
-> Una guía más detallada sobre la endogamia y cómo trabajar con ella está disponible: [El ADN Puertorriqueño y la Endogamia: Por Qué Tus Coincidencias Parecen Más Cercanas de lo que Son](/es/guias-investigacion/endogamia-adn-puertorriqueno/)
+> Una guía más detallada sobre la endogamia y cómo trabajar con ella estará disponible próximamente: *El ADN Puertorriqueño y la Endogamia: Por Qué Tus Coincidencias Parecen Más Cercanas de lo que Son*.
 
 ---
 
@@ -141,6 +141,7 @@ Si aún no te has hecho la prueba:
 
 Si ya te has hecho la prueba y tus resultados están sin usar:
 - Lee [Tengo Mis Resultados de AncestryDNA. ¿Y Ahora Qué?](/es/guias-investigacion/resultados-ancestrydna-siguientes-pasos/) para los próximos pasos inmediatos.
+- Una vez que te sientas cómodo leyendo tu lista de coincidencias, el **<a href="https://www.danaleeds.com/the-leeds-method/" target="_blank" rel="noopener noreferrer"><em>Método Leeds</em></a>** es la siguiente técnica de organización: clasifica tus coincidencias en cuatro grupos por código de color, uno por cada línea de abuelos, dándote un mapa visual de tu red familiar. Una versión ajustada para endogamia para investigadores puertorriqueños se cubrirá en el próximo curso de Fundamentos de ADN en este sitio.
 
 ---
 

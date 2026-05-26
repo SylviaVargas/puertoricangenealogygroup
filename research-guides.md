@@ -198,7 +198,7 @@ Puerto Rican genealogy comes with unique challenges — Spanish-language records
 <p>New to DNA testing? Start here. These guides explain what DNA can and cannot tell you about your Puerto Rican ancestry, how to read your AncestryDNA results, and why endogamy affects Puerto Rican matches differently.</p>
 <ul>
   <li><a href="/research-guides/why-dna-testing/">Why Test? What DNA Can and Can't Tell You</a></li>
-  <li><a href="/research-guides/ancestrydna-results-next-steps/">I Have My AncestryDNA Results. Now What?</a> <span style="font-size:0.85em; color:#888;">(coming soon)</span></li>
+  <li><a href="/research-guides/ancestrydna-results-next-steps/">I Have My AncestryDNA Results. Now What?</a></li>
   <li><a href="/research-guides/puerto-rican-dna-endogamy/">Puerto Rican DNA and Endogamy</a> <span style="font-size:0.85em; color:#888;">(coming soon)</span></li>
 </ul>
 </div>

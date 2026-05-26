@@ -11,8 +11,15 @@
 # Maintenance: add new entries at the top. Move old featured to non-featured.
 # To archive: move entries older than ~12 months to _data/news_archive_YYYY.yml
 - date: 2026-05-26
-  category: features
+  category: guides
   featured: true
+  title: "New: AncestryDNA Results Guide for Puerto Rican Researchers"
+  body: "A new step-by-step guide walks you through what to do after your AncestryDNA results arrive: how to read your match list, what centimorgans mean, how to use Shared Matches to group family lines, and when DNA evidence connects to documentary records."
+  link: /research-guides/ancestrydna-results-next-steps/
+
+- date: 2026-05-26
+  category: features
+  featured: false
   title: "Improved: Research Guides Now Filterable"
   body: "The Research Guides page now has a 'What are you looking for?' navigation box and filter chips — click Beginner, Records, Standards and Tools, or DNA to instantly narrow the guide list. Matches the Resources page experience."
   link: /research-guides/

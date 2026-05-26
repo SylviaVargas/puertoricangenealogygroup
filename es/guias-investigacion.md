@@ -198,7 +198,7 @@ La genealogía puertorriqueña presenta desafíos únicos: documentos en españo
 <p>¿Eres nuevo en las pruebas de ADN? Empieza aquí. Estas guías explican qué puede y qué no puede decirte el ADN sobre tu ascendencia puertorriqueña, cómo leer tus resultados de AncestryDNA y por qué la endogamia afecta de manera diferente las coincidencias puertorriqueñas.</p>
 <ul>
   <li><a href="/es/guias-investigacion/por-que-prueba-adn/">¿Por Qué Hacer una Prueba? Lo que el ADN Puede y No Puede Decirte</a></li>
-  <li><a href="/es/guias-investigacion/resultados-ancestrydna-siguientes-pasos/">Tengo Mis Resultados de AncestryDNA. ¿Y Ahora Qué?</a> <span style="font-size:0.85em; color:#888;">(próximamente)</span></li>
+  <li><a href="/es/guias-investigacion/resultados-ancestrydna-siguientes-pasos/">Tengo Mis Resultados de AncestryDNA. ¿Y Ahora Qué?</a></li>
   <li><a href="/es/guias-investigacion/endogamia-adn-puertorriqueno/">El ADN Puertorriqueño y la Endogamia</a> <span style="font-size:0.85em; color:#888;">(próximamente)</span></li>
 </ul>
 </div>

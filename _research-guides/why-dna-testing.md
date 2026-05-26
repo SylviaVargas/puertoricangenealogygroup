@@ -116,7 +116,7 @@ The genealogical effect is that your DNA is more similar to other Puerto Ricans 
 
 Understanding endogamy does not make DNA useless for Puerto Rican research. It changes how you use it: focusing on family networks rather than individual relationships, building trees broadly (sideways as well as upward), and always anchoring DNA conclusions in documentary evidence from civil records, church registers, and census sources.
 
-> A deeper guide to endogamy and how to work with it is available: [Puerto Rican DNA and Endogamy: Why Your Matches Look Closer Than They Are](/research-guides/puerto-rican-dna-endogamy/)
+> A deeper guide to endogamy and how to work with it is coming soon: *Puerto Rican DNA and Endogamy: Why Your Matches Look Closer Than They Are*.
 
 ---
 
@@ -141,6 +141,7 @@ If you have not yet tested:
 
 If you have already tested and your results are sitting unused:
 - Read [I Have My AncestryDNA Results. Now What?](/research-guides/ancestrydna-results-next-steps/) for the immediate next steps.
+- Once you are comfortable reading your match list, the **<a href="https://www.danaleeds.com/the-leeds-method/" target="_blank" rel="noopener noreferrer"><em>Leeds Method</em></a>** is the next organizing technique: it color-codes your matches into four groups, one for each grandparent line, giving you a visual map of your family network. An endogamy-adjusted version for Puerto Rican researchers is covered in the upcoming DNA Fundamentals course on this site.
 
 ---
 
