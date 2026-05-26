@@ -4812,6 +4812,16 @@
         "description_es": "Registro civil de nacimientos, matrimonios y defunciones para todos los municipios de Puerto Rico, incluido Hormigueros, a partir de 1885."
       }
     ],
+    "genealogy_sources": [
+      {
+        "title": "Hormigueros: Notas para su Historia",
+        "author": "Edwin Albino Plugues",
+        "url": "https://docs.pr.gov/files/OECH/Publicaciones%20y%20Recursos/Libros%20Notas%20para%20su%20Historia/Notas%20para%20su%20Historia%20Hormigueros.pdf",
+        "type": "Government History (PDF)",
+        "description": "Official historical reference PDF published by the Puerto Rico State Historic Preservation Office (OECH), with notes on Hormigueros's past. Useful as a concise background source for local history and genealogical research.",
+        "description_es": "PDF de referencia histórica oficial publicado por la Oficina Estatal de Conservación Histórica de Puerto Rico (OECH), con notas sobre el pasado de Hormigueros. Útil como fuente de antecedentes concisa para la investigación de historia local y genealogía."
+      }
+    ],
     "diocese": {
       "name": "Diocese of Mayagüez",
       "name_es": "Diócesis de Mayagüez",
