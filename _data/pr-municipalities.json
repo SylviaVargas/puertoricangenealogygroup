@@ -11246,6 +11246,14 @@
         "type": "Digitized Records",
         "description": "Civil registration births, marriages, and deaths for all Puerto Rico municipalities including Vega Baja, beginning 1885.",
         "description_es": "Registro civil de nacimientos, matrimonios y defunciones para todos los municipios de Puerto Rico incluyendo Vega Baja, a partir de 1885."
+      },
+      {
+        "title": "Another Look at My Vega Baja Roots",
+        "author": "Luis Rivera",
+        "url": "https://boricuagenes.com/another-look-at-my-vega-baja-roots/",
+        "type": "Genealogy Blog",
+        "description": "A personal genealogical research post about Vega Baja roots by Luis Rivera on the Boricua Genes blog. Useful for family connections and local research leads.",
+        "description_es": "Publicación de investigación genealógica personal sobre raíces de Vega Baja por Luis Rivera en el blog Boricua Genes. Útil para conexiones familiares y pistas de investigación local."
       }
     ],
     "diocese": {
@@ -11338,6 +11346,13 @@
         "type": "Cemetery Index",
         "description": "Find a Grave index for the Antiguo Cementerio in Vieques. Useful for verifying death dates and burial information.",
         "description_es": "Encuentre un índice de tumbas para el Antiguo Cementerio en Vieques. Útil para verificar fechas de muerte e información de entierro."
+      },
+      {
+        "title": "Archivo Histórico de Vieques",
+        "url": "https://dloc.com/es/collections/vieques/results",
+        "type": "Historical Archive",
+        "description": "Digital collection of historical documents, photographs, and records from Vieques held in the Digital Library of the Caribbean (dLOC). Valuable for genealogical and historical research on the island.",
+        "description_es": "Colección digital de documentos históricos, fotografías y registros de Vieques en la Biblioteca Digital del Caribe (dLOC). Valiosa para la investigación genealógica e histórica de la isla."
       }
     ],
     "genealogy_sources": [

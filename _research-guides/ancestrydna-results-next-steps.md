@@ -47,17 +47,17 @@ AncestryDNA sorts matches by the amount of DNA shared, measured in **centimorgan
 
 This table shows typical cM ranges for different relationships. The ranges are wide because inheritance is random: you may share more or less DNA with a given relative than the average.
 
-| Relationship | Typical cM Range | Notes |
-|---|---|---|
-| Parent / Child | 3,300-3,900 | Nearly identical across families |
-| Full Sibling | 2,300-3,900 | Wide range due to random inheritance |
-| Half-Sibling | 1,160-2,650 | |
-| Grandparent / Grandchild | 1,150-2,650 | |
-| First Cousin | 550-1,225 | Average ~850 cM |
-| First Cousin Once Removed | 215-650 | |
-| Second Cousin | 41-592 | Average ~230 cM |
-| Third Cousin | 0-173 | Average ~74 cM |
-| Fourth Cousin | 0-139 | May not appear at all |
+| Relationship              | Typical cM Range | Notes                                |
+| ------------------------- | ---------------- | ------------------------------------ |
+| Parent / Child            | 3,300-3,900      | Nearly identical across families     |
+| Full Sibling              | 2,300-3,900      | Wide range due to random inheritance |
+| Half-Sibling              | 1,160-2,650      |                                      |
+| Grandparent / Grandchild  | 1,150-2,650      |                                      |
+| First Cousin              | 550-1,225        | Average ~850 cM                      |
+| First Cousin Once Removed | 215-650          |                                      |
+| Second Cousin             | 41-592           | Average ~230 cM                      |
+| Third Cousin              | 0-173            | Average ~74 cM                       |
+| Fourth Cousin             | 0-139            | May not appear at all                |
 
 **Important for Puerto Rican researchers:** Because of endogamy (intermarriage within a relatively contained island population over generations), your cM totals with distant matches are often higher than these ranges suggest. A match showing 300 cM may be listed as a "2nd cousin" by AncestryDNA but could actually be a 4th or 5th cousin connected through multiple lines. A dedicated guide on this topic is coming soon: *Puerto Rican DNA and Endogamy: Why Your Matches Look Closer Than They Are*.
 
