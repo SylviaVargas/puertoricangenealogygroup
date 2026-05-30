@@ -10,9 +10,65 @@
 #
 # Maintenance: add new entries at the top. Move old featured to non-featured.
 # To archive: move entries older than ~12 months to _data/news_archive_YYYY.yml
+- date: 2026-05-30
+  category: features
+  featured: false
+  title: "Updated: Juana Díaz Municipality — History Expanded from EnciclopediaPR"
+  body: "The Juana Díaz municipality page now includes an expanded historical overview drawn from EnciclopediaPR: the disputed origin of the town's name, the 1817 formal separation from Ponce, the 1887 componte political persecution, the Fiesta de Reyes tradition, coat of arms symbolism, notable figures including poet Luis Llorens Torres, and updated geographic neighbors and parish record dates."
+  link: /tools/municipality-guide/juana-diaz/
+
+- date: 2026-05-30
+  category: features
+  featured: false
+  title: "Updated: Juana Díaz Municipality — BoricuaGenes Church Index Added"
+  body: "The Juana Díaz municipality page now includes a link to the BoricuaGenes index of Iglesia San Ramón Nonato Church records on FamilySearch, covering deaths, marriages, baptisms, and confirmations."
+  link: /tools/municipality-guide/juana_diaz/
+
+- date: 2026-05-30
+  category: features
+  featured: false
+  title: "Updated: Jayuya Municipality — BoricuaGenes Church Index Added"
+  body: "The Jayuya municipality page now includes a link to the BoricuaGenes index of Iglesia Nuestra Señora de Monserrate Church records on FamilySearch, covering deaths, marriages, baptisms, and confirmations."
+  link: /tools/municipality-guide/jayuya/
+
+- date: 2026-05-30
+  category: features
+  featured: false
+  title: "Updated: Guayanilla Municipality — BoricuaGenes Church Index Added"
+  body: "The Guayanilla municipality page now includes a link to the BoricuaGenes index of Iglesia Inmaculada Concepción Church records on FamilySearch, covering deaths, marriages, baptisms, and confirmations."
+  link: /tools/municipality-guide/guayanilla/
+
+- date: 2026-05-30
+  category: features
+  featured: false
+  title: "Updated: Guánica Municipality — BoricuaGenes Church Index Added"
+  body: "The Guánica municipality page now includes a link to the BoricuaGenes index of San Antonio Abad Church records on FamilySearch, covering deaths, marriages, baptisms, and confirmations."
+  link: /tools/municipality-guide/guanica/
+
+- date: 2026-05-30
+  category: features
+  featured: false
+  title: "Updated: Coamo Municipality — BoricuaGenes Church Index Added"
+  body: "The Coamo municipality page now includes a link to the BoricuaGenes index of San Blas de Illescas Church records on FamilySearch, covering deaths, marriages, baptisms, and confirmations."
+  link: /tools/municipality-guide/coamo/
+
+- date: 2026-05-30
+  category: features
+  featured: false
+  title: "Updated: Arroyo Municipality — BoricuaGenes Church Index Added"
+  body: "The Arroyo municipality page now includes a link to the BoricuaGenes index of Nuestra Señora del Carmen Church records on FamilySearch, covering deaths, marriages, baptisms, and confirmations."
+  link: /tools/municipality-guide/arroyo/
+
+- date: 2026-05-30
+  category: features
+  featured: false
+  title: "Updated: Adjuntas Municipality — BoricuaGenes Church Index Added"
+  body: "The Adjuntas municipality page now includes a link to the BoricuaGenes index of San Joaquín Church records on FamilySearch, covering deaths, marriages, baptisms, and confirmations."
+  link: /tools/municipality-guide/adjuntas/
+
 - date: 2026-05-26
   category: guides
-  featured: true
+  featured: true  
   title: "New: AncestryDNA Results Guide for Puerto Rican Researchers"
   body: "A new step-by-step guide walks you through what to do after your AncestryDNA results arrive: how to read your match list, what centimorgans mean, how to use Shared Matches to group family lines, and when DNA evidence connects to documentary records."
   link: /research-guides/ancestrydna-results-next-steps/

@@ -11,9 +11,58 @@
 # Mantenimiento: agregar entradas nuevas al inicio. Cambiar featured anterior a false.
 # Para archivar: mover entradas con más de ~12 meses a _data/news_es_archive_YYYY.yml
 
+- date: 2026-05-30
+  category: funciones
+  featured: false
+  title: "Actualizado: Municipio de Juana Díaz — Historia ampliada con EnciclopediaPR"
+  body: "La página del municipio de Juana Díaz ahora incluye un resumen histórico ampliado basado en EnciclopediaPR: el origen disputado del nombre del pueblo, la separación formal de Ponce en 1817, la persecución política del componte en 1887, la tradición de la Fiesta de Reyes, el simbolismo del escudo municipal, figuras notables como el poeta Luis Llorens Torres, y vecinos geográficos y fechas de registros parroquiales actualizados."
+  link: /es/guia-municipios/juana-diaz/
+
+- date: 2026-05-30
+  category: funciones
+  featured: false
+  title: "Actualizado: Municipio de Jayuya — Índice de BoricuaGenes añadido"
+  body: "La página del municipio de Jayuya ahora incluye un enlace al índice de BoricuaGenes de los registros de la Iglesia Nuestra Señora de Monserrate en FamilySearch, que cubre defunciones, matrimonios, bautismos y confirmaciones."
+  link: /es/guia-municipios/jayuya/
+
+- date: 2026-05-30
+  category: funciones
+  featured: false
+  title: "Actualizado: Municipio de Guayanilla — Índice de BoricuaGenes añadido"
+  body: "La página del municipio de Guayanilla ahora incluye un enlace al índice de BoricuaGenes de los registros de la Iglesia Inmaculada Concepción en FamilySearch, que cubre defunciones, matrimonios, bautismos y confirmaciones."
+  link: /es/guia-municipios/guayanilla/
+
+- date: 2026-05-30
+  category: funciones
+  featured: false
+  title: "Actualizado: Municipio de Guánica — Índice de BoricuaGenes añadido"
+  body: "La página del municipio de Guánica ahora incluye un enlace al índice de BoricuaGenes de los registros de la iglesia San Antonio Abad en FamilySearch, que cubre defunciones, matrimonios, bautismos y confirmaciones."
+  link: /es/guia-municipios/guanica/
+
+- date: 2026-05-30
+  category: funciones
+  featured: false
+  title: "Actualizado: Municipio de Coamo — Índice de BoricuaGenes añadido"
+  body: "La página del municipio de Coamo ahora incluye un enlace al índice de BoricuaGenes de los registros de la iglesia San Blas de Illescas en FamilySearch, que cubre defunciones, matrimonios, bautismos y confirmaciones."
+  link: /es/guia-municipios/coamo/
+
+- date: 2026-05-30
+  category: funciones
+  featured: false
+  title: "Actualizado: Municipio de Arroyo — Índice de BoricuaGenes añadido"
+  body: "La página del municipio de Arroyo ahora incluye un enlace al índice de BoricuaGenes de los registros de la iglesia Nuestra Señora del Carmen en FamilySearch, que cubre defunciones, matrimonios, bautismos y confirmaciones."
+  link: /es/guia-municipios/arroyo/
+
+- date: 2026-05-30
+  category: funciones
+  featured: false
+  title: "Actualizado: Municipio de Adjuntas — Índice de BoricuaGenes añadido"
+  body: "La página del municipio de Adjuntas ahora incluye un enlace al índice de BoricuaGenes de los registros de la iglesia de San Joaquín en FamilySearch, que cubre defunciones, matrimonios, bautismos y confirmaciones."
+  link: /es/guia-municipios/adjuntas/
+
 - date: 2026-05-26
   category: guias
-  featured: true
+  featured: true  
   title: "Nueva: Guía de Resultados de AncestryDNA para Investigadores Puertorriqueños"
   body: "Una nueva guía paso a paso te lleva por lo que debes hacer después de que lleguen tus resultados de AncestryDNA: cómo leer tu lista de coincidencias, qué significan los centimorgans, cómo usar Coincidencias Compartidas para agrupar líneas familiares, y cuándo la evidencia de ADN se conecta con los registros documentales."
   link: /es/guias-investigacion/resultados-ancestrydna-siguientes-pasos/
