@@ -10,6 +10,20 @@
 #
 # Maintenance: add new entries at the top. Move old featured to non-featured.
 # To archive: move entries older than ~12 months to _data/news_archive_YYYY.yml
+- date: 2026-06-01
+  category: features
+  featured: false
+  title: "Updated: Coamo Municipality — Cemetery, Expanded History"
+  body: "The Coamo municipality page now includes the Cementerio Municipal Civil de Coamo (Find a Grave) and an expanded historical overview covering its role as a pueblo matriz for four municipalities, parish records from 1701, and its significance as the third-oldest town in Puerto Rico."
+  link: /tools/municipality-guide/coamo/
+
+- date: 2026-06-01
+  category: features
+  featured: true
+  title: "Newsletter Launched: Free Puerto Rico Research Starter Kit"
+  body: "Sign up for our free newsletter and receive the Puerto Rico Research Starter Kit, a collection of five downloadable guides covering how to start your research, talk to living relatives, collect documents, and keep a research log. New issues arrive every two weeks with research tips, record alerts, and tools."
+  link: /newsletter/
+
 - date: 2026-05-30
   category: features
   featured: false
@@ -68,7 +82,7 @@
 
 - date: 2026-05-26
   category: guides
-  featured: true  
+  featured: false
   title: "New: AncestryDNA Results Guide for Puerto Rican Researchers"
   body: "A new step-by-step guide walks you through what to do after your AncestryDNA results arrive: how to read your match list, what centimorgans mean, how to use Shared Matches to group family lines, and when DNA evidence connects to documentary records."
   link: /research-guides/ancestrydna-results-next-steps/

@@ -11,6 +11,20 @@
 # Mantenimiento: agregar entradas nuevas al inicio. Cambiar featured anterior a false.
 # Para archivar: mover entradas con más de ~12 meses a _data/news_es_archive_YYYY.yml
 
+- date: 2026-06-01
+  category: funciones
+  featured: false
+  title: "Actualizado: Municipio de Coamo — Cementerio e historia ampliada"
+  body: "La página del municipio de Coamo ahora incluye el Cementerio Municipal Civil de Coamo (Find a Grave) y un resumen histórico ampliado que cubre su rol como pueblo matriz de cuatro municipios, registros parroquiales desde 1701 y su importancia como el tercer pueblo más antiguo de Puerto Rico."
+  link: /es/guia-municipios/coamo/
+
+- date: 2026-06-01
+  category: funciones
+  featured: true
+  title: "Boletín Lanzado: Kit Gratuito de Investigación sobre Puerto Rico"
+  body: "Suscríbete a nuestro boletín gratuito y recibe el Kit de Investigación sobre Puerto Rico, una colección de cinco guías descargables sobre cómo iniciar tu investigación, hablar con parientes vivos, reunir documentos y llevar un registro de investigación. Los nuevos números llegan cada dos semanas con consejos, alertas de registros y herramientas."
+  link: /es/boletin/
+
 - date: 2026-05-30
   category: funciones
   featured: false
@@ -62,7 +76,7 @@
 
 - date: 2026-05-26
   category: guias
-  featured: true  
+  featured: false
   title: "Nueva: Guía de Resultados de AncestryDNA para Investigadores Puertorriqueños"
   body: "Una nueva guía paso a paso te lleva por lo que debes hacer después de que lleguen tus resultados de AncestryDNA: cómo leer tu lista de coincidencias, qué significan los centimorgans, cómo usar Coincidencias Compartidas para agrupar líneas familiares, y cuándo la evidencia de ADN se conecta con los registros documentales."
   link: /es/guias-investigacion/resultados-ancestrydna-siguientes-pasos/

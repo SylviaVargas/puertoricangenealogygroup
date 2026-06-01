@@ -3435,7 +3435,13 @@
       "short_name": "Ponce",
       "url": "https://www.diocesisdeponce.org/",
       "archive_url": ""
-    }
+    },
+    "findagrave_cemeteries": [
+      {
+        "name": "Cementerio Municipal Civil de Coamo",
+        "url": "https://www.findagrave.com/cemetery/2579572/cementerio-municipal-civil-de-coamo"
+      }
+    ]
   },
   {
     "id": "comerio",
