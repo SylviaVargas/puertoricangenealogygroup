@@ -7,6 +7,8 @@ lang: en
 permalink: /research-guides/navigating-civil-records/
 ref: navigating-civil-records-overview
 last_modified_at: 2026-05-18
+parent_title: "Research Guides"
+parent_url: /research-guides/
 faqs:
   - q: "Why does my search on FamilySearch return no results for a Puerto Rican ancestor?"
     a: "Most Puerto Rican records on FamilySearch are not fully indexed. The Civil Registration collection has partial indexing, and many records are only browsable as images. A name search that returns nothing does not mean the record does not exist. Use the municipality-and-date browsing method: navigate to the correct town and year range and search page by page."

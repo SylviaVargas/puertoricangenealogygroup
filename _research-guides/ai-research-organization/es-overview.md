@@ -7,6 +7,8 @@ lang: es
 permalink: /es/guias-investigacion/ia-investigacion-organizacion/
 ref: ai-research-organization-overview
 last_modified_at: 2026-03-05
+parent_title_es: "Guías de Investigación"
+parent_url_es: /es/guias-investigacion/
 related_guides:
   - /es/ia-genealogia/
   - /es/ia-mejores-practicas/

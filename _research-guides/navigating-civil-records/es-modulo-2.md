@@ -81,6 +81,30 @@ Las actas de nacimiento son una de las fuentes genealógicas más ricas porque c
 
 ---
 
+## Encontrando Registros por Nombre
+
+Una vez que sabes qué buscar en un registro, el siguiente reto es localizarlo. Los registros civiles de Puerto Rico están disponibles a través de dos plataformas principales en línea.
+
+### FamilySearch (Gratis)
+
+<a href="https://www.familysearch.org/en/search/collection/1682798" target="_blank" rel="noopener noreferrer"><em>Registro Civil de Puerto Rico, 1885–2001</em></a> — La colección indexada principal. Busca por apellido, nombre, municipio y tipo de registro (nacimiento, matrimonio o defunción).
+
+<a href="https://www.familysearch.org/search/catalog/results?place=11543" target="_blank" rel="noopener noreferrer"><em>Catálogo de FamilySearch — Puerto Rico</em></a> — Úsalo cuando la búsqueda indexada no devuelva resultados. El catálogo da acceso directo a imágenes digitalizadas de registros organizadas por municipio y rango de años. Muchos registros están indexados, pero algunos años requieren navegar imagen por imagen.
+
+### Ancestry.com (Suscripción)
+
+<a href="https://www.ancestry.com/search/collections/9100/" target="_blank" rel="noopener noreferrer"><em>Registro Civil de Puerto Rico, 1805–2001</em></a> — Totalmente indexado con una interfaz de búsqueda alternativa. Útil como segunda verificación cuando FamilySearch no devuelve resultados, ya que las dos plataformas usan transcripciones de índice diferentes.
+
+### Limitaciones de los Índices
+
+Las transcripciones de los índices frecuentemente contienen errores en nombres en español: acentos omitidos, apellidos invertidos o nombres anglicizados por el indexador. Si una búsqueda no devuelve resultados:
+
+1. Prueba grafías alternativas (omite los acentos, invierte el primer y segundo apellido, busca solo el nombre)
+2. Busca por los nombres de los padres en lugar del individuo
+3. Ve directamente a las imágenes no indexadas a través del Catálogo de FamilySearch y navega por municipio y año
+
+---
+
 ## Próximo Paso
 
 En el [Módulo 3 — Estrategias Avanzadas de Investigación](/es/guias-investigacion/navegar-registros-civiles-modulo-3/), aprenderás a ir más allá de la barra de búsqueda y explorar imágenes no indexadas directamente en el Catálogo de FamilySearch.

@@ -7,6 +7,8 @@ lang: en
 permalink: /research-guides/pr-newspapers/
 ref: pr-newspapers-overview
 last_modified_at: 2026-04-20
+parent_title: "Research Guides"
+parent_url: /research-guides/
 related_guides:
   - /research-guides/navigating-civil-records/
   - /research-guides/census-records/

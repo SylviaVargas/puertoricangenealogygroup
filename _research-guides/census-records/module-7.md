@@ -66,7 +66,9 @@ The 1940 and 1950 U.S. federal censuses capture Puerto Rican families just befor
 
 ### Step 1: Build a Census Timeline
 
-For each known ancestor, create a log recording their location in every available census year. The table below is a hypothetical example — substitute your own ancestor's locations as you research:
+For each known ancestor, create a log recording their location in every available census year.
+
+> **Example only:** The municipality names in the table below are hypothetical. They illustrate the format — substitute your own ancestor's locations as you research.
 
 | Year | Location | Source |
 |------|----------|--------|

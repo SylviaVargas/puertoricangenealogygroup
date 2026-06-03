@@ -7,6 +7,8 @@ lang: en
 permalink: /research-guides/ai-research-organization/
 ref: ai-research-organization-overview
 last_modified_at: 2026-03-05
+parent_title: "Research Guides"
+parent_url: /research-guides/
 related_guides:
   - /ai-genealogy/
   - /ai-best-practices/

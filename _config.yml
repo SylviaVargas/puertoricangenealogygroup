@@ -72,6 +72,52 @@ defaults:
       path: "_research-guides"
     values:
       layout: guide
+      parent_title: "Research Guides"
+      parent_url: /research-guides/
+      parent_title_es: "Guías de Investigación"
+      parent_url_es: /es/guias-investigacion/
+  - scope:
+      path: "_research-guides/census-records"
+    values:
+      parent_title: "Census Records for Puerto Rican Genealogy"
+      parent_url: /research-guides/census-records/
+      parent_title_es: "Registros Censales para la Genealogía Puertorriqueña"
+      parent_url_es: /es/guias-investigacion/registros-censales/
+  - scope:
+      path: "_research-guides/navigating-civil-records"
+    values:
+      parent_title: "Navigating Puerto Rico's Civil Records (1885–Present)"
+      parent_url: /research-guides/navigating-civil-records/
+      parent_title_es: "Navegando los Registros Civiles de Puerto Rico (1885–Presente)"
+      parent_url_es: /es/guias-investigacion/navegar-registros-civiles/
+  - scope:
+      path: "_research-guides/getting-started"
+    values:
+      parent_title: "Getting Started in Genealogy: A Free Beginner Course"
+      parent_url: /research-guides/getting-started/
+      parent_title_es: "Empezando en Genealogía: Un Curso Gratuito para Principiantes"
+      parent_url_es: /es/guias-investigacion/empezar/
+  - scope:
+      path: "_research-guides/ai-research-organization"
+    values:
+      parent_title: "AI Tools for Research and Organization"
+      parent_url: /research-guides/ai-research-organization/
+      parent_title_es: "Herramientas de IA para Investigación y Organización"
+      parent_url_es: /es/guias-investigacion/ia-investigacion-organizacion/
+  - scope:
+      path: "_research-guides/slave-records"
+    values:
+      parent_title: "Puerto Rican Slave Record Research"
+      parent_url: /research-guides/slave-records/
+      parent_title_es: "Investigación de Registros de Esclavos Puertorriqueños"
+      parent_url_es: /es/guias-investigacion/registros-esclavos/
+  - scope:
+      path: "_research-guides/pr-newspapers"
+    values:
+      parent_title: "Looking for Ancestors in Historical Puerto Rican Newspapers"
+      parent_url: /research-guides/pr-newspapers/
+      parent_title_es: "Buscando Antepasados en Periódicos Históricos Puertorriqueños"
+      parent_url_es: /es/guias-investigacion/periodicos-pr/
   - scope:
       path: "_resources"
     values:

@@ -84,7 +84,10 @@ Check this collection first — records may exist even if the physical registers
 Notarial records (*protocolos notariales*) and probate documents (*testamentos*) often name family members, property relationships, and community ties:
 
 - Contact the **Archivo General de Puerto Rico (AGPR)** for notarial and property records
-- Search the AGPR finding aids online at <a href="https://www.icp.pr.gov/archivo-general/" target="_blank" rel="noopener noreferrer"><em>icp.pr.gov</em></a>
+- Search the AGPR finding aids online at <a href="https://www.icp.pr.gov/archivo-general/" target="_blank" rel="noopener noreferrer"><em>icp.pr.gov/archivo-general</em></a>
+- **Physical address:** Av. Ponce de León 500, Puerta de Tierra, San Juan, PR 00901
+- **Email:** [archivo.general@icp.pr.gov](mailto:archivo.general@icp.pr.gov)
+- **Example inquiry:** *"I am researching the family of [Name], who lived in [Municipality] around [Year]. I am looking for notarial records (protocolos notariales) or probate documents (testamentos) related to this individual. Could you advise on availability and the process for requesting copies?"*
 
 ---
 

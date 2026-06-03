@@ -7,6 +7,8 @@ lang: es
 permalink: /es/guias-investigacion/periodicos-pr/
 ref: pr-newspapers-overview
 last_modified_at: 2026-04-20
+parent_title_es: "Guías de Investigación"
+parent_url_es: /es/guias-investigacion/
 related_guides:
   - /es/guias-investigacion/navegar-registros-civiles/
   - /es/guias-investigacion/registros-censales/

@@ -81,6 +81,30 @@ Birth records are among the richest genealogical sources because they frequently
 
 ---
 
+## Finding Records by Name
+
+Once you know what to look for in a record, the next challenge is locating it. Puerto Rico's civil records are available through two primary online platforms.
+
+### FamilySearch (Free)
+
+<a href="https://www.familysearch.org/en/search/collection/1682798" target="_blank" rel="noopener noreferrer"><em>Puerto Rico Civil Registration, 1885–2001</em></a> — The main indexed collection. Search by surname, given name, municipality, and record type (birth, marriage, or death).
+
+<a href="https://www.familysearch.org/search/catalog/results?place=11543" target="_blank" rel="noopener noreferrer"><em>FamilySearch Catalog — Puerto Rico</em></a> — Use this when the indexed search returns no results. The catalog provides direct access to digitized register images organized by municipality and year range. Many records are indexed but some years require browsing image by image.
+
+### Ancestry.com (Subscription)
+
+<a href="https://www.ancestry.com/search/collections/9100/" target="_blank" rel="noopener noreferrer"><em>Puerto Rico Civil Registration, 1805–2001</em></a> — Fully indexed with an alternate search interface. Useful as a second check when FamilySearch returns no results, since the two platforms use different index transcriptions.
+
+### Indexing Limitations
+
+Index transcriptions frequently contain errors in Spanish names: accent marks dropped, surnames reversed, or names anglicized by the indexer. If a search returns no results:
+
+1. Try alternate spellings (drop accent marks, swap first and second surname, try first name only)
+2. Search by parents' names instead of the individual
+3. Go directly to the unindexed images via the FamilySearch Catalog and browse by municipality and year
+
+---
+
 ## What's Next
 
 In [Module 3 — Advanced Research Strategies](/research-guides/navigating-civil-records-module-3/), you will learn how to move beyond the search bar and browse unindexed digital images directly in the FamilySearch Catalog.

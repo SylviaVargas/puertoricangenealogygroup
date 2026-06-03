@@ -49,6 +49,21 @@ Each census year used a different schedule, adding or dropping categories over t
 
 ---
 
+## The 1935 Special Census of Puerto Rico
+
+In addition to the five decennial federal censuses, a separate special census was taken on **December 1, 1935**, by the Puerto Rico Reconstruction Administration (PRRA) and the U.S. Bureau of the Census. This census recorded detailed population demographics, social conditions, and agricultural statistics across the island during the height of the Great Depression.
+
+The 1935 Special Census is not a substitute for the U.S. federal census — it does not always provide the same household-level detail — but it can bridge the gap between the 1930 and 1940 censuses for families whose movements or living conditions changed significantly during that period.
+
+**Where to access:**
+
+- <a href="https://www.ancestry.com/search/collections/2404/" target="_blank" rel="noopener noreferrer"><em>Ancestry.com — Puerto Rico Census, 1935</em></a> (subscription required)
+- <a href="https://www.familysearch.org/search/catalog/olib:2829708" target="_blank" rel="noopener noreferrer"><em>FamilySearch Catalog — Puerto Rico, 1935 Census</em></a> (free FamilySearch account required to view images)
+
+**Research tip:** Use this census alongside the 1930 and 1940 federal censuses to build a more complete picture of a family's circumstances during the Depression era. If a family appears in 1930 but is missing from expected locations in 1940, the 1935 Special Census may help explain the transition.
+
+---
+
 ## Where to Search
 
 | Resource | Access |

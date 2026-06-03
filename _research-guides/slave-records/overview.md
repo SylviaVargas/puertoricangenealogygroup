@@ -7,6 +7,8 @@ lang: en
 permalink: /research-guides/slave-records/
 ref: slave-records-overview
 last_modified_at: 2026-02-27
+parent_title: "Research Guides"
+parent_url: /research-guides/
 related_guides:
   - /research-guides/navigating-civil-records/
   - /research-guides/census-records/

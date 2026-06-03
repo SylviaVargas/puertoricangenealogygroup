@@ -29,7 +29,7 @@ Spanish handwriting from the late 19th and early 20th centuries follows letterfo
 
 **Letter-by-letter practice points:**
 
-- **The letter "V" vs. "B":** In the 1905 record, locate the surname *Valentín*. Note how the "V" is formed — a pointed base with two upward strokes. Compare it to the "B" in *Barrio*, which uses a vertical stroke with two rounded loops. These two letters are frequently confused in transcription.
+- **The letter "V" vs. "B":** In the 1905 record, locate the surname *Valentín*. Note how the "V" is formed — a pointed base with two upward strokes. Compare it to the "B" in *Barrio*, which uses a vertical stroke with two rounded loops. These two letters are frequently confused in transcription and in census indexing. A family whose surname is *Valentín* in the original civil records may appear as **Ballentín** or **Ballentin** in the 1910 or 1920 U.S. census index — the same family, indexed under a different letter. Always search under both V and B when a surname search returns no results.
 - **The letter "S":** Locate the signature of *Rodolfo Acosta* at the bottom of the record. Note the distinct elongated loops of the "S" typical of early 1900s official script — quite different from the modern printed "S."
 
 > **Paleography principle:** Never transcribe a word in isolation. Always read the word in the context of the surrounding sentence. Spanish civil records follow predictable formulas — knowing the formula helps you decipher an unclear word from its position in the entry.

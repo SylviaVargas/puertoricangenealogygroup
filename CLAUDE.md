@@ -52,6 +52,14 @@ bundle exec jekyll serve
 
 Frontmatter pairing: both files must share the same `ref:` value. The `lang:` field must be `en` or `es`.
 
+**Section-level parity required:** Updating a Spanish counterpart file is not enough — every `##` and `###` section in the EN file must exist (translated) in the ES file. After editing any research guide, run the parity check from `puertoricangenealogygroup/`:
+
+```bash
+bash check-bilingual-parity.sh
+```
+
+This script compares heading counts between every EN/ES pair and flags gaps. Fix any reported gaps before marking the task done.
+
 ---
 
 ## External Link Format (Required)

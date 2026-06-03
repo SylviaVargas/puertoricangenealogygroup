@@ -7,6 +7,8 @@ lang: en
 permalink: /research-guides/getting-started/
 ref: getting-started-overview
 last_modified_at: 2026-02-18
+parent_title: "Research Guides"
+parent_url: /research-guides/
 related_guides:
   - /research-guides/navigating-civil-records/
   - /research-guides/census-records/

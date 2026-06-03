@@ -62,7 +62,13 @@ Verifica esta colección primero: pueden existir registros aunque los registros 
 
 ### 5. Registros de Tierras y Testamentos
 
-Los registros notariales (*protocolos notariales*) y documentos testamentarios (*testamentos*) frecuentemente nombran familiares, relaciones de propiedad y lazos comunitarios. Contacta el **Archivo General de Puerto Rico (AGPR)** para estos registros en <a href="https://www.icp.pr.gov/archivo-general/" target="_blank" rel="noopener noreferrer"><em>icp.pr.gov</em></a>.
+Los registros notariales (*protocolos notariales*) y documentos testamentarios (*testamentos*) frecuentemente nombran familiares, relaciones de propiedad y lazos comunitarios:
+
+- Contacta el **Archivo General de Puerto Rico (AGPR)** para registros notariales y de propiedad
+- Consulta las guías de búsqueda del AGPR en <a href="https://www.icp.pr.gov/archivo-general/" target="_blank" rel="noopener noreferrer"><em>icp.pr.gov/archivo-general</em></a>
+- **Dirección física:** Av. Ponce de León 500, Puerta de Tierra, San Juan, PR 00901
+- **Correo electrónico:** [archivo.general@icp.pr.gov](mailto:archivo.general@icp.pr.gov)
+- **Ejemplo de consulta:** *"Estoy investigando la familia de [Nombre], que vivió en [Municipio] alrededor del año [Año]. Busco registros notariales (protocolos notariales) o documentos testamentarios (testamentos) relacionados con esta persona. ¿Podría informarme sobre la disponibilidad y el proceso para solicitar copias?"*
 
 ---
 

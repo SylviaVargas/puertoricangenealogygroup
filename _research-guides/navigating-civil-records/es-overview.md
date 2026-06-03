@@ -7,6 +7,8 @@ lang: es
 permalink: /es/guias-investigacion/navegar-registros-civiles/
 ref: navigating-civil-records-overview
 last_modified_at: 2026-05-18
+parent_title_es: "Guías de Investigación"
+parent_url_es: /es/guias-investigacion/
 faqs:
   - q: "¿Por qué mi búsqueda en FamilySearch no arroja resultados para un antepasado puertorriqueño?"
     a: "La mayoría de los registros puertorriqueños en FamilySearch no están completamente indexados. La colección de Registro Civil tiene indexación parcial, y muchos registros solo son navegables como imágenes. Una búsqueda por nombre que no devuelve resultados no significa que el registro no exista. Usa el método de navegación por municipio y fecha: accede al pueblo y el rango de años correspondiente y busca página por página."
