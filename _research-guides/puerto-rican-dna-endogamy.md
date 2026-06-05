@@ -152,7 +152,9 @@ If your DNA results feel overwhelming due to endogamy, here is a realistic start
 
 | Resource | What It Offers |
 |---|---|
-| <a href="https://www.blainebettinger.com/blog/dna-and-endogamy" target="_blank" rel="noopener noreferrer"><em>Blaine Bettinger on DNA and Endogamy</em></a> | Clear explanation of the endogamy problem from one of the leading genetic genealogy educators. |
+| <a href="https://www.youtube.com/watch?v=syp8kI66sG4" target="_blank" rel="noopener noreferrer"><em>Research like a Pro Episode 236: Strategies for Overcoming Endogamy</em></a> | Video walkthrough of practical strategies for working through endogamy challenges in DNA research. |
+| <a href="https://www.youtube.com/watch?v=YuZx5K8vqzk" target="_blank" rel="noopener noreferrer"><em>DNA and Endogamy: Strategies to Analyze Your DNA Matches</em></a> | Video guide covering analysis strategies for interpreting DNA matches in endogamous populations. |
+| <a href="https://www.youtube.com/watch?v=nzriHlaqNmk" target="_blank" rel="noopener noreferrer"><em>Endogamy — Deal With It! (Int'l Institute of Genealogical Studies)</em></a> | Practical techniques for handling endogamy from the International Institute of Genealogical Studies. |
 | <a href="https://isogg.org/wiki/Identical_by_descent" target="_blank" rel="noopener noreferrer"><em>ISOGG Wiki: Identical by Descent</em></a> | Technical explanation of IBD vs. IBC sharing, relevant to understanding segment analysis. |
 | <a href="https://dnapainter.com/tools/wato" target="_blank" rel="noopener noreferrer"><em>DNA Painter — WATO Tool</em></a> | Free tool for testing hypothetical tree positions against shared DNA amounts. |
 | <a href="https://www.gedmatch.com" target="_blank" rel="noopener noreferrer"><em>GEDmatch</em></a> | Upload raw DNA from any testing company; use segment analysis tools to go beyond standard match lists. |

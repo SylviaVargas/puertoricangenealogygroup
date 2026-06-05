@@ -152,7 +152,9 @@ Si tus resultados de ADN se sienten abrumadores debido a la endogamia, aquí hay
 
 | Recurso | Lo Que Ofrece |
 |---|---|
-| <a href="https://www.blainebettinger.com/blog/dna-and-endogamy" target="_blank" rel="noopener noreferrer"><em>Blaine Bettinger sobre ADN y Endogamia</em></a> | Explicación clara del problema de la endogamia de uno de los principales educadores en genealogía genética. (En inglés) |
+| <a href="https://www.youtube.com/watch?v=syp8kI66sG4" target="_blank" rel="noopener noreferrer"><em>Research like a Pro, Episodio 236: Estrategias para Superar la Endogamia</em></a> | Video con estrategias prácticas para trabajar con los desafíos de la endogamia en la investigación de ADN. (En inglés) |
+| <a href="https://www.youtube.com/watch?v=YuZx5K8vqzk" target="_blank" rel="noopener noreferrer"><em>ADN y Endogamia: Estrategias para Analizar tus Coincidencias de ADN</em></a> | Guía en video con estrategias de análisis para interpretar coincidencias de ADN en poblaciones endogámicas. (En inglés) |
+| <a href="https://www.youtube.com/watch?v=nzriHlaqNmk" target="_blank" rel="noopener noreferrer"><em>¡Endogamia: Enfréntala! (Int'l Institute of Genealogical Studies)</em></a> | Técnicas prácticas para manejar la endogamia, del Instituto Internacional de Estudios Genealógicos. (En inglés) |
 | <a href="https://isogg.org/wiki/Identical_by_descent" target="_blank" rel="noopener noreferrer"><em>ISOGG Wiki: Idéntico por Descendencia</em></a> | Explicación técnica del intercambio IBD vs. IBC, relevante para comprender el análisis de segmentos. (En inglés) |
 | <a href="https://dnapainter.com/tools/wato" target="_blank" rel="noopener noreferrer"><em>DNA Painter — Herramienta WATO</em></a> | Herramienta gratuita para probar posiciones hipotéticas en el árbol contra cantidades de ADN compartido. |
 | <a href="https://www.gedmatch.com" target="_blank" rel="noopener noreferrer"><em>GEDmatch</em></a> | Sube ADN sin procesar de cualquier empresa de pruebas; usa herramientas de análisis de segmentos para ir más allá de las listas estándar de coincidencias. |

@@ -203,6 +203,20 @@ La genealogía puertorriqueña presenta desafíos únicos: documentos en españo
 </ul>
 </div>
 
+<div class="card guide-card" data-category="records">
+<h3>Patrones de Migración y Registros en el Continente</h3>
+<span class="badge badge-available">✓ Curso Completo Disponible</span>
+<p>Un curso intermedio de cinco módulos para rastrear a los antepasados puertorriqueños que emigraron al continente de los Estados Unidos y a Hawái. Cubre los movimientos migratorios, los registros de partida, los registros federales y estatales de los EE. UU., ciudades de destino clave (Nueva York, Hawái, San Francisco, Chicago) y cómo construir un plan de investigación conforme al GPS en dos jurisdicciones.</p>
+<ul>
+  <li><a href="/es/guias-investigacion/patrones-migracion/">Descripción del Curso</a></li>
+  <li><a href="/es/guias-investigacion/patrones-migracion-modulo-1/">Módulo 1 — Los Movimientos Migratorios Puertorriqueños</a></li>
+  <li><a href="/es/guias-investigacion/patrones-migracion-modulo-2/">Módulo 2 — Registros de Puerto Rico que Documentan la Partida</a></li>
+  <li><a href="/es/guias-investigacion/patrones-migracion-modulo-3/">Módulo 3 — Registros Federales de los EE. UU. para Emigrantes Puertorriqueños</a></li>
+  <li><a href="/es/guias-investigacion/patrones-migracion-modulo-4/">Módulo 4 — Registros Estatales y Municipales en los Destinos Clave</a></li>
+  <li><a href="/es/guias-investigacion/patrones-migracion-modulo-5/">Módulo 5 — Construyendo un Plan de Investigación en Dos Jurisdicciones</a></li>
+</ul>
+</div>
+
 </div>
 
 ---
@@ -212,7 +226,6 @@ La genealogía puertorriqueña presenta desafíos únicos: documentos en españo
 Estamos desarrollando activamente guías adicionales. Temas en desarrollo:
 
 <div style="display:flex; flex-wrap:wrap; gap:0.5rem; margin:1rem 0 1.5rem;">
-  <span class="filter-chip" style="opacity:0.5; cursor:default;">Patrones de Migración y Registros del Continente</span>
   <span class="filter-chip" style="opacity:0.5; cursor:default;">Antepasados Esclavos y Negros Libres</span>
   <span class="filter-chip" style="opacity:0.5; cursor:default;">Registros Militares Coloniales Españoles</span>
   <span class="filter-chip" style="opacity:0.5; cursor:default;">Registros Notariales (Protocolos Notariales)</span>

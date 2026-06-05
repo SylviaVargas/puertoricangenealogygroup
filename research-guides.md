@@ -203,6 +203,20 @@ Puerto Rican genealogy comes with unique challenges — Spanish-language records
 </ul>
 </div>
 
+<div class="card guide-card" data-category="records">
+<h3>Migration Patterns and Mainland Records</h3>
+<span class="badge badge-available">✓ Full Course Available</span>
+<p>A five-module intermediate course on tracing Puerto Rican ancestors who migrated to the mainland United States and Hawaii. Covers migration waves, departure records, U.S. federal and state records, key destination cities (New York, Hawaii, San Francisco, Chicago), and how to build a GPS-compliant bi-jurisdictional research plan.</p>
+<ul>
+  <li><a href="/research-guides/migration-patterns/">Course Overview</a></li>
+  <li><a href="/research-guides/migration-patterns-module-1/">Module 1 — Understanding Puerto Rican Migration Waves</a></li>
+  <li><a href="/research-guides/migration-patterns-module-2/">Module 2 — Puerto Rico Records That Document Departure</a></li>
+  <li><a href="/research-guides/migration-patterns-module-3/">Module 3 — U.S. Federal Records for Puerto Rican Migrants</a></li>
+  <li><a href="/research-guides/migration-patterns-module-4/">Module 4 — State and City Records in Key Destinations</a></li>
+  <li><a href="/research-guides/migration-patterns-module-5/">Module 5 — Building a Bi-Jurisdictional Research Plan</a></li>
+</ul>
+</div>
+
 </div>
 
 ---
@@ -212,7 +226,6 @@ Puerto Rican genealogy comes with unique challenges — Spanish-language records
 We are actively developing additional guides. Topics in development:
 
 <div style="display:flex; flex-wrap:wrap; gap:0.5rem; margin:1rem 0 1.5rem;">
-  <span class="filter-chip" style="opacity:0.5; cursor:default;">Migration Patterns &amp; Mainland Records</span>
   <span class="filter-chip" style="opacity:0.5; cursor:default;">Spanish Colonial Military Records</span>
   <span class="filter-chip" style="opacity:0.5; cursor:default;">Notarial Records (Protocolos Notariales)</span>
   <span class="filter-chip" style="opacity:0.5; cursor:default;">Land &amp; Property Records</span>
