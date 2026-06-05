@@ -17,9 +17,16 @@
   body: "The Coamo municipality page now includes the Cementerio Municipal Civil de Coamo (Find a Grave) and an expanded historical overview covering its role as a pueblo matriz for four municipalities, parish records from 1701, and its significance as the third-oldest town in Puerto Rico."
   link: /tools/municipality-guide/coamo/
 
-- date: 2026-06-04
+- date: 2026-06-05
   category: courses
   featured: true
+  title: "New Course: Spanish Colonial Military Records"
+  body: "A new five-module intermediate course is now available on tracing Puerto Rican ancestors in Spanish colonial military records (1508-1898). Covers filiaciones, muster rolls, the Pardo Militia, repositories in Spain and Puerto Rico (including the Archivo General Militar de Segovia), and GPS-compliant strategies for integrating military evidence with church and civil records."
+  link: /research-guides/spanish-colonial-military/
+
+- date: 2026-06-04
+  category: courses
+  featured: false
   title: "New Course: Migration Patterns and Mainland Records"
   body: "A new five-module intermediate course is now available covering how to trace Puerto Rican ancestors who migrated to the U.S. mainland and Hawaii. Topics include migration waves, departure records, U.S. federal and state records, key destination cities (New York, Hawaii, San Francisco, Chicago), and building a GPS-compliant bi-jurisdictional research plan."
   link: /research-guides/migration-patterns/

@@ -217,6 +217,20 @@ Puerto Rican genealogy comes with unique challenges — Spanish-language records
 </ul>
 </div>
 
+<div class="card guide-card" data-category="records">
+<h3>Spanish Colonial Military Records</h3>
+<span class="badge badge-available">✓ Full Course Available</span>
+<p>A five-module intermediate course on tracing Puerto Rican ancestors in Spanish colonial military records (1508-1898). Covers filiaciones, muster rolls, the Pardo Militia, repositories in Spain and Puerto Rico, and GPS-compliant strategies for integrating military evidence with church and civil records.</p>
+<ul>
+  <li><a href="/research-guides/spanish-colonial-military/">Course Overview</a></li>
+  <li><a href="/research-guides/spanish-colonial-military-module-1/">Module 1 — The Spanish Military System in Puerto Rico</a></li>
+  <li><a href="/research-guides/spanish-colonial-military-module-2/">Module 2 — Filiaciones and Service Records</a></li>
+  <li><a href="/research-guides/spanish-colonial-military-module-3/">Module 3 — Muster Rolls and Inspection Records</a></li>
+  <li><a href="/research-guides/spanish-colonial-military-module-4/">Module 4 — Repositories and How to Access Records</a></li>
+  <li><a href="/research-guides/spanish-colonial-military-module-5/">Module 5 — Research Strategy and GPS Application</a></li>
+</ul>
+</div>
+
 </div>
 
 ---
@@ -226,7 +240,6 @@ Puerto Rican genealogy comes with unique challenges — Spanish-language records
 We are actively developing additional guides. Topics in development:
 
 <div style="display:flex; flex-wrap:wrap; gap:0.5rem; margin:1rem 0 1.5rem;">
-  <span class="filter-chip" style="opacity:0.5; cursor:default;">Spanish Colonial Military Records</span>
   <span class="filter-chip" style="opacity:0.5; cursor:default;">Notarial Records (Protocolos Notariales)</span>
   <span class="filter-chip" style="opacity:0.5; cursor:default;">Land &amp; Property Records</span>
   <span class="filter-chip" style="opacity:0.5; cursor:default;">Immigration &amp; Emigration</span>

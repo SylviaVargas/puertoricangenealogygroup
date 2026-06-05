@@ -217,6 +217,20 @@ La genealogía puertorriqueña presenta desafíos únicos: documentos en españo
 </ul>
 </div>
 
+<div class="card guide-card" data-category="records">
+<h3>Registros Militares de la Época Colonial Española</h3>
+<span class="badge badge-available">✓ Curso Completo Disponible</span>
+<p>Un curso intermedio de cinco módulos para rastrear a los antepasados puertorriqueños en los registros militares coloniales españoles (1508-1898). Cubre las filiaciones, las listas de revista, la Milicia de Pardos, los repositorios en España y Puerto Rico, y estrategias conformes al GPS para integrar la evidencia militar con los registros eclesiásticos y civiles.</p>
+<ul>
+  <li><a href="/es/guias-investigacion/registros-militares-coloniales/">Descripción del Curso</a></li>
+  <li><a href="/es/guias-investigacion/registros-militares-coloniales-modulo-1/">Módulo 1 — El Sistema Militar Español en Puerto Rico</a></li>
+  <li><a href="/es/guias-investigacion/registros-militares-coloniales-modulo-2/">Módulo 2 — Filiaciones y Expedientes de Servicio</a></li>
+  <li><a href="/es/guias-investigacion/registros-militares-coloniales-modulo-3/">Módulo 3 — Listas de Revista y Revistas de Inspección</a></li>
+  <li><a href="/es/guias-investigacion/registros-militares-coloniales-modulo-4/">Módulo 4 — Repositorios y Cómo Acceder a los Registros</a></li>
+  <li><a href="/es/guias-investigacion/registros-militares-coloniales-modulo-5/">Módulo 5 — Estrategia de Investigación y Aplicación del GPS</a></li>
+</ul>
+</div>
+
 </div>
 
 ---
@@ -227,7 +241,6 @@ Estamos desarrollando activamente guías adicionales. Temas en desarrollo:
 
 <div style="display:flex; flex-wrap:wrap; gap:0.5rem; margin:1rem 0 1.5rem;">
   <span class="filter-chip" style="opacity:0.5; cursor:default;">Antepasados Esclavos y Negros Libres</span>
-  <span class="filter-chip" style="opacity:0.5; cursor:default;">Registros Militares Coloniales Españoles</span>
   <span class="filter-chip" style="opacity:0.5; cursor:default;">Registros Notariales (Protocolos Notariales)</span>
   <span class="filter-chip" style="opacity:0.5; cursor:default;">Registros de Tierras y Propiedades</span>
   <span class="filter-chip" style="opacity:0.5; cursor:default;">Inmigración y Emigración</span>
