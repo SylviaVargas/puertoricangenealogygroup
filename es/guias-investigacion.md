@@ -199,7 +199,7 @@ La genealogía puertorriqueña presenta desafíos únicos: documentos en españo
 <ul>
   <li><a href="/es/guias-investigacion/por-que-prueba-adn/">¿Por Qué Hacer una Prueba? Lo que el ADN Puede y No Puede Decirte</a></li>
   <li><a href="/es/guias-investigacion/resultados-ancestrydna-siguientes-pasos/">Tengo Mis Resultados de AncestryDNA. ¿Y Ahora Qué?</a></li>
-  <li><a href="/es/guias-investigacion/endogamia-adn-puertorriqueno/">El ADN Puertorriqueño y la Endogamia</a> <span style="font-size:0.85em; color:#888;">(próximamente)</span></li>
+  <li><a href="/es/guias-investigacion/adn-puertorriqueno-endogamia/">El ADN Puertorriqueño y la Endogamia: Por Qué Tus Coincidencias Parecen Más Cercanas de lo que Son</a></li>
 </ul>
 </div>
 
