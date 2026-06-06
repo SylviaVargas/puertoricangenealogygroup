@@ -172,6 +172,40 @@ Toda conclusión que utilice evidencia militar debe incluir:
 
 ---
 
+## 5.6 Amplíe su Investigación: Órdenes Nobiliarias y Recursos Publicados
+
+### Órdenes Militares Españolas
+
+El sistema militar colonial español incluía una categoría de prestigiosas órdenes de caballería, las **Órdenes Militares** (Santiago, Calatrava, Alcántara, Montesa), que son distintas de la milicia provincial y del ejército regular. Estas órdenes requerían que sus miembros probaran linaje noble y *limpieza de sangre* antes de su admisión. Los documentos probatorios (*expedientes de ingreso*) generados por este proceso son genealógicamente ricos y a menudo rastrean la ascendencia tres o cuatro generaciones hacia atrás en España.
+
+Para los investigadores puertorriqueños, estos registros son más relevantes si un antepasado ocupó un cargo militar o cívico prominente en la administración colonial, o provenía de una familia española peninsular con conexiones con la isla.
+
+Los puertorriqueños admitidos en las órdenes militares y nobiliarias están documentados en una obra de referencia clave:
+
+**Guillermo Lohmann Villena, *Los Americanos en las Órdenes Nobiliarias (1529-1900)*.**
+
+Estos volúmenes indexan personas de la América española, incluido Puerto Rico, admitidas en las órdenes militares y nobiliarias españolas. Cada entrada contiene documentación de prueba genealógica que puede extender un árbol genealógico significativamente hacia España.
+
+**Dónde acceder:**
+
+- <a href="https://archive.org/details/los-americanos-en-las-ordenes-nobiliarias-tomo-ii" target="_blank" rel="noopener noreferrer"><em>Internet Archive — Tomo II (copia digital gratuita)</em></a>
+- <a href="https://catalog.hathitrust.org/Record/001597822" target="_blank" rel="noopener noreferrer"><em>Registro en el catálogo de HathiTrust</em></a>
+- <a href="https://www.worldcat.org" target="_blank" rel="noopener noreferrer"><em>WorldCat — encuentre una biblioteca cercana</em></a>
+
+### Integración de Recursos Publicados en su Estrategia de Investigación
+
+Una vez que haya localizado a un antepasado en los registros de la milicia provincial (Módulos 2-4), considere esta secuencia ampliada para investigadores que deseen profundizar en la documentación colonial española:
+
+1. Busque en PARES los registros de servicio militar
+2. Busque en Lohmann Villena los apellidos de su antepasado: aunque el antepasado no aparezca listado, puede aparecer un pariente, proporcionando datos genealógicos adicionales
+3. Solicite los expedientes matrimoniales militares en Segovia utilizando el índice de Ocerín (sección 4.2) si el antepasado tenía rango de oficial
+4. Correlacione todos los hallazgos con registros parroquiales, notariales y expedientes de pensiones militares
+5. Utilice las pruebas genealógicas de las órdenes nobiliarias para extender los árboles genealógicos hacia España cuando las conexiones documentales lo sustenten
+
+> **Nota de alcance:** Para la mayoría de los investigadores genealógicos puertorriqueños, las filiaciones y listas de revista de la milicia provincial (Módulos 2-3) son el tipo de registro principal. Las Órdenes Militares y los volúmenes de Lohmann Villena son recursos especializados para investigadores que han agotado las fuentes estándar y rastrean líneas con conexiones documentadas a las órdenes nobiliarias.
+
+---
+
 ## Glosario de Términos Militares Clave
 
 | Término en Español | Significado en Inglés |

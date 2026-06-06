@@ -65,6 +65,22 @@ El **Archivo General Militar de Segovia** es el repositorio principal de los reg
 
 Los registros abarcan principalmente desde finales del siglo XVII hasta 1898, con la cobertura más sustancial a partir de la década de 1760 (reformas borbónicas).
 
+### Expedientes Matrimoniales y el Índice de Ocerín
+
+Segovia también conserva **expedientes matrimoniales** para oficiales militares y personal naval. Estos son distintos de las filiaciones y contienen:
+
+- Información de nacimiento del oficial y de su prometida
+- Parentesco de ambas partes, a menudo hasta dos generaciones
+- Resumen del historial de servicio militar
+- Documentos de permiso matrimonial
+- Pruebas de legitimidad y relaciones familiares
+
+Para los genealogistas, un expediente matrimonial puede desbloquear dos líneas familiares simultáneamente: la del oficial y la de su novia.
+
+Existe un índice de referencia publicado para estos registros: **Enrique de Ocerín, *Índice de los Expedientes Matrimoniales de Militares y Marinos que se conservan en el Archivo General Militar de Segovia*.** El índice de Ocerín permite buscar por apellido antes de contactar a Segovia. Los ejemplares se encuentran en las principales bibliotecas de investigación y pueden localizarse a través de <a href="https://www.worldcat.org" target="_blank" rel="noopener noreferrer"><em>WorldCat</em></a> o la <a href="https://www.bne.es" target="_blank" rel="noopener noreferrer"><em>Biblioteca Nacional de España</em></a>.
+
+> **A quién beneficia más:** Los expedientes matrimoniales son más relevantes si su antepasado tenía un rango de oficial (capitán, teniente, alférez, sargento mayor). Los soldados rasos no estaban obligados a obtener permiso matrimonial militar formal y es poco probable que tengan un expediente matrimonial separado.
+
 ### Acceso a los Registros de Forma Remota
 
 Segovia no ofrece acceso en línea a los documentos individuales. Los investigadores fuera de España tienen tres opciones:

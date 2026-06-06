@@ -65,6 +65,22 @@ The **Archivo General Militar de Segovia** is the primary repository for Puerto 
 
 Records span primarily from the late 17th century through 1898, with the most substantial coverage from the 1760s (Bourbon reforms) onward.
 
+### Marriage Expedientes and the Ocerín Finding Aid
+
+Segovia also holds **expedientes matrimoniales** (marriage files) for military officers and naval personnel. These are distinct from filiaciones and contain:
+
+- Birth information for the officer and his intended bride
+- Parentage for both parties, often extending two generations
+- Military service record summary
+- Marriage permission documents
+- Proofs of legitimacy and family relationships
+
+For genealogists, a marriage expediente can unlock two family lines simultaneously: the officer's and his bride's.
+
+A published finding aid exists for these records: **Enrique de Ocerín, *Índice de los Expedientes Matrimoniales de Militares y Marinos que se conservan en el Archivo General Militar de Segovia*.** The Ocerín index allows you to search by surname before contacting Segovia. Copies are held at major research libraries and can be located via <a href="https://www.worldcat.org" target="_blank" rel="noopener noreferrer"><em>WorldCat</em></a> or the <a href="https://www.bne.es" target="_blank" rel="noopener noreferrer"><em>Biblioteca Nacional de España</em></a>.
+
+> **Who benefits most:** Marriage expedientes are most relevant if your ancestor held an officer rank (capitán, teniente, alférez, sargento mayor). Enlisted men were not required to obtain formal military marriage permission and are unlikely to have a separate expediente matrimonial.
+
 ### Accessing Records Remotely
 
 Segovia does not provide online access to individual documents. Researchers outside Spain have three options:
