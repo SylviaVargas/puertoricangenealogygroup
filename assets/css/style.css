@@ -2597,6 +2597,60 @@ body.fc-modal-open {
   color: var(--color-gray);
 }
 
+/* Historical Documents section */
+.muni-documents-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: var(--spacing-md);
+}
+
+.muni-document-card {
+  border: 1px solid var(--color-light-gray);
+  border-radius: 6px;
+  overflow: hidden;
+  transition: border-color 0.2s ease;
+}
+
+.muni-document-card:has(a.muni-document-link):hover {
+  border-color: var(--gold);
+}
+
+.muni-document-link {
+  display: block;
+}
+
+.muni-document-img {
+  width: 100%;
+  max-height: 280px;
+  object-fit: contain;
+  background: #f8f8f0;
+  display: block;
+}
+
+.muni-document-info {
+  padding: var(--spacing-sm);
+}
+
+.muni-document-caption {
+  font-size: 0.88rem;
+  font-weight: 600;
+  color: var(--color-dark-gray);
+  margin-bottom: var(--spacing-xs);
+}
+
+.muni-document-transcription {
+  font-size: 0.85rem;
+  color: var(--color-gray);
+  margin-bottom: var(--spacing-xs);
+  line-height: 1.5;
+}
+
+.muni-document-source {
+  font-size: 0.8rem;
+  color: var(--color-gray);
+  margin: 0;
+}
+
 .muni-map-placeholder-icon {
   font-size: 2rem;
   margin-bottom: var(--spacing-sm);

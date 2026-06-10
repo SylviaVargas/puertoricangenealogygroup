@@ -213,6 +213,41 @@ layout: default
         </div>
       </section>
 
+      {% if muni.document_images and muni.document_images.size > 0 %}
+      <section id="documents" class="muni-section muni-documents-section">
+        <h2>{% if page.lang == 'es' %}Documentos Históricos{% else %}Historical Documents{% endif %}</h2>
+        <div class="muni-documents-grid">
+          {% for doc in muni.document_images %}
+          {% if page.lang == 'es' and doc.alt_es %}{% assign doc_alt = doc.alt_es %}{% else %}{% assign doc_alt = doc.alt %}{% endif %}
+          {% if page.lang == 'es' and doc.caption_es %}{% assign doc_caption = doc.caption_es %}{% else %}{% assign doc_caption = doc.caption %}{% endif %}
+          <div class="muni-document-card">
+            {% if doc.source_url %}
+            <a href="{{ doc.source_url }}" target="_blank" rel="noopener noreferrer" class="muni-document-link" aria-label="{{ doc_caption }}">
+              <img src="{{ doc.image | relative_url }}" alt="{{ doc_alt }}" class="muni-document-img" loading="lazy">
+            </a>
+            {% else %}
+            <img src="{{ doc.image | relative_url }}" alt="{{ doc_alt }}" class="muni-document-img" loading="lazy">
+            {% endif %}
+            <div class="muni-document-info">
+              <p class="muni-document-caption">{{ doc_caption }}</p>
+              {% if doc.transcription %}
+              <p class="muni-document-transcription"><em>{{ doc.transcription }}</em></p>
+              {% endif %}
+              {% if doc.source %}
+              <p class="muni-document-source">
+                {% if page.lang == 'es' %}Fuente:{% else %}Source:{% endif %}
+                {% if doc.source_url %}
+                <a href="{{ doc.source_url }}" target="_blank" rel="noopener noreferrer"><em>{{ doc.source }}</em></a>
+                {% else %}{{ doc.source }}{% endif %}
+              </p>
+              {% endif %}
+            </div>
+          </div>
+          {% endfor %}
+        </div>
+      </section>
+      {% endif %}
+
       <section id="toolkit" class="muni-section">
         <h2>{% if page.lang == 'es' %}Recursos de Genealogía{% else %}Genealogy Toolkit{% endif %}</h2>
         <div class="fs-login-notice">
@@ -354,6 +389,7 @@ layout: default
           {% if muni.neighbors %}<li><a href="#neighbors">{% if page.lang == 'es' %}Municipios Vecinos{% else %}Neighboring Municipalities{% endif %}</a></li>{% endif %}
           {% if muni.record_gaps and muni.record_gaps.size > 0 %}<li><a href="#gaps">{% if page.lang == 'es' %}Lagunas en Registros{% else %}Record Gaps{% endif %}</a></li>{% endif %}
           <li><a href="#maps">{% if page.lang == 'es' %}Mapas Históricos{% else %}Historical Maps{% endif %}</a></li>
+          {% if muni.document_images and muni.document_images.size > 0 %}<li><a href="#documents">{% if page.lang == 'es' %}Documentos Históricos{% else %}Historical Documents{% endif %}</a></li>{% endif %}
           <li><a href="#toolkit">{% if page.lang == 'es' %}Recursos de Genealogía{% else %}Genealogy Toolkit{% endif %}</a></li>
           <li><a href="#archives">{% if page.lang == 'es' %}Archivos Digitales{% else %}Digital Archives{% endif %}</a></li>
           {% if muni.genealogy_sources %}<li><a href="#sources">{% if page.lang == 'es' %}Lecturas Recomendadas{% else %}Further Reading{% endif %}</a></li>{% endif %}

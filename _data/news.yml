@@ -10,6 +10,13 @@
 #
 # Maintenance: add new entries at the top. Move old featured to non-featured.
 # To archive: move entries older than ~12 months to _data/news_archive_YYYY.yml
+- date: 2026-06-09
+  category: features
+  featured: true
+  title: "Updated: Comerío — Founders List and New Historical Book"
+  body: "The Comerío municipality page now includes Comerío y su gente (WorldCat OCLC 40711794), a local history covering the town's founding, biographical data, and a transcribed list of the eleven founders of Sabana del Palmar (now Comerío)."
+  link: /tools/municipality-guide/comerio/
+
 - date: 2026-06-01
   category: features
   featured: false
@@ -19,7 +26,7 @@
 
 - date: 2026-06-05
   category: courses
-  featured: true
+  featured: false
   title: "New Course: Spanish Colonial Military Records"
   body: "A new five-module intermediate course is now available on tracing Puerto Rican ancestors in Spanish colonial military records (1508-1898). Covers filiaciones, muster rolls, the Pardo Militia, repositories in Spain and Puerto Rico (including the Archivo General Militar de Segovia), and GPS-compliant strategies for integrating military evidence with church and civil records."
   link: /research-guides/spanish-colonial-military/

@@ -11,6 +11,13 @@
 # Mantenimiento: agregar entradas nuevas al inicio. Cambiar featured anterior a false.
 # Para archivar: mover entradas con más de ~12 meses a _data/news_es_archive_YYYY.yml
 
+- date: 2026-06-09
+  category: funciones
+  featured: true
+  title: "Actualizado: Comerío — Lista de fundadores y nuevo libro histórico"
+  body: "La página del municipio de Comerío incluye ahora Comerío y su gente (WorldCat OCLC 40711794), una historia local que cubre la fundación del pueblo, datos biográficos y una lista transcrita de los once fundadores de Sabana del Palmar (hoy Comerío)."
+  link: /es/guia-municipios/comerio/
+
 - date: 2026-06-01
   category: funciones
   featured: false
@@ -20,7 +27,7 @@
 
 - date: 2026-06-05
   category: cursos
-  featured: true
+  featured: false
   title: "Nuevo Curso: Registros Militares de la Época Colonial Española"
   body: "Ya está disponible un nuevo curso intermedio de cinco módulos para rastrear a los antepasados puertorriqueños en los registros militares coloniales españoles (1508-1898). Cubre las filiaciones, las listas de revista, la Milicia de Pardos, los repositorios en España y Puerto Rico (incluyendo el Archivo General Militar de Segovia) y estrategias conformes al GPS para integrar la evidencia militar con los registros eclesiásticos y civiles."
   link: /es/guias-investigacion/registros-militares-coloniales/

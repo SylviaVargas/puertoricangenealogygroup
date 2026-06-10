@@ -3559,6 +3559,26 @@
         "type": "Research Guide",
         "description": "Guide to Comerío church records with 1832 start date and book-by-book coverage notes for baptisms, marriages, and burials.",
         "description_es": "Guía de registros de la iglesia de Comerío con fecha de inicio de 1832 y notas de cobertura libro por libro para bautismos, matrimonios y entierros."
+      },
+      {
+        "title": "Comerío y su gente: datos históricos, estampas de mi pueblo, datos biográficos",
+        "author": "Various",
+        "url": "https://search.worldcat.org/es/title/comerio-y-su-gente-datos-historicos-estampas-de-mi-pueblo-datos-biograficos/oclc/40711794",
+        "type": "Book",
+        "description": "Local history of Comerío covering historical data, town impressions, and biographical profiles. Includes a list of the founders of the original settlement of Sabana del Palmar (now Comerío): Don José Rosa Carmona, don Eduardo Vázquez, don Jerónimo Rivera, don Esteban Rivera, don Domingo Díaz, don Alejo Vázquez, don Antonio Díaz, don Bernardo Pérez, don Pascual Sánchez, don Feliciano Matos, and don Fernando Rodríguez.",
+        "description_es": "Historia local de Comerío que abarca datos históricos, estampas del pueblo y perfiles biográficos. Incluye una lista de los fundadores del asentamiento original de Sabana del Palmar (hoy Comerío): Don José Rosa Carmona, don Eduardo Vázquez, don Jerónimo Rivera, don Esteban Rivera, don Domingo Díaz, don Alejo Vázquez, don Antonio Díaz, don Bernardo Pérez, don Pascual Sánchez, don Feliciano Matos y don Fernando Rodríguez."
+      }
+    ],
+    "document_images": [
+      {
+        "image": "assets/images/municipalities/documents/comerio-fundadores-sabana-del-palmar.jpg",
+        "alt": "Page from 'Comerío y su gente' listing the founders of Sabana del Palmar",
+        "alt_es": "Página de 'Comerío y su gente' con la lista de fundadores de Sabana del Palmar",
+        "caption": "Los Fundadores del Pueblo de Sabana del Palmar (hoy Comerío)",
+        "caption_es": "Los Fundadores del Pueblo de Sabana del Palmar (hoy Comerío)",
+        "transcription": "Don José Rosa Carmona, don Eduardo Vázquez, don Jerónimo Rivera, don Esteban Rivera, don Domingo Díaz, don Alejo Vázquez, don Antonio Díaz, don Bernardo Pérez, don Pascual Sánchez, don Feliciano Matos y don Fernando Rodríguez.",
+        "source": "Comerío y su gente: datos históricos, estampas de mi pueblo, datos biográficos",
+        "source_url": "https://search.worldcat.org/es/title/comerio-y-su-gente-datos-historicos-estampas-de-mi-pueblo-datos-biograficos/oclc/40711794"
       }
     ],
     "genealogiapr_transcriptions": [
