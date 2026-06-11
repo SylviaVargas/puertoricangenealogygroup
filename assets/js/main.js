@@ -108,7 +108,7 @@ document.addEventListener('DOMContentLoaded', function() {
       var shown = results.slice(0, 6);
       var html = shown.map(function(item, index) {
         var snippet = createSnippet(item.content, query);
-        return '<a href="' + item.url + '" class="search-result-item" role="option" data-index="' + index + '">'
+        return '<a href="' + escapeAttr(item.url) + '" class="search-result-item" role="option" data-index="' + index + '">'
           + '<span class="search-result-title">' + highlightTerms(item.title, query) + '</span>'
           + '<span class="search-result-snippet">' + highlightTerms(snippet, query) + '</span>'
           + '</a>';
@@ -137,18 +137,31 @@ document.addEventListener('DOMContentLoaded', function() {
       return snippet;
     }
 
-    // Highlight matching terms
+    // Highlight matching terms.
+    // Escape the text first so any HTML in the (build-generated) search
+    // index is rendered as text, then wrap matches in <mark>.
     function highlightTerms(text, query) {
       var terms = query.toLowerCase().split(/\s+/).filter(function(t) {
         return t.length > 1;
       });
-      var result = text;
+      var result = escapeHtml(text);
       terms.forEach(function(term) {
         var escaped = term.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
         var regex = new RegExp('(' + escaped + ')', 'gi');
         result = result.replace(regex, '<mark>$1</mark>');
       });
       return result;
+    }
+
+    // HTML escaping helpers (defense in depth for the search index)
+    function escapeHtml(str) {
+      return String(str)
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;');
+    }
+    function escapeAttr(str) {
+      return escapeHtml(str).replace(/"/g, '&quot;');
     }
 
     // Debounced input handler

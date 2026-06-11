@@ -3,6 +3,19 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
+  <!--
+    Content-Security-Policy (defense in depth on a static site).
+    GitHub Pages cannot send real response headers, so this is delivered as
+    a meta tag. Hosts allowlisted below match the resources loaded in this
+    file: Google Fonts (style + font), GA4 (googletagmanager), and
+    GoatCounter (gc.zgo.at + the project's goatcounter subdomain).
+    'unsafe-inline' is required for the inline GA4/GoatCounter config and the
+    JSON-LD block; the host allowlist still blocks injected external scripts
+    and exfiltration to non-allowlisted origins. frame-ancestors and
+    X-Frame-Options are not enforceable via meta on GitHub Pages.
+  -->
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' https://www.googletagmanager.com https://gc.zgo.at https://f.convertkit.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data: https://www.google-analytics.com https://www.googletagmanager.com https://cdn.buymeacoffee.com https://f.convertkit.com; connect-src 'self' https://www.google-analytics.com https://*.google-analytics.com https://*.analytics.google.com https://www.googletagmanager.com https://puertoricangenealogy.goatcounter.com https://f.convertkit.com https://app.kit.com; object-src 'none'; base-uri 'self'; form-action 'self' https://app.kit.com">
+
   <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
   <meta name="description" content="{{ page.description | default: site.description }}">
   <meta name="author" content="{{ site.author.name }}">
