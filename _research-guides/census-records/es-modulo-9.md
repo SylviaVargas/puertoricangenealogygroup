@@ -6,7 +6,7 @@ difficulty: advanced
 lang: es
 permalink: /es/guias-investigacion/registros-censales-modulo-9/
 ref: census-records-module-9
-last_modified_at: 2026-02-26
+last_modified_at: 2026-06-10
 ---
 
 *Parte del curso [Registros Censales para la Genealogía Puertorriqueña](/es/guias-investigacion/registros-censales/).*
@@ -25,6 +25,23 @@ A partir de 2025, la Diócesis de Mayagüez restringe el acceso de investigadore
 - Municipios circundantes de la región occidental
 
 Esta restricción significa que los registros eclesiásticos anteriores a 1885 para estas áreas: bautismos, matrimonios y entierros, no son accesibles para la mayoría de los investigadores.
+
+**Lo que la restricción no cambia:** no elimina lo que fue digitalizado antes de que la política entrara en vigor (ver el punto 4 de la estrategia más abajo), no afecta el Registro Civil ni los registros censales, y no aplica a toda la isla; las parroquias de otras diócesis siguen sus propias políticas de acceso. Las solicitudes de certificados sacramentales individuales se manejan a discreción de cada parroquia y son independientes del acceso para investigación.
+
+**Una nota sobre etiqueta de investigación:** la restricción es una decisión que corresponde a la diócesis, y merece respeto. No presiones al personal parroquial ni tergiverses el propósito de una solicitud. La credibilidad de la comunidad investigadora depende de cómo se comporta cada investigador ante la puerta del archivo.
+
+---
+
+## Por Qué Es Importante
+
+Para investigadores con raíces en los municipios occidentales de Puerto Rico, la restricción de la Diócesis de Mayagüez elimina una categoría principal de registros. Los registros parroquiales normalmente proporcionarían:
+
+- Actas de bautismo (documentación de nacimientos anteriores a 1885)
+- Actas de matrimonio con nombres de los padres
+- Actas de entierro
+- Relaciones de padrinos y testigos (el círculo FAN: Familia, Asociados, Vecinos)
+
+Sin estos registros, los investigadores deben depender de las fuentes alternativas que siguen.
 
 ---
 
@@ -72,12 +89,32 @@ Los registros notariales (*protocolos notariales*) y documentos testamentarios (
 
 ---
 
-## Filosofía de Investigación Cuando las Fuentes Primarias Están Restringidas
+## Reconstrucción de Hechos Anteriores a 1885 con Evidencia Indirecta
+
+La mayoría de los sustitutos anteriores proporcionan evidencia indirecta para eventos anteriores a 1885: ningún registro individual declara el hecho directamente, pero varios registros juntos sostienen una conclusión sólida. Dos patrones de trabajo:
+
+**Establecer una fecha aproximada de nacimiento sin acta de bautismo.** Correlaciona la edad reportada en cada censo federal (1910, 1920, 1930), la edad al fallecer en un acta de defunción civil, y la fecha exacta en una tarjeta de inscripción militar si existe. Cada fuente produce un año de nacimiento implícito. Si convergen dentro de un rango estrecho, declara el año de nacimiento como aproximado, cita cada fuente y explica la correlación. Esta es una conclusión que cumple con el GPS sin un registro parroquial.
+
+**Establecer la filiación sin acta de bautismo.** Un acta de matrimonio civil nombra a los padres de ambos cónyuges. Un acta de defunción civil usualmente nombra a los padres del difunto. Las actas de nacimiento de los hijos de una persona nombran a esa persona y a su cónyuge, confirmando la identidad de la pareja a través de los años. Las actas de los hermanos repiten los nombres de los padres, multiplicando la evidencia.
+
+En ambos patrones, escribe la conclusión como un resumen de prueba: declara la afirmación, lista las fuentes, explica cómo se correlacionan y aborda cualquier conflicto. El [Módulo 8](/es/guias-investigacion/registros-censales-modulo-8/) cubre el método de correlación en detalle.
+
+---
+
+## Filosofía de Investigación Cuando Registros Clave Están Restringidos
 
 1. **Amplía horizontalmente:** usa todos los tipos de registros disponibles del mismo período
 2. **Amplía temporalmente:** usa registros de antes y después del período de brecha para enmarcar la información faltante
 3. **Correlaciona fuentes:** aplica los estándares del GPS a las fuentes que tienes, construyendo un argumento razonado a partir de evidencia indirecta y negativa
 4. **Documenta búsquedas negativas:** registra explícitamente que intentaste acceder a los registros parroquiales y que los encontraste inaccesibles. La evidencia negativa es un dato significativo.
+
+> **Principio del GPS:** cuando los registros críticos no están disponibles, el estándar no se reduce; se desplaza. Debes demostrar que intentaste acceder a todas las fuentes disponibles, documentar la restricción y construir el caso más sólido posible con lo que sí existe.
+
+---
+
+## Qué Sigue
+
+El [Módulo 10 — Uso de IA para Análisis Censal](/es/guias-investigacion/registros-censales-modulo-10/) cubre flujos de trabajo prácticos para organizar, comparar y analizar datos censales con herramientas de IA, dentro de una práctica de investigación que cumple con el GPS.
 
 ---
 

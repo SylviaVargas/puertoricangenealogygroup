@@ -10,9 +10,16 @@
 #
 # Maintenance: add new entries at the top. Move old featured to non-featured.
 # To archive: move entries older than ~12 months to _data/news_archive_YYYY.yml
+- date: 2026-06-10
+  category: courses
+  featured: true
+  title: "Course Complete: Census Records for Puerto Rican Genealogy"
+  body: "All ten modules of the advanced census course are now complete. Module 9 (Handling Parish Access Limitations) has been expanded into a full module covering the Mayagüez Diocese restriction and indirect-evidence strategies, and all seven worksheets are now available as full extraction and analysis forms in English and Spanish."
+  link: /research-guides/census-records/
+
 - date: 2026-06-09
   category: features
-  featured: true
+  featured: false
   title: "Updated: Comerío — Founders List and New Historical Book"
   body: "The Comerío municipality page now includes Comerío y su gente (WorldCat OCLC 40711794), a local history covering the town's founding, biographical data, and a transcribed list of the eleven founders of Sabana del Palmar (now Comerío)."
   link: /tools/municipality-guide/comerio/
@@ -700,28 +707,28 @@
 
 - date: 2026-04-12
   category: features
-  featured: true
+  featured: false
   title: "New: San Sebastián Municipality Detail Page"
   body: "The San Sebastián detail page is now live — covering the town's 1752 founding as Las Vegas del Pepino, its 22 barrios, the revolutionary role it played in the Grito de Lares, parish and civil registry dates, coat of arms symbolism, and a full genealogy research toolkit with links to FamilySearch records and key historical books."
   link: /tools/municipality-guide/san-sebastian/
 
 - date: 2026-04-12
   category: features
-  featured: true
+  featured: false
   title: "New: Cabo Rojo Municipality Detail Page"
   body: "The Cabo Rojo detail page is now live — covering the town's 1771 founding, its eight barrios, parish and civil registry dates, coat of arms symbolism, and a full genealogy research toolkit including links to the OECH history PDF, FamilySearch records, and key books on Betances and Cofresí."
   link: /tools/municipality-guide/cabo-rojo/
 
 - date: 2026-04-07
   category: features
-  featured: true
+  featured: false
   title: "Updated: Family Group Sheet — New Fields for Puerto Rican Research"
   body: "The Family Group Sheet now includes Occupation, Parish (Christening/Burial), and Cause of Death fields for each parent, per-parent source citations, and Sex and Still Living columns for children."
   link: /tools/family-group-sheet/
 
 - date: 2026-03-17
   category: features
-  featured: true
+  featured: false
   title: "New: San Germán Municipality Detail Page"
   body: "The first full municipality detail page is live for San Germán — covering parish records, civil registry dates, barrios, neighboring towns, coat of arms, and a complete genealogy research toolkit."
   link: /tools/municipality-guide/san-german/
@@ -735,21 +742,21 @@
 
 - date: 2026-03-13
   category: features
-  featured: true
+  featured: false
   title: "New: Funeral Cards Collection — Rincón, Puerto Rico"
   body: "Browse and search ~154 funeral card images from Rincón and surrounding towns, 1965-2020. Cards include names, birth and death dates, birthplaces, and funeral home information."
   link: /funeral-cards/
 
 - date: 2026-03-05
   category: features
-  featured: true
+  featured: false
   title: "New: AI Quick Start Handout for Gemini and Claude"
   body: "A one-page reference guide covering privacy setup, how to configure a genealogist persona, five ready-to-use prompts, and GPS reminders for Gemini and Claude."
   link: /resources/ai-quick-reference-gemini-claude/
 
 - date: 2026-03-05
   category: features
-  featured: true
+  featured: false
   title: "New: AI Best Practices for Genealogists"
   body: "The AI in Genealogy page is now split into two: a short intro for new members and a full best practices reference covering limitations, GPS compliance, and privacy."
   link: /ai-best-practices/
@@ -763,7 +770,7 @@
 
 - date: 2026-03-01
   category: tools
-  featured: true
+  featured: false
   title: "New Tool: Puerto Rico Municipality Guide"
   body: "Look up all 78 municipalities in one place — parish name, how far back records extend, civil registry start year, and which towns split from which. Includes a searchable table and a collapsible mother-town family tree."
   link: /tools/municipality-guide/

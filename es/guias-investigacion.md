@@ -111,10 +111,13 @@ La genealogía puertorriqueña presenta desafíos únicos: documentos en españo
   <li><a href="/es/guias-investigacion/registros-censales-modulo-1/">Módulo 1 — Historia del Censo y Contexto Político</a></li>
   <li><a href="/es/guias-investigacion/registros-censales-modulo-2/">Módulo 2 — Censo Colonial Español y Padrones</a></li>
   <li><a href="/es/guias-investigacion/registros-censales-modulo-3/">Módulo 3 — El Censo Militar de 1899</a></li>
+  <li><a href="/es/guias-investigacion/registros-censales-modulo-4/">Módulo 4 — Censo Federal de EE.UU. (1910–1950)</a></li>
+  <li><a href="/es/guias-investigacion/registros-censales-modulo-5/">Módulo 5 — Enumeraciones Municipales y de Barrio</a></li>
   <li><a href="/es/guias-investigacion/registros-censales-modulo-6/">Módulo 6 — Raza y Clasificación Social</a></li>
   <li><a href="/es/guias-investigacion/registros-censales-modulo-7/">Módulo 7 — Patrones de Migración</a></li>
   <li><a href="/es/guias-investigacion/registros-censales-modulo-8/">Módulo 8 — Correlación de Censos con Registros Civiles</a></li>
   <li><a href="/es/guias-investigacion/registros-censales-modulo-9/">Módulo 9 — Restricciones de Acceso Parroquial</a></li>
+  <li><a href="/es/guias-investigacion/registros-censales-modulo-10/">Módulo 10 — Uso de IA para Análisis Censal</a></li>
   <li><a href="/assets/pdfs/census-records/Course_Overview.pdf" target="_blank">⬇ Descripción del Curso (PDF)</a></li>
   <li><a href="/assets/pdfs/census-records/GPS_Foundation.pdf" target="_blank">⬇ Referencia: Estándar GPS (PDF)</a></li>
 </ul>

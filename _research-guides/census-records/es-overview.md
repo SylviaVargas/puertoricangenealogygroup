@@ -6,7 +6,7 @@ difficulty: advanced
 lang: es
 permalink: /es/guias-investigacion/registros-censales/
 ref: census-records-overview
-last_modified_at: 2026-02-26
+last_modified_at: 2026-06-10
 parent_title_es: "Guías de Investigación"
 parent_url_es: /es/guias-investigacion/
 related_guides:
@@ -72,12 +72,12 @@ Revisa la **[Referencia Fundacional: El Estándar de Prueba Genealógica](/es/gu
 
 <div class="card">
 <h3><a href="/es/guias-investigacion/registros-censales-modulo-4/">Módulo 4 — Censo Federal de EE.UU. (1910–1950)</a></h3>
-<p><span class="badge badge-coming-soon">Próximamente</span> Búsqueda y exploración de los registros del censo federal de EE.UU. para Puerto Rico en los cinco años censales disponibles.</p>
+<p>Busca y explora los registros del censo federal de EE.UU. para Puerto Rico en los cinco años censales disponibles, y usa los datos de edad para estimar años de nacimiento.</p>
 </div>
 
 <div class="card">
 <h3><a href="/es/guias-investigacion/registros-censales-modulo-5/">Módulo 5 — Enumeraciones Municipales y de Barrio</a></h3>
-<p><span class="badge badge-coming-soon">Próximamente</span> Sustitutos censales locales y registros municipales que llenan vacíos en las enumeraciones insulares.</p>
+<p>Sustitutos censales locales y registros municipales que llenan vacíos en las enumeraciones insulares, con un método de registro de investigación para documentar cada búsqueda.</p>
 </div>
 
 <div class="card">
@@ -102,7 +102,7 @@ Revisa la **[Referencia Fundacional: El Estándar de Prueba Genealógica](/es/gu
 
 <div class="card">
 <h3><a href="/es/guias-investigacion/registros-censales-modulo-10/">Módulo 10 — Uso de IA para Análisis Censal</a></h3>
-<p><span class="badge badge-coming-soon">Próximamente</span> Flujos de trabajo prácticos para usar herramientas de IA para comparar años censales, extraer patrones y acelerar el análisis.</p>
+<p>Flujos de trabajo prácticos para usar herramientas de IA para comparar años censales, extraer patrones y acelerar el análisis cumpliendo con el GPS.</p>
 </div>
 
 </div>
@@ -118,15 +118,20 @@ Revisa la **[Referencia Fundacional: El Estándar de Prueba Genealógica](/es/gu
 | Módulo 1 — Historia del Censo | <a href="/assets/pdfs/census-records/Module_1_Census_History_Political_Context.pdf" target="_blank" rel="noopener noreferrer">PDF (EN)</a> |
 | Módulo 2 — Censo Colonial Español | <a href="/assets/pdfs/census-records/Module_2_Spanish_Colonial_Census.pdf" target="_blank" rel="noopener noreferrer">PDF (EN)</a> |
 | Módulo 3 — Censo Militar 1899 | <a href="/assets/pdfs/census-records/Module_3_1899_Military_Census.pdf" target="_blank" rel="noopener noreferrer">PDF (EN)</a> |
+| Módulo 4 — Censo Federal de EE.UU. (1910–1950) | <a href="/assets/pdfs/census-records/Module_4_US_Federal_Census.pdf" target="_blank" rel="noopener noreferrer">PDF (EN)</a> |
+| Módulo 5 — Enumeraciones Municipales y de Barrio | <a href="/assets/pdfs/census-records/Module_5_Municipal_Barrio_Enumerations.pdf" target="_blank" rel="noopener noreferrer">PDF (EN)</a> |
 | Módulo 6 — Raza y Clasificación Social | <a href="/assets/pdfs/census-records/Module_6_Race_Social_Classification.pdf" target="_blank" rel="noopener noreferrer">PDF (EN)</a> |
 | Módulo 7 — Patrones de Migración | <a href="/assets/pdfs/census-records/Module_7_Migration_Patterns.pdf" target="_blank" rel="noopener noreferrer">PDF (EN)</a> |
 | Módulo 8 — Correlación Censo/Registros Civiles | <a href="/assets/pdfs/census-records/Module_8_Correlating_Census_Civil_Records.pdf" target="_blank" rel="noopener noreferrer">PDF (EN)</a> |
 | Módulo 9 — Restricciones Parroquiales | <a href="/assets/pdfs/census-records/Module_9_Handling_Parish_Limitations.pdf" target="_blank" rel="noopener noreferrer">PDF (EN)</a> |
+| Módulo 10 — Uso de IA para Análisis Censal | <a href="/assets/pdfs/census-records/Module_10_AI_Census_Analysis.pdf" target="_blank" rel="noopener noreferrer">PDF (EN)</a> |
 | HT 01 — Extracción de Censo Colonial | <a href="/assets/pdfs/census-records/ES_WS_01_Extraccion_Censo_Colonial.pdf" target="_blank" rel="noopener noreferrer">PDF (ES)</a> |
 | HT 02 — Comparación 1887–1899 | <a href="/assets/pdfs/census-records/ES_WS_02_Comparacion_1887_1899.pdf" target="_blank" rel="noopener noreferrer">PDF (ES)</a> |
 | HT 03 — Matriz del Censo Federal | <a href="/assets/pdfs/census-records/ES_WS_03_Matriz_Censo_Federal.pdf" target="_blank" rel="noopener noreferrer">PDF (ES)</a> |
 | HT 04 — Estrategia de Fuentes Alternativas | <a href="/assets/pdfs/census-records/ES_WS_04_Estrategia_Fuentes_Alternativas.pdf" target="_blank" rel="noopener noreferrer">PDF (ES)</a> |
 | HT 05 — Análisis Estadístico 1887 | <a href="/assets/pdfs/census-records/ES_WS_05_Analisis_Estadistico_1887.pdf" target="_blank" rel="noopener noreferrer">PDF (ES)</a> |
+| HT 06 — Registro de Investigación Municipal | <a href="/assets/pdfs/census-records/ES_WS_06_Registro_Investigacion_Municipal.pdf" target="_blank" rel="noopener noreferrer">PDF (ES)</a> |
+| HT 07 — Hojas de Análisis Censal con IA | <a href="/assets/pdfs/census-records/ES_WS_07_Hojas_Analisis_Censal_IA.pdf" target="_blank" rel="noopener noreferrer">PDF (ES)</a> |
 
 ---
 

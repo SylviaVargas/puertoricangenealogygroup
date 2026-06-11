@@ -6,7 +6,7 @@ difficulty: advanced
 lang: en
 permalink: /research-guides/census-records-module-9/
 ref: census-records-module-9
-last_modified_at: 2026-02-26
+last_modified_at: 2026-06-10
 ---
 
 *Part of the [Census Records for Puerto Rican Genealogy](/research-guides/census-records/) course.*
@@ -25,6 +25,10 @@ As of 2025, the Diocese of Mayagüez restricts researcher access and prohibits d
 - Surrounding municipalities in the western region
 
 This restriction means that pre-1885 church records for these areas — baptisms, marriages, and burials — are not accessible to most researchers. This module provides structured alternatives.
+
+**What the restriction does not change:** it does not erase what was digitized before the policy took effect (see strategy item 4 below), it does not affect civil registration or census records, and it does not apply island-wide; parishes in other dioceses follow their own access policies. Requests for individual sacramental certificates are handled at each parish's discretion and are separate from research access.
+
+**A note on research etiquette:** the restriction is the diocese's decision to make, and it deserves respect. Do not pressure parish staff or misrepresent the purpose of a request. The credibility of the research community depends on how individual researchers behave at the archive door.
 
 ---
 
@@ -91,7 +95,19 @@ Notarial records (*protocolos notariales*) and probate documents (*testamentos*)
 
 ---
 
-## Research Philosophy When Primary Sources Are Restricted
+## Reconstructing Pre-1885 Facts with Indirect Evidence
+
+Most of the substitutes above provide indirect evidence for pre-1885 events: no single record states the fact outright, but several records together support a sound conclusion. Two worked patterns:
+
+**Establishing an approximate birth date without a baptismal record.** Correlate the reported age in each federal census (1910, 1920, 1930), the age at death in a civil death record, and the exact date on a WWI or WWII draft card if one exists. Each source yields an implied birth year. If they converge within a narrow range, state the birth year as approximate, cite every source, and explain the correlation. This is a GPS-compliant conclusion without a parish register.
+
+**Establishing parentage without a baptismal record.** A civil marriage record names the parents of both spouses. A civil death record usually names the parents of the deceased. The birth records of a person's children name that person and their spouse, confirming the couple's identity across years. Sibling records repeat the parents' names, multiplying the evidence.
+
+In both patterns, write the conclusion as a proof summary: state the claim, list the sources, explain how they correlate, and address any conflicts. [Module 8](/research-guides/census-records-module-8/) covers the correlation method in detail.
+
+---
+
+## Research Philosophy When Key Records Are Restricted
 
 When parish access is restricted, apply this framework:
 

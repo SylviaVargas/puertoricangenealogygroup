@@ -11,9 +11,16 @@
 # Mantenimiento: agregar entradas nuevas al inicio. Cambiar featured anterior a false.
 # Para archivar: mover entradas con más de ~12 meses a _data/news_es_archive_YYYY.yml
 
+- date: 2026-06-10
+  category: cursos
+  featured: true
+  title: "Curso Completo: Registros Censales para la Genealogía Puertorriqueña"
+  body: "Los diez módulos del curso avanzado de censos ya están completos. El Módulo 9 (Manejo de Restricciones de Acceso Parroquial) fue ampliado a un módulo completo que cubre la restricción de la Diócesis de Mayagüez y estrategias de evidencia indirecta, y las siete hojas de trabajo ya están disponibles como formularios completos de extracción y análisis en inglés y español."
+  link: /es/guias-investigacion/registros-censales/
+
 - date: 2026-06-09
   category: funciones
-  featured: true
+  featured: false
   title: "Actualizado: Comerío — Lista de fundadores y nuevo libro histórico"
   body: "La página del municipio de Comerío incluye ahora Comerío y su gente (WorldCat OCLC 40711794), una historia local que cubre la fundación del pueblo, datos biográficos y una lista transcrita de los once fundadores de Sabana del Palmar (hoy Comerío)."
   link: /es/guia-municipios/comerio/
@@ -694,28 +701,28 @@
 
 - date: 2026-04-12
   category: funciones
-  featured: true 
+  featured: false
   title: "Nuevo: Página de Detalle del Municipio San Sebastián"
   body: "La página de detalle de San Sebastián ya está disponible — con la historia de su fundación en 1752 como Las Vegas del Pepino, sus 22 barrios, el papel revolucionario que desempeñó en el Grito de Lares, las fechas de registros parroquiales y civiles, el simbolismo del escudo municipal y una guía completa de investigación genealógica con enlaces a FamilySearch y libros históricos clave."
   link: /es/guia-municipios/san-sebastian/
 
 - date: 2026-04-12
   category: funciones
-  featured: true
+  featured: false
   title: "Nuevo: Página de Detalle del Municipio Cabo Rojo"
   body: "La página de detalle de Cabo Rojo ya está disponible — con la historia de su fundación en 1771, sus ocho barrios, fechas de los registros parroquiales y civiles, el simbolismo del escudo municipal, y una guía completa de investigación genealógica con enlaces al PDF histórico de la OECH, registros de FamilySearch y libros clave sobre Betances y Cofresí."
   link: /es/guia-municipios/cabo-rojo/
 
 - date: 2026-04-07
   category: funciones
-  featured: true
+  featured: false
   title: "Actualizado: Hoja de Grupo Familiar — Nuevos Campos para la Investigación"
   body: "La Hoja de Grupo Familiar ahora incluye campos de Ocupación, Parroquia (Bautismo/Entierro) y Causa de Muerte para cada progenitor, citas de fuentes individuales por progenitor, y columnas de Sexo y Estado de Vida para los hijos."
   link: /es/hoja-de-grupo-familiar/
 
 - date: 2026-03-17
   category: funciones
-  featured: true 
+  featured: false
   title: "Nuevo: Página de Detalle del Municipio San Germán"
   body: "La primera página de detalle completa está disponible para San Germán — con registros parroquiales, fechas del registro civil, barrios, pueblos vecinos, escudo de armas y una guía completa de investigación genealógica."
   link: /es/guia-municipios/san-german/
@@ -729,35 +736,35 @@
 
 - date: 2026-03-13
   category: funciones
-  featured: true
+  featured: false
   title: "Nuevo: Colección de Tarjetas Funerarias — Rincón, Puerto Rico"
   body: "Busca y visualiza ~154 imágenes de tarjetas funerarias de Rincón y pueblos cercanos, 1965-2020. Las tarjetas incluyen nombres, fechas de nacimiento y fallecimiento, lugares de origen e información sobre funerarias."
   link: /es/tarjetas-funerarias/
 
 - date: 2026-03-05
   category: funciones
-  featured: true
+  featured: false
   title: "Nuevo: Guía de Inicio Rápido para Gemini y Claude"
   body: "Una guía de referencia de una página que cubre la configuración de privacidad, el perfil de genealogista, cinco indicaciones listas para usar y recordatorios del Estándar de Prueba Genealógica."
   link: /es/recursos/inicio-rapido-gemini-claude/
 
 - date: 2026-03-05
   category: funciones
-  featured: true
+  featured: false
   title: "Nuevo: Mejores Prácticas de IA para Genealogistas"
   body: "La página de IA en Genealogía ahora está dividida en dos: una introducción breve para nuevos miembros y una referencia completa sobre limitaciones, cumplimiento del GPS y privacidad."
   link: /es/ia-mejores-practicas/
 
 - date: 2026-03-01
   category: resources
-  featured: true
+  featured: false
   title: "Nuevo recurso: Sociedades Genealógicas Españolas"
   body: "Lista de Sociedades Genealógicas Españolas"
   link: /resources/sociedades-genealogicas-habla-hispana/
 
 - date: 2026-03-01
   category: herramientas
-  featured: true
+  featured: false
   title: "Nueva Herramienta: Guía de Municipios de Puerto Rico"
   body: "Consulta los 78 municipios en un solo lugar: nombre de la parroquia, desde cuándo existen los registros, año de inicio del registro civil y qué pueblos se separaron de cuáles. Incluye una tabla con búsqueda y un árbol desplegable de pueblos de origen."
   link: /tools/municipality-guide/

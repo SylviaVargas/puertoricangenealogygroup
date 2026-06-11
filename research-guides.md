@@ -111,10 +111,13 @@ Puerto Rican genealogy comes with unique challenges — Spanish-language records
   <li><a href="/research-guides/census-records-module-1/">Module 1 — Census History & Political Context</a></li>
   <li><a href="/research-guides/census-records-module-2/">Module 2 — Spanish Colonial Census & Padrones</a></li>
   <li><a href="/research-guides/census-records-module-3/">Module 3 — The 1899 U.S. Military Census</a></li>
+  <li><a href="/research-guides/census-records-module-4/">Module 4 — U.S. Federal Census (1910–1950)</a></li>
+  <li><a href="/research-guides/census-records-module-5/">Module 5 — Municipal & Barrio Enumerations</a></li>
   <li><a href="/research-guides/census-records-module-6/">Module 6 — Race & Social Classification</a></li>
   <li><a href="/research-guides/census-records-module-7/">Module 7 — Migration Patterns</a></li>
   <li><a href="/research-guides/census-records-module-8/">Module 8 — Correlating Census with Civil Records</a></li>
   <li><a href="/research-guides/census-records-module-9/">Module 9 — Handling Parish Access Limitations</a></li>
+  <li><a href="/research-guides/census-records-module-10/">Module 10 — Using AI for Census Analysis</a></li>
   <li><a href="/assets/pdfs/census-records/Course_Overview.pdf" target="_blank">⬇ Course Overview (PDF)</a></li>
   <li><a href="/assets/pdfs/census-records/GPS_Foundation.pdf" target="_blank">⬇ GPS Foundation Reference (PDF)</a></li>
 </ul>
