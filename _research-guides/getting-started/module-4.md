@@ -111,6 +111,14 @@ See the <a href="/assets/pdfs/getting-started/Google_Sheets_Templates.pdf" targe
 
 ---
 
+## Video: Research Logs {#video-research-logs}
+
+▶ **Research Logs**, a presentation from ICAPGen (International Commission for the Accreditation of Professional Genealogists) on how professional genealogists create and use research logs.
+
+<a href="https://www.youtube.com/watch?v=jfVv0qYNkmc" class="btn btn-primary" target="_blank" rel="noopener noreferrer">Watch on YouTube</a>
+
+---
+
 ## Reflection Questions
 
 - How does it feel to write down "not found"? Remember: a documented absence is valuable information, not a failure.

@@ -133,6 +133,17 @@ A curated collection of archives, databases, and tools for researching Puerto Ri
 </div>
 </div>
 
+<div class="card resource-card" data-category="guide">
+<div class="card-lang">&#127466;&#127480;</div>
+<span class="badge badge-external">Guide</span> <span class="badge badge-free">Free</span>
+<div class="card-title">Escuela de Genealogia</div>
+<div class="card-desc">Spanish-language genealogy school with courses and training resources, useful for building skills with Spanish-language records.</div>
+<div class="card-footer">
+<a href="https://www.escuelagenealogia.com" target="_blank" rel="noopener noreferrer" class="card-link">Visit &#8594;</a>
+<a href="{{ '/contact/' | relative_url }}" class="card-report">Report broken link</a>
+</div>
+</div>
+
 <!-- Archives & Official Repositories -->
 
 <div class="card resource-card" data-category="archive">
@@ -198,6 +209,21 @@ A curated collection of archives, databases, and tools for researching Puerto Ri
 </div>
 </div>
 
+<div class="card resource-card" data-category="archive">
+<div class="card-lang">&#127477;&#127479;</div>
+<span class="badge badge-external">Archive</span> <span class="badge badge-free">Free</span>
+<div class="card-title">Centro de Investigaciones Historicas (UPR)</div>
+<div class="card-desc">Historical research center at the University of Puerto Rico, Rio Piedras, with archival collections central to Puerto Rican history.</div>
+<details class="card-more">
+<summary>More details</summary>
+<p>Part of the History Department at UPR Rio Piedras. Follow their <a href="https://www.facebook.com/CIHUPR" target="_blank" rel="noopener noreferrer">Facebook page</a> for announcements, events, and featured documents.</p>
+</details>
+<div class="card-footer">
+<a href="https://humanidades.uprrp.edu/historia/?page_id=148" target="_blank" rel="noopener noreferrer" class="card-link">Visit &#8594;</a>
+<a href="{{ '/contact/' | relative_url }}" class="card-report">Report broken link</a>
+</div>
+</div>
+
 <!-- Digital Collections & Databases -->
 
 <div class="card resource-card" data-category="digital">
@@ -222,6 +248,17 @@ A curated collection of archives, databases, and tools for researching Puerto Ri
 </details>
 <div class="card-footer">
 <a href="https://www.familysearch.org/en/wiki/Puerto_Rico_Genealogy" target="_blank" rel="noopener noreferrer" class="card-link">Visit &#8594;</a>
+<a href="{{ '/contact/' | relative_url }}" class="card-report">Report broken link</a>
+</div>
+</div>
+
+<div class="card resource-card" data-category="digital">
+<div class="card-lang">&#127482;&#127480;</div>
+<span class="badge badge-external">Video Library</span> <span class="badge badge-free">Free</span>
+<div class="card-title">FamilySearch RootsTech Library</div>
+<div class="card-desc">Free on-demand video library with hundreds of recorded genealogy classes, including sessions on Hispanic and Caribbean research.</div>
+<div class="card-footer">
+<a href="https://www.familysearch.org/en/rootstech/library" target="_blank" rel="noopener noreferrer" class="card-link">Visit &#8594;</a>
 <a href="{{ '/contact/' | relative_url }}" class="card-report">Report broken link</a>
 </div>
 </div>
@@ -391,11 +428,44 @@ A curated collection of archives, databases, and tools for researching Puerto Ri
 
 <div class="card resource-card" data-category="blog">
 <div class="card-lang">&#127482;&#127480;</div>
+<span class="badge badge-external">Blog</span> <span class="badge badge-free">Free</span>
+<div class="card-title">FamilyTreeTech Blog</div>
+<div class="card-desc">Technology-focused genealogy blog covering software, digital tools, and practical workflows for family historians.</div>
+<div class="card-footer">
+<a href="https://familytreetech.com/page-blog-posts/" target="_blank" rel="noopener noreferrer" class="card-link">Visit &#8594;</a>
+<a href="{{ '/contact/' | relative_url }}" class="card-report">Report broken link</a>
+</div>
+</div>
+
+<div class="card resource-card" data-category="blog">
+<div class="card-lang">&#127466;&#127480;</div>
+<span class="badge badge-external">Blog</span> <span class="badge badge-free">Free</span>
+<div class="card-title">GeneaSud: Consulta Online los Archivos</div>
+<div class="card-desc">Spanish-language blog post compiling historical archives that can be consulted online, useful when tracing lines back to Spain.</div>
+<div class="card-footer">
+<a href="https://geneasud.blogspot.com/2026/02/consulta-online-los-archivos.html" target="_blank" rel="noopener noreferrer" class="card-link">Visit &#8594;</a>
+<a href="{{ '/contact/' | relative_url }}" class="card-report">Report broken link</a>
+</div>
+</div>
+
+<div class="card resource-card" data-category="blog">
+<div class="card-lang">&#127482;&#127480;</div>
 <span class="badge badge-external">Video</span> <span class="badge badge-free">Free</span>
 <div class="card-title">&#9654; Getting Started with Puerto Rican Genealogy</div>
 <div class="card-desc">Video introduction to researching Puerto Rican records by Luis Ariel Rivera. Hosted on YouTube.</div>
 <div class="card-footer">
 <a href="https://www.youtube.com/watch?v=9zQCT7bmsUQ" target="_blank" rel="noopener noreferrer" class="card-link">Watch on YouTube &#8594;</a>
+<a href="{{ '/contact/' | relative_url }}" class="card-report">Report broken link</a>
+</div>
+</div>
+
+<div class="card resource-card" data-category="blog">
+<div class="card-lang">&#127482;&#127480;</div>
+<span class="badge badge-external">Video</span> <span class="badge badge-free">Free</span>
+<div class="card-title">&#9654; ICAPGen: Research Logs</div>
+<div class="card-desc">Video from ICAPGen (International Commission for the Accreditation of Professional Genealogists) on how professional genealogists create and use research logs. Hosted on YouTube.</div>
+<div class="card-footer">
+<a href="https://www.youtube.com/watch?v=jfVv0qYNkmc" target="_blank" rel="noopener noreferrer" class="card-link">Watch on YouTube &#8594;</a>
 <a href="{{ '/contact/' | relative_url }}" class="card-report">Report broken link</a>
 </div>
 </div>

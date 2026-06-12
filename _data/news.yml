@@ -10,9 +10,16 @@
 #
 # Maintenance: add new entries at the top. Move old featured to non-featured.
 # To archive: move entries older than ~12 months to _data/news_archive_YYYY.yml
+- date: 2026-06-11
+  category: features
+  featured: true
+  title: "New: Five Research Resources Added"
+  body: "The Resources page now includes the Centro de Investigaciones Históricas (UPR), the free FamilySearch RootsTech video library, the Escuela de Genealogía, and two blogs: FamilyTreeTech and GeneaSud's roundup of archives you can consult online. The Census Records course also gained a 1935 Special Census section in the Spanish edition of Module 4."
+  link: /resources/
+
 - date: 2026-06-10
   category: courses
-  featured: true
+  featured: false
   title: "Course Complete: Census Records for Puerto Rican Genealogy"
   body: "All ten modules of the advanced census course are now complete. Module 9 (Handling Parish Access Limitations) has been expanded into a full module covering the Mayagüez Diocese restriction and indirect-evidence strategies, and all seven worksheets are now available as full extraction and analysis forms in English and Spanish."
   link: /research-guides/census-records/

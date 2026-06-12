@@ -49,6 +49,21 @@ Cada año censal utilizó un formulario diferente, añadiendo o eliminando categ
 
 ---
 
+## El Censo Especial de Puerto Rico de 1935
+
+Además de los cinco censos federales decenales, se levantó un censo especial separado el **1 de diciembre de 1935**, a cargo de la Administración de Reconstrucción de Puerto Rico (PRRA) y la Oficina del Censo de EE.UU. Este censo registró información demográfica detallada, condiciones sociales y estadísticas agrícolas en toda la isla durante el punto más alto de la Gran Depresión.
+
+El Censo Especial de 1935 no sustituye al censo federal de EE.UU.; no siempre ofrece el mismo nivel de detalle por hogar, pero puede cerrar la brecha entre los censos de 1930 y 1940 para familias cuyos movimientos o condiciones de vida cambiaron significativamente durante ese período.
+
+**Dónde acceder:**
+
+- <a href="https://www.ancestry.com/search/collections/2404/" target="_blank" rel="noopener noreferrer"><em>Ancestry.com — Censo de Puerto Rico, 1935</em></a> (requiere suscripción)
+- <a href="https://www.familysearch.org/search/catalog/olib:2829708" target="_blank" rel="noopener noreferrer"><em>Catálogo de FamilySearch — Puerto Rico, Censo de 1935</em></a> (requiere cuenta gratuita de FamilySearch para ver las imágenes)
+
+**Consejo de investigación:** Usa este censo junto con los censos federales de 1930 y 1940 para construir un panorama más completo de las circunstancias de una familia durante la era de la Depresión. Si una familia aparece en 1930 pero no se encuentra en los lugares esperados en 1940, el Censo Especial de 1935 puede ayudar a explicar la transición.
+
+---
+
 ## Dónde Buscar
 
 | Recurso | Acceso |

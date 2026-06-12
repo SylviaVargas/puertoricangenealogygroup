@@ -111,6 +111,14 @@ Consulta el <a href="/assets/pdfs/getting-started/Google_Sheets_Templates.pdf" t
 
 ---
 
+## Video: Registros de Investigación {#video-registros-investigacion}
+
+▶ **Research Logs**, una presentación de ICAPGen (Comisión Internacional para la Acreditación de Genealogistas Profesionales) sobre cómo los genealogistas profesionales crean y usan registros de investigación. (En inglés.)
+
+<a href="https://www.youtube.com/watch?v=jfVv0qYNkmc" class="btn btn-primary" target="_blank" rel="noopener noreferrer">Ver en YouTube</a>
+
+---
+
 ## Preguntas de Reflexión
 
 - ¿Cómo se siente escribir "no encontrado"? Recuerda: una ausencia documentada es información valiosa, no un fracaso.
