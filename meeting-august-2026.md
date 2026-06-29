@@ -1,37 +1,37 @@
 ---
 layout: page
-title: July 2026 Meeting
+title: August 2026 Meeting
 lang: en
-permalink: /meeting-july-2026/
-ref: meeting-july-2026
+permalink: /meeting-august-2026/
+ref: meeting-august-2026
 last_modified_at: 2026-06-29
 parent_title: Meetings
 parent_url: /meetings/
-event_name: "July 2026 Meeting — Spain, Puerto Ricans, and the American Revolution"
-event_description: "Monthly Puerto Rican genealogy Zoom meeting featuring Joe Maldonado presenting 'Spain, Puerto Ricans, and the American Revolution.'"
-event_start: "2026-07-13T19:00:00-04:00"
-event_end: "2026-07-13T21:00:00-04:00"
+event_name: "August 2026 Meeting — Hiding in Plain Sight"
+event_description: "Monthly Puerto Rican genealogy Zoom meeting featuring Maria Silva Rivera presenting 'Hiding in Plain Sight: Find a fifth great-grandmother and many other things in an unexpected place.'"
+event_start: "2026-08-10T19:00:00-04:00"
+event_end: "2026-08-10T21:00:00-04:00"
 event_url: "https://us06web.zoom.us/meeting/register/chSyaQqxRzSxOaeXxJmM0Q"
 event_status: "EventScheduled"
 ---
 
 ## Puerto Rican Genealogy Zoom Meeting
 
-**Monday, July 13, 2026**
+**Monday, August 10, 2026**
 
-### Spain, Puerto Ricans, and the American Revolution
+### Hiding in Plain Sight
 
-<img src="{{ '/assets/images/meetings/2026-07-puerto-ricans-american-revolution-en.jpg' | relative_url }}" alt="Spain, Puerto Ricans, and the American Revolution" class="meeting-ad-image" loading="lazy">
+<img src="{{ '/assets/images/meetings/2026-08-hiding-in-plain-sight-en.png' | relative_url }}" alt="Hiding in Plain Sight" class="meeting-ad-image" loading="lazy">
 
-Spain's involvement in the American Revolution, and Puerto Rico's place within Spain's colonial empire at the time, is a piece of the story that does not always make it into standard accounts of the war. Join us as Joe Maldonado explores these connections. 
+Sometimes the breakthrough is hiding in plain sight, in a record or place already searched once before. Join us as Maria Silva Rivera shares how she found a fifth great-grandmother, along with several other unexpected discoveries, by looking again at sources in an unexpected place.
 
-**Joe Maldonado** is a fellow genealogist and member of our PRGG community. 
+**Maria Silva Rivera** is a fellow genealogist and member of our PRGG community.
 
 ---
 
 ### Date & Time
 
-**Monday, July 13, 2026**
+**Monday, August 10, 2026**
 
 | Time Zone | Time |
 |-----------|------|
@@ -43,8 +43,8 @@ Spain's involvement in the American Revolution, and Puerto Rico's place within S
 
 ### What We Will Discuss
 
-- **Presentation by Joe Maldonado**: "Spain, Puerto Ricans, and the American Revolution"
-- **Q&A with Joe**: Ask about his research process and sources
+- **Presentation by Maria Silva Rivera**: "Hiding in Plain Sight"
+- **Q&A with Maria**: Ask about her research process and sources
 - **Member brick walls**: Bring a research challenge and get fresh perspectives from the group
 - **Breakthroughs and discoveries**: Share a recent finding or connection from your own research
 

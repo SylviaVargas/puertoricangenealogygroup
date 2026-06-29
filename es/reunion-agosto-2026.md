@@ -1,39 +1,38 @@
 ---
 layout: page
-title: Reunión de Julio 2026
+title: Reunión de Agosto 2026
 lang: es
-permalink: /es/reunion-julio-2026/
-ref: meeting-july-2026
+permalink: /es/reunion-agosto-2026/
+ref: meeting-august-2026
 last_modified_at: 2026-06-29
 parent_title: Reuniones
 parent_url: /es/reuniones/
-event_name: "Reunión de Julio 2026 — España, los Puertorriqueños y la Revolución Americana"
-event_description: "Reunión mensual de genealogía puertorriqueña por Zoom con Joe Maldonado presentando 'España, los Puertorriqueños y la Revolución Americana.'"
-event_start: "2026-07-13T19:00:00-04:00"
-event_end: "2026-07-13T21:00:00-04:00"
+event_name: "Reunión de Agosto 2026 — Escondido a Plena Vista"
+event_description: "Reunión mensual de genealogía puertorriqueña por Zoom con Maria Silva Rivera presentando 'Escondido a Plena Vista: Encuentra a una quinta abuela y muchas otras cosas en un lugar inesperado.'"
+event_start: "2026-08-10T19:00:00-04:00"
+event_end: "2026-08-10T21:00:00-04:00"
 event_url: "https://us06web.zoom.us/meeting/register/chSyaQqxRzSxOaeXxJmM0Q"
 event_status: "EventScheduled"
 ---
 
 ## Reunión Virtual de Genealogía Puertorriqueña
 
-**Lunes, 13 de julio de 2026**
+**Lunes, 10 de agosto de 2026**
 
-### España, los Puertorriqueños y la Revolución Americana
+### Escondido a Plena Vista
 
-<img src="{{ '/assets/images/meetings/2026-07-puerto-ricans-american-revolution-es.png' | relative_url }}" alt="España, los Puertorriqueños y la Revolución Americana" class="meeting-ad-image" loading="lazy">
+<img src="{{ '/assets/images/meetings/2026-08-hiding-in-plain-sight-es.png' | relative_url }}" alt="Escondido a Plena Vista" class="meeting-ad-image" loading="lazy">
 
-La participación de España en la Revolución Americana, y el lugar de Puerto Rico dentro del imperio colonial español de esa época, es una parte de la historia que no siempre se incluye en los relatos estándar de la guerra. Únete a nosotros mientras Joe Maldonado explora estas conexiones. 
+A veces el avance está escondido a plena vista, en un registro o lugar que ya se había buscado antes. Únete a nosotros mientras Maria Silva Rivera comparte cómo encontró a una quinta abuela, junto con otros descubrimientos inesperados, al volver a mirar fuentes en un lugar inesperado. 
 
 ### Presentación Especial
 
-**Joe Maldonado** es un genealogista compañero y miembro de larga data de nuestra comunidad PRGG. 
-
+**Maria Silva Rivera** es genealogista compañera y miembro de nuestra comunidad PRGG. 
 ---
 
 ### Fecha y Hora
 
-**Lunes, 13 de julio de 2026**
+**Lunes, 10 de agosto de 2026**
 
 | Zona Horaria | Hora |
 |--------------|------|
@@ -45,8 +44,8 @@ La participación de España en la Revolución Americana, y el lugar de Puerto R
 
 ### Temas a Tratar
 
-- **Presentación de Joe Maldonado**: "España, los Puertorriqueños y la Revolución Americana"
-- **Preguntas y Respuestas con Joe**: Pregunta sobre su proceso de investigación y fuentes
+- **Presentación de Maria Silva Rivera**: "Escondido a Plena Vista"
+- **Preguntas y Respuestas con Maria**: Pregunta sobre su proceso de investigación y fuentes
 - **Obstáculos de los Miembros**: Trae un desafío de investigación y recibe perspectivas nuevas del grupo
 - **Avances y Descubrimientos**: Comparte un hallazgo o conexión reciente de tu propia investigación
 

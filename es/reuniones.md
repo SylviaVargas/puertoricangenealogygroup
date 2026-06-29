@@ -31,12 +31,33 @@ El PuertoRicanGenealogy.org organiza reuniones virtuales regulares donde los mie
 <div id="proxima-reunion" class="meeting-card">
   <div class="meeting-card-label">Próxima Reunión</div>
   <h3><a href="{{ '/es/reunion-julio-2026/' | relative_url }}">Reunión de Julio 2026</a></h3>
-  <p>El tema y el ponente de nuestra reunión de julio se anunciarán próximamente. Únete a nosotros para una noche de aprendizaje, intercambio y conexión con otros investigadores de genealogía puertorriqueña.</p>
+  <p>Únete a nosotros mientras Joe Maldonado presenta "España, los Puertorriqueños y la Revolución Americana", explorando el lugar de Puerto Rico dentro de la participación de España en la Revolución Americana.</p>
   <div class="meeting-card-details">
     <span>Lunes, 13 de julio de 2026</span>
     <span>7:00 PM EDT / 8:00 PM PR / 4:00 PM PDT</span>
   </div>
   <a href="https://us06web.zoom.us/meeting/register/chSyaQqxRzSxOaeXxJmM0Q" class="btn btn-primary" target="_blank" rel="noopener noreferrer">Regístrate Ahora</a>
+</div>
+
+<h3 class="upcoming-more-label">Más Próximas Reuniones</h3>
+<div class="card-grid">
+
+<div class="card meeting-grid-card">
+<div class="card-title">Agosto 2026 — Escondido a Plena Vista</div>
+<div class="card-desc">Maria Silva Rivera comparte cómo encontró a una quinta abuela en un lugar inesperado. Lunes, 10 de agosto de 2026.</div>
+<div class="card-footer">
+<a href="{{ '/es/reunion-agosto-2026/' | relative_url }}" class="card-link">Ver Detalles &#8594;</a>
+</div>
+</div>
+
+<div class="card meeting-grid-card">
+<div class="card-title">Septiembre 2026 — ADN y Genealogía Puertorriqueña, Parte 1</div>
+<div class="card-desc">Cary Bright (Grupo de Interés en ADN de la Seattle Genealogical Society) presenta la Parte 1 de una serie de dos partes sobre ADN. Lunes, 14 de septiembre de 2026.</div>
+<div class="card-footer">
+<a href="{{ '/es/reunion-septiembre-2026/' | relative_url }}" class="card-link">Ver Detalles &#8594;</a>
+</div>
+</div>
+
 </div>
 
 <div id="encuesta-miembros" class="poll-callout">
@@ -76,6 +97,7 @@ Nuestras reuniones se realizan a través de Zoom. <a href="https://us06web.zoom.
 
 #### 2026
 
+- Junio 2026: Sin reunión
 - Mayo 2026: "De Cabo Rojo a San Francisco" con Fred Rodríguez Segarra
 - Abril 2026: Resúmenes de RootsTech 2026 e Intercambio entre Miembros
 - Marzo 2026: "Revisitando un matrimonio consanguíneo" con Luis Ariel Rivera (BoricuaGenes)

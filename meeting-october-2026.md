@@ -1,37 +1,39 @@
 ---
 layout: page
-title: July 2026 Meeting
+title: October 2026 Meeting
 lang: en
-permalink: /meeting-july-2026/
-ref: meeting-july-2026
+permalink: /meeting-october-2026/
+ref: meeting-october-2026
 last_modified_at: 2026-06-29
 parent_title: Meetings
 parent_url: /meetings/
-event_name: "July 2026 Meeting — Spain, Puerto Ricans, and the American Revolution"
-event_description: "Monthly Puerto Rican genealogy Zoom meeting featuring Joe Maldonado presenting 'Spain, Puerto Ricans, and the American Revolution.'"
-event_start: "2026-07-13T19:00:00-04:00"
-event_end: "2026-07-13T21:00:00-04:00"
+event_name: "October 2026 Meeting — DNA and Puerto Rican Genealogy, Part 2"
+event_description: "Monthly Puerto Rican genealogy Zoom meeting featuring Cary Bright presenting 'DNA and Puerto Rican Genealogy, Part 2.'"
+event_start: "2026-10-12T19:00:00-04:00"
+event_end: "2026-10-12T21:00:00-04:00"
 event_url: "https://us06web.zoom.us/meeting/register/chSyaQqxRzSxOaeXxJmM0Q"
 event_status: "EventScheduled"
 ---
 
 ## Puerto Rican Genealogy Zoom Meeting
 
-**Monday, July 13, 2026**
+**Monday, October 12, 2026**
 
-### Spain, Puerto Ricans, and the American Revolution
+### DNA and Puerto Rican Genealogy, Part 2
 
-<img src="{{ '/assets/images/meetings/2026-07-puerto-ricans-american-revolution-en.jpg' | relative_url }}" alt="Spain, Puerto Ricans, and the American Revolution" class="meeting-ad-image" loading="lazy">
+<img src="{{ '/assets/images/meetings/2026-10-dna-genealogy-part2-en.png' | relative_url }}" alt="DNA and Puerto Rican Genealogy, Part 2" class="meeting-ad-image" loading="lazy">
 
-Spain's involvement in the American Revolution, and Puerto Rico's place within Spain's colonial empire at the time, is a piece of the story that does not always make it into standard accounts of the war. Join us as Joe Maldonado explores these connections. 
+Join us for Part 2 of our DNA series, as Cary Bright returns to continue our exploration of using DNA evidence in Puerto Rican genealogy research.
 
-**Joe Maldonado** is a fellow genealogist and member of our PRGG community. 
+### Special Presentation
+
+**Cary Bright** returns for this session. See her full biography on the <a href="{{ '/meeting-september-2026/' | relative_url }}">September 2026 meeting page</a>.
 
 ---
 
 ### Date & Time
 
-**Monday, July 13, 2026**
+**Monday, October 12, 2026**
 
 | Time Zone | Time |
 |-----------|------|
@@ -43,8 +45,8 @@ Spain's involvement in the American Revolution, and Puerto Rico's place within S
 
 ### What We Will Discuss
 
-- **Presentation by Joe Maldonado**: "Spain, Puerto Ricans, and the American Revolution"
-- **Q&A with Joe**: Ask about his research process and sources
+- **Presentation by Cary Bright**: "DNA and Puerto Rican Genealogy, Part 2"
+- **Q&A with Cary**: Ask about DNA testing platforms and analysis strategies
 - **Member brick walls**: Bring a research challenge and get fresh perspectives from the group
 - **Breakthroughs and discoveries**: Share a recent finding or connection from your own research
 

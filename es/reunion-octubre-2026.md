@@ -1,39 +1,39 @@
 ---
 layout: page
-title: Reunión de Julio 2026
+title: Reunión de Octubre 2026
 lang: es
-permalink: /es/reunion-julio-2026/
-ref: meeting-july-2026
+permalink: /es/reunion-octubre-2026/
+ref: meeting-october-2026
 last_modified_at: 2026-06-29
 parent_title: Reuniones
 parent_url: /es/reuniones/
-event_name: "Reunión de Julio 2026 — España, los Puertorriqueños y la Revolución Americana"
-event_description: "Reunión mensual de genealogía puertorriqueña por Zoom con Joe Maldonado presentando 'España, los Puertorriqueños y la Revolución Americana.'"
-event_start: "2026-07-13T19:00:00-04:00"
-event_end: "2026-07-13T21:00:00-04:00"
+event_name: "Reunión de Octubre 2026 — ADN y Genealogía Puertorriqueña, Parte 2"
+event_description: "Reunión mensual de genealogía puertorriqueña por Zoom con Cary Bright presentando 'ADN y Genealogía Puertorriqueña, Parte 2.'"
+event_start: "2026-10-12T19:00:00-04:00"
+event_end: "2026-10-12T21:00:00-04:00"
 event_url: "https://us06web.zoom.us/meeting/register/chSyaQqxRzSxOaeXxJmM0Q"
 event_status: "EventScheduled"
 ---
 
 ## Reunión Virtual de Genealogía Puertorriqueña
 
-**Lunes, 13 de julio de 2026**
+**Lunes, 12 de octubre de 2026**
 
-### España, los Puertorriqueños y la Revolución Americana
+### ADN y Genealogía Puertorriqueña, Parte 2
 
-<img src="{{ '/assets/images/meetings/2026-07-puerto-ricans-american-revolution-es.png' | relative_url }}" alt="España, los Puertorriqueños y la Revolución Americana" class="meeting-ad-image" loading="lazy">
+<img src="{{ '/assets/images/meetings/2026-10-dna-genealogy-part2-es.png' | relative_url }}" alt="ADN y Genealogía Puertorriqueña, Parte 2" class="meeting-ad-image" loading="lazy">
 
-La participación de España en la Revolución Americana, y el lugar de Puerto Rico dentro del imperio colonial español de esa época, es una parte de la historia que no siempre se incluye en los relatos estándar de la guerra. Únete a nosotros mientras Joe Maldonado explora estas conexiones. 
+Únete a nosotros para la Parte 2 de nuestra serie sobre ADN, mientras Cary Bright regresa para continuar nuestra exploración del uso de evidencia de ADN en la investigación genealógica puertorriqueña.
 
 ### Presentación Especial
 
-**Joe Maldonado** es un genealogista compañero y miembro de larga data de nuestra comunidad PRGG. 
+**Cary Bright** regresa para esta sesión. Consulta su biografía completa en la <a href="{{ '/es/reunion-septiembre-2026/' | relative_url }}">página de la reunión de septiembre de 2026</a>.
 
 ---
 
 ### Fecha y Hora
 
-**Lunes, 13 de julio de 2026**
+**Lunes, 12 de octubre de 2026**
 
 | Zona Horaria | Hora |
 |--------------|------|
@@ -45,8 +45,8 @@ La participación de España en la Revolución Americana, y el lugar de Puerto R
 
 ### Temas a Tratar
 
-- **Presentación de Joe Maldonado**: "España, los Puertorriqueños y la Revolución Americana"
-- **Preguntas y Respuestas con Joe**: Pregunta sobre su proceso de investigación y fuentes
+- **Presentación de Cary Bright**: "ADN y Genealogía Puertorriqueña, Parte 2"
+- **Preguntas y Respuestas con Cary**: Pregunta sobre plataformas de pruebas de ADN y estrategias de análisis
 - **Obstáculos de los Miembros**: Trae un desafío de investigación y recibe perspectivas nuevas del grupo
 - **Avances y Descubrimientos**: Comparte un hallazgo o conexión reciente de tu propia investigación
 

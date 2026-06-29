@@ -2365,6 +2365,14 @@ body.fc-modal-open {
   flex-shrink: 0;
 }
 
+.meeting-ad-image {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin: var(--spacing-md) 0;
+  display: block;
+}
+
 .muni-escudo-placeholder {
   width: 140px;
   height: 160px;

@@ -1,37 +1,41 @@
 ---
 layout: page
-title: July 2026 Meeting
+title: September 2026 Meeting
 lang: en
-permalink: /meeting-july-2026/
-ref: meeting-july-2026
+permalink: /meeting-september-2026/
+ref: meeting-september-2026
 last_modified_at: 2026-06-29
 parent_title: Meetings
 parent_url: /meetings/
-event_name: "July 2026 Meeting — Spain, Puerto Ricans, and the American Revolution"
-event_description: "Monthly Puerto Rican genealogy Zoom meeting featuring Joe Maldonado presenting 'Spain, Puerto Ricans, and the American Revolution.'"
-event_start: "2026-07-13T19:00:00-04:00"
-event_end: "2026-07-13T21:00:00-04:00"
+event_name: "September 2026 Meeting — DNA and Puerto Rican Genealogy, Part 1"
+event_description: "Monthly Puerto Rican genealogy Zoom meeting featuring Cary Bright presenting 'DNA and Puerto Rican Genealogy, Part 1.'"
+event_start: "2026-09-14T19:00:00-04:00"
+event_end: "2026-09-14T21:00:00-04:00"
 event_url: "https://us06web.zoom.us/meeting/register/chSyaQqxRzSxOaeXxJmM0Q"
 event_status: "EventScheduled"
 ---
 
 ## Puerto Rican Genealogy Zoom Meeting
 
-**Monday, July 13, 2026**
+**Monday, September 14, 2026**
 
-### Spain, Puerto Ricans, and the American Revolution
+### DNA and Puerto Rican Genealogy, Part 1
 
-<img src="{{ '/assets/images/meetings/2026-07-puerto-ricans-american-revolution-en.jpg' | relative_url }}" alt="Spain, Puerto Ricans, and the American Revolution" class="meeting-ad-image" loading="lazy">
+<img src="{{ '/assets/images/meetings/2026-09-dna-genealogy-part1-en.png' | relative_url }}" alt="DNA and Puerto Rican Genealogy, Part 1" class="meeting-ad-image" loading="lazy">
 
-Spain's involvement in the American Revolution, and Puerto Rico's place within Spain's colonial empire at the time, is a piece of the story that does not always make it into standard accounts of the war. Join us as Joe Maldonado explores these connections. 
+Join us for the first of a two-part series on using DNA evidence in Puerto Rican genealogy research, presented by Cary Bright of the Seattle Genealogical Society DNA Interest Group.
 
-**Joe Maldonado** is a fellow genealogist and member of our PRGG community. 
+
+
+**Cary Bright** is a prominent genetic genealogist based in the Seattle/Bellevue, Washington area, best known for her expertise in DNA testing analysis. She serves as co-chair and lead organizer of the Seattle Genealogical Society DNA Special Interest Group.
+
+Cary specializes in genetic genealogy, specifically breaking through "brick walls" in family trees by analyzing autosomal DNA (atDNA), X-DNA, and Y-DNA matches. She has been a fixture in the Pacific Northwest genealogical community for over a decade, and is the founder and co-facilitator of the SGS DNA Interest Group. She also frequently facilitates virtual family history research and consultation sessions for the Seattle Genealogical Society. As an active presenter, she teaches both beginners and advanced researchers how to maximize platforms like AncestryDNA, 23andMe, FamilyTreeDNA, and GEDmatch.
 
 ---
 
 ### Date & Time
 
-**Monday, July 13, 2026**
+**Monday, September 14, 2026**
 
 | Time Zone | Time |
 |-----------|------|
@@ -43,8 +47,8 @@ Spain's involvement in the American Revolution, and Puerto Rico's place within S
 
 ### What We Will Discuss
 
-- **Presentation by Joe Maldonado**: "Spain, Puerto Ricans, and the American Revolution"
-- **Q&A with Joe**: Ask about his research process and sources
+- **Presentation by Cary Bright**: "DNA and Puerto Rican Genealogy, Part 1"
+- **Q&A with Cary**: Ask about DNA testing platforms and analysis strategies
 - **Member brick walls**: Bring a research challenge and get fresh perspectives from the group
 - **Breakthroughs and discoveries**: Share a recent finding or connection from your own research
 
