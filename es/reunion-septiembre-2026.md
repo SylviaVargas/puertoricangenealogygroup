@@ -38,7 +38,7 @@ Cary se especializa en genealogía genética, específicamente en superar "muros
 | Zona Horaria | Hora |
 |--------------|------|
 | Este (EDT) | 7:00 PM |
-| Puerto Rico | 8:00 PM |
+| Puerto Rico (AST) | 7:00 PM |
 | Pacífico (PDT) | 4:00 PM |
 
 ---

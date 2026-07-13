@@ -55,7 +55,7 @@ Learn how municipal council records (Actas de Cabildo) can serve as powerful, an
 | Time Zone | Time |
 |-----------|------|
 | Eastern (EST) | 7:00 PM |
-| Puerto Rico | 8:00 PM |
+| Puerto Rico (AST) | 8:00 PM |
 | Pacific (PST) | 4:00 PM |
 
 ---

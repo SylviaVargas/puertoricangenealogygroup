@@ -34,7 +34,7 @@ We will also open the floor for members to share their own research: discoveries
 | Time Zone | Time |
 |-----------|------|
 | Eastern (EDT) | 7:00 PM |
-| Puerto Rico | 8:00 PM |
+| Puerto Rico (AST) | 7:00 PM |
 | Pacific (PDT) | 4:00 PM |
 
 ---

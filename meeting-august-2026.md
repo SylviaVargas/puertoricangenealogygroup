@@ -36,7 +36,7 @@ Sometimes the breakthrough is hiding in plain sight, in a record or place alread
 | Time Zone | Time |
 |-----------|------|
 | Eastern (EDT) | 7:00 PM |
-| Puerto Rico | 8:00 PM |
+| Puerto Rico (AST) | 7:00 PM |
 | Pacific (PDT) | 4:00 PM |
 
 ---

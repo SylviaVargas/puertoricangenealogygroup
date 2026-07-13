@@ -38,7 +38,7 @@ Join us for Part 2 of our DNA series, as Cary Bright returns to continue our exp
 | Time Zone | Time |
 |-----------|------|
 | Eastern (EDT) | 7:00 PM |
-| Puerto Rico | 8:00 PM |
+| Puerto Rico (AST) | 7:00 PM |
 | Pacific (PDT) | 4:00 PM |
 
 ---

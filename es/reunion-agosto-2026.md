@@ -37,7 +37,7 @@ A veces el avance está escondido a plena vista, en un registro o lugar que ya s
 | Zona Horaria | Hora |
 |--------------|------|
 | Este (EDT) | 7:00 PM |
-| Puerto Rico | 8:00 PM |
+| Puerto Rico (AST) | 7:00 PM |
 | Pacífico (PDT) | 4:00 PM |
 
 ---

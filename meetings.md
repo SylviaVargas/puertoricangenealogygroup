@@ -34,7 +34,7 @@ PuertoRicanGenealogy.org hosts regular virtual meetings where members can learn,
   <p>Join us as Joe Maldonado presents "Spain, Puerto Ricans, and the American Revolution," exploring Puerto Rico's place within Spain's involvement in the American Revolution.</p>
   <div class="meeting-card-details">
     <span>Monday, July 13, 2026</span>
-    <span>7:00 PM EDT / 8:00 PM PR / 4:00 PM PDT</span>
+    <span>7:00 PM EDT / 7:00 PM PR / 4:00 PM PDT</span>
   </div>
   <a href="https://us06web.zoom.us/meeting/register/chSyaQqxRzSxOaeXxJmM0Q" class="btn btn-primary" target="_blank" rel="noopener noreferrer">Register Now</a>
 </div>

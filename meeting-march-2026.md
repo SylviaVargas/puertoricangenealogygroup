@@ -31,9 +31,9 @@ Luis Ariel Rivera, a professional genealogist specializing in Puerto Rican and C
 
 | Time Zone | Time |
 |-----------|------|
-| Eastern (EST) | 7:00 PM |
-| Puerto Rico | 8:00 PM |
-| Pacific (PST) | 4:00 PM |
+| Eastern (EDT) | 7:00 PM |
+| Puerto Rico (AST) | 7:00 PM |
+| Pacific (PDT) | 4:00 PM |
 
 ---
 

@@ -55,7 +55,7 @@ Aprende cómo los registros de cabildos municipales (Actas de Cabildo) pueden se
 | Zona Horaria | Hora |
 |--------------|------|
 | Este (EST) | 7:00 PM |
-| Puerto Rico | 8:00 PM |
+| Puerto Rico (AST) | 8:00 PM |
 | Pacífico (PST) | 4:00 PM |
 
 ---
