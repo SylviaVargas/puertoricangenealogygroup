@@ -38,7 +38,7 @@ La participación de España en la Revolución Americana, y el lugar de Puerto R
 | Zona Horaria | Hora |
 |--------------|------|
 | Este (EDT) | 7:00 PM |
-| Puerto Rico | 8:00 PM |
+| Puerto Rico (AST) | 7:00 PM |
 | Pacífico (PDT) | 4:00 PM |
 
 ---
