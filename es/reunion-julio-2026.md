@@ -19,6 +19,10 @@ event_status: "EventScheduled"
 
 **Lunes, 13 de julio de 2026**
 
+<div class="cancel-callout">
+<strong>Actualización:</strong> La presentación de Joe Maldonado, "España, los Puertorriqueños y la Revolución Americana", fue cancelada debido a una enfermedad. La reunión igualmente se llevó a cabo: los miembros compartieron sus avances y obstáculos de investigación, y los consejos que surgieron de esa conversación aparecerán en el próximo correo de la reunión y en el boletín. La charla de Joe se reprogramará para otra fecha. ¡Manténganse al tanto!
+</div>
+
 ### España, los Puertorriqueños y la Revolución Americana
 
 <img src="{{ '/assets/images/meetings/2026-07-puerto-ricans-american-revolution-es.png' | relative_url }}" alt="España, los Puertorriqueños y la Revolución Americana" class="meeting-ad-image" loading="lazy">
@@ -45,8 +49,7 @@ La participación de España en la Revolución Americana, y el lugar de Puerto R
 
 ### Temas a Tratar
 
-- **Presentación de Joe Maldonado**: "España, los Puertorriqueños y la Revolución Americana"
-- **Preguntas y Respuestas con Joe**: Pregunta sobre su proceso de investigación y fuentes
+- **Presentación de Joe Maldonado** ("España, los Puertorriqueños y la Revolución Americana"): Cancelada debido a enfermedad
 - **Obstáculos de los Miembros**: Trae un desafío de investigación y recibe perspectivas nuevas del grupo
 - **Avances y Descubrimientos**: Comparte un hallazgo o conexión reciente de tu propia investigación
 

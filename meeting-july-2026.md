@@ -19,6 +19,10 @@ event_status: "EventScheduled"
 
 **Monday, July 13, 2026**
 
+<div class="cancel-callout">
+<strong>Update:</strong> Joe Maldonado's presentation, "Spain, Puerto Ricans, and the American Revolution," was canceled due to illness. The meeting was still held: members shared their research progress and roadblocks, and the tips that came out of that discussion will appear in the next meeting email and newsletter. Joe's talk will be scheduled for another time. Stay tuned!
+</div>
+
 ### Spain, Puerto Ricans, and the American Revolution
 
 <img src="{{ '/assets/images/meetings/2026-07-puerto-ricans-american-revolution-en.jpg' | relative_url }}" alt="Spain, Puerto Ricans, and the American Revolution" class="meeting-ad-image" loading="lazy">
@@ -43,8 +47,7 @@ Spain's involvement in the American Revolution, and Puerto Rico's place within S
 
 ### What We Will Discuss
 
-- **Presentation by Joe Maldonado**: "Spain, Puerto Ricans, and the American Revolution"
-- **Q&A with Joe**: Ask about his research process and sources
+- **Presentation by Joe Maldonado** ("Spain, Puerto Ricans, and the American Revolution"): Canceled due to illness
 - **Member brick walls**: Bring a research challenge and get fresh perspectives from the group
 - **Breakthroughs and discoveries**: Share a recent finding or connection from your own research
 
