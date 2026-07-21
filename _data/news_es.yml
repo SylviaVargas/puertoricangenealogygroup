@@ -2,7 +2,9 @@
 # Campos:
 #   date:     YYYY-MM-DD (obligatorio)
 #   category: cursos | guias | funciones (obligatorio)
-#   featured: true — solo en UNA entrada; aparece como recuadro destacado
+#   featured: true — solo en UNA entrada; aparece como recuadro destacado al
+#             principio de /es/novedades/. La página de inicio NO muestra las
+#             novedades, así que la entrada destacada no aparecerá allí.
 #   hidden:   true — oculta la entrada de toda visualización; el registro se conserva como referencia
 #   title:    título breve (obligatorio)
 #   body:     1-2 oraciones visibles en el resumen y en la página completa (obligatorio)

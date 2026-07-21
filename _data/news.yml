@@ -2,7 +2,9 @@
 # Fields:
 #   date:     YYYY-MM-DD (required)
 #   category: courses | guides | features (required)
-#   featured: true — set on ONE entry only; displays as the hero callout
+#   featured: true — set on ONE entry only; displays as the callout at the top
+#             of /whats-new/. The home page does NOT render news at all, so a
+#             featured entry will not appear there.
 #   hidden:   true — suppresses entry from all display; record is kept for reference
 #   title:    short, action-oriented (required)
 #   body:     1-2 sentences visible in the homepage snippet and full page (required)

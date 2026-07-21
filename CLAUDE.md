@@ -208,7 +208,7 @@ assert m["mother_town"] != [], f"{m['name']} has empty mother_town"
 
 ## Municipality Images
 
-Coat of arms and historical map images follow a strict naming convention. Full details in `prgg-admin/municipality-pages/CONVENTIONS.md`.
+Coat of arms and historical map images follow a strict naming convention. Full details in `prgg-admin/ideas/municipality-pages/CONVENTIONS.md`.
 
 **Folders:**
 
