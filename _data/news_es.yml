@@ -11,9 +11,16 @@
 # Mantenimiento: agregar entradas nuevas al inicio. Cambiar featured anterior a false.
 # Para archivar: mover entradas con más de ~12 meses a _data/news_es_archive_YYYY.yml
 
-- date: 2026-06-11
+- date: 2026-07-21
   category: funciones
   featured: true
+  title: "Nuevo recurso: Archivo Digital de Aguadilla"
+  body: "La página de Recursos ahora incluye el Archivo Digital de Aguadilla, un archivo en línea gratuito de Aguadilla y la región noroeste. Sus libros parroquiales abarcan de 1780 a 1843 y comienzan en la Parroquia de Aguada, por lo que en ellos aparecen familias tempranas de Aguada, Moca e Isabela junto a las de Aguadilla."
+  link: /es/recursos/
+
+- date: 2026-06-11
+  category: funciones
+  featured: false
   title: "Nuevo: Cinco recursos de investigación añadidos"
   body: "La página de Recursos ahora incluye el Centro de Investigaciones Históricas (UPR), la videoteca gratuita RootsTech de FamilySearch, la Escuela de Genealogía y dos blogs: FamilyTreeTech y la recopilación de GeneaSud sobre archivos que puedes consultar en línea. El curso de Registros Censales también ganó una sección sobre el Censo Especial de 1935 en la edición en español del Módulo 4."
   link: /es/recursos/

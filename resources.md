@@ -224,6 +224,21 @@ A curated collection of archives, databases, and tools for researching Puerto Ri
 </div>
 </div>
 
+<div class="card resource-card" data-category="archive">
+<div class="card-lang">&#127477;&#127479;</div>
+<span class="badge badge-external">Archive</span> <span class="badge badge-free">Free</span>
+<div class="card-title">Archivo Digital de Aguadilla</div>
+<div class="card-desc">Free digital archive for Aguadilla and the northwest region, including parish books from 1780 to 1843 covering baptisms, marriages, and burials.</div>
+<details class="card-more">
+<summary>More details</summary>
+<p>Founded by Hayd&#233;e E. Reichard and published in partnership with the Archivo Digital Nacional de Puerto Rico. The <a href="https://archivoaguadilla.org/2022/12/libros-parroquiales-de-aguadilla-1780-1843/" target="_blank" rel="noopener noreferrer">parish books, 1780&#8211;1843</a>, begin at the Parish of Aguada before continuing at San Carlos Borromeo in Aguadilla, so early Aguada, Moca, and Isabela families appear in them as well. Images are browsable through an alphabetical surname index; the archive notes that there are gaps and some volumes are missing. See also the <a href="{{ '/tools/municipality-guide/aguadilla/' | relative_url }}">Aguadilla municipality page</a>.</p>
+</details>
+<div class="card-footer">
+<a href="https://archivoaguadilla.org/" target="_blank" rel="noopener noreferrer" class="card-link">Visit &#8594;</a>
+<a href="{{ '/contact/' | relative_url }}" class="card-report">Report broken link</a>
+</div>
+</div>
+
 <!-- Digital Collections & Databases -->
 
 <div class="card resource-card" data-category="digital">

@@ -10,9 +10,16 @@
 #
 # Maintenance: add new entries at the top. Move old featured to non-featured.
 # To archive: move entries older than ~12 months to _data/news_archive_YYYY.yml
-- date: 2026-06-11
+- date: 2026-07-21
   category: features
   featured: true
+  title: "New Resource: Archivo Digital de Aguadilla"
+  body: "The Resources page now lists the Archivo Digital de Aguadilla, a free online archive for Aguadilla and the northwest region. Its parish books run from 1780 to 1843 and open under the Parish of Aguada, so early Aguada, Moca, and Isabela families appear in them alongside Aguadilla's."
+  link: /resources/
+
+- date: 2026-06-11
+  category: features
+  featured: false
   title: "New: Five Research Resources Added"
   body: "The Resources page now includes the Centro de Investigaciones Históricas (UPR), the free FamilySearch RootsTech video library, the Escuela de Genealogía, and two blogs: FamilyTreeTech and GeneaSud's roundup of archives you can consult online. The Census Records course also gained a 1935 Special Census section in the Spanish edition of Module 4."
   link: /resources/

@@ -224,6 +224,21 @@ Una colecci&#243;n curada de archivos, bases de datos y herramientas para invest
 </div>
 </div>
 
+<div class="card resource-card" data-category="archive">
+<div class="card-lang">&#127477;&#127479;</div>
+<span class="badge badge-external">Archivo</span> <span class="badge badge-free">Gratuito</span>
+<div class="card-title">Archivo Digital de Aguadilla</div>
+<div class="card-desc">Archivo digital gratuito de Aguadilla y la región noroeste, que incluye libros parroquiales de 1780 a 1843 con bautismos, matrimonios y entierros.</div>
+<details class="card-more">
+<summary>Más detalles</summary>
+<p>Fundado por Haydée E. Reichard y publicado en colaboración con el Archivo Digital Nacional de Puerto Rico. Los <a href="https://archivoaguadilla.org/2022/12/libros-parroquiales-de-aguadilla-1780-1843/" target="_blank" rel="noopener noreferrer">libros parroquiales, 1780&#8211;1843</a>, comienzan en la Parroquia de Aguada antes de continuar en San Carlos Borromeo de Aguadilla, por lo que también aparecen en ellos familias tempranas de Aguada, Moca e Isabela. Las imágenes se pueden consultar mediante un índice alfabético de apellidos; el archivo advierte que hay saltos y que faltan algunos libros. Consulta también la <a href="{{ '/es/guia-municipios/aguadilla/' | relative_url }}">página del municipio de Aguadilla</a>.</p>
+</details>
+<div class="card-footer">
+<a href="https://archivoaguadilla.org/" target="_blank" rel="noopener noreferrer" class="card-link">Visitar &#8594;</a>
+<a href="{{ '/es/contacto/' | relative_url }}" class="card-report">Reportar enlace roto</a>
+</div>
+</div>
+
 <!-- Colecciones Digitales y Bases de Datos -->
 
 <div class="card resource-card" data-category="digital">
