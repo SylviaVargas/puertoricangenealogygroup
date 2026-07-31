@@ -118,6 +118,7 @@ Try this right now:
 | Ancestry (via public libraries) | Census, immigration, military records — free with a library card | Check your local library |
 | Find A Grave | Cemetery records and burial information | <a href="https://www.findagrave.com" target="_blank" rel="noopener noreferrer"><em>FindAGrave.com</em></a> |
 | Newspapers.com (via libraries) | Historical obituaries and news | Check your local library |
+| FinalNotes Obituary Research Guide | Practical checklist for extracting family names, relationships, places, funeral details, and citation context from obituary records | <a href="https://www.finalnotes.page/obituary-research-guide/" target="_blank" rel="noopener noreferrer"><em>View guide</em></a> |
 | National Archives (NARA) | Military, immigration, and census records | <a href="https://www.archives.gov" target="_blank" rel="noopener noreferrer"><em>Archives.gov</em></a> |
 
 ---
