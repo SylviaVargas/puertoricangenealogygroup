@@ -60,6 +60,8 @@ Nota: El Distrito 3 no está en la cobertura filmada sobreviviente.
 
 Las películas del registro de 1872 no tienen índice de nombres. Necesitarás navegar como si fuera un libro.
 
+> **Más allá de las películas de 1872:** FamilySearch ha digitalizado por separado 58 grupos de imágenes de registros municipales de esclavitud creados por el *Gobierno de Puerto Rico*, la mayoría de Arecibo. Son distintos del registro de 1872 y cubren fines administrativos diferentes, incluidas manumisiones y documentación de indemnización de la era de la abolición. Tampoco están indexados. Vea [Padrones y la búsqueda de imágenes de FamilySearch](/es/guias-investigacion/padrones-busqueda-imagenes/), o filtre los registros de esclavitud en el [Explorador de Padrones](/es/herramientas/padrones/).
+
 **Estrategia de navegación:**
 
 1. Abre el enlace de la película correcta en FamilySearch (se requiere cuenta gratuita)

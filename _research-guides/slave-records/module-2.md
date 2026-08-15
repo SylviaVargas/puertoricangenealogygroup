@@ -60,6 +60,8 @@ Note: District 3 is not in the surviving filmed coverage.
 
 The 1872 registry films are not name-indexed. You will need to browse them like a book.
 
+> **Beyond the 1872 films:** FamilySearch has separately digitized 58 image groups of municipal enslavement records created by the *Gobierno de Puerto Rico*, most of them for Arecibo. These are distinct from the 1872 registry and cover different administrative purposes, including manumissions and abolition-era indemnification paperwork. They are also unindexed. See [Padrones and the FamilySearch Image Search](/research-guides/padrones-image-search/), or filter to the enslavement records in the [Padrones Browser](/tools/padrones/).
+
 **Browsing strategy:**
 
 1. Open the correct film link in FamilySearch (free account required)

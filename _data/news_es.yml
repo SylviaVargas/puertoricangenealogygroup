@@ -13,9 +13,16 @@
 # Mantenimiento: agregar entradas nuevas al inicio. Cambiar featured anterior a false.
 # Para archivar: mover entradas con más de ~12 meses a _data/news_es_archive_YYYY.yml
 
-- date: 2026-07-21
+- date: 2026-08-14
   category: funciones
   featured: true
+  title: "Nueva herramienta: Explorador de Padrones"
+  body: "729 grupos de imágenes de FamilySearch sin indexar, creados por el Gobierno de Puerto Rico y que cubren 20 municipios, ya se pueden explorar por municipio, tipo de registro y año: padrones de almas, padrones de jornaleros del Régimen de la Libreta, censos poblacionales municipales y registros de esclavitud. La mayoría son anteriores al registro civil y, como no tienen índice de nombres, nunca aparecen en una búsqueda de FamilySearch. Cada página municipal ahora enumera lo que sobrevive para ese pueblo, y una nueva guía de investigación explica cómo leerlos."
+  link: /es/herramientas/padrones/
+
+- date: 2026-07-21
+  category: funciones
+  featured: false
   title: "Nuevo recurso: Archivo Digital de Aguadilla"
   body: "La página de Recursos ahora incluye el Archivo Digital de Aguadilla, un archivo en línea gratuito de Aguadilla y la región noroeste. Sus libros parroquiales abarcan de 1780 a 1843 y comienzan en la Parroquia de Aguada, por lo que en ellos aparecen familias tempranas de Aguada, Moca e Isabela junto a las de Aguadilla."
   link: /es/recursos/
@@ -776,7 +783,7 @@
   featured: false
   title: "Nuevo recurso: Sociedades Genealógicas Españolas"
   body: "Lista de Sociedades Genealógicas Españolas"
-  link: /resources/sociedades-genealogicas-habla-hispana/
+  link: /es/recursos/sociedades-genealogicas-habla-hispana/
 
 - date: 2026-03-01
   category: herramientas

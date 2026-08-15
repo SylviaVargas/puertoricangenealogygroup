@@ -343,6 +343,21 @@ A curated collection of archives, databases, and tools for researching Puerto Ri
 </div>
 </div>
 
+<div class="card resource-card" data-category="digital">
+<div class="card-lang">&#127482;&#127480; &#127477;&#127479;</div>
+<span class="badge badge-top-pick">Digital Collection</span> <span class="badge badge-free">Free</span>
+<div class="card-title">Padrones Browser &#8212; Gobierno de Puerto Rico Image Groups</div>
+<div class="card-desc">729 unindexed FamilySearch image groups from 20 municipalities: padrones de almas, padrones de jornaleros, municipal population censuses, and enslavement records, filterable by municipality, record type, and year.</div>
+<details class="card-more">
+<summary>More details</summary>
+<p>These municipal records mostly predate civil registration, which began in 1885. Because they carry no name index, they never appear in a FamilySearch name search. The browser lets you filter to your municipality and date range, then links straight to the images. A free FamilySearch account is required to view them.</p>
+</details>
+<div class="card-footer">
+<a href="/tools/padrones/" class="card-link">Open the Browser &#8594;</a>
+<a href="{{ '/contact/' | relative_url }}" class="card-report">Report broken link</a>
+</div>
+</div>
+
 <!-- Blogs & Educational Resources -->
 
 <div class="card resource-card" data-category="blog">

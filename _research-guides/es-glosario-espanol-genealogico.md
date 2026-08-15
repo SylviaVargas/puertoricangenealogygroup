@@ -175,6 +175,11 @@ Términos para tipos de documentos y conceptos de archivo que encontrarás al tr
 |---|---|---|
 | archivo | archivo | |
 | padrón | padrón censal — registro de hogares | enumeración de la época española |
+| padrón de almas | registro de almas | recuento de hogares de una parroquia o municipio |
+| padrón de jornaleros | registro de jornaleros | 1849–1873, bajo el Régimen de la Libreta |
+| libreta | libreta de jornalero | la portaban los jornaleros; anotaba el empleador y el cumplimiento |
+| caja | caja de archivo | el número de contenedor que identifica un grupo de registros |
+| cédula de vecindad | tarjeta de identificación de residencia | indica nombre, edad, estado civil y a menudo descripción física |
 | censo | censo | |
 | registro | registro | |
 | protocolo notarial | protocolo notarial | conservado en archivos notariales |

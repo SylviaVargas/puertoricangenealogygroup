@@ -75,6 +75,8 @@ Una lista hogar por hogar con nombres. No encontrarás el nombre específico de 
 
 > **Estrategia de investigación:** Usa el censo de 1887 para comprender el contexto demográfico de la comunidad donde vivía tu antepasado. Para nombres individuales, necesitas padrones municipales sobrevivientes o registros civiles del mismo período.
 
+> **Cómo encontrar los padrones sobrevivientes:** FamilySearch ha digitalizado cientos de grupos de imágenes municipales creados por el *Gobierno de Puerto Rico*, incluidos padrones de almas y padrones de jornaleros. No están indexados por nombre, así que ninguna búsqueda los mostrará. Vea [Padrones y la búsqueda de imágenes de FamilySearch](/es/guias-investigacion/padrones-busqueda-imagenes/) para saber cómo recorrerlos, o fíltrelos por municipio en el [Explorador de Padrones](/es/herramientas/padrones/).
+
 ---
 
 ## Dónde Pueden Sobrevivir Datos Coloniales a Nivel Nominal

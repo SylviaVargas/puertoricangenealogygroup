@@ -1,0 +1,97 @@
+---
+layout: page
+title: Explorador de Padrones
+description: "Explore 729 grupos de imágenes sin indexar creados por el Gobierno de Puerto Rico: padrones de almas, padrones de jornaleros, censos poblacionales municipales y registros de esclavitud, con filtros por municipio, tipo de registro y año."
+lang: es
+permalink: /es/herramientas/padrones/
+ref: padrones-tool
+last_modified_at: 2026-08-14
+parent_title: Herramientas
+parent_url: /es/herramientas/
+---
+
+<p>FamilySearch ha digitalizado cientos de grupos de registros creados por el <strong>Gobierno de Puerto Rico</strong>: listas de hogares, registros de jornaleros, recuentos de población municipal y registros de esclavitud. La mayoría son anteriores al registro civil, que no comenzó hasta 1885, así que alcanzan décadas donde sobreviven pocas otras fuentes con nombres.</p>
+
+<div class="muni-context">
+  <p><strong>Estas imágenes no están indexadas por nombre.</strong> No se pueden buscar por el nombre de un antepasado. Hay que hojearlas como un libro, y por eso importa tanto saber primero el municipio y el año correctos. Se necesita una cuenta gratuita de FamilySearch para ver las imágenes.</p>
+  <p>¿Es nuevo en este tipo de registro? Comience con <a href="/es/guias-investigacion/padrones-busqueda-imagenes/">Padrones y la búsqueda de imágenes de FamilySearch</a>, que explica qué contiene cada tipo de registro y cómo recorrer un grupo sin índice de manera eficiente.</p>
+</div>
+
+<div class="muni-tool-cards">
+  <div class="muni-tool-card">
+    <h3>Filtrar por municipio</h3>
+    <p>Limite la lista a su pueblo y luego abra su página municipal completa para ver el contexto parroquial y del registro civil.</p>
+    <a href="#pad-table" class="muni-tool-link">Ir a la tabla &#8595;</a>
+  </div>
+  <div class="muni-tool-card">
+    <h3>Filtrar por tipo de registro</h3>
+    <p>Padrones de almas, padrones de jornaleros, censos municipales y registros de esclavitud.</p>
+    <a href="/es/guias-investigacion/padrones-busqueda-imagenes/" class="muni-tool-link">¿Qué son estos? &#8594;</a>
+  </div>
+</div>
+
+<hr>
+
+<div class="muni-toolbar pad-toolbar">
+  <div class="muni-search-wrap">
+    <label for="pad-search">Buscar:</label>
+    <input type="search" id="pad-search" placeholder="Título, municipio o número de caja..." autocomplete="off">
+  </div>
+  <div class="muni-filter-wrap">
+    <label for="pad-muni">Municipio:</label>
+    <select id="pad-muni"><option value="">Todos los municipios</option></select>
+  </div>
+  <div class="muni-filter-wrap">
+    <label for="pad-type">Tipo de registro:</label>
+    <select id="pad-type"><option value="">Todos los tipos de registro</option></select>
+  </div>
+  <div class="muni-filter-wrap pad-year-wrap">
+    <label for="pad-year-from">Años:</label>
+    <input type="number" id="pad-year-from" placeholder="1765" min="1500" max="1999" aria-label="Año desde">
+    <span aria-hidden="true">&#8211;</span>
+    <input type="number" id="pad-year-to" placeholder="1930" min="1500" max="1999" aria-label="Año hasta">
+  </div>
+  <button type="button" id="pad-reset" class="pad-reset">Restablecer</button>
+  <span id="pad-count" class="muni-count"></span>
+</div>
+
+<p id="pad-empty" class="pad-empty" hidden></p>
+
+<div class="table-wrap">
+  <table id="pad-table" class="pad-table">
+    <thead>
+      <tr>
+        <th class="sortable" data-col="0" aria-sort="none">Municipio <span class="sort-icon" aria-hidden="true">&#8597;</span></th>
+        <th class="sortable" data-col="1" aria-sort="none">Tipo de Registro <span class="sort-icon" aria-hidden="true">&#8597;</span></th>
+        <th class="sortable" data-col="2" aria-sort="none">Título <span class="sort-icon" aria-hidden="true">&#8597;</span></th>
+        <th class="sortable" data-col="3" aria-sort="none">Años <span class="sort-icon" aria-hidden="true">&#8597;</span></th>
+        <th class="sortable" data-col="4" aria-sort="none">Imágenes <span class="sort-icon" aria-hidden="true">&#8597;</span></th>
+      </tr>
+    </thead>
+    <tbody id="pad-tbody"></tbody>
+  </table>
+</div>
+
+<hr>
+
+<h3>De dónde viene esta lista</h3>
+
+<p>Cada fila es un grupo de imágenes publicado por FamilySearch bajo el creador <em>Gobierno de Puerto Rico</em>. También puede buscar ese creador directamente en FamilySearch:</p>
+
+<ul>
+<li><a href="https://www.familysearch.org/en/records/images/search-results?creator=Gobierno%20de%20Puerto%20Rico&pageSize=100" target="_blank" rel="noopener noreferrer"><em>Todos los grupos de imágenes del Gobierno de Puerto Rico</em></a></li>
+<li><a href="https://www.familysearch.org/en/records/images/search-results?creator=Gobierno%20de%20Puerto%20Rico&recordTypeIds=130138&pageSize=100" target="_blank" rel="noopener noreferrer"><em>Censo Poblacional / Censo Municipal</em></a></li>
+<li><a href="https://www.familysearch.org/en/records/images/search-results?creator=Gobierno%20de%20Puerto%20Rico&recordTypeIds=126590&pageSize=100" target="_blank" rel="noopener noreferrer"><em>Listas de habitantes, incluidos el Padrón de Jornaleros y el Padrón de Almas</em></a></li>
+<li><a href="https://www.familysearch.org/en/records/images/search-results?creator=Gobierno%20de%20Puerto%20Rico&recordTypeIds=126864&pageSize=100" target="_blank" rel="noopener noreferrer"><em>Registros de esclavitud</em></a></li>
+</ul>
+
+<p class="pad-freshness">Este índice es una instantánea, no una fuente en vivo. FamilySearch añade grupos de imágenes continuamente, así que si una búsqueda en su sitio devuelve algo que esta tabla no incluye, el registro existe y nuestra instantánea simplemente es más antigua. Por favor <a href="/es/contacto/">avísenos</a> para que podamos actualizarla.</p>
+
+<p class="page-last-updated">Página actualizada por última vez: 15 de agosto de 2026</p>
+
+<script>
+const PAD_LANG = 'es';
+const PAD_DATA = {{ site.data['fs-image-groups'] | jsonify }};
+const PAD_TYPES = {{ site.data.fs_record_types | jsonify }};
+</script>
+<script src="{{ '/assets/js/padrones.js' | relative_url }}"></script>

@@ -124,6 +124,16 @@ La genealogía puertorriqueña presenta desafíos únicos: documentos en españo
 </div>
 
 <div class="card guide-card" data-category="records">
+<h3>Padrones y la Búsqueda de Imágenes</h3>
+<span class="badge badge-available">✓ Disponible</span>
+<p>Las listas de población municipal de Puerto Rico: padrones de almas, padrones de jornaleros bajo el Régimen de la Libreta y censos poblacionales. Además, cómo explorar las colecciones de imágenes sin indexar de FamilySearch, a las que ninguna búsqueda por nombre llegará jamás.</p>
+<ul>
+<li><a href="/es/guias-investigacion/padrones-busqueda-imagenes/">Leer la Guía</a></li>
+<li><a href="/es/herramientas/padrones/">Abrir el Explorador de Padrones (729 grupos de imágenes)</a></li>
+</ul>
+</div>
+
+<div class="card guide-card" data-category="records">
 <h3>Investigación de Registros de Esclavitud</h3>
 <span class="badge badge-available">✓ Curso Completo Disponible</span>
 <p>Un curso práctico de cuatro módulos, de nivel principiante a intermedio, sobre cómo localizar, extraer y usar el Registro Central de Esclavos de 1872 y registros relacionados para rastrear antepasados esclavizados en Puerto Rico.</p>

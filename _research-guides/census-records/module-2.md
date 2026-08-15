@@ -75,6 +75,8 @@ A household-by-household name listing. You will not find your specific ancestor'
 
 > **Research strategy:** Use the 1887 census to understand the demographic context of the community your ancestor lived in. For individual names, you need surviving municipal padrones or civil registration records from the same period.
 
+> **Finding the surviving padrones:** FamilySearch has digitized hundreds of municipal image groups created by the *Gobierno de Puerto Rico*, including padrones de almas and padrones de jornaleros. They are not name-indexed, so no search will surface them. See [Padrones and the FamilySearch Image Search](/research-guides/padrones-image-search/) for how to work through them, or filter them by municipality in the [Padrones Browser](/tools/padrones/).
+
 ---
 
 ## Where Name-Level Colonial Data May Survive

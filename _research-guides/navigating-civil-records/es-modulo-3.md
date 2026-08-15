@@ -48,6 +48,8 @@ El Catálogo de FamilySearch te da acceso directo a imágenes digitales organiza
 
 > **Consejo:** Al explorar, presta atención a la organización del volumen. Los volúmenes de registro civil generalmente están organizados por tipo de registro (nacimientos, matrimonios, defunciones) y luego por año. La portada o las primeras páginas de cada volumen generalmente indican el rango de fechas.
 
+> **El Catálogo no es la única puerta.** FamilySearch también tiene una búsqueda separada de **Imágenes** en `familysearch.org/en/records/images/` que consulta directamente las imágenes digitalizadas y filtra por el organismo archivístico que las creó. Para los registros municipales de Puerto Rico, muestra material al que la ruta del Catálogo puede tardar en llegar. Vea [Padrones y la búsqueda de imágenes de FamilySearch](/es/guias-investigacion/padrones-busqueda-imagenes/).
+
 ---
 
 ## 3.3 Usando los Índices Internos (*Índices*)

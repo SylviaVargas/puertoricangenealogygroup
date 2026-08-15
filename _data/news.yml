@@ -12,9 +12,16 @@
 #
 # Maintenance: add new entries at the top. Move old featured to non-featured.
 # To archive: move entries older than ~12 months to _data/news_archive_YYYY.yml
-- date: 2026-07-21
+- date: 2026-08-14
   category: features
   featured: true
+  title: "New Tool: Padrones Browser"
+  body: "729 unindexed FamilySearch image groups created by the Gobierno de Puerto Rico, covering 20 municipalities, are now browsable by municipality, record type, and year: padrones de almas, padrones de jornaleros from the Régimen de la Libreta, municipal population censuses, and enslavement records. Most predate civil registration, and because they carry no name index they never surface in a FamilySearch search. Every municipality page now lists what survives for that town, and a new research guide explains how to read them."
+  link: /tools/padrones/
+
+- date: 2026-07-21
+  category: features
+  featured: false
   title: "New Resource: Archivo Digital de Aguadilla"
   body: "The Resources page now lists the Archivo Digital de Aguadilla, a free online archive for Aguadilla and the northwest region. Its parish books run from 1780 to 1843 and open under the Parish of Aguada, so early Aguada, Moca, and Isabela families appear in them alongside Aguadilla's."
   link: /resources/
@@ -80,7 +87,7 @@
   featured: false
   title: "Updated: Juana Díaz Municipality — BoricuaGenes Church Index Added"
   body: "The Juana Díaz municipality page now includes a link to the BoricuaGenes index of Iglesia San Ramón Nonato Church records on FamilySearch, covering deaths, marriages, baptisms, and confirmations."
-  link: /tools/municipality-guide/juana_diaz/
+  link: /tools/municipality-guide/juana-diaz/
 
 - date: 2026-05-30
   category: features

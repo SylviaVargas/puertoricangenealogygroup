@@ -1,0 +1,97 @@
+---
+layout: page
+title: Padrones Browser
+description: "Browse 729 unindexed image groups created by the Gobierno de Puerto Rico: padrones de almas, padrones de jornaleros, municipal population censuses, and enslavement records, filterable by municipality, record type, and year."
+lang: en
+permalink: /tools/padrones/
+ref: padrones-tool
+last_modified_at: 2026-08-14
+parent_title: Tools
+parent_url: /tools/
+---
+
+<p>FamilySearch has digitized hundreds of record groups created by the <strong>Gobierno de Puerto Rico</strong>: household lists, day-laborer registers, municipal population counts, and enslavement records. Most of them predate civil registration, which did not begin until 1885, so they reach into decades where few other name-bearing sources survive.</p>
+
+<div class="muni-context">
+  <p><strong>These images are not name-indexed.</strong> You cannot search them for an ancestor's name. You browse them like a book, which is why knowing the right municipality and year first matters so much. A free FamilySearch account is required to view the images.</p>
+  <p>New to this kind of record? Start with <a href="/research-guides/padrones-image-search/">Padrones and the FamilySearch Image Search</a>, which explains what each record type contains and how to work through an unindexed group efficiently.</p>
+</div>
+
+<div class="muni-tool-cards">
+  <div class="muni-tool-card">
+    <h3>Filter by municipality</h3>
+    <p>Narrow to your town, then open its full municipality page for parish and civil registry context.</p>
+    <a href="#pad-table" class="muni-tool-link">Go to table &#8595;</a>
+  </div>
+  <div class="muni-tool-card">
+    <h3>Filter by record type</h3>
+    <p>Padrones de almas, padrones de jornaleros, municipal censuses, and enslavement records.</p>
+    <a href="/research-guides/padrones-image-search/" class="muni-tool-link">What are these? &#8594;</a>
+  </div>
+</div>
+
+<hr>
+
+<div class="muni-toolbar pad-toolbar">
+  <div class="muni-search-wrap">
+    <label for="pad-search">Search:</label>
+    <input type="search" id="pad-search" placeholder="Title, municipality, or caja number..." autocomplete="off">
+  </div>
+  <div class="muni-filter-wrap">
+    <label for="pad-muni">Municipality:</label>
+    <select id="pad-muni"><option value="">All municipalities</option></select>
+  </div>
+  <div class="muni-filter-wrap">
+    <label for="pad-type">Record type:</label>
+    <select id="pad-type"><option value="">All record types</option></select>
+  </div>
+  <div class="muni-filter-wrap pad-year-wrap">
+    <label for="pad-year-from">Years:</label>
+    <input type="number" id="pad-year-from" placeholder="1765" min="1500" max="1999" aria-label="Year from">
+    <span aria-hidden="true">&#8211;</span>
+    <input type="number" id="pad-year-to" placeholder="1930" min="1500" max="1999" aria-label="Year to">
+  </div>
+  <button type="button" id="pad-reset" class="pad-reset">Reset</button>
+  <span id="pad-count" class="muni-count"></span>
+</div>
+
+<p id="pad-empty" class="pad-empty" hidden></p>
+
+<div class="table-wrap">
+  <table id="pad-table" class="pad-table">
+    <thead>
+      <tr>
+        <th class="sortable" data-col="0" aria-sort="none">Municipality <span class="sort-icon" aria-hidden="true">&#8597;</span></th>
+        <th class="sortable" data-col="1" aria-sort="none">Record Type <span class="sort-icon" aria-hidden="true">&#8597;</span></th>
+        <th class="sortable" data-col="2" aria-sort="none">Title <span class="sort-icon" aria-hidden="true">&#8597;</span></th>
+        <th class="sortable" data-col="3" aria-sort="none">Years <span class="sort-icon" aria-hidden="true">&#8597;</span></th>
+        <th class="sortable" data-col="4" aria-sort="none">Images <span class="sort-icon" aria-hidden="true">&#8597;</span></th>
+      </tr>
+    </thead>
+    <tbody id="pad-tbody"></tbody>
+  </table>
+</div>
+
+<hr>
+
+<h3>Where this list comes from</h3>
+
+<p>Every row is an image group published by FamilySearch under the creator <em>Gobierno de Puerto Rico</em>. You can also search that creator directly on FamilySearch:</p>
+
+<ul>
+<li><a href="https://www.familysearch.org/en/records/images/search-results?creator=Gobierno%20de%20Puerto%20Rico&pageSize=100" target="_blank" rel="noopener noreferrer"><em>All Gobierno de Puerto Rico image groups</em></a></li>
+<li><a href="https://www.familysearch.org/en/records/images/search-results?creator=Gobierno%20de%20Puerto%20Rico&recordTypeIds=130138&pageSize=100" target="_blank" rel="noopener noreferrer"><em>Censo Poblacional / Municipal Census</em></a></li>
+<li><a href="https://www.familysearch.org/en/records/images/search-results?creator=Gobierno%20de%20Puerto%20Rico&recordTypeIds=126590&pageSize=100" target="_blank" rel="noopener noreferrer"><em>Inhabitant Lists, including Padrón de Jornaleros and Padrón de Almas</em></a></li>
+<li><a href="https://www.familysearch.org/en/records/images/search-results?creator=Gobierno%20de%20Puerto%20Rico&recordTypeIds=126864&pageSize=100" target="_blank" rel="noopener noreferrer"><em>Enslavement Records</em></a></li>
+</ul>
+
+<p class="pad-freshness">This index is a snapshot, not a live feed. FamilySearch adds image groups continuously, so if a search on their site returns something this table does not list, the record exists and our snapshot is simply older. Please <a href="/contact/">let us know</a> so we can refresh it.</p>
+
+<p class="page-last-updated">Page last updated: August 15, 2026</p>
+
+<script>
+const PAD_LANG = 'en';
+const PAD_DATA = {{ site.data['fs-image-groups'] | jsonify }};
+const PAD_TYPES = {{ site.data.fs_record_types | jsonify }};
+</script>
+<script src="{{ '/assets/js/padrones.js' | relative_url }}"></script>

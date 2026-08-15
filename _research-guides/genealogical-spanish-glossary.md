@@ -175,6 +175,11 @@ Terms for document types and archival concepts you will encounter when working w
 |---|---|---|
 | archivo | archive | |
 | padrón | household census register | Spanish-era enumeration |
+| padrón de almas | register of souls | household count of a parish or municipality |
+| padrón de jornaleros | day-laborer register | 1849–1873, under the Régimen de la Libreta |
+| libreta | passbook | carried by jornaleros; recorded employer and compliance |
+| caja | archival box | the container number used to identify a record group |
+| cédula de vecindad | residency identification card | lists name, age, marital status, often physical description |
 | censo | census | |
 | registro | registry / record | |
 | protocolo notarial | notarial record | held in notarial archives |

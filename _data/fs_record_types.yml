@@ -1,0 +1,47 @@
+# Localized labels for the record types in _data/fs-image-groups.json
+#
+# The image-group titles themselves stay in Spanish, because they are the
+# archival titles assigned by the Gobierno de Puerto Rico. Only the record-type
+# label is translated.
+#
+# Slugs are written by prgg-admin/normalize_fs_images.py and must stay in sync
+# with the RECORD_TYPES list in that file. Used by:
+#   _layouts/municipality.html   (#padrones section)
+#   tools/padrones/index.html    (filter chips)
+#   assets/js/padrones.js
+
+padron-almas:
+  en: "Padrón de Almas (soul census)"
+  es: "Padrón de almas"
+  desc_en: "A household-by-household count of every soul in the parish or municipality, listing residents by name, age, and relationship to the head of household."
+  desc_es: "Un recuento casa por casa de todas las almas de la parroquia o el municipio, que enumera a los residentes por nombre, edad y parentesco con el jefe de familia."
+
+padron-jornaleros:
+  en: "Padrón de Jornaleros (day-laborer register)"
+  es: "Padrón de jornaleros"
+  desc_en: "Registers of landless day laborers compelled to carry a libreta under the Régimen de la Libreta, 1849 to 1873. They name the worker, his age, his barrio, and often the hacienda that employed him."
+  desc_es: "Registros de jornaleros sin tierra obligados a portar una libreta bajo el Régimen de la Libreta, de 1849 a 1873. Nombran al trabajador, su edad, su barrio y con frecuencia la hacienda que lo empleaba."
+
+padron-habitantes:
+  en: "Padrón de Habitantes (inhabitant register)"
+  es: "Padrón de habitantes"
+  desc_en: "Municipal registers of inhabitants, including cédulas de empadronamiento. These list residents by household and are the most common surviving padrón type."
+  desc_es: "Registros municipales de habitantes, incluidas las cédulas de empadronamiento. Enumeran a los residentes por hogar y son el tipo de padrón que más ha sobrevivido."
+
+censo-poblacional:
+  en: "Municipal Population Census"
+  es: "Censo poblacional municipal"
+  desc_en: "Population counts compiled by the municipal government, separate from the island-wide enumerations. Detail varies widely by municipality and year."
+  desc_es: "Recuentos de población compilados por el gobierno municipal, distintos de los censos de toda la isla. El nivel de detalle varía mucho según el municipio y el año."
+
+enslavement:
+  en: "Enslavement Records"
+  es: "Registros de esclavitud"
+  desc_en: "Municipal records documenting enslaved people, including registers, manumissions, and the 1873 abolition indemnification paperwork."
+  desc_es: "Registros municipales que documentan a personas esclavizadas, incluidos registros, manumisiones y la documentación de indemnización de la abolición de 1873."
+
+other:
+  en: "Municipal Records"
+  es: "Registros municipales"
+  desc_en: "Other administrative records created by the municipal government, including tax rolls, residency papers, and council books."
+  desc_es: "Otros registros administrativos creados por el gobierno municipal, incluidos registros de contribuciones, documentos de vecindad y libros de actas del concejo."

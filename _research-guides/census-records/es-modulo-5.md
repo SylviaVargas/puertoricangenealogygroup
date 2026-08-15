@@ -49,7 +49,7 @@ Casi todos los registros genealógicos de Puerto Rico identifican el barrio de u
 
 ## Tipos de Registros Municipales y Locales
 
-**Padrones municipales** — Registros de hogares creados por los gobiernos municipales para fines administrativos, separados de las enumeraciones insulares. Pueden listar a los miembros del hogar por nombre, edad y relación. La supervivencia varía por municipio; algunas colecciones están en el AGPR.
+**Padrones municipales** — Registros de hogares creados por los gobiernos municipales para fines administrativos, separados de las enumeraciones insulares. Pueden listar a los miembros del hogar por nombre, edad y relación. La supervivencia varía por municipio; algunas colecciones están en el AGPR. Muchos están ahora digitalizados como grupos de imágenes sin indexar en FamilySearch: vea [Padrones y la búsqueda de imágenes de FamilySearch](/es/guias-investigacion/padrones-busqueda-imagenes/), o explore lo que sobrevive para su pueblo en el [Explorador de Padrones](/es/herramientas/padrones/).
 
 **Registros de impuestos (Contribución territorial / Catastro)** — Listas de propietarios dentro de un municipio, organizadas por barrio. Confirman la presencia de una familia en un barrio específico entre años censales y pueden revelar transferencias de propiedad que sugieren migración o herencias.
 

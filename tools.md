@@ -76,6 +76,18 @@ Tools, templates, and guides to help you organize and document your Puerto Rican
 </div>
 
 <div class="card">
+<h3>Padrones Browser</h3>
+<span class="badge badge-available">✓ Available</span>
+<span class="badge badge-interactive">Searchable</span>
+<p>729 unindexed image groups from 20 municipalities, created by the Gobierno de Puerto Rico, filterable by municipality, record type, and year.</p>
+<p><strong>Includes:</strong> Padrones de almas, padrones de jornaleros, municipal population censuses, and enslavement records, with direct links to the images on FamilySearch</p>
+<ul>
+<li><a href="/tools/padrones/">Open the Padrones Browser</a></li>
+<li><em>New to these records? Start with <a href="/research-guides/padrones-image-search/">Padrones and the FamilySearch Image Search</a>.</em></li>
+</ul>
+</div>
+
+<div class="card">
 <h3>Genealogical Spanish Glossary</h3>
 <span class="badge badge-available">✓ Available</span>
 <span class="badge badge-pdf">PDF</span>

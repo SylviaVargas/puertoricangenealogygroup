@@ -338,6 +338,33 @@ layout: default
         </ul>
       </section>
 
+      {% assign padrones = site.data['fs-image-groups'] | where: "muni_id", page.muni_id %}
+      {% if padrones.size > 0 %}
+      <section id="padrones" class="muni-section muni-padrones-section">
+        <h2>{% if page.lang == 'es' %}Padrones y Censos Municipales{% else %}Padrones and Municipal Censuses{% endif %}</h2>
+        <p class="muni-padrones-intro">{% if page.lang == 'es' %}Los siguientes grupos de imágenes fueron creados por el <strong>Gobierno de Puerto Rico</strong> y digitalizados por FamilySearch. <strong>No están indexados por nombre</strong>, así que hay que hojearlos como un libro. Se necesita una cuenta gratuita de FamilySearch. Para aprender a leerlos y recorrerlos, vea <a href="/es/guias-investigacion/padrones-busqueda-imagenes/">Padrones y la búsqueda de imágenes</a>, o explore los de toda la isla en el <a href="/es/herramientas/padrones/">Explorador de Padrones</a>.{% else %}The following image groups were created by the <strong>Gobierno de Puerto Rico</strong> and digitized by FamilySearch. They are <strong>not name-indexed</strong>, so you browse them like a book. A free FamilySearch account is required. To learn how to read and work through them, see <a href="/research-guides/padrones-image-search/">Padrones and the Image Search</a>, or scan the island-wide set in the <a href="/tools/padrones/">Padrones Browser</a>.{% endif %}</p>
+        {% assign padron_types = "padron-almas,padron-jornaleros,padron-habitantes,censo-poblacional,enslavement,other" | split: "," %}
+        {% for padron_type in padron_types %}
+        {% assign padron_group = padrones | where: "record_type", padron_type %}
+        {% if padron_group.size > 0 %}
+        {% assign padron_label = site.data.fs_record_types[padron_type] %}
+        <h3 class="muni-padrones-heading">{% if page.lang == 'es' %}{{ padron_label.es }}{% else %}{{ padron_label.en }}{% endif %} <span class="muni-padrones-count">({{ padron_group.size }})</span></h3>
+        <p class="muni-padrones-desc">{% if page.lang == 'es' %}{{ padron_label.desc_es }}{% else %}{{ padron_label.desc_en }}{% endif %}</p>
+        <ul class="muni-sources-list">
+          {% for padron in padron_group %}
+          <li>
+            <a href="{{ padron.url }}" target="_blank" rel="noopener noreferrer"><em>{{ padron.title }}</em></a>
+            {% if padron.year_start %}<span class="muni-source-type">{{ padron.year_start }}{% if padron.year_end and padron.year_end != padron.year_start %}–{{ padron.year_end }}{% endif %}</span>{% endif %}
+            {% capture padron_detail %}{% if padron.caja %}Caja {{ padron.caja }}{% endif %}{% if padron.caja and padron.image_count %} · {% endif %}{% if padron.image_count %}{{ padron.image_count }} {% if page.lang == 'es' %}imágenes{% else %}images{% endif %}{% endif %}{% endcapture %}
+            {% if padron_detail != "" %}<span class="muni-source-desc">{{ padron_detail }}</span>{% endif %}
+          </li>
+          {% endfor %}
+        </ul>
+        {% endif %}
+        {% endfor %}
+      </section>
+      {% endif %}
+
       {% if muni.genealogy_sources and muni.genealogy_sources.size > 0 %}
       <section id="sources" class="muni-section">
         <h2>{% if page.lang == 'es' %}Lecturas Recomendadas{% else %}Further Reading{% endif %}</h2>
@@ -392,6 +419,7 @@ layout: default
           {% if muni.document_images and muni.document_images.size > 0 %}<li><a href="#documents">{% if page.lang == 'es' %}Documentos Históricos{% else %}Historical Documents{% endif %}</a></li>{% endif %}
           <li><a href="#toolkit">{% if page.lang == 'es' %}Recursos de Genealogía{% else %}Genealogy Toolkit{% endif %}</a></li>
           <li><a href="#archives">{% if page.lang == 'es' %}Archivos Digitales{% else %}Digital Archives{% endif %}</a></li>
+          {% if padrones.size > 0 %}<li><a href="#padrones">{% if page.lang == 'es' %}Padrones y Censos Municipales{% else %}Padrones &amp; Municipal Censuses{% endif %}</a></li>{% endif %}
           {% if muni.genealogy_sources %}<li><a href="#sources">{% if page.lang == 'es' %}Lecturas Recomendadas{% else %}Further Reading{% endif %}</a></li>{% endif %}
           {% if muni.genealogiapr_transcriptions %}<li><a href="#genealogiapr">{% if page.lang == 'es' %}Transcripciones GenealogíaPR{% else %}GenealogíaPR Transcriptions{% endif %}</a></li>{% endif %}
           <li><a href="#research-checklist">{% if page.lang == 'es' %}Lista de Verificación{% else %}Research Checklist{% endif %}</a></li>

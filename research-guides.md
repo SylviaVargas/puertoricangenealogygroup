@@ -124,6 +124,16 @@ Puerto Rican genealogy comes with unique challenges — Spanish-language records
 </div>
 
 <div class="card guide-card" data-category="records">
+<h3>Padrones and the Image Search</h3>
+<span class="badge badge-available">✓ Available</span>
+<p>Puerto Rico's municipal population lists: padrones de almas, padrones de jornaleros under the Régimen de la Libreta, and censos poblacionales. Plus how to browse FamilySearch's unindexed image collections, which no name search will ever reach.</p>
+<ul>
+<li><a href="/research-guides/padrones-image-search/">Read the Guide</a></li>
+<li><a href="/tools/padrones/">Open the Padrones Browser (729 image groups)</a></li>
+</ul>
+</div>
+
+<div class="card guide-card" data-category="records">
 <h3>Slave Record Research</h3>
 <span class="badge badge-available">✓ Full Course Available</span>
 <p>A four-module beginner-to-intermediate course on locating, extracting, and using the 1872 Registro Central de Esclavos and related slave registers to trace enslaved ancestors in Puerto Rico.</p>
