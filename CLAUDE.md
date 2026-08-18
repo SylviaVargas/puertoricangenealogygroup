@@ -60,6 +60,8 @@ bash check-bilingual-parity.sh
 
 This script compares heading counts between every EN/ES pair and flags gaps. Fix any reported gaps before marking the task done.
 
+`bash ../scripts/check-site.sh` runs this parity check as row 1.2 along with ten other checks, so prefer that as the single entry point. See root `CLAUDE.md` under "Testing Website Changes".
+
 ---
 
 ## External Link Format (Required)
@@ -146,7 +148,7 @@ permalink: /url/  # required for non-collection pages
 ## File Conventions
 
 - No em dashes (—) in generated content — use commas, semicolons, or colons instead
-- Spanish files: full diacritics always (á, é, í, ó, ú, ñ, ü, ¿, ¡) — run `check-spanish.sh` to verify
+- Spanish files: full diacritics always (á, é, í, ó, ú, ñ, ü, ¿, ¡). Verify with `bash ../scripts/check-site.sh --no-build`, row 1.9. There is no `check-spanish.sh` in this repo; earlier docs referenced one that never existed. Row 1.9 warns rather than fails, because it cannot tell our own missing accent from a record quoted verbatim
 - Copyright line at end of course `.md` files: `*© 2026 Sylvia Vargas. Teaching Genealogists AI™. All rights reserved.*`
 
 ---

@@ -5,7 +5,7 @@ description: "Reuniones virtuales mensuales gratuitas para investigadores de gen
 lang: es
 permalink: /es/reuniones/
 ref: meetings
-last_modified_at: 2026-03-14
+last_modified_at: 2026-08-18
 ---
 
 ## Únete a Nuestras Reuniones Virtuales
@@ -30,10 +30,10 @@ El PuertoRicanGenealogy.org organiza reuniones virtuales regulares donde los mie
 
 <div id="proxima-reunion" class="meeting-card">
   <div class="meeting-card-label">Próxima Reunión</div>
-  <h3><a href="{{ '/es/reunion-agosto-2026/' | relative_url }}">Reunión de Agosto 2026</a></h3>
-  <p>Únete a nosotros mientras Maria Silva Rivera presenta "Escondido a Plena Vista", compartiendo cómo encontró a una quinta abuela, junto con otros descubrimientos inesperados, al volver a mirar fuentes en un lugar inesperado.</p>
+  <h3><a href="{{ '/es/reunion-septiembre-2026/' | relative_url }}">Reunión de Septiembre 2026</a></h3>
+  <p>Únete a nosotros mientras Cary Bright presenta "ADN y Genealogía Puertorriqueña, Parte 1", la primera de una serie de dos partes sobre cómo aprovechar la evidencia de ADN en la investigación puertorriqueña, desde la elección entre las plataformas de pruebas hasta la lectura de lo que tus coincidencias realmente indican.</p>
   <div class="meeting-card-details">
-    <span>Lunes, 10 de agosto de 2026</span>
+    <span>Lunes, 14 de septiembre de 2026</span>
     <span>7:00 PM EDT / 7:00 PM PR / 4:00 PM PDT</span>
   </div>
   <a href="https://us06web.zoom.us/meeting/register/chSyaQqxRzSxOaeXxJmM0Q" class="btn btn-primary" target="_blank" rel="noopener noreferrer">Regístrate Ahora</a>
@@ -41,14 +41,6 @@ El PuertoRicanGenealogy.org organiza reuniones virtuales regulares donde los mie
 
 <h3 class="upcoming-more-label">Más Próximas Reuniones</h3>
 <div class="card-grid">
-
-<div class="card meeting-grid-card">
-<div class="card-title">Septiembre 2026 — ADN y Genealogía Puertorriqueña, Parte 1</div>
-<div class="card-desc">Cary Bright (Grupo de Interés en ADN de la Seattle Genealogical Society) presenta la Parte 1 de una serie de dos partes sobre ADN. Lunes, 14 de septiembre de 2026.</div>
-<div class="card-footer">
-<a href="{{ '/es/reunion-septiembre-2026/' | relative_url }}" class="card-link">Ver Detalles &#8594;</a>
-</div>
-</div>
 
 <div class="card meeting-grid-card">
 <div class="card-title">Octubre 2026 — ADN y Genealogía Puertorriqueña, Parte 2</div>
@@ -97,7 +89,8 @@ Nuestras reuniones se realizan a través de Zoom. <a href="https://us06web.zoom.
 
 #### 2026
 
-- Julio 2026: "España, los Puertorriqueños y la Revolución Americana" con Joe Maldonado (presentación cancelada debido a enfermedad, se reprogramará); los miembros compartieron avances, obstáculos y consejos de investigación
+- Agosto 2026: "Escondido a Plena Vista" con María Silva Rivera, más "España, los Puertorriqueños y la Revolución Americana" con Joe Maldonado, reprogramada desde julio
+- Julio 2026: "España, los Puertorriqueños y la Revolución Americana" con Joe Maldonado (presentación cancelada debido a enfermedad, reprogramada para el 10 de agosto); los miembros compartieron avances, obstáculos y consejos de investigación
 - Junio 2026: Sin reunión
 - Mayo 2026: "De Cabo Rojo a San Francisco" con Fred Rodríguez Segarra
 - Abril 2026: Resúmenes de RootsTech 2026 e Intercambio entre Miembros

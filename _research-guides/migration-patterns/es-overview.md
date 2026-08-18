@@ -24,7 +24,7 @@ faqs:
     a: "La variación de nombre es uno de los desafíos centrales en la investigación puertorriqueña entre jurisdicciones. La clave es establecer la identidad primero mediante elementos que no sean el nombre: año y lugar de nacimiento, nombres de los padres, hermanos mencionados en registros, empleadores, vecinos. Una vez que hayas confirmado que dos registros se refieren a la misma persona a través de estos elementos, puedes documentar la variación del nombre y explicarla en tu conclusión de investigación. El Módulo 5 cubre este proceso como un marco que puedes aplicar a cualquier caso."
 related_guides:
   - /es/guias-investigacion/registros-censales/
-  - /es/guias-investigacion/registros-civiles/
+  - /es/guias-investigacion/navegar-registros-civiles/
   - /es/guias-investigacion/estandar-prueba-genealogica/
 ---
 
@@ -38,7 +38,7 @@ Puede que seas:
 - Un investigador que ha agotado los registros puertorriqueños de un antepasado y sospecha que emigró
 - Alguien que trabaja con el curso de Registros Censales y llegó al Módulo 7 y quiere profundizar en los registros del continente
 
-**Conocimiento previo requerido:** Este curso asume que puedes navegar las colecciones de Registro Civil y Registros de la Iglesia Católica de Puerto Rico en FamilySearch y que entiendes cómo funcionan los apellidos dobles puertorriqueños. Si necesitas esa base, comienza primero con [Navegando los Registros Civiles](/es/guias-investigacion/registros-civiles/).
+**Conocimiento previo requerido:** Este curso asume que puedes navegar las colecciones de Registro Civil y Registros de la Iglesia Católica de Puerto Rico en FamilySearch y que entiendes cómo funcionan los apellidos dobles puertorriqueños. Si necesitas esa base, comienza primero con [Navegando los Registros Civiles](/es/guias-investigacion/navegar-registros-civiles/).
 
 ---
 

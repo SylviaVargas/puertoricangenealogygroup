@@ -209,7 +209,7 @@ Has trabajado los cinco módulos del curso de Patrones de Migración y Registros
 
 **Cursos relacionados para continuar tu investigación:**
 - [Registros Censales](/es/guias-investigacion/registros-censales/) — para un análisis más profundo de la evidencia censal en las eras políticas puertorriqueñas
-- [Navegando los Registros Civiles](/es/guias-investigacion/registros-civiles/) — para construir la base de registros de Puerto Rico de la que depende este curso
+- [Navegando los Registros Civiles](/es/guias-investigacion/navegar-registros-civiles/) — para construir la base de registros de Puerto Rico de la que depende este curso
 - [Estándares de Investigación: GPS](/es/guias-investigacion/estandar-prueba-genealogica/) — para el marco completo de análisis de evidencia
 
 ---
