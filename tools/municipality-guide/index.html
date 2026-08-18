@@ -35,15 +35,15 @@ last_modified_at: 2026-03-01
   </div>
   <div class="muni-filter-wrap">
     <label for="muni-region-filter">Region:</label>
+    <!-- Built from _data/pr_regions.yml so every region actually in the data
+         gets an option. A hand-written list here silently dropped Northeast,
+         Northwest, Southeast, and Southwest, leaving 11 municipalities
+         unfilterable. Values stay English to match the data-region attribute. -->
     <select id="muni-region-filter">
       <option value="">All Regions</option>
-      <option value="Central">Central</option>
-      <option value="East">East</option>
-      <option value="Island Municipality">Island Municipality</option>
-      <option value="Metro">Metro</option>
-      <option value="North">North</option>
-      <option value="South">South</option>
-      <option value="West">West</option>
+      {% for r in site.data.pr_regions %}
+      <option value="{{ r[0] }}">{{ r[1].en }}</option>
+      {% endfor %}
     </select>
   </div>
   <div class="muni-filter-wrap">
@@ -93,7 +93,7 @@ last_modified_at: 2026-03-01
         <td>{{ m.parish.records_start }}</td>
         <td>{{ m.civil_registry_start }}</td>
         <td>{{ m.mother_town | join: ", " }}</td>
-        <td>{{ m.region }}</td>
+        <td>{{ site.data.pr_regions[m.region].en | default: m.region }}</td>
       </tr>
       {% endfor %}
     </tbody>
@@ -735,7 +735,10 @@ last_modified_at: 2026-03-01
     var nameToId = {};
     munis.forEach(function (m) { nameToId[m.name] = m.id; });
     document.querySelectorAll('#muni-table tbody tr').forEach(function (row) {
-      var cell = row.cells[5];
+      // Column 6. Was 5, which is Civil Records, so no mother town was ever
+      // linked: the years matched no municipality name and were rewritten
+      // back unchanged, which is why this failed silently.
+      var cell = row.cells[6];
       if (!cell) return;
       var names = cell.textContent.split(',').map(function (s) { return s.trim(); });
       cell.innerHTML = names.map(function (name) {

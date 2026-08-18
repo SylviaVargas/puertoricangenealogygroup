@@ -35,15 +35,16 @@ last_modified_at: 2026-03-01
   </div>
   <div class="muni-filter-wrap">
     <label for="muni-region-filter">Región:</label>
+    <!-- Se construye desde _data/pr_regions.yml para que toda región presente
+         en los datos tenga su opción. La lista escrita a mano omitía Noreste,
+         Noroeste, Sureste y Suroeste, y dejaba 11 municipios sin poder
+         filtrarse. Los valores siguen en inglés para coincidir con el atributo
+         data-region. -->
     <select id="muni-region-filter">
       <option value="">Todas las Regiones</option>
-      <option value="Central">Central</option>
-      <option value="East">Este</option>
-      <option value="Island Municipality">Municipio Isla</option>
-      <option value="Metro">Metro</option>
-      <option value="North">Norte</option>
-      <option value="South">Sur</option>
-      <option value="West">Oeste</option>
+      {% for r in site.data.pr_regions %}
+      <option value="{{ r[0] }}">{{ r[1].es }}</option>
+      {% endfor %}
     </select>
   </div>
   <div class="muni-filter-wrap">
@@ -93,7 +94,7 @@ last_modified_at: 2026-03-01
         <td>{{ m.parish.records_start }}</td>
         <td>{{ m.civil_registry_start }}</td>
         <td>{{ m.mother_town | join: ", " }}</td>
-        <td>{% case m.region %}{% when "Central" %}Central{% when "East" %}Este{% when "Island Municipality" %}Municipio Isla{% when "Metro" %}Metro{% when "North" %}Norte{% when "South" %}Sur{% when "West" %}Oeste{% endcase %}</td>
+        <td>{{ site.data.pr_regions[m.region].es | default: m.region }}</td>
       </tr>
       {% endfor %}
     </tbody>
@@ -734,7 +735,10 @@ last_modified_at: 2026-03-01
     var nameToId = {};
     munis.forEach(function (m) { nameToId[m.name] = m.id; });
     document.querySelectorAll('#muni-table tbody tr').forEach(function (row) {
-      var cell = row.cells[5];
+      // Columna 6. Antes era la 5, que son los Registros Civiles, así que nunca
+      // se enlazó ningún pueblo madre: los años no coincidían con ningún nombre
+      // de municipio y se reescribían sin cambios, por eso el fallo era mudo.
+      var cell = row.cells[6];
       if (!cell) return;
       var names = cell.textContent.split(',').map(function (s) { return s.trim(); });
       cell.innerHTML = names.map(function (name) {

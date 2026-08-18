@@ -3,9 +3,15 @@
  * Search, filter, and sort for the Padrones Browser.
  *
  * Expects these to be defined inline by the page before this file loads:
- *   PAD_DATA  array  from _data/fs-image-groups.json
- *   PAD_TYPES object from _data/fs_record_types.yml (slug -> labels)
- *   PAD_LANG  'en' | 'es'
+ *   PAD_DATA          array  from _data/fs-image-groups.json
+ *   PAD_TYPES         object from _data/fs_record_types.yml (slug -> labels)
+ *   PAD_REGIONS       object from _data/pr_regions.yml (region -> labels)
+ *   PAD_MUNI_REGIONS  object muni_id -> region, joined from _data/pr-municipalities.json
+ *   PAD_LANG          'en' | 'es'
+ *
+ * Region is joined at build time rather than stored in fs-image-groups.json,
+ * because region belongs to the municipality, not to the image group. A copy in
+ * the harvested data would drift every time the normalizer runs.
  *
  * The image-group titles stay in Spanish because they are the archival titles
  * assigned by the Gobierno de Puerto Rico. Only the interface is translated.
@@ -22,16 +28,19 @@
       noResults: 'No image groups match your filters.',
       noData: 'The image-group index has not been built yet. Run the harvest script in prgg-admin, then rebuild the site.',
       allMunis: 'All municipalities',
+      allRegions: 'All regions',
       allTypes: 'All record types',
       islandwide: 'Island-wide / unassigned',
       colMuni: 'Municipality',
+      colRegion: 'Region',
       colType: 'Record type',
       colTitle: 'Title',
       colYears: 'Years',
       colImages: 'Images',
       view: 'View',
       caja: 'Caja',
-      unknown: 'n/a'
+      unknown: 'n/a',
+      broadCentury: '1800s'
     },
     es: {
       showing: function (n, total) {
@@ -40,16 +49,19 @@
       noResults: 'Ningún grupo de imágenes coincide con sus filtros.',
       noData: 'El índice de grupos de imágenes aún no se ha construido. Ejecute el script de recolección en prgg-admin y reconstruya el sitio.',
       allMunis: 'Todos los municipios',
+      allRegions: 'Todas las regiones',
       allTypes: 'Todos los tipos de registro',
       islandwide: 'Toda la isla / sin asignar',
       colMuni: 'Municipio',
+      colRegion: 'Región',
       colType: 'Tipo de registro',
       colTitle: 'Título',
       colYears: 'Años',
       colImages: 'Imágenes',
       view: 'Ver',
       caja: 'Caja',
-      unknown: 'n/d'
+      unknown: 'n/d',
+      broadCentury: '1800s'
     }
   };
 
@@ -57,6 +69,9 @@
   var L = LABELS[lang];
   var data = (typeof PAD_DATA !== 'undefined' && PAD_DATA) ? PAD_DATA : [];
   var types = (typeof PAD_TYPES !== 'undefined' && PAD_TYPES) ? PAD_TYPES : {};
+  var regions = (typeof PAD_REGIONS !== 'undefined' && PAD_REGIONS) ? PAD_REGIONS : {};
+  var muniRegions = (typeof PAD_MUNI_REGIONS !== 'undefined' && PAD_MUNI_REGIONS)
+    ? PAD_MUNI_REGIONS : {};
 
   // Display order for record types, matching the municipality pages.
   var TYPE_ORDER = [
@@ -72,6 +87,12 @@
     var t = types[slug];
     if (!t) return slug || '';
     return (lang === 'es' ? t.es : t.en) || slug;
+  }
+
+  function regionLabel(value) {
+    var r = regions[value];
+    if (!r) return value || '';
+    return (lang === 'es' ? r.es : r.en) || value;
   }
 
   function esc(s) {
@@ -92,6 +113,7 @@
   // --- DOM refs ---
   var searchEl = document.getElementById('pad-search');
   var muniEl = document.getElementById('pad-muni');
+  var regionEl = document.getElementById('pad-region');
   var typeEl = document.getElementById('pad-type');
   var yearFromEl = document.getElementById('pad-year-from');
   var yearToEl = document.getElementById('pad-year-to');
@@ -107,31 +129,70 @@
   data.forEach(function (row) {
     row._muniName = row.muni_name || '';
     row._typeLabel = typeLabel(row.record_type);
+    // Island-wide rows have no municipality, so they have no region either.
+    row._region = row.muni_id ? (muniRegions[row.muni_id] || '') : '';
+    row._regionLabel = regionLabel(row._region);
     row._search = fold([
-      row.title, row.muni_name, row.place, row.caja, row._typeLabel
+      row.title, row.muni_name, row.place, row.caja, row._typeLabel, row._regionLabel
     ].join(' '));
   });
 
   // --- Populate the selects from the data itself ---
-  function populateSelects() {
-    if (muniEl) {
-      var seen = {};
-      var munis = [];
-      data.forEach(function (row) {
-        var name = row.muni_name;
-        if (name && !seen[name]) { seen[name] = true; munis.push(name); }
-      });
-      munis.sort(function (a, b) { return a.localeCompare(b, 'es'); });
 
-      var html = '<option value="">' + esc(L.allMunis) + '</option>';
-      munis.forEach(function (m) {
-        html += '<option value="' + esc(m) + '">' + esc(m) + '</option>';
+  // Rebuilt whenever the region changes, so the town list only offers towns the
+  // reader can actually reach. Pass a falsy region for the full list.
+  function populateMunis(region) {
+    if (!muniEl) return;
+    var previous = muniEl.value;
+    var seen = {};
+    var munis = [];
+    var hasUnassigned = false;
+
+    data.forEach(function (row) {
+      if (!row.muni_name) { hasUnassigned = true; return; }
+      if (region && row._region !== region) return;
+      if (!seen[row.muni_name]) { seen[row.muni_name] = true; munis.push(row.muni_name); }
+    });
+    munis.sort(function (a, b) { return a.localeCompare(b, 'es'); });
+
+    var html = '<option value="">' + esc(L.allMunis) + '</option>';
+    munis.forEach(function (m) {
+      html += '<option value="' + esc(m) + '">' + esc(m) + '</option>';
+    });
+    // Rows with no municipality still deserve to be findable. They are
+    // unreachable once a region is chosen, since they carry no region.
+    if (hasUnassigned && !region) {
+      html += '<option value="__none__">' + esc(L.islandwide) + '</option>';
+    }
+    muniEl.innerHTML = html;
+
+    // Keep the chosen town if the new region still contains it.
+    muniEl.value = previous;
+    if (muniEl.selectedIndex < 0) muniEl.value = '';
+  }
+
+  function populateSelects() {
+    populateMunis('');
+
+    if (regionEl) {
+      var seenRegion = {};
+      var present = [];
+      data.forEach(function (row) {
+        if (row._region && !seenRegion[row._region]) {
+          seenRegion[row._region] = true;
+          present.push(row._region);
+        }
       });
-      // Rows with no municipality still deserve to be findable.
-      if (data.some(function (r) { return !r.muni_name; })) {
-        html += '<option value="__none__">' + esc(L.islandwide) + '</option>';
-      }
-      muniEl.innerHTML = html;
+      // Sort by the label the reader sees, not by the stored English value.
+      present.sort(function (a, b) {
+        return regionLabel(a).localeCompare(regionLabel(b), 'es');
+      });
+
+      var htmlR = '<option value="">' + esc(L.allRegions) + '</option>';
+      present.forEach(function (r) {
+        htmlR += '<option value="' + esc(r) + '">' + esc(regionLabel(r)) + '</option>';
+      });
+      regionEl.innerHTML = htmlR;
     }
 
     if (typeEl) {
@@ -153,6 +214,7 @@
     var q = searchEl ? fold(searchEl.value.trim()) : '';
     var terms = q.split(/\s+/).filter(Boolean);
     var muni = muniEl ? muniEl.value : '';
+    var region = regionEl ? regionEl.value : '';
     var type = typeEl ? typeEl.value : '';
     var yFrom = yearFromEl ? (parseInt(yearFromEl.value, 10) || null) : null;
     var yTo = yearToEl ? (parseInt(yearToEl.value, 10) || null) : null;
@@ -166,6 +228,7 @@
       } else if (muni && row.muni_name !== muni) {
         return false;
       }
+      if (region && row._region !== region) return false;
       if (type && row.record_type !== type) return false;
 
       // A group overlaps the requested window if it starts before the window
@@ -186,12 +249,14 @@
   var sortCol = null;
   var sortAsc = true;
 
+  // Keys are the data-col attributes on the table headers. Keep both in step.
   var ACCESSORS = {
     0: function (r) { return r._muniName; },
-    1: function (r) { return r._typeLabel; },
-    2: function (r) { return r.title || ''; },
-    3: function (r) { return r.year_start || 0; },
-    4: function (r) { return r.image_count || 0; }
+    1: function (r) { return r._regionLabel; },
+    2: function (r) { return r._typeLabel; },
+    3: function (r) { return r.title || ''; },
+    4: function (r) { return r.year_start || 0; },
+    5: function (r) { return r.image_count || 0; }
   };
 
   function sortRows(rows) {
@@ -236,6 +301,11 @@
   // --- Rendering ---
   function yearText(row) {
     if (!row.year_start) return L.unknown;
+    // 68 groups carry 1800-1900 because FamilySearch recorded no tighter date.
+    // Printing that as a range implies a precision the record does not have.
+    // The year filter still treats them as spanning the whole century, since
+    // excluding them would hide records rather than filter them.
+    if (row.year_start === 1800 && row.year_end === 1900) return L.broadCentury;
     if (row.year_end && row.year_end !== row.year_start) {
       return row.year_start + '–' + row.year_end;
     }
@@ -264,6 +334,7 @@
 
       html += '<tr>'
         + '<td>' + muniCell + '</td>'
+        + '<td class="pad-region">' + esc(r._regionLabel) + '</td>'
         + '<td><span class="pad-type pad-type-' + esc(r.record_type) + '">'
           + esc(r._typeLabel) + '</span></td>'
         + '<td>' + titleCell + '</td>'
@@ -302,10 +373,20 @@
     el.addEventListener('change', applyFilters);
   });
 
+  // Region gets its own handler because it also rebuilds the town list.
+  if (regionEl) {
+    regionEl.addEventListener('change', function () {
+      populateMunis(regionEl.value);
+      applyFilters();
+    });
+  }
+
   if (resetEl) {
     resetEl.addEventListener('click', function () {
       if (searchEl) searchEl.value = '';
+      if (regionEl) regionEl.value = '';
       if (muniEl) muniEl.value = '';
+      populateMunis('');
       if (typeEl) typeEl.value = '';
       if (yearFromEl) yearFromEl.value = '';
       if (yearToEl) yearToEl.value = '';
@@ -313,13 +394,37 @@
     });
   }
 
-  // Deep link support: /tools/padrones/?muni=Arecibo or ?type=padron-jornaleros
+  // Deep links get typed by hand and pasted out of emails, so tolerate case,
+  // missing accents, and the underscore or hyphen muni_id forms. Assigning an
+  // unmatched value to a <select> silently yields "", which used to turn
+  // ?muni=arecibo into "no filter at all" with nothing to tell the reader.
+  function resolveSelect(el, raw) {
+    if (!el || !raw) return false;
+    var want = fold(String(raw).replace(/[_-]+/g, ' ')).trim();
+    for (var i = 0; i < el.options.length; i++) {
+      var o = el.options[i];
+      if (!o.value) continue;
+      if (fold(o.value.replace(/[_-]+/g, ' ')).trim() === want
+        || fold(o.textContent).trim() === want) {
+        el.value = o.value;
+        return true;
+      }
+    }
+    return false;
+  }
+
+  // Deep link support:
+  //   /tools/padrones/?muni=Arecibo    (also arecibo, ARECIBO, rio_grande)
+  //   /tools/padrones/?region=Northwest (also noroeste on the Spanish page)
+  //   /tools/padrones/?type=padron-jornaleros
   (function readQuery() {
     var params = new URLSearchParams(window.location.search);
-    var m = params.get('muni');
-    var t = params.get('type');
-    if (m && muniEl) muniEl.value = m;
-    if (t && typeEl) typeEl.value = t;
+    // Region first: it rebuilds the town list that ?muni= is resolved against.
+    if (resolveSelect(regionEl, params.get('region'))) {
+      populateMunis(regionEl.value);
+    }
+    resolveSelect(muniEl, params.get('muni'));
+    resolveSelect(typeEl, params.get('type'));
   })();
 
   applyFilters();

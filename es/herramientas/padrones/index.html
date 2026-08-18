@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Explorador de Padrones
-description: "Explore 729 grupos de imágenes sin indexar creados por el Gobierno de Puerto Rico: padrones de almas, padrones de jornaleros, censos poblacionales municipales y registros de esclavitud, con filtros por municipio, tipo de registro y año."
+description: "Explore 729 grupos de imágenes sin indexar creados por el Gobierno de Puerto Rico: 707 de 21 municipios más 22 de toda la isla, que abarcan padrones de almas, padrones de jornaleros, censos poblacionales municipales y registros de esclavitud, con filtros por municipio, región, tipo de registro y año."
 lang: es
 permalink: /es/herramientas/padrones/
 ref: padrones-tool
-last_modified_at: 2026-08-14
+last_modified_at: 2026-08-17
 parent_title: Herramientas
 parent_url: /es/herramientas/
 ---
@@ -19,8 +19,8 @@ parent_url: /es/herramientas/
 
 <div class="muni-tool-cards">
   <div class="muni-tool-card">
-    <h3>Filtrar por municipio</h3>
-    <p>Limite la lista a su pueblo y luego abra su página municipal completa para ver el contexto parroquial y del registro civil.</p>
+    <h3>Filtrar por región o municipio</h3>
+    <p>Limite la lista a una parte de la isla o a su pueblo, y luego abra su página municipal completa para ver el contexto parroquial y del registro civil.</p>
     <a href="#pad-table" class="muni-tool-link">Ir a la tabla &#8595;</a>
   </div>
   <div class="muni-tool-card">
@@ -38,6 +38,10 @@ parent_url: /es/herramientas/
     <input type="search" id="pad-search" placeholder="Título, municipio o número de caja..." autocomplete="off">
   </div>
   <div class="muni-filter-wrap">
+    <label for="pad-region">Región:</label>
+    <select id="pad-region"><option value="">Todas las regiones</option></select>
+  </div>
+  <div class="muni-filter-wrap">
     <label for="pad-muni">Municipio:</label>
     <select id="pad-muni"><option value="">Todos los municipios</option></select>
   </div>
@@ -47,9 +51,9 @@ parent_url: /es/herramientas/
   </div>
   <div class="muni-filter-wrap pad-year-wrap">
     <label for="pad-year-from">Años:</label>
-    <input type="number" id="pad-year-from" placeholder="1765" min="1500" max="1999" aria-label="Año desde">
+    <input type="number" id="pad-year-from" placeholder="1800" min="1500" max="1999" aria-label="Año desde">
     <span aria-hidden="true">&#8211;</span>
-    <input type="number" id="pad-year-to" placeholder="1930" min="1500" max="1999" aria-label="Año hasta">
+    <input type="number" id="pad-year-to" placeholder="1910" min="1500" max="1999" aria-label="Año hasta">
   </div>
   <button type="button" id="pad-reset" class="pad-reset">Restablecer</button>
   <span id="pad-count" class="muni-count"></span>
@@ -62,10 +66,11 @@ parent_url: /es/herramientas/
     <thead>
       <tr>
         <th class="sortable" data-col="0" aria-sort="none">Municipio <span class="sort-icon" aria-hidden="true">&#8597;</span></th>
-        <th class="sortable" data-col="1" aria-sort="none">Tipo de Registro <span class="sort-icon" aria-hidden="true">&#8597;</span></th>
-        <th class="sortable" data-col="2" aria-sort="none">Título <span class="sort-icon" aria-hidden="true">&#8597;</span></th>
-        <th class="sortable" data-col="3" aria-sort="none">Años <span class="sort-icon" aria-hidden="true">&#8597;</span></th>
-        <th class="sortable" data-col="4" aria-sort="none">Imágenes <span class="sort-icon" aria-hidden="true">&#8597;</span></th>
+        <th class="sortable" data-col="1" aria-sort="none">Región <span class="sort-icon" aria-hidden="true">&#8597;</span></th>
+        <th class="sortable" data-col="2" aria-sort="none">Tipo de Registro <span class="sort-icon" aria-hidden="true">&#8597;</span></th>
+        <th class="sortable" data-col="3" aria-sort="none">Título <span class="sort-icon" aria-hidden="true">&#8597;</span></th>
+        <th class="sortable" data-col="4" aria-sort="none">Años <span class="sort-icon" aria-hidden="true">&#8597;</span></th>
+        <th class="sortable" data-col="5" aria-sort="none">Imágenes <span class="sort-icon" aria-hidden="true">&#8597;</span></th>
       </tr>
     </thead>
     <tbody id="pad-tbody"></tbody>
@@ -87,11 +92,16 @@ parent_url: /es/herramientas/
 
 <p class="pad-freshness">Este índice es una instantánea, no una fuente en vivo. FamilySearch añade grupos de imágenes continuamente, así que si una búsqueda en su sitio devuelve algo que esta tabla no incluye, el registro existe y nuestra instantánea simplemente es más antigua. Por favor <a href="/es/contacto/">avísenos</a> para que podamos actualizarla.</p>
 
-<p class="page-last-updated">Página actualizada por última vez: 15 de agosto de 2026</p>
+<p class="page-last-updated">Página actualizada por última vez: 17 de agosto de 2026</p>
 
 <script>
 const PAD_LANG = 'es';
 const PAD_DATA = {{ site.data['fs-image-groups'] | jsonify }};
 const PAD_TYPES = {{ site.data.fs_record_types | jsonify }};
+const PAD_REGIONS = {{ site.data.pr_regions | jsonify }};
+// La región pertenece al municipio, no al grupo de imágenes, así que se une
+// aquí al construir el sitio en vez de copiarse a _data/fs-image-groups.json,
+// que el normalizador reescribe en cada recolección.
+const PAD_MUNI_REGIONS = { {% for m in site.data['pr-municipalities'] %}{{ m.id | jsonify }}: {{ m.region | jsonify }}{% unless forloop.last %}, {% endunless %}{% endfor %} };
 </script>
 <script src="{{ '/assets/js/padrones.js' | relative_url }}"></script>

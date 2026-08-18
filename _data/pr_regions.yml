@@ -1,0 +1,60 @@
+# Localized labels for the geographic regions in _data/pr-municipalities.json
+#
+# Keys are the exact `region` strings stored on each municipality. All eleven
+# values in use are listed here. Do not add a region to a municipality without
+# adding it to this file first, or its label renders blank in Spanish and the
+# region filters silently drop it.
+#
+# Region values stay in English in markup (data-region attributes, <option>
+# values, query parameters) so one filter predicate serves both languages.
+# Only the visible label is translated. Used by:
+#   tools/municipality-guide/index.html        (Region filter and column)
+#   es/herramientas/guia-municipios/index.html
+#   tools/padrones/index.html                  (Region filter and column)
+#   es/herramientas/padrones/index.html
+#   assets/js/padrones.js
+#   _layouts/municipality.html                 (region badge)
+
+Central:
+  en: "Central"
+  es: "Central"
+
+East:
+  en: "East"
+  es: "Este"
+
+"Island Municipality":
+  en: "Island Municipality"
+  es: "Municipio Isla"
+
+Metro:
+  en: "Metro"
+  es: "Metro"
+
+North:
+  en: "North"
+  es: "Norte"
+
+Northeast:
+  en: "Northeast"
+  es: "Noreste"
+
+Northwest:
+  en: "Northwest"
+  es: "Noroeste"
+
+South:
+  en: "South"
+  es: "Sur"
+
+Southeast:
+  en: "Southeast"
+  es: "Sureste"
+
+Southwest:
+  en: "Southwest"
+  es: "Suroeste"
+
+West:
+  en: "West"
+  es: "Oeste"

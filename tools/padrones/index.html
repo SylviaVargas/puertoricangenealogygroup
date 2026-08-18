@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Padrones Browser
-description: "Browse 729 unindexed image groups created by the Gobierno de Puerto Rico: padrones de almas, padrones de jornaleros, municipal population censuses, and enslavement records, filterable by municipality, record type, and year."
+description: "Browse 729 unindexed image groups created by the Gobierno de Puerto Rico: 707 from 21 municipalities plus 22 island-wide, covering padrones de almas, padrones de jornaleros, municipal population censuses, and enslavement records, filterable by municipality, region, record type, and year."
 lang: en
 permalink: /tools/padrones/
 ref: padrones-tool
-last_modified_at: 2026-08-14
+last_modified_at: 2026-08-17
 parent_title: Tools
 parent_url: /tools/
 ---
@@ -19,8 +19,8 @@ parent_url: /tools/
 
 <div class="muni-tool-cards">
   <div class="muni-tool-card">
-    <h3>Filter by municipality</h3>
-    <p>Narrow to your town, then open its full municipality page for parish and civil registry context.</p>
+    <h3>Filter by region or municipality</h3>
+    <p>Narrow to a part of the island or to your town, then open its full municipality page for parish and civil registry context.</p>
     <a href="#pad-table" class="muni-tool-link">Go to table &#8595;</a>
   </div>
   <div class="muni-tool-card">
@@ -38,6 +38,10 @@ parent_url: /tools/
     <input type="search" id="pad-search" placeholder="Title, municipality, or caja number..." autocomplete="off">
   </div>
   <div class="muni-filter-wrap">
+    <label for="pad-region">Region:</label>
+    <select id="pad-region"><option value="">All regions</option></select>
+  </div>
+  <div class="muni-filter-wrap">
     <label for="pad-muni">Municipality:</label>
     <select id="pad-muni"><option value="">All municipalities</option></select>
   </div>
@@ -47,9 +51,9 @@ parent_url: /tools/
   </div>
   <div class="muni-filter-wrap pad-year-wrap">
     <label for="pad-year-from">Years:</label>
-    <input type="number" id="pad-year-from" placeholder="1765" min="1500" max="1999" aria-label="Year from">
+    <input type="number" id="pad-year-from" placeholder="1800" min="1500" max="1999" aria-label="Year from">
     <span aria-hidden="true">&#8211;</span>
-    <input type="number" id="pad-year-to" placeholder="1930" min="1500" max="1999" aria-label="Year to">
+    <input type="number" id="pad-year-to" placeholder="1910" min="1500" max="1999" aria-label="Year to">
   </div>
   <button type="button" id="pad-reset" class="pad-reset">Reset</button>
   <span id="pad-count" class="muni-count"></span>
@@ -62,10 +66,11 @@ parent_url: /tools/
     <thead>
       <tr>
         <th class="sortable" data-col="0" aria-sort="none">Municipality <span class="sort-icon" aria-hidden="true">&#8597;</span></th>
-        <th class="sortable" data-col="1" aria-sort="none">Record Type <span class="sort-icon" aria-hidden="true">&#8597;</span></th>
-        <th class="sortable" data-col="2" aria-sort="none">Title <span class="sort-icon" aria-hidden="true">&#8597;</span></th>
-        <th class="sortable" data-col="3" aria-sort="none">Years <span class="sort-icon" aria-hidden="true">&#8597;</span></th>
-        <th class="sortable" data-col="4" aria-sort="none">Images <span class="sort-icon" aria-hidden="true">&#8597;</span></th>
+        <th class="sortable" data-col="1" aria-sort="none">Region <span class="sort-icon" aria-hidden="true">&#8597;</span></th>
+        <th class="sortable" data-col="2" aria-sort="none">Record Type <span class="sort-icon" aria-hidden="true">&#8597;</span></th>
+        <th class="sortable" data-col="3" aria-sort="none">Title <span class="sort-icon" aria-hidden="true">&#8597;</span></th>
+        <th class="sortable" data-col="4" aria-sort="none">Years <span class="sort-icon" aria-hidden="true">&#8597;</span></th>
+        <th class="sortable" data-col="5" aria-sort="none">Images <span class="sort-icon" aria-hidden="true">&#8597;</span></th>
       </tr>
     </thead>
     <tbody id="pad-tbody"></tbody>
@@ -87,11 +92,16 @@ parent_url: /tools/
 
 <p class="pad-freshness">This index is a snapshot, not a live feed. FamilySearch adds image groups continuously, so if a search on their site returns something this table does not list, the record exists and our snapshot is simply older. Please <a href="/contact/">let us know</a> so we can refresh it.</p>
 
-<p class="page-last-updated">Page last updated: August 15, 2026</p>
+<p class="page-last-updated">Page last updated: August 17, 2026</p>
 
 <script>
 const PAD_LANG = 'en';
 const PAD_DATA = {{ site.data['fs-image-groups'] | jsonify }};
 const PAD_TYPES = {{ site.data.fs_record_types | jsonify }};
+const PAD_REGIONS = {{ site.data.pr_regions | jsonify }};
+// Region lives on the municipality, not on the image group, so it is joined
+// here at build time rather than copied into _data/fs-image-groups.json, which
+// the normalizer rewrites on every harvest.
+const PAD_MUNI_REGIONS = { {% for m in site.data['pr-municipalities'] %}{{ m.id | jsonify }}: {{ m.region | jsonify }}{% unless forloop.last %}, {% endunless %}{% endfor %} };
 </script>
 <script src="{{ '/assets/js/padrones.js' | relative_url }}"></script>

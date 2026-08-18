@@ -70,7 +70,7 @@ layout: default
       </span>
       {% endif %}
       {% if muni.region %}
-      <span class="muni-badge muni-badge--region">{{ muni.region }}, Puerto Rico</span>
+      <span class="muni-badge muni-badge--region">{% assign region_label = site.data.pr_regions[muni.region] %}{% if page.lang == 'es' %}{{ region_label.es | default: muni.region }}{% else %}{{ region_label.en | default: muni.region }}{% endif %}, Puerto Rico</span>
       {% endif %}
       {% if muni.is_mother_municipality %}
       <span class="muni-badge muni-badge--origin">
@@ -342,7 +342,7 @@ layout: default
       {% if padrones.size > 0 %}
       <section id="padrones" class="muni-section muni-padrones-section">
         <h2>{% if page.lang == 'es' %}Padrones y Censos Municipales{% else %}Padrones and Municipal Censuses{% endif %}</h2>
-        <p class="muni-padrones-intro">{% if page.lang == 'es' %}Los siguientes grupos de imágenes fueron creados por el <strong>Gobierno de Puerto Rico</strong> y digitalizados por FamilySearch. <strong>No están indexados por nombre</strong>, así que hay que hojearlos como un libro. Se necesita una cuenta gratuita de FamilySearch. Para aprender a leerlos y recorrerlos, vea <a href="/es/guias-investigacion/padrones-busqueda-imagenes/">Padrones y la búsqueda de imágenes</a>, o explore los de toda la isla en el <a href="/es/herramientas/padrones/">Explorador de Padrones</a>.{% else %}The following image groups were created by the <strong>Gobierno de Puerto Rico</strong> and digitized by FamilySearch. They are <strong>not name-indexed</strong>, so you browse them like a book. A free FamilySearch account is required. To learn how to read and work through them, see <a href="/research-guides/padrones-image-search/">Padrones and the Image Search</a>, or scan the island-wide set in the <a href="/tools/padrones/">Padrones Browser</a>.{% endif %}</p>
+        <p class="muni-padrones-intro">{% if page.lang == 'es' %}Los siguientes grupos de imágenes fueron creados por el <strong>Gobierno de Puerto Rico</strong> y digitalizados por FamilySearch. <strong>No están indexados por nombre</strong>, así que hay que hojearlos como un libro. Se necesita una cuenta gratuita de FamilySearch. Para aprender a leerlos y recorrerlos, vea <a href="/es/guias-investigacion/padrones-busqueda-imagenes/">Padrones y la búsqueda de imágenes</a>, o explore los de toda la isla en el <a href="/es/herramientas/padrones/?muni={{ muni.name | uri_escape }}">Explorador de Padrones</a>.{% else %}The following image groups were created by the <strong>Gobierno de Puerto Rico</strong> and digitized by FamilySearch. They are <strong>not name-indexed</strong>, so you browse them like a book. A free FamilySearch account is required. To learn how to read and work through them, see <a href="/research-guides/padrones-image-search/">Padrones and the Image Search</a>, or scan the island-wide set in the <a href="/tools/padrones/?muni={{ muni.name | uri_escape }}">Padrones Browser</a>.{% endif %}</p>
         {% assign padron_types = "padron-almas,padron-jornaleros,padron-habitantes,censo-poblacional,enslavement,other" | split: "," %}
         {% for padron_type in padron_types %}
         {% assign padron_group = padrones | where: "record_type", padron_type %}

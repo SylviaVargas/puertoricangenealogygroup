@@ -13,11 +13,18 @@
 # Mantenimiento: agregar entradas nuevas al inicio. Cambiar featured anterior a false.
 # Para archivar: mover entradas con más de ~12 meses a _data/news_es_archive_YYYY.yml
 
-- date: 2026-08-14
+- date: 2026-08-17
   category: funciones
   featured: true
+  title: "Explorador de Padrones: filtro por región"
+  body: "El Explorador de Padrones ahora filtra por región de la isla, con una columna de Región ordenable, así que se ve de un vistazo dónde se concentran los registros que sobrevivieron. No están repartidos por igual: 252 grupos de imágenes vienen del noroeste y 249 de la costa norte, mientras que toda la costa oeste tiene uno. El único padrón que sobrevive de Bayamón, antes archivado sin municipio, ya aparece en su página municipal, y eso eleva el conteo a 707 registros de 21 municipios más 22 de toda la isla."
+  link: /es/herramientas/padrones/
+
+- date: 2026-08-14
+  category: funciones
+  featured: false
   title: "Nueva herramienta: Explorador de Padrones"
-  body: "729 grupos de imágenes de FamilySearch sin indexar, creados por el Gobierno de Puerto Rico y que cubren 20 municipios, ya se pueden explorar por municipio, tipo de registro y año: padrones de almas, padrones de jornaleros del Régimen de la Libreta, censos poblacionales municipales y registros de esclavitud. La mayoría son anteriores al registro civil y, como no tienen índice de nombres, nunca aparecen en una búsqueda de FamilySearch. Cada página municipal ahora enumera lo que sobrevive para ese pueblo, y una nueva guía de investigación explica cómo leerlos."
+  body: "729 grupos de imágenes de FamilySearch sin indexar, creados por el Gobierno de Puerto Rico, 707 de ellos de 21 municipios y 22 que no nombran ningún pueblo, ya se pueden explorar por región, municipio, tipo de registro y año: padrones de almas, padrones de jornaleros del Régimen de la Libreta, censos poblacionales municipales y registros de esclavitud. La mayoría son anteriores al registro civil y, como no tienen índice de nombres, nunca aparecen en una búsqueda de FamilySearch. Cada página municipal ahora enumera lo que sobrevive para ese pueblo, y una nueva guía de investigación explica cómo leerlos."
   link: /es/herramientas/padrones/
 
 - date: 2026-07-21

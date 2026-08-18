@@ -129,7 +129,7 @@ The `creator` parameter filters to the archival body that made the records. Near
 
 <a href="https://www.familysearch.org/en/records/images/search-results?creator=Gobierno%20de%20Puerto%20Rico&pageSize=100" target="_blank" rel="noopener noreferrer"><em>All Gobierno de Puerto Rico image groups</em></a>
 
-As of August 2026 that search returns roughly 900 image groups. Around 170 of those are island-wide teacher personnel files rather than padrones, which leaves **729 municipal records across 20 municipalities**. Those 729 are what our [Padrones Browser](/tools/padrones/) indexes.
+As of August 2026 that search returns roughly 900 image groups. Around 170 of those are island-wide teacher personnel files rather than padrones, which leaves **729 records: 707 tied to one of 21 municipalities, plus 22 that name no town at all**. Those 729 are what our [Padrones Browser](/tools/padrones/) indexes. Do not skip the 22 unassigned ones. Their FamilySearch place field reads only "Puerto Rico", but several are San Juan district counts, and the collection's odder survivals sit in that pile.
 
 Coverage is concentrated rather than even: Arecibo alone accounts for 192 image groups and Isabela for 185, while most of the 78 municipalities have none at all. That is survival, not selection. Municipal paper was lost to hurricanes, fire, insects, and neglect at very different rates from town to town.
 

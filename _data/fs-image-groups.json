@@ -2716,6 +2716,20 @@
     "url": "https://www.familysearch.org/search/film/116885786"
   },
   {
+    "muni_id": "bayamon",
+    "muni_name": "Bayamón",
+    "record_type": "censo-poblacional",
+    "title": "Censo Poblacional",
+    "volume": "Censo Poblacional Municipio Bayamon",
+    "place": "Puerto Rico",
+    "caja": "",
+    "year_start": 1897,
+    "year_end": 1898,
+    "image_count": 288,
+    "dgs": "115995709",
+    "url": "https://www.familysearch.org/search/film/115995709"
+  },
+  {
     "muni_id": "camuy",
     "muni_name": "Camuy",
     "record_type": "padron-jornaleros",
@@ -8138,6 +8152,20 @@
     "muni_name": "San Juan",
     "record_type": "padron-habitantes",
     "title": "Censo Poblacional",
+    "volume": "Caja 124, Censo o Padron de los Individuos que Habitan en San Juan",
+    "place": "Puerto Rico",
+    "caja": "124",
+    "year_start": 1828,
+    "year_end": 1828,
+    "image_count": 202,
+    "dgs": "115995021",
+    "url": "https://www.familysearch.org/search/film/115995021"
+  },
+  {
+    "muni_id": "san_juan",
+    "muni_name": "San Juan",
+    "record_type": "padron-habitantes",
+    "title": "Censo Poblacional",
     "volume": "Caja 124, Padron del Barrio de la Marina",
     "place": "San Juan, Puerto Rico",
     "caja": "124",
@@ -8146,6 +8174,20 @@
     "image_count": 114,
     "dgs": "115995024",
     "url": "https://www.familysearch.org/search/film/115995024"
+  },
+  {
+    "muni_id": "san_juan",
+    "muni_name": "San Juan",
+    "record_type": "padron-habitantes",
+    "title": "Censo Poblacional",
+    "volume": "Caja 128, Distrito 5 Santurce",
+    "place": "Puerto Rico",
+    "caja": "128",
+    "year_start": 1902,
+    "year_end": 1902,
+    "image_count": 281,
+    "dgs": "115995074",
+    "url": "https://www.familysearch.org/search/film/115995074"
   },
   {
     "muni_id": "san_juan",
@@ -8622,6 +8664,20 @@
     "image_count": 243,
     "dgs": "115999072",
     "url": "https://www.familysearch.org/search/film/115999072"
+  },
+  {
+    "muni_id": "san_juan",
+    "muni_name": "San Juan",
+    "record_type": "censo-poblacional",
+    "title": "Censo Poblacional",
+    "volume": "Caja 128, Distrito Cuarto Puerta de Tierra",
+    "place": "Puerto Rico",
+    "caja": "128",
+    "year_start": 1902,
+    "year_end": 1902,
+    "image_count": 188,
+    "dgs": "115995063",
+    "url": "https://www.familysearch.org/search/film/115995063"
   },
   {
     "muni_id": "san_juan",
@@ -9844,34 +9900,6 @@
   {
     "muni_id": "",
     "muni_name": "",
-    "record_type": "padron-habitantes",
-    "title": "Censo Poblacional",
-    "volume": "Caja 124, Censo o Padron de los Individuos que Habitan en San Juan",
-    "place": "Puerto Rico",
-    "caja": "124",
-    "year_start": 1828,
-    "year_end": 1828,
-    "image_count": 202,
-    "dgs": "115995021",
-    "url": "https://www.familysearch.org/search/film/115995021"
-  },
-  {
-    "muni_id": "",
-    "muni_name": "",
-    "record_type": "padron-habitantes",
-    "title": "Censo Poblacional",
-    "volume": "Caja 128, Distrito 5 Santurce",
-    "place": "Puerto Rico",
-    "caja": "128",
-    "year_start": 1902,
-    "year_end": 1902,
-    "image_count": 281,
-    "dgs": "115995074",
-    "url": "https://www.familysearch.org/search/film/115995074"
-  },
-  {
-    "muni_id": "",
-    "muni_name": "",
     "record_type": "censo-poblacional",
     "title": "Censo Poblacional",
     "volume": "Estadisticas, Legajo 50, Expedientes 33-53",
@@ -10084,20 +10112,6 @@
     "muni_name": "",
     "record_type": "censo-poblacional",
     "title": "Censo Poblacional",
-    "volume": "Censo Poblacional Municipio Bayamon",
-    "place": "Puerto Rico",
-    "caja": "",
-    "year_start": 1897,
-    "year_end": 1898,
-    "image_count": 288,
-    "dgs": "115995709",
-    "url": "https://www.familysearch.org/search/film/115995709"
-  },
-  {
-    "muni_id": "",
-    "muni_name": "",
-    "record_type": "censo-poblacional",
-    "title": "Censo Poblacional",
     "volume": "Estadisticas, Legajo 50, Expedientes 33-53, #44, 3ra Pieza",
     "place": "Puerto Rico",
     "caja": "",
@@ -10176,20 +10190,6 @@
     "image_count": 5,
     "dgs": "115995120",
     "url": "https://www.familysearch.org/search/film/115995120"
-  },
-  {
-    "muni_id": "",
-    "muni_name": "",
-    "record_type": "censo-poblacional",
-    "title": "Censo Poblacional",
-    "volume": "Caja 128, Distrito Cuarto Puerta de Tierra",
-    "place": "Puerto Rico",
-    "caja": "128",
-    "year_start": 1902,
-    "year_end": 1902,
-    "image_count": 188,
-    "dgs": "115995063",
-    "url": "https://www.familysearch.org/search/film/115995063"
   },
   {
     "muni_id": "",

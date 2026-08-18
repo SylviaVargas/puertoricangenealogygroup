@@ -3385,6 +3385,10 @@ th.sorted-desc .sort-icon { opacity: 1; color: var(--color-red); }
 .pad-table tbody tr:hover { background: var(--color-light-gray); }
 .pad-table td:first-child { white-space: nowrap; }
 .pad-years, .pad-images { white-space: nowrap; }
+
+/* Region is context for the municipality beside it, not a headline. Island-wide
+   rows have no region and render this cell empty. */
+.pad-region { white-space: nowrap; color: var(--color-gray); }
 .pad-images { text-align: right; font-variant-numeric: tabular-nums; }
 
 .pad-type {

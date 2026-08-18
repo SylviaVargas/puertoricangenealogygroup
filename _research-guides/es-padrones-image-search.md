@@ -129,7 +129,7 @@ El parámetro `creator` filtra por el organismo archivístico que creó los regi
 
 <a href="https://www.familysearch.org/en/records/images/search-results?creator=Gobierno%20de%20Puerto%20Rico&pageSize=100" target="_blank" rel="noopener noreferrer"><em>Todos los grupos de imágenes del Gobierno de Puerto Rico</em></a>
 
-En agosto de 2026, esa búsqueda devuelve aproximadamente 900 grupos de imágenes. Unos 170 son expedientes de personal docente de toda la isla y no padrones, lo que deja **729 registros municipales de 20 municipios**. Esos 729 son los que indexa nuestro [Explorador de Padrones](/es/herramientas/padrones/).
+En agosto de 2026, esa búsqueda devuelve aproximadamente 900 grupos de imágenes. Unos 170 son expedientes de personal docente de toda la isla y no padrones, lo que deja **729 registros: 707 vinculados a uno de 21 municipios, más 22 que no nombran ningún pueblo**. Esos 729 son los que indexa nuestro [Explorador de Padrones](/es/herramientas/padrones/). No pase por alto los 22 sin asignar. Su campo de lugar en FamilySearch dice solo "Puerto Rico", pero varios son recuentos de distritos de San Juan, y las supervivencias más curiosas de la colección están en ese montón.
 
 La cobertura es desigual, no uniforme: solo Arecibo suma 192 grupos de imágenes e Isabela 185, mientras que la mayoría de los 78 municipios no tiene ninguno. Eso refleja lo que sobrevivió, no lo que se eligió. El papel municipal se perdió por huracanes, incendios, insectos y abandono a ritmos muy distintos según el pueblo.
 

@@ -79,7 +79,7 @@ Herramientas, plantillas y guías para ayudarte a organizar y documentar tu inve
 <h3>Explorador de Padrones</h3>
 <span class="badge badge-available">✓ Disponible</span>
 <span class="badge badge-interactive">Con búsqueda</span>
-<p>729 grupos de imágenes sin indexar de 20 municipios, creados por el Gobierno de Puerto Rico, con filtros por municipio, tipo de registro y año.</p>
+<p>729 grupos de imágenes sin indexar creados por el Gobierno de Puerto Rico: 707 de 21 municipios, más 22 de toda la isla. Con filtros por región, municipio, tipo de registro y año.</p>
 <p><strong>Incluye:</strong> Padrones de almas, padrones de jornaleros, censos poblacionales municipales y registros de esclavitud, con enlaces directos a las imágenes en FamilySearch</p>
 <ul>
 <li><a href="/es/herramientas/padrones/">Abrir el Explorador de Padrones</a></li>

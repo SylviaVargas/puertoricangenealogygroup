@@ -347,7 +347,7 @@ Una colecci&#243;n curada de archivos, bases de datos y herramientas para invest
 <div class="card-lang">&#127482;&#127480; &#127477;&#127479;</div>
 <span class="badge badge-top-pick">Colecci&#243;n Digital</span> <span class="badge badge-free">Gratis</span>
 <div class="card-title">Explorador de Padrones &#8212; Grupos de Im&#225;genes del Gobierno de Puerto Rico</div>
-<div class="card-desc">729 grupos de im&#225;genes de FamilySearch sin indexar de 20 municipios: padrones de almas, padrones de jornaleros, censos poblacionales municipales y registros de esclavitud, con filtros por municipio, tipo de registro y a&#241;o.</div>
+<div class="card-desc">729 grupos de im&#225;genes de FamilySearch sin indexar, 707 de 21 municipios m&#225;s 22 de toda la isla: padrones de almas, padrones de jornaleros, censos poblacionales municipales y registros de esclavitud, con filtros por regi&#243;n, municipio, tipo de registro y a&#241;o.</div>
 <details class="card-more">
 <summary>M&#225;s detalles</summary>
 <p>Estos registros municipales son en su mayor&#237;a anteriores al registro civil, que comenz&#243; en 1885. Como no tienen &#237;ndice de nombres, nunca aparecen en una b&#250;squeda por nombre en FamilySearch. El explorador permite filtrar por municipio y rango de fechas, y luego enlaza directamente a las im&#225;genes. Se necesita una cuenta gratuita de FamilySearch para verlas.</p>
