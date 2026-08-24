@@ -209,6 +209,21 @@ Una colecci&#243;n curada de archivos, bases de datos y herramientas para invest
 </div>
 </div>
 
+<div class="card resource-card" data-category="digital">
+<div class="card-lang">&#127466;&#127480;</div>
+<span class="badge badge-external">Base de Datos</span> <span class="badge badge-free">Gratuito</span>
+<div class="card-title">FHD Genealogías y Proyectos (España)</div>
+<div class="card-desc">Índices de registros parroquiales españoles creados por voluntarios, que cubren la provincia de Málaga y pueblos seleccionados de Valladolid, Segovia, Ávila, Burgos y Salamanca.</div>
+<details class="card-more">
+<summary>Más detalles</summary>
+<p>Proyecto de indexación gratuito de Federico José Heras Delgado, elaborado a partir de imágenes de archivos malagueños y de FamilySearch. Las bases de datos combinadas indexan cientos de miles de bautismos, matrimonios, defunciones y padrones, con búsqueda por apellido. Resulta útil solo después de haber identificado el pueblo de origen de un antepasado en España, y ten en cuenta que Málaga y Castilla no son las regiones de las que procede la mayoría de las familias puertorriqueñas. El sitio está en español y solicita acceso: usa <strong>invitado</strong> como usuario y como contraseña. Es un proyecto personal, no un archivo oficial, así que confirma siempre una entrada del índice con la imagen del registro original.</p>
+</details>
+<div class="card-footer">
+<a href="https://www.fhdgenealogiasyproyectos.es/" target="_blank" rel="noopener noreferrer" class="card-link">Visitar &#8594;</a>
+<a href="{{ '/es/contacto/' | relative_url }}" class="card-report">Reportar enlace roto</a>
+</div>
+</div>
+
 <div class="card resource-card" data-category="archive">
 <div class="card-lang">&#127477;&#127479;</div>
 <span class="badge badge-external">Archivo</span> <span class="badge badge-free">Gratuito</span>

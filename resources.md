@@ -209,6 +209,21 @@ A curated collection of archives, databases, and tools for researching Puerto Ri
 </div>
 </div>
 
+<div class="card resource-card" data-category="digital">
+<div class="card-lang">&#127466;&#127480;</div>
+<span class="badge badge-external">Database</span> <span class="badge badge-free">Free</span>
+<div class="card-title">FHD Genealogias y Proyectos (Spain)</div>
+<div class="card-desc">Volunteer-built indexes to Spanish parish registers, covering Malaga province and selected towns in Valladolid, Segovia, Avila, Burgos, and Salamanca.</div>
+<details class="card-more">
+<summary>More details</summary>
+<p>A free indexing project by Federico Jose Heras Delgado, built from Malaga archive images and FamilySearch. The combined databases index hundreds of thousands of baptisms, marriages, burials, and census entries, searchable by surname. This is useful only after you have identified an ancestor's town of origin in Spain, and note that Malaga and Castilla are not the regions most Puerto Rican families came from. The site is in Spanish and asks for a login: use <strong>invitado</strong> as both the username and the password. It is a personal project, not an official archive, so always confirm an index entry against the original register image.</p>
+</details>
+<div class="card-footer">
+<a href="https://www.fhdgenealogiasyproyectos.es/" target="_blank" rel="noopener noreferrer" class="card-link">Visit &#8594;</a>
+<a href="{{ '/contact/' | relative_url }}" class="card-report">Report broken link</a>
+</div>
+</div>
+
 <div class="card resource-card" data-category="archive">
 <div class="card-lang">&#127477;&#127479;</div>
 <span class="badge badge-external">Archive</span> <span class="badge badge-free">Free</span>
