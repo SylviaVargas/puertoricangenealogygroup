@@ -2,6 +2,8 @@
 layout: default
 lang: en
 ref: home
+title: "Puerto Rican Genealogy Group"
+description: "Free research guides, a searchable guide to all 78 municipalities, and a community connecting island and diaspora researchers tracing Puerto Rican roots."
 last_modified_at: 2026-05-13
 ---
 

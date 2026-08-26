@@ -2,6 +2,8 @@
 layout: default
 lang: es
 ref: home
+title: "Grupo de Genealogía Puertorriqueña"
+description: "Guías de investigación gratuitas, una guía de los 78 municipios y una comunidad que conecta a investigadores de la isla y la diáspora en busca de sus raíces."
 last_modified_at: 2026-05-13
 ---
 

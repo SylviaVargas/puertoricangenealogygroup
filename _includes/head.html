@@ -16,8 +16,6 @@
   -->
   <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' https://www.googletagmanager.com https://gc.zgo.at https://f.convertkit.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data: https://www.google-analytics.com https://www.googletagmanager.com https://cdn.buymeacoffee.com https://f.convertkit.com; connect-src 'self' https://www.google-analytics.com https://*.google-analytics.com https://*.analytics.google.com https://www.googletagmanager.com https://puertoricangenealogy.goatcounter.com https://f.convertkit.com https://app.kit.com; object-src 'none'; base-uri 'self'; form-action 'self' https://app.kit.com">
 
-  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
-  <meta name="description" content="{{ page.description | default: site.description }}">
   <meta name="author" content="{{ site.author.name }}">
   <meta name="copyright" content="&copy; {{ site.time | date: '%Y' }} {{ site.author.name }}">
   <meta name="rights" content="All rights reserved. {{ site.trademark }} is a trademark of {{ site.author.name }}.">
@@ -34,8 +32,10 @@
   <link rel="alternate" hreflang="es" href="{{ site.url }}{{ site.baseurl }}/es{{ page.url }}">
   {% endif %}
 
-  <!-- Favicon -->
-  <link rel="icon" type="image/png" href="{{ '/assets/images/logo-square.png' | relative_url }}">
+  <!-- Favicons -->
+  <link rel="icon" href="{{ '/assets/images/favicon.ico' | relative_url }}" sizes="any">
+  <link rel="icon" type="image/png" href="{{ '/assets/images/logo-badge-160.png' | relative_url }}">
+  <link rel="apple-touch-icon" href="{{ '/assets/images/apple-touch-icon.png' | relative_url }}">
 
   <!-- Stylesheets -->
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
@@ -47,6 +47,20 @@
 
   {% seo %}
 
+  <!-- Open Graph companions that jekyll-seo-tag does not emit. Facebook needs
+       width/height to render the large card on its first scrape. -->
+  {% assign social_image = page.image | default: '/assets/images/banner-social.jpg' %}
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:type" content="image/jpeg">
+  <meta property="og:image:alt" content="Puerto Rican Genealogy Group{% if page.lang == 'es' %}: Conectando Raíces, Celebrando Herencia{% endif %}">
+  <meta property="og:image:secure_url" content="{{ social_image | absolute_url }}">
+  {% if page.lang == 'es' %}
+  <meta property="og:locale:alternate" content="en_US">
+  {% else %}
+  <meta property="og:locale:alternate" content="es_PR">
+  {% endif %}
+
   <!-- Organization structured data -->
   <script type="application/ld+json">
   {
@@ -54,7 +68,7 @@
     "@type": "Organization",
     "name": "{{ site.title | escape }}",
     "url": "{{ site.url }}",
-    "logo": "{{ site.url }}/assets/images/logo-primary.png",
+    "logo": "{{ site.url }}/assets/images/logo-horizontal.png",
     "founder": {
       "@type": "Person",
       "name": "{{ site.author.name }}",
