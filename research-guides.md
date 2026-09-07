@@ -167,13 +167,11 @@ Puerto Rican genealogy comes with unique challenges — Spanish-language records
 
 <div class="card guide-card" data-category="records">
 <h3>Church Records</h3>
-<span class="badge badge-coming-soon">🔜 Coming Soon</span>
-<p>Discover the wealth of information in Catholic parish records.</p>
+<span class="badge badge-available">✓ Available</span>
+<p>Discover the wealth of information in Catholic parish records, and what to do when a register is not on FamilySearch, including the current Diocese of Mayagüez access restriction.</p>
 <ul>
-  <li><a href="#parish">Understanding Parish Records</a></li>
-  <li><a href="#baptisms">Baptismal Records</a> · <a href="https://genealogianuestra.com/unlocking-church-records-for-mayaguez-new-19th-century-baptismal-transcriptions/" target="_blank" rel="noopener noreferrer"><em>New Mayagüez Baptismal Transcriptions, 19th Century</em></a></li>
-  <li><a href="#church-marriages">Marriage Records</a> · <a href="https://www.familysearch.org/en/search/collection/1807092" target="_blank" rel="noopener noreferrer"><em>Browse on FamilySearch</em></a></li>
-  <li><a href="#burials">Burial Records</a></li>
+  <li><a href="/research-guides/catholic-church-records-access/">Access Limits and Alternatives</a></li>
+  <li><a href="https://genealogianuestra.com/unlocking-church-records-for-mayaguez-new-19th-century-baptismal-transcriptions/" target="_blank" rel="noopener noreferrer"><em>New Mayagüez Baptismal Transcriptions, 19th Century</em></a></li>
   <li><a href="https://www.familysearch.org/en/search/collection/1807092" target="_blank" rel="noopener noreferrer"><em>Browse: Catholic Church Records, 1645–2021</em></a></li>
 </ul>
 </div>

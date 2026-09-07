@@ -12,9 +12,16 @@
 #
 # Maintenance: add new entries at the top. Move old featured to non-featured.
 # To archive: move entries older than ~12 months to _data/news_archive_YYYY.yml
+- date: 2026-09-07
+  category: guides
+  featured: true
+  title: "New Guide: Catholic Church Records, Access Limits and Alternatives"
+  body: "A new research guide covers what to do when a parish baptism, marriage, or burial register is not on FamilySearch, including the Diocese of Mayagüez's current researcher-access restriction and a GPS-compliant alternative source strategy. The Mayagüez municipality page now links to it."
+  link: /research-guides/catholic-church-records-access/
+
 - date: 2026-08-17
   category: features
-  featured: true
+  featured: false
   title: "Padrones Browser: Filter by Region"
   body: "The Padrones Browser now filters by region of the island, with a sortable Region column, so you can see at a glance where the surviving records cluster. They are not spread evenly: 252 image groups come from the northwest and 249 from the north coast, while the entire west coast holds one. Bayamón's only surviving padrón, previously filed with no municipality, now appears on its municipality page, bringing the count to 707 records across 21 municipalities plus 22 island-wide."
   link: /tools/padrones/

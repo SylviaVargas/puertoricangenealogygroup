@@ -167,13 +167,11 @@ La genealogía puertorriqueña presenta desafíos únicos: documentos en españo
 
 <div class="card guide-card" data-category="records">
 <h3>Registros Eclesiásticos</h3>
-<span class="badge badge-coming-soon">🔜 Próximamente</span>
-<p>Descubre la riqueza de información en los registros parroquiales católicos.</p>
+<span class="badge badge-available">✓ Disponible</span>
+<p>Descubre la riqueza de información en los registros parroquiales católicos, y qué hacer cuando un registro no está en FamilySearch, incluyendo la restricción actual de acceso de la Diócesis de Mayagüez.</p>
 <ul>
-  <li><a href="#parroquia">Entendiendo los Registros Parroquiales</a></li>
-  <li><a href="#bautismos">Registros de Bautismo</a> · <a href="https://genealogianuestra.com/unlocking-church-records-for-mayaguez-new-19th-century-baptismal-transcriptions/" target="_blank" rel="noopener noreferrer"><em>Nuevas Transcripciones de Bautismo de Mayagüez, Siglo XIX</em></a></li>
-  <li><a href="#matrimonios-iglesia">Registros de Matrimonio Eclesiástico</a> · <a href="https://www.familysearch.org/en/search/collection/1807092" target="_blank" rel="noopener noreferrer"><em>Explorar en FamilySearch</em></a></li>
-  <li><a href="#entierros">Registros de Entierro</a></li>
+  <li><a href="/es/guias-investigacion/acceso-registros-parroquiales/">Límites de Acceso y Alternativas</a></li>
+  <li><a href="https://genealogianuestra.com/unlocking-church-records-for-mayaguez-new-19th-century-baptismal-transcriptions/" target="_blank" rel="noopener noreferrer"><em>Nuevas Transcripciones de Bautismo de Mayagüez, Siglo XIX</em></a></li>
   <li><a href="https://www.familysearch.org/en/search/collection/1807092" target="_blank" rel="noopener noreferrer"><em>Explorar: Registros de la Iglesia Católica, 1645–2021</em></a></li>
 </ul>
 </div>

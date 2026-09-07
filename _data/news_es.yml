@@ -13,9 +13,16 @@
 # Mantenimiento: agregar entradas nuevas al inicio. Cambiar featured anterior a false.
 # Para archivar: mover entradas con más de ~12 meses a _data/news_es_archive_YYYY.yml
 
+- date: 2026-09-07
+  category: guias
+  featured: true
+  title: "Nueva guía: Registros eclesiásticos católicos, límites de acceso y alternativas"
+  body: "Una nueva guía de investigación explica qué hacer cuando un acta de bautismo, matrimonio o entierro no está en FamilySearch, incluyendo la restricción actual de acceso de investigadores de la Diócesis de Mayagüez y una estrategia de fuentes alternativas conforme al GPS. La página municipal de Mayagüez ahora enlaza a ella."
+  link: /es/guias-investigacion/acceso-registros-parroquiales/
+
 - date: 2026-08-17
   category: funciones
-  featured: true
+  featured: false
   title: "Explorador de Padrones: filtro por región"
   body: "El Explorador de Padrones ahora filtra por región de la isla, con una columna de Región ordenable, así que se ve de un vistazo dónde se concentran los registros que sobrevivieron. No están repartidos por igual: 252 grupos de imágenes vienen del noroeste y 249 de la costa norte, mientras que toda la costa oeste tiene uno. El único padrón que sobrevive de Bayamón, antes archivado sin municipio, ya aparece en su página municipal, y eso eleva el conteo a 707 registros de 21 municipios más 22 de toda la isla."
   link: /es/herramientas/padrones/
