@@ -44,7 +44,7 @@ PuertoRicanGenealogy.org hosts regular virtual meetings where members can learn,
 
 <div class="card meeting-grid-card">
 <div class="card-title">November 2026: A Conversation with Dr. Antonio Sotomayor</div>
-<div class="card-desc">An informal interview with historian and genealogist Dr. Antonio Sotomayor, followed by questions from the group. Monday, November 9, 2026.</div>
+<div class="card-desc">An informal interview with historian and genealogist Dr. Antonio Sotomayor, followed by questions from the group. Monday, November 9, 2026.<br><strong>7:00 PM EST / 8:00 PM PR / 4:00 PM PST</strong></div>
 <div class="card-footer">
 <a href="{{ '/meeting-november-2026/' | relative_url }}" class="card-link">View Details &#8594;</a>
 </div>

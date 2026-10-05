@@ -5,7 +5,7 @@ description: "Reuniones virtuales mensuales gratuitas para investigadores de gen
 lang: es
 permalink: /es/reuniones/
 ref: meetings
-last_modified_at: 2026-08-18
+last_modified_at: 2026-10-04
 ---
 
 ## Únete a Nuestras Reuniones Virtuales
@@ -44,7 +44,7 @@ El PuertoRicanGenealogy.org organiza reuniones virtuales regulares donde los mie
 
 <div class="card meeting-grid-card">
 <div class="card-title">Noviembre 2026: Una Conversación con el Dr. Antonio Sotomayor</div>
-<div class="card-desc">Una entrevista informal con el historiador y genealogista Dr. Antonio Sotomayor, seguida de preguntas del grupo. Lunes, 9 de noviembre de 2026.</div>
+<div class="card-desc">Una entrevista informal con el historiador y genealogista Dr. Antonio Sotomayor, seguida de preguntas del grupo. Lunes, 9 de noviembre de 2026.<br><strong>7:00 PM EST / 8:00 PM PR / 4:00 PM PST</strong></div>
 <div class="card-footer">
 <a href="{{ '/es/reunion-noviembre-2026/' | relative_url }}" class="card-link">Ver Detalles &#8594;</a>
 </div>
