@@ -176,6 +176,16 @@ Puerto Rican genealogy comes with unique challenges — Spanish-language records
 </ul>
 </div>
 
+<div class="card guide-card" data-category="records">
+<h3>Corsican and Puerto Rican Research</h3>
+<span class="badge badge-available">✓ Available</span>
+<p>Trace a family line between Puerto Rico and Corsica: the research path, historical context (Genoa, France, and the 1815 Real Cédula de Gracias), online and offline archives, books, name variants, and a four-language glossary.</p>
+<ul>
+  <li><a href="/research-guides/corsican-puerto-rican-research/">Resources and Process</a></li>
+  <li><a href="https://boricorsos.org/conocenos/" target="_blank" rel="noopener noreferrer"><em>Asociación de Corsos de Puerto Rico</em></a></li>
+</ul>
+</div>
+
 <div class="card guide-card" data-category="standards">
 <h3>Research Standards: GPS</h3>
 <span class="badge badge-available">✓ Available</span>

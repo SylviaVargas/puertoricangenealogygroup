@@ -73,6 +73,7 @@ All external HTTP/HTTPS links in `.md` files must use this HTML format — **nev
 ```
 
 - `mailto:` and internal/relative links: keep as standard markdown
+- **Guide pages:** every link in the body of a `guide`-layout page renders italic and underlined via `.guide-content a:not(.btn)` in `assets/css/style.css`. Do not add italics or underline by hand to internal links; `.btn` links are excluded
 - Bold wrappers: `**<a href="..." target="_blank" rel="noopener noreferrer"><em>text</em></a>**`
 
 ---

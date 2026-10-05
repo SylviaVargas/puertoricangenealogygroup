@@ -12,9 +12,16 @@
 #
 # Maintenance: add new entries at the top. Move old featured to non-featured.
 # To archive: move entries older than ~12 months to _data/news_archive_YYYY.yml
+- date: 2026-10-05
+  category: guides
+  featured: true
+  title: "New Guide: Corsican and Puerto Rican Research"
+  body: "A new bilingual research guide lays out how to trace a family line between Puerto Rico and Corsica: where the records live in Puerto Rico, Spain, Corsica, and Genoa, the order to use them, name variants, and a four-language glossary."
+  link: /research-guides/corsican-puerto-rican-research/
+
 - date: 2026-10-04
   category: features
-  featured: true
+  featured: false
   title: "Upcoming: November 2026 Meeting, A Conversation with Dr. Antonio Sotomayor"
   body: "Our November meeting is now open for registration. Join us on Monday, November 9 for an informal interview with historian and genealogist Dr. Antonio Sotomayor, followed by questions from the group."
   link: /meeting-november-2026/

@@ -176,6 +176,16 @@ La genealogía puertorriqueña presenta desafíos únicos: documentos en españo
 </ul>
 </div>
 
+<div class="card guide-card" data-category="records">
+<h3>Investigación Corsa y Puertorriqueña</h3>
+<span class="badge badge-available">✓ Disponible</span>
+<p>Rastrea una línea familiar entre Puerto Rico y Córcega: la ruta de investigación, el contexto histórico (Génova, Francia y la Real Cédula de Gracias de 1815), archivos en línea y presenciales, libros, variantes de nombres y un glosario en cuatro idiomas.</p>
+<ul>
+  <li><a href="/es/guias-investigacion/investigacion-corsa-puertorriquena/">Recursos y Proceso</a></li>
+  <li><a href="https://boricorsos.org/conocenos/" target="_blank" rel="noopener noreferrer"><em>Asociación de Corsos de Puerto Rico</em></a></li>
+</ul>
+</div>
+
 <div class="card guide-card" data-category="standards">
 <h3>Estándares de Investigación: GPS</h3>
 <span class="badge badge-available">✓ Disponible</span>

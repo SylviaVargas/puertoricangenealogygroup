@@ -13,9 +13,16 @@
 # Mantenimiento: agregar entradas nuevas al inicio. Cambiar featured anterior a false.
 # Para archivar: mover entradas con más de ~12 meses a _data/news_es_archive_YYYY.yml
 
+- date: 2026-10-05
+  category: guias
+  featured: true
+  title: "Nueva Guía: Investigación Corsa y Puertorriqueña"
+  body: "Una nueva guía bilingüe de investigación explica cómo rastrear una línea familiar entre Puerto Rico y Córcega: dónde están los registros en Puerto Rico, España, Córcega y Génova, el orden para usarlos, variantes de nombres y un glosario en cuatro idiomas."
+  link: /es/guias-investigacion/investigacion-corsa-puertorriquena/
+
 - date: 2026-10-04
   category: funciones
-  featured: true
+  featured: false
   title: "Próxima Reunión: Noviembre 2026, Una Conversación con el Dr. Antonio Sotomayor"
   body: "Nuestra reunión de noviembre ya está abierta para registro. Únete a nosotros el lunes 9 de noviembre para una entrevista informal con el historiador y genealogista Dr. Antonio Sotomayor, seguida de preguntas del grupo."
   link: /es/reunion-noviembre-2026/

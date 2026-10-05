@@ -1252,6 +1252,12 @@ td:first-child {
   margin-bottom: var(--spacing-sm);
 }
 
+/* Links in guide body text are italic and underlined (buttons excluded) */
+.guide-content a:not(.btn) {
+  font-style: italic;
+  text-decoration: underline;
+}
+
 .guide-content blockquote {
   border-left: 4px solid var(--color-gold);
   background: var(--color-cream);
