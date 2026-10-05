@@ -5,7 +5,7 @@ description: "Free monthly virtual meetings for Puerto Rican genealogy researche
 lang: en
 permalink: /meetings/
 ref: meetings
-last_modified_at: 2026-08-18
+last_modified_at: 2026-10-04
 ---
 
 ## Join Our Virtual Meetings
@@ -30,10 +30,10 @@ PuertoRicanGenealogy.org hosts regular virtual meetings where members can learn,
 
 <div id="upcoming-meeting" class="meeting-card">
   <div class="meeting-card-label">Upcoming Meeting</div>
-  <h3><a href="{{ '/meeting-september-2026/' | relative_url }}">September 2026 Meeting</a></h3>
-  <p>Join us as Cary Bright presents "DNA and Puerto Rican Genealogy, Part 1," the first of a two-part series on putting DNA evidence to work in Puerto Rican research, from choosing among the testing platforms to reading what your matches actually tell you.</p>
+  <h3><a href="{{ '/meeting-october-2026/' | relative_url }}">October 2026 Meeting</a></h3>
+  <p>Join us for Part 2 of our DNA series, as Cary Bright returns to continue our exploration of using DNA evidence in Puerto Rican genealogy research.</p>
   <div class="meeting-card-details">
-    <span>Monday, September 14, 2026</span>
+    <span>Monday, October 12, 2026</span>
     <span>7:00 PM EDT / 7:00 PM PR / 4:00 PM PDT</span>
   </div>
   <a href="https://us06web.zoom.us/meeting/register/chSyaQqxRzSxOaeXxJmM0Q" class="btn btn-primary" target="_blank" rel="noopener noreferrer">Register Now</a>
@@ -43,10 +43,10 @@ PuertoRicanGenealogy.org hosts regular virtual meetings where members can learn,
 <div class="card-grid">
 
 <div class="card meeting-grid-card">
-<div class="card-title">October 2026 — DNA and Puerto Rican Genealogy, Part 2</div>
-<div class="card-desc">Cary Bright returns for Part 2 of the two-part DNA series. Monday, October 12, 2026.</div>
+<div class="card-title">November 2026: A Conversation with Dr. Antonio Sotomayor</div>
+<div class="card-desc">An informal interview with historian and genealogist Dr. Antonio Sotomayor, followed by questions from the group. Monday, November 9, 2026.</div>
 <div class="card-footer">
-<a href="{{ '/meeting-october-2026/' | relative_url }}" class="card-link">View Details &#8594;</a>
+<a href="{{ '/meeting-november-2026/' | relative_url }}" class="card-link">View Details &#8594;</a>
 </div>
 </div>
 
@@ -89,6 +89,7 @@ Our meetings are hosted on Zoom. <a href="https://us06web.zoom.us/meeting/regist
 
 #### 2026
 
+- September 2026: "DNA and Puerto Rican Genealogy, Part 1" with Cary Bright
 - August 2026: "Hiding in Plain Sight" with María Silva Rivera, plus "Spain, Puerto Ricans, and the American Revolution" with Joe Maldonado, rescheduled from July
 - July 2026: "Spain, Puerto Ricans, and the American Revolution" with Joe Maldonado (presentation canceled due to illness, rescheduled to August 10); members shared progress, roadblocks, and research tips
 - June 2026: No meeting

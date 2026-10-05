@@ -13,9 +13,16 @@
 # Mantenimiento: agregar entradas nuevas al inicio. Cambiar featured anterior a false.
 # Para archivar: mover entradas con más de ~12 meses a _data/news_es_archive_YYYY.yml
 
+- date: 2026-10-04
+  category: funciones
+  featured: true
+  title: "Próxima Reunión: Noviembre 2026, Una Conversación con el Dr. Antonio Sotomayor"
+  body: "Nuestra reunión de noviembre ya está abierta para registro. Únete a nosotros el lunes 9 de noviembre para una entrevista informal con el historiador y genealogista Dr. Antonio Sotomayor, seguida de preguntas del grupo."
+  link: /es/reunion-noviembre-2026/
+
 - date: 2026-09-07
   category: guias
-  featured: true
+  featured: false
   title: "Nueva guía: Registros eclesiásticos católicos, límites de acceso y alternativas"
   body: "Una nueva guía de investigación explica qué hacer cuando un acta de bautismo, matrimonio o entierro no está en FamilySearch, incluyendo la restricción actual de acceso de investigadores de la Diócesis de Mayagüez y una estrategia de fuentes alternativas conforme al GPS. La página municipal de Mayagüez ahora enlaza a ella."
   link: /es/guias-investigacion/acceso-registros-parroquiales/

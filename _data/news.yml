@@ -12,9 +12,16 @@
 #
 # Maintenance: add new entries at the top. Move old featured to non-featured.
 # To archive: move entries older than ~12 months to _data/news_archive_YYYY.yml
+- date: 2026-10-04
+  category: features
+  featured: true
+  title: "Upcoming: November 2026 Meeting, A Conversation with Dr. Antonio Sotomayor"
+  body: "Our November meeting is now open for registration. Join us on Monday, November 9 for an informal interview with historian and genealogist Dr. Antonio Sotomayor, followed by questions from the group."
+  link: /meeting-november-2026/
+
 - date: 2026-09-07
   category: guides
-  featured: true
+  featured: false
   title: "New Guide: Catholic Church Records, Access Limits and Alternatives"
   body: "A new research guide covers what to do when a parish baptism, marriage, or burial register is not on FamilySearch, including the Diocese of Mayagüez's current researcher-access restriction and a GPS-compliant alternative source strategy. The Mayagüez municipality page now links to it."
   link: /research-guides/catholic-church-records-access/
