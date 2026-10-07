@@ -1,6 +1,6 @@
 ---
 layout: guide
-title: "Patrones de Migración y Registros en el Continente"
+title: "Migración Puertorriqueña y Registros en el Continente de EE. UU."
 description: "Un curso intermedio de cinco módulos para rastrear a los antepasados puertorriqueños que emigraron al continente de los Estados Unidos y a Hawái: registros de partida, registros federales y estatales, ciudades de destino clave e investigación bilingüe conforme al GPS."
 difficulty: intermediate
 lang: es

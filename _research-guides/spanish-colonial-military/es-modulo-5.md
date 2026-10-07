@@ -7,11 +7,11 @@ lang: es
 permalink: /es/guias-investigacion/registros-militares-coloniales-modulo-5/
 ref: spanish-colonial-military-module-5
 last_modified_at: 2026-06-05
-parent_title: "Registros Militares de la Época Colonial Española"
+parent_title: "Registros Militares de Puerto Rico: Época Colonial Española"
 parent_url: /es/guias-investigacion/registros-militares-coloniales/
 ---
 
-*Parte del curso [Registros Militares de la Época Colonial Española](/es/guias-investigacion/registros-militares-coloniales/).*
+*Parte del curso [Registros Militares de Puerto Rico: Época Colonial Española](/es/guias-investigacion/registros-militares-coloniales/).*
 
 ---
 

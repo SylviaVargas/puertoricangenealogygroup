@@ -7,11 +7,11 @@ lang: en
 permalink: /research-guides/migration-patterns-module-1/
 ref: migration-patterns-module-1
 last_modified_at: 2026-06-04
-parent_title: "Migration Patterns and Mainland Records"
+parent_title: "Puerto Rican Migration and U.S. Mainland Records"
 parent_url: /research-guides/migration-patterns/
 ---
 
-*Part of the [Migration Patterns and Mainland Records](/research-guides/migration-patterns/) course.*
+*Part of the [Puerto Rican Migration and U.S. Mainland Records](/research-guides/migration-patterns/) course.*
 
 ---
 

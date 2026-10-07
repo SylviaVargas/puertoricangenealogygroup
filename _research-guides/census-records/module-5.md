@@ -9,7 +9,7 @@ ref: census-records-module-5
 last_modified_at: 2026-02-26
 ---
 
-*Part of the [Census Records for Puerto Rican Genealogy](/research-guides/census-records/) course.*
+*Part of the [Puerto Rican Census Records for Genealogy](/research-guides/census-records/) course.*
 
 ---
 
@@ -49,7 +49,7 @@ Nearly every genealogical record in Puerto Rico identifies a person's barrio as 
 
 ## Types of Municipal and Local Records
 
-**Padrones municipales** — Local household census registers created by municipal governments for administrative purposes, separate from island-wide enumerations. May list household members by name, age, and relationship. Survival varies by municipality; some collections are at the AGPR. Many are now digitized as unindexed image groups on FamilySearch: see [Padrones and the FamilySearch Image Search](/research-guides/padrones-image-search/), or browse what survives for your town in the [Padrones Browser](/tools/padrones/).
+**Padrones municipales** — Local household census registers created by municipal governments for administrative purposes, separate from island-wide enumerations. May list household members by name, age, and relationship. Survival varies by municipality; some collections are at the AGPR. Many are now digitized as unindexed image groups on FamilySearch: see [Puerto Rican Padrones and Population Registers: FamilySearch Image Search](/research-guides/padrones-image-search/), or browse what survives for your town in the [Padrones Browser](/tools/padrones/).
 
 **Tax records (Contribución territorial / Catastro)** — Property tax rolls listing property owners within a municipality, organized by barrio. These confirm a family's presence in a specific barrio between census years and can reveal property transfers that suggest migration or inheritance patterns.
 

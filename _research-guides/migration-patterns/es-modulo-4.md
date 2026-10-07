@@ -7,11 +7,11 @@ lang: es
 permalink: /es/guias-investigacion/patrones-migracion-modulo-4/
 ref: migration-patterns-module-4
 last_modified_at: 2026-06-04
-parent_title: "Patrones de Migración y Registros en el Continente"
+parent_title: "Migración Puertorriqueña y Registros en el Continente de EE. UU."
 parent_url: /es/guias-investigacion/patrones-migracion/
 ---
 
-*Parte del curso [Patrones de Migración y Registros en el Continente](/es/guias-investigacion/patrones-migracion/).*
+*Parte del curso [Migración Puertorriqueña y Registros en el Continente de EE. UU.](/es/guias-investigacion/patrones-migracion/).*
 
 ---
 

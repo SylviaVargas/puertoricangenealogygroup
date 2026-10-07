@@ -1,6 +1,6 @@
 ---
 layout: guide
-title: "The Genealogical Proof Standard"
+title: "Applying the Genealogical Proof Standard"
 description: "Understand the five-element standard that defines what makes a genealogical conclusion reliable — and how it applies to Puerto Rican research."
 difficulty: intermediate
 lang: en

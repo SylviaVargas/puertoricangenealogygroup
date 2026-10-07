@@ -1,6 +1,6 @@
 ---
 layout: guide
-title: "Spanish Colonial Military Records"
+title: "Puerto Rican Military Records: Spanish Colonial Era"
 description: "A five-module intermediate course on tracing Puerto Rican ancestors in Spanish colonial military records: filiaciones, muster rolls, repository access, and GPS-compliant research strategies."
 difficulty: intermediate
 lang: en

@@ -1,6 +1,6 @@
 ---
 layout: guide
-title: "Buscando Ancestros en Periódicos Históricos de Puerto Rico"
+title: "Periódicos Históricos de Puerto Rico para la Genealogía"
 description: "Un curso intermedio de 5 lecciones sobre cómo encontrar y utilizar periódicos históricos digitalizados de Puerto Rico para la genealogía. Todas las plataformas son gratuitas. Incluye un caso de estudio real de Rincón en 1872 y estrategias de búsqueda para registros relacionados con la esclavitud."
 difficulty: intermediate
 lang: es

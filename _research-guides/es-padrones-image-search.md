@@ -1,6 +1,6 @@
 ---
 layout: guide
-title: "Padrones y la Búsqueda de Imágenes de FamilySearch"
+title: "Padrones y Registros de Población de Puerto Rico: Búsqueda de Imágenes en FamilySearch"
 description: "Cómo encontrar y leer las listas de población municipal de Puerto Rico: padrones de almas, padrones de jornaleros y censos poblacionales. Incluye cómo explorar las colecciones de imágenes sin indexar de FamilySearch por creador y tipo de registro."
 difficulty: intermediate
 lang: es
@@ -195,7 +195,7 @@ Incluya el número de *caja*, el municipio, el rango de fechas, el número de im
 - **Su página municipal**: cada pueblo en la [Guía de Municipios](/es/herramientas/guia-municipios/) ahora enumera los padrones que sobreviven para él, junto a los detalles parroquiales y del registro civil.
 - **[Curso de Registros Censales](/es/guias-investigacion/registros-censales/)**: los censos de toda la isla y su contexto político.
 - **[Curso de Registros de Esclavitud](/es/guias-investigacion/registros-esclavos/)**: el registro de 1872 y la documentación de la era de la abolición.
-- **[Glosario de Español Genealógico](/es/guias-investigacion/glosario-espanol-genealogico/)**: el vocabulario que usan estos documentos.
+- **[Términos y Glosario de Español Genealógico](/es/guias-investigacion/glosario-espanol-genealogico/)**: el vocabulario que usan estos documentos.
 
 ---
 

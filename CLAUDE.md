@@ -73,7 +73,7 @@ All external HTTP/HTTPS links in `.md` files must use this HTML format — **nev
 ```
 
 - `mailto:` and internal/relative links: keep as standard markdown
-- **Guide pages:** every link in the body of a `guide`-layout page renders italic and underlined via `.guide-content a:not(.btn)` in `assets/css/style.css`. Do not add italics or underline by hand to internal links; `.btn` links are excluded
+- **Guide pages:** every link in the body of a `guide`-layout page renders italic and underlined via `.guide-content a:not(.btn)` in `assets/css/site.css`. Do not add italics or underline by hand to internal links; `.btn` links are excluded
 - Bold wrappers: `**<a href="..." target="_blank" rel="noopener noreferrer"><em>text</em></a>**`
 
 ---
@@ -111,7 +111,7 @@ Municipality pages output at `/tools/municipality-guide/:name/` (EN) or explicit
 
 ## CSS & Styling
 
-- **All CSS** lives in `assets/css/style.css` — the `_sass/` directory is intentionally empty
+- **All CSS** lives in `assets/css/site.css` — the `_sass/` directory is intentionally empty. Do not name it `style.css`: the remote theme also writes `assets/css/style.css`, and during `jekyll serve` regenerations the theme's copy overwrites ours (unstyled localhost).
 - **Brand colors** (CSS variables):
   ```css
   --navy: #1a3a5c
@@ -323,7 +323,7 @@ No exceptions.
 | `_includes/header.html` | Site header, nav, search |
 | `_includes/footer.html` | Site footer |
 | `_includes/head.html` | `<head>` tag, fonts, SEO |
-| `assets/css/style.css` | All CSS styles |
+| `assets/css/site.css` | All CSS styles |
 | `assets/js/main.js` | Site-wide JS (search, nav, smooth scroll) |
 | `search.json` | Client-side search index generator |
 | `_data/` | YAML/JSON data files (news, municipalities, funeral cards) |

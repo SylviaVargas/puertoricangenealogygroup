@@ -9,7 +9,7 @@ ref: slave-records-module-3
 last_modified_at: 2026-02-27
 ---
 
-*Parte del curso [Investigación de Registros de Esclavitud en Puerto Rico](/es/guias-investigacion/registros-esclavos/).*
+*Parte del curso [Investigando a Antepasados Esclavizados en Puerto Rico](/es/guias-investigacion/registros-esclavos/).*
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: guide
-title: "Investigación Corsa y Puertorriqueña: Recursos y Proceso"
+title: "Rastreando Antepasados Corsos en Puerto Rico: Recursos y Proceso"
 description: "Una guía paso a paso para rastrear una línea familiar entre Puerto Rico y Córcega: dónde están los registros en Puerto Rico, España, Córcega, Francia y Génova, cómo usarlos en orden y qué esperar en cuanto a acceso, idioma y vacíos."
 difficulty: intermediate
 lang: es
@@ -27,10 +27,10 @@ Siga estos pasos en orden. Cada uno produce la pista que necesita el siguiente.
 
 1. **Reúna lo que la familia sabe.** Nombres, fechas aproximadas, pueblos y cualquier historia. Trate la tradición familiar como una pista, no como evidencia.
 2. **Encuentre al ancestro en los registros puertorriqueños que están al alcance en línea.** El registro civil (FamilySearch lo indica como 1805 a 2002; el registro generalizado comienza en 1885) y los censos federales (1910 a 1950) son la forma más rápida de llegar a la generación inmigrante (vea [Navegar Registros Civiles](/es/guias-investigacion/navegar-registros-civiles/) y [Registros Censales](/es/guias-investigacion/registros-censales/)).
-3. **Use los registros parroquiales junto con los registros civiles, especialmente antes de 1885.** Los bautismos, matrimonios y entierros con frecuencia indican el origen de una persona nacida en el extranjero (*natural de*, *oriundo de*, *natural de la isla de Córcega*). Tenga cuidado con *vecino de*: indica dónde vivía la persona, y la residencia no establece el lugar de nacimiento. Lea primero la restricción de Mayagüez si su familia vivió en el oeste ([Registros Eclesiásticos Católicos: Límites de Acceso y Alternativas](/es/guias-investigacion/acceso-registros-parroquiales/)).
+3. **Use los registros parroquiales junto con los registros civiles, especialmente antes de 1885.** Los bautismos, matrimonios y entierros con frecuencia indican el origen de una persona nacida en el extranjero (*natural de*, *oriundo de*, *natural de la isla de Córcega*). Tenga cuidado con *vecino de*: indica dónde vivía la persona, y la residencia no establece el lugar de nacimiento. Lea primero la restricción de Mayagüez si su familia vivió en el oeste ([Registros Eclesiásticos Católicos de Puerto Rico: Límites de Acceso y Alternativas](/es/guias-investigacion/acceso-registros-parroquiales/)).
 4. **Busque el rastro del proceso de inmigración.** Los inmigrantes del siglo XIX con frecuencia aparecen en cartas de domicilio, peticiones de naturalización y expedientes de residencia. Comience con la colección de FamilySearch *Puerto Rico, Records of Foreign Residents, 1815 to 1845*; son los registros con más probabilidad de nombrar un lugar de origen.
 5. **Consulte los catálogos impresos.** El catálogo de extranjeros de Estela Cifre de Loubriel enumera a los inmigrantes por país de origen, lo que le da un punto de partida antes de tocar un manuscrito.
-6. **Busque en los registros coloniales españoles y militares** si el ancestro llegó en el siglo XVIII o sirvió en una milicia ([Registros Militares de la Época Colonial Española](/es/guias-investigacion/registros-militares-coloniales/)).
+6. **Busque en los registros coloniales españoles y militares** si el ancestro llegó en el siglo XVIII o sirvió en una milicia ([Registros Militares de Puerto Rico: Época Colonial Española](/es/guias-investigacion/registros-militares-coloniales/)).
 7. **Lleve la localidad a Córcega.** Una vez que tenga un pueblo o una lista corta de candidatos, use los registros en línea de los archivos corsos y luego escriba al archivo para lo que no está en línea.
 8. **Cierre el círculo.** Compare el bautismo corso con el registro puertorriqueño por nombres de los padres, edad y cualquier detalle que sobreviva, y anote cómo razonó la identificación (vea [¿Qué Es el Estándar de Prueba Genealógica?](/es/guias-investigacion/estandar-prueba-genealogica/)).
 
@@ -220,8 +220,8 @@ Los escribanos españoles con frecuencia escribían los nombres extranjeros seg�
 
 - [Navegar Registros Civiles](/es/guias-investigacion/navegar-registros-civiles/)
 - [Registros Censales](/es/guias-investigacion/registros-censales/)
-- [Registros Eclesiásticos Católicos: Límites de Acceso y Alternativas](/es/guias-investigacion/acceso-registros-parroquiales/)
-- [Registros Militares de la Época Colonial Española](/es/guias-investigacion/registros-militares-coloniales/)
+- [Registros Eclesiásticos Católicos de Puerto Rico: Límites de Acceso y Alternativas](/es/guias-investigacion/acceso-registros-parroquiales/)
+- [Registros Militares de Puerto Rico: Época Colonial Española](/es/guias-investigacion/registros-militares-coloniales/)
 - [Patrones de Migración](/es/guias-investigacion/patrones-migracion/)
 - [ADN Puertorriqueño y Endogamia](/es/guias-investigacion/adn-puertorriqueno-endogamia/)
 

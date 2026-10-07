@@ -1,6 +1,6 @@
 ---
 layout: guide
-title: "Genealogical Spanish Glossary"
+title: "Spanish Genealogy Terms and Glossary"
 description: "Common Spanish terms found in Puerto Rican genealogical records — vital record terms, relationship terms, occupations, locations, and archive vocabulary."
 difficulty: beginner
 lang: en

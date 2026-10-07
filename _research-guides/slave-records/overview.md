@@ -1,6 +1,6 @@
 ---
 layout: guide
-title: "Puerto Rican Slave Record Research"
+title: "Researching Enslaved Ancestors in Puerto Rico"
 description: "A four-module beginner-to-intermediate course on locating, extracting, and using the 1872 Registro Central de Esclavos and related slave registers to trace enslaved ancestors in Puerto Rico."
 difficulty: beginner
 lang: en

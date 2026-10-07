@@ -1,6 +1,6 @@
 ---
 layout: guide
-title: "Census Records for Puerto Rican Genealogy"
+title: "Puerto Rican Census Records for Genealogy"
 description: "A ten-module advanced course on locating, analyzing, and correlating Puerto Rican census records across three political eras: Spanish Colonial (1765–1898), U.S. Military (1899), and U.S. Federal (1910–1950)."
 difficulty: advanced
 lang: en

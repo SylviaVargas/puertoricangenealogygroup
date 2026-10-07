@@ -1,6 +1,6 @@
 ---
 layout: guide
-title: "Migration Patterns and Mainland Records"
+title: "Puerto Rican Migration and U.S. Mainland Records"
 description: "A five-module intermediate course on tracing Puerto Rican ancestors who migrated to the United States mainland and Hawaii: departure records, federal and state records, key destination cities, and GPS-compliant bi-jurisdictional research."
 difficulty: intermediate
 lang: en

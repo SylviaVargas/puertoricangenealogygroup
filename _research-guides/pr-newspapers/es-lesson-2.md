@@ -9,7 +9,7 @@ ref: pr-newspapers-lesson-2
 last_modified_at: 2026-04-20
 ---
 
-*Parte del curso [Buscando Ancestros en Periódicos Históricos de Puerto Rico](/es/guias-investigacion/periodicos-pr/). Ver [Lección 1](/es/guias-investigacion/periodicos-pr-leccion-1/) para los antecedentes.*
+*Parte del curso [Periódicos Históricos de Puerto Rico para la Genealogía](/es/guias-investigacion/periodicos-pr/). Ver [Lección 1](/es/guias-investigacion/periodicos-pr-leccion-1/) para los antecedentes.*
 
 ---
 

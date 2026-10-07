@@ -7,11 +7,11 @@ lang: en
 permalink: /research-guides/spanish-colonial-military-module-2/
 ref: spanish-colonial-military-module-2
 last_modified_at: 2026-06-05
-parent_title: "Spanish Colonial Military Records"
+parent_title: "Puerto Rican Military Records: Spanish Colonial Era"
 parent_url: /research-guides/spanish-colonial-military/
 ---
 
-*Part of the [Spanish Colonial Military Records](/research-guides/spanish-colonial-military/) course.*
+*Part of the [Puerto Rican Military Records: Spanish Colonial Era](/research-guides/spanish-colonial-military/) course.*
 
 ---
 

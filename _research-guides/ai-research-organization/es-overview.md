@@ -1,6 +1,6 @@
 ---
 layout: guide
-title: "Herramientas de IA para Investigación y Organización"
+title: "Herramientas de IA para la Genealogía Puertorriqueña"
 description: "Un curso de cuatro módulos para principiantes sobre el uso de herramientas de IA como Gemini y Claude para hacer coincidir registros, organizar datos y planificar la investigación genealógica, con buenas prácticas alineadas con el GPS en cada módulo."
 difficulty: beginner
 lang: es

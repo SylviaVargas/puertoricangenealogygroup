@@ -9,7 +9,7 @@ ref: navigating-civil-records-module-1
 last_modified_at: 2026-02-25
 ---
 
-*Part of the [Navigating Puerto Rico's Civil Records (1885–Present)](/research-guides/navigating-civil-records/) teaching guide.*
+*Part of the [Puerto Rico Civil Registration Records (1885–Present)](/research-guides/navigating-civil-records/) teaching guide.*
 
 ---
 

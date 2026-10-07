@@ -1,6 +1,6 @@
 ---
 layout: guide
-title: "AI Tools for Research and Organization"
+title: "AI Tools for Puerto Rican Genealogy"
 description: "A four-module beginner course on using AI tools like Gemini and Claude to match records, organize data, and plan genealogical research — with GPS-aligned best practices throughout."
 difficulty: beginner
 lang: en

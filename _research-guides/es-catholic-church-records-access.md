@@ -1,6 +1,6 @@
 ---
 layout: guide
-title: "Registros Eclesiásticos Católicos: Límites de Acceso y Alternativas"
+title: "Registros Eclesiásticos Católicos de Puerto Rico: Límites de Acceso y Alternativas"
 description: "Qué hacer cuando un acta de bautismo, matrimonio o entierro de una parroquia de Puerto Rico no está en FamilySearch, incluyendo la restricción actual de la Diócesis de Mayagüez y una estrategia de fuentes alternativas conforme al GPS."
 difficulty: intermediate
 lang: es

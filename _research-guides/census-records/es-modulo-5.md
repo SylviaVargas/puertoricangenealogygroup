@@ -9,7 +9,7 @@ ref: census-records-module-5
 last_modified_at: 2026-02-26
 ---
 
-*Parte del curso [Registros Censales para la Genealogía Puertorriqueña](/es/guias-investigacion/registros-censales/).*
+*Parte del curso [Registros Censales de Puerto Rico para la Genealogía](/es/guias-investigacion/registros-censales/).*
 
 ---
 

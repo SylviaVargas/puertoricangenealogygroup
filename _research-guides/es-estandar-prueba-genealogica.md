@@ -1,6 +1,6 @@
 ---
 layout: guide
-title: "El Estándar de Prueba Genealógica"
+title: "Aplicando el Estándar de Prueba Genealógica"
 description: "Entiende los cinco elementos que definen qué hace confiable una conclusión genealógica — y cómo se aplican a la investigación puertorriqueña."
 difficulty: intermediate
 lang: es

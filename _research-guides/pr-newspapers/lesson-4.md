@@ -9,7 +9,7 @@ ref: pr-newspapers-lesson-4
 last_modified_at: 2026-04-20
 ---
 
-*Part of the [Looking for Ancestors in Historical Puerto Rican Newspapers](/research-guides/pr-newspapers/) course. See [Lesson 3](/research-guides/pr-newspapers-lesson-3/) before continuing.*
+*Part of the [Puerto Rican Historical Newspapers for Genealogy](/research-guides/pr-newspapers/) course. See [Lesson 3](/research-guides/pr-newspapers-lesson-3/) before continuing.*
 
 ---
 

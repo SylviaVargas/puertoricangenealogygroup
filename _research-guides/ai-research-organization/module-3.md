@@ -12,7 +12,7 @@ related_guides:
   - /ai-best-practices/
 ---
 
-*Part of the [AI Tools for Research and Organization](/research-guides/ai-research-organization/) course.*
+*Part of the [AI Tools for Puerto Rican Genealogy](/research-guides/ai-research-organization/) course.*
 
 ---
 

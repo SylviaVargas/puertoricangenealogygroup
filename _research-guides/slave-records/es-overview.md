@@ -1,6 +1,6 @@
 ---
 layout: guide
-title: "Investigación de Registros de Esclavitud en Puerto Rico"
+title: "Investigando a Antepasados Esclavizados en Puerto Rico"
 description: "Un curso práctico de cuatro módulos, de nivel principiante a intermedio, sobre cómo localizar, extraer y usar el Registro Central de Esclavos de 1872 y registros relacionados para rastrear antepasados esclavizados en Puerto Rico."
 difficulty: beginner
 lang: es

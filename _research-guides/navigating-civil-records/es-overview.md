@@ -1,6 +1,6 @@
 ---
 layout: guide
-title: "Navegando los Registros Civiles de Puerto Rico (1885–Presente)"
+title: "Registros del Registro Civil de Puerto Rico (1885–Presente)"
 description: "Una guía de enseñanza de cinco módulos para investigadores intermedios. Avanza de las búsquedas básicas por nombre al manejo avanzado del archivo digital del Registro Demográfico, con práctica usando documentos originales de Rincón."
 difficulty: intermediate
 lang: es

@@ -1,6 +1,6 @@
 ---
 layout: guide
-title: "Looking for Ancestors in Historical Puerto Rican Newspapers"
+title: "Puerto Rican Historical Newspapers for Genealogy"
 description: "A 5-lesson intermediate course on finding and using digitized Puerto Rican historical newspapers for genealogy. All free platforms. Includes a real 1872 Rincón case study and search strategies for slavery-related records."
 difficulty: intermediate
 lang: en

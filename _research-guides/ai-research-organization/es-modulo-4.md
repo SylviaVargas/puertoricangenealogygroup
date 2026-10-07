@@ -13,7 +13,7 @@ related_guides:
   - /es/ia-mejores-practicas/
 ---
 
-*Parte del curso [Herramientas de IA para Investigación y Organización](/es/guias-investigacion/ia-investigacion-organizacion/).*
+*Parte del curso [Herramientas de IA para la Genealogía Puertorriqueña](/es/guias-investigacion/ia-investigacion-organizacion/).*
 
 ---
 

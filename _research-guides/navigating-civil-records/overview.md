@@ -1,6 +1,6 @@
 ---
 layout: guide
-title: "Navigating Puerto Rico's Civil Records (1885–Present)"
+title: "Puerto Rico Civil Registration Records (1885–Present)"
 description: "A five-module teaching guide for intermediate researchers. Move from basic name searches to advanced digital browsing of the Registro Demográfico, with hands-on practice using original Rincón records."
 difficulty: intermediate
 lang: en

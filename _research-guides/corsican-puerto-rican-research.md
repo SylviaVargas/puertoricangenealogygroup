@@ -1,6 +1,6 @@
 ---
 layout: guide
-title: "Corsican and Puerto Rican Research: Resources and Process"
+title: "Tracing Corsican Ancestors in Puerto Rico: Resources and Process"
 description: "A step-by-step guide to tracing a family line between Puerto Rico and Corsica: where the records live in Puerto Rico, Spain, Corsica, France, and Genoa, how to use them in order, and what to expect in access, language, and gaps."
 difficulty: intermediate
 lang: en
@@ -27,10 +27,10 @@ Work through these steps in order. Each one produces the clue the next step need
 
 1. **Pull together what the family knows.** Names, approximate dates, towns, and any stories. Treat the family tradition as a lead, not as evidence.
 2. **Find the ancestor in Puerto Rico records you can reach online.** Civil registration (FamilySearch lists the collection as 1805 to 2002; widespread registration begins in 1885) and the federal censuses (1910 to 1950) are the fastest way back to the immigrant generation (see [Navigating Civil Records](/research-guides/navigating-civil-records/) and [Census Records](/research-guides/census-records/)).
-3. **Use parish registers alongside civil records, especially before 1885.** Baptisms, marriages, and burials often state the origin of a foreign-born person (*natural de*, *oriundo de*, *natural de la isla de Córcega*). Be careful with *vecino de*: it states where a person lived, and residence does not establish birthplace. Read the Mayagüez restriction first if your family lived in the west ([Catholic Church Records: Access Limits and Alternatives](/research-guides/catholic-church-records-access/)).
+3. **Use parish registers alongside civil records, especially before 1885.** Baptisms, marriages, and burials often state the origin of a foreign-born person (*natural de*, *oriundo de*, *natural de la isla de Córcega*). Be careful with *vecino de*: it states where a person lived, and residence does not establish birthplace. Read the Mayagüez restriction first if your family lived in the west ([Puerto Rican Catholic Church Records: Access Limits and Alternatives](/research-guides/catholic-church-records-access/)).
 4. **Look for the immigration paper trail.** Nineteenth-century arrivals often appear in letters of domicile, naturalization petitions, and residence files. Start with FamilySearch's *Puerto Rico, Records of Foreign Residents, 1815 to 1845*; these are the records most likely to name a place of origin.
 5. **Check the printed catalogs.** Estela Cifre de Loubriel's catalog of foreigners lists immigrants by country of origin, which gives you a place to start before touching a manuscript.
-6. **Search Spanish colonial and military records** if the ancestor arrived in the 1700s or served in a militia ([Spanish Colonial Military Records](/research-guides/spanish-colonial-military/)).
+6. **Search Spanish colonial and military records** if the ancestor arrived in the 1700s or served in a militia ([Puerto Rican Military Records: Spanish Colonial Era](/research-guides/spanish-colonial-military/)).
 7. **Take the locality to Corsica.** Once you have a village or a short list of candidates, use the Corsican archives' online registers, then write to the archive for what is not online.
 8. **Close the loop.** Match the Corsican baptism to the Puerto Rican record by names of parents, age, and any surviving details, and write down how the identification was reasoned (see [What Is the GPS?](/research-guides/genealogical-proof-standard/)).
 
@@ -190,7 +190,7 @@ Spanish clerks often wrote foreign names as they heard them, and Corsican priest
 | Corsica Genealugia | Not stated | Membership for database | French; contact first |
 | Genoa State Archive | Not stated | Not stated | Italian; Latin in early records |
 
-**Language and script.** Puerto Rican registers use Spanish colonial abbreviations. Corsican parish registers are in Latin or Italian, and Corsican civil registers are in Italian until the change to French (about 1820 to 1850, by commune); handwriting varies. Study sample entries before searching ([Genealogical Spanish Glossary](/research-guides/genealogical-spanish-glossary/)).
+**Language and script.** Puerto Rican registers use Spanish colonial abbreviations. Corsican parish registers are in Latin or Italian, and Corsican civil registers are in Italian until the change to French (about 1820 to 1850, by commune); handwriting varies. Study sample entries before searching ([Spanish Genealogy Terms and Glossary](/research-guides/genealogical-spanish-glossary/)).
 
 **Record gaps.** Fires, hurricanes, and war have destroyed local registers. Ask the archive about the status of a given parish or commune before assuming a record exists or does not.
 
@@ -220,8 +220,8 @@ Spanish clerks often wrote foreign names as they heard them, and Corsican priest
 
 - [Navigating Civil Records](/research-guides/navigating-civil-records/)
 - [Census Records](/research-guides/census-records/)
-- [Catholic Church Records: Access Limits and Alternatives](/research-guides/catholic-church-records-access/)
-- [Spanish Colonial Military Records](/research-guides/spanish-colonial-military/)
+- [Puerto Rican Catholic Church Records: Access Limits and Alternatives](/research-guides/catholic-church-records-access/)
+- [Puerto Rican Military Records: Spanish Colonial Era](/research-guides/spanish-colonial-military/)
 - [Migration Patterns](/research-guides/migration-patterns/)
 - [Puerto Rican DNA and Endogamy](/research-guides/puerto-rican-dna-endogamy/)
 

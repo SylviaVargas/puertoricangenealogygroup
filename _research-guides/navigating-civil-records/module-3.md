@@ -9,7 +9,7 @@ ref: navigating-civil-records-module-3
 last_modified_at: 2026-02-25
 ---
 
-*Part of the [Navigating Puerto Rico's Civil Records (1885–Present)](/research-guides/navigating-civil-records/) teaching guide.*
+*Part of the [Puerto Rico Civil Registration Records (1885–Present)](/research-guides/navigating-civil-records/) teaching guide.*
 
 ---
 
@@ -48,7 +48,7 @@ The FamilySearch Catalog gives you direct access to digital images organized by 
 
 > **Tip:** When browsing, note the volume organization. Civil registration volumes are typically arranged by record type (births, marriages, deaths) and then by year. The spine or first pages of each volume usually indicate the date range covered.
 
-> **The Catalog is not the only door.** FamilySearch also has a separate **Images** search at `familysearch.org/en/records/images/` that queries the digitized images directly and filters by the archival body that created them. For Puerto Rico's municipal records, it surfaces material the Catalog route can be slow to reach. See [Padrones and the FamilySearch Image Search](/research-guides/padrones-image-search/).
+> **The Catalog is not the only door.** FamilySearch also has a separate **Images** search at `familysearch.org/en/records/images/` that queries the digitized images directly and filters by the archival body that created them. For Puerto Rico's municipal records, it surfaces material the Catalog route can be slow to reach. See [Puerto Rican Padrones and Population Registers: FamilySearch Image Search](/research-guides/padrones-image-search/).
 
 ---
 

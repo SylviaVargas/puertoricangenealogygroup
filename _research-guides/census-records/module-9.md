@@ -9,7 +9,7 @@ ref: census-records-module-9
 last_modified_at: 2026-06-10
 ---
 
-*Part of the [Census Records for Puerto Rican Genealogy](/research-guides/census-records/) course.*
+*Part of the [Puerto Rican Census Records for Genealogy](/research-guides/census-records/) course.*
 
 ---
 

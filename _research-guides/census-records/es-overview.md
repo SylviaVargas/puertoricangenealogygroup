@@ -1,6 +1,6 @@
 ---
 layout: guide
-title: "Registros Censales para la Genealogía Puertorriqueña"
+title: "Registros Censales de Puerto Rico para la Genealogía"
 description: "Un curso avanzado de diez módulos sobre cómo localizar, analizar y correlacionar registros censales puertorriqueños en tres eras políticas: Colonial Española (1765–1898), Militar Estadounidense (1899) y Federal Estadounidense (1910–1950)."
 difficulty: advanced
 lang: es

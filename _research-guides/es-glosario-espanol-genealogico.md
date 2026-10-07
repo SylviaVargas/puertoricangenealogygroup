@@ -1,6 +1,6 @@
 ---
 layout: guide
-title: "Glosario de Español Genealógico"
+title: "Términos y Glosario de Español Genealógico"
 description: "Términos comunes en español encontrados en registros genealógicos puertorriqueños: registros vitales, parentesco, ocupaciones, lugares y vocabulario de archivo."
 difficulty: beginner
 lang: es

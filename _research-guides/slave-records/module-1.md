@@ -9,7 +9,7 @@ ref: slave-records-module-1
 last_modified_at: 2026-02-27
 ---
 
-*Part of the [Puerto Rican Slave Record Research](/research-guides/slave-records/) course.*
+*Part of the [Researching Enslaved Ancestors in Puerto Rico](/research-guides/slave-records/) course.*
 
 ---
 

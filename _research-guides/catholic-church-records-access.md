@@ -1,6 +1,6 @@
 ---
 layout: guide
-title: "Catholic Church Records: Access Limits and Alternatives"
+title: "Puerto Rican Catholic Church Records: Access Limits and Alternatives"
 description: "What to do when a Puerto Rico parish baptism, marriage, or burial register is not on FamilySearch, including the current Diocese of Mayagüez access restriction and a GPS-compliant alternative source strategy."
 difficulty: intermediate
 lang: en

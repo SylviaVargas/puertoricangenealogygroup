@@ -1,6 +1,6 @@
 ---
 layout: guide
-title: "Registros Militares de la Época Colonial Española"
+title: "Registros Militares de Puerto Rico: Época Colonial Española"
 description: "Un curso intermedio de cinco módulos para investigar antepasados puertorriqueños en los registros militares coloniales españoles: filiaciones, listas de revista, acceso a repositorios y estrategias de investigación compatibles con el GPS."
 difficulty: intermediate
 lang: es
