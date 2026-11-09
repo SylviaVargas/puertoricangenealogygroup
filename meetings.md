@@ -30,10 +30,10 @@ PuertoRicanGenealogy.org hosts regular virtual meetings where members can learn,
 
 <div id="upcoming-meeting" class="meeting-card">
   <div class="meeting-card-label">Upcoming Meeting</div>
-  <h3><a href="{{ '/meeting-november-2026/' | relative_url }}">November 2026 Meeting: A Conversation with Dr. Antonio Sotomayor</a></h3>
-  <p>An informal interview with historian and genealogist Dr. Antonio Sotomayor, followed by questions from the group.</p>
+  <h3><a href="{{ '/meeting-december-2026/' | relative_url }}">December 2026 Meeting: César Zapata-Lozada on His Upcoming Book</a></h3>
+  <p>César Zapata-Lozada discusses his upcoming book on the families and records of southwestern Puerto Rico.</p>
   <div class="meeting-card-details">
-    <span>Monday, November 9, 2026</span>
+    <span>Monday, December 14, 2026</span>
     <span>7:00 PM EST / 8:00 PM PR / 4:00 PM PST</span>
   </div>
   <a href="https://us06web.zoom.us/meeting/register/chSyaQqxRzSxOaeXxJmM0Q" class="btn btn-primary" target="_blank" rel="noopener noreferrer">Register Now</a>
@@ -76,6 +76,7 @@ Our meetings are hosted on Zoom. <a href="https://us06web.zoom.us/meeting/regist
 
 #### 2026
 
+- November 2026: "A Conversation with Dr. Antonio Sotomayor"
 - October 2026: "DNA and Puerto Rican Genealogy, Part 2" with Cary Bright
 - September 2026: "DNA and Puerto Rican Genealogy, Part 1" with Cary Bright
 - August 2026: "Hiding in Plain Sight" with María Silva Rivera, plus "Spain, Puerto Ricans, and the American Revolution" with Joe Maldonado, rescheduled from July

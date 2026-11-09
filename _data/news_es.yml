@@ -13,9 +13,16 @@
 # Mantenimiento: agregar entradas nuevas al inicio. Cambiar featured anterior a false.
 # Para archivar: mover entradas con más de ~12 meses a _data/news_es_archive_YYYY.yml
 
+- date: 2026-11-09
+  category: funciones
+  featured: true
+  title: "Próxima Reunión: Diciembre 2026, César Zapata-Lozada sobre su Próximo Libro"
+  body: "Nuestra reunión de diciembre ya está abierta para registro. Únete a nosotros el lunes 14 de diciembre para escuchar a César Zapata-Lozada hablar sobre su próximo libro acerca de las familias y los documentos del suroeste de Puerto Rico."
+  link: /es/reunion-diciembre-2026/
+
 - date: 2026-10-05
   category: guias
-  featured: true
+  featured: false
   title: "Nueva Guía: Investigación Corsa y Puertorriqueña"
   body: "Una nueva guía bilingüe de investigación explica cómo rastrear una línea familiar entre Puerto Rico y Córcega: dónde están los registros en Puerto Rico, España, Córcega y Génova, el orden para usarlos, variantes de nombres y un glosario en cuatro idiomas."
   link: /es/guias-investigacion/investigacion-corsa-puertorriquena/

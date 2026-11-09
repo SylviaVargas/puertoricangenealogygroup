@@ -30,10 +30,10 @@ El PuertoRicanGenealogy.org organiza reuniones virtuales regulares donde los mie
 
 <div id="proxima-reunion" class="meeting-card">
   <div class="meeting-card-label">Próxima Reunión</div>
-  <h3><a href="{{ '/es/reunion-noviembre-2026/' | relative_url }}">Reunión de Noviembre 2026: Una Conversación con el Dr. Antonio Sotomayor</a></h3>
-  <p>Una entrevista informal con el historiador y genealogista Dr. Antonio Sotomayor, seguida de preguntas del grupo.</p>
+  <h3><a href="{{ '/es/reunion-diciembre-2026/' | relative_url }}">Reunión de Diciembre 2026: César Zapata-Lozada sobre su Próximo Libro</a></h3>
+  <p>César Zapata-Lozada habla sobre su próximo libro acerca de las familias y los documentos del suroeste de Puerto Rico.</p>
   <div class="meeting-card-details">
-    <span>Lunes, 9 de noviembre de 2026</span>
+    <span>Lunes, 14 de diciembre de 2026</span>
     <span>7:00 PM EST / 8:00 PM PR / 4:00 PM PST</span>
   </div>
   <a href="https://us06web.zoom.us/meeting/register/chSyaQqxRzSxOaeXxJmM0Q" class="btn btn-primary" target="_blank" rel="noopener noreferrer">Regístrate Ahora</a>
@@ -76,6 +76,7 @@ Nuestras reuniones se realizan a través de Zoom. <a href="https://us06web.zoom.
 
 #### 2026
 
+- Noviembre 2026: "Una Conversación con el Dr. Antonio Sotomayor"
 - Octubre 2026: "ADN y Genealogía Puertorriqueña, Parte 2" con Cary Bright
 - Septiembre 2026: "ADN y Genealogía Puertorriqueña, Parte 1" con Cary Bright
 - Agosto 2026: "Escondido a Plena Vista" con María Silva Rivera, más "España, los Puertorriqueños y la Revolución Americana" con Joe Maldonado, reprogramada desde julio
