@@ -5,7 +5,7 @@ description: "Reuniones virtuales mensuales gratuitas para investigadores de gen
 lang: es
 permalink: /es/reuniones/
 ref: meetings
-last_modified_at: 2026-10-04
+last_modified_at: 2026-11-09
 ---
 
 ## Únete a Nuestras Reuniones Virtuales
@@ -30,26 +30,13 @@ El PuertoRicanGenealogy.org organiza reuniones virtuales regulares donde los mie
 
 <div id="proxima-reunion" class="meeting-card">
   <div class="meeting-card-label">Próxima Reunión</div>
-  <h3><a href="{{ '/es/reunion-octubre-2026/' | relative_url }}">Reunión de Octubre 2026</a></h3>
-  <p>Únete a nosotros para la Parte 2 de nuestra serie sobre ADN, mientras Cary Bright regresa para continuar nuestra exploración del uso de evidencia de ADN en la investigación genealógica puertorriqueña.</p>
+  <h3><a href="{{ '/es/reunion-noviembre-2026/' | relative_url }}">Reunión de Noviembre 2026: Una Conversación con el Dr. Antonio Sotomayor</a></h3>
+  <p>Una entrevista informal con el historiador y genealogista Dr. Antonio Sotomayor, seguida de preguntas del grupo.</p>
   <div class="meeting-card-details">
-    <span>Lunes, 12 de octubre de 2026</span>
-    <span>7:00 PM EDT / 7:00 PM PR / 4:00 PM PDT</span>
+    <span>Lunes, 9 de noviembre de 2026</span>
+    <span>7:00 PM EST / 8:00 PM PR / 4:00 PM PST</span>
   </div>
   <a href="https://us06web.zoom.us/meeting/register/chSyaQqxRzSxOaeXxJmM0Q" class="btn btn-primary" target="_blank" rel="noopener noreferrer">Regístrate Ahora</a>
-</div>
-
-<h3 class="upcoming-more-label">Más Próximas Reuniones</h3>
-<div class="card-grid">
-
-<div class="card meeting-grid-card">
-<div class="card-title">Noviembre 2026: Una Conversación con el Dr. Antonio Sotomayor</div>
-<div class="card-desc">Una entrevista informal con el historiador y genealogista Dr. Antonio Sotomayor, seguida de preguntas del grupo. Lunes, 9 de noviembre de 2026.<br><strong>7:00 PM EST / 8:00 PM PR / 4:00 PM PST</strong></div>
-<div class="card-footer">
-<a href="{{ '/es/reunion-noviembre-2026/' | relative_url }}" class="card-link">Ver Detalles &#8594;</a>
-</div>
-</div>
-
 </div>
 
 <div id="encuesta-miembros" class="poll-callout">
@@ -89,6 +76,7 @@ Nuestras reuniones se realizan a través de Zoom. <a href="https://us06web.zoom.
 
 #### 2026
 
+- Octubre 2026: "ADN y Genealogía Puertorriqueña, Parte 2" con Cary Bright
 - Septiembre 2026: "ADN y Genealogía Puertorriqueña, Parte 1" con Cary Bright
 - Agosto 2026: "Escondido a Plena Vista" con María Silva Rivera, más "España, los Puertorriqueños y la Revolución Americana" con Joe Maldonado, reprogramada desde julio
 - Julio 2026: "España, los Puertorriqueños y la Revolución Americana" con Joe Maldonado (presentación cancelada debido a enfermedad, reprogramada para el 10 de agosto); los miembros compartieron avances, obstáculos y consejos de investigación
