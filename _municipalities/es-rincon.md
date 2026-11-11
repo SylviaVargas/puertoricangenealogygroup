@@ -1,7 +1,7 @@
 ---
 layout: municipality
 title: "Rincón: Registros Genealógicos"
-description: "Rincón, Puerto Rico: registros civiles desde 1885, parroquia Santa Rosa de Lima desde 1771, 8 barrios, municipio en la costa oeste, FamilySearch."
+description: "Rincón, Puerto Rico: registros civiles desde 1885, parroquia Santa Rosa de Lima desde 1771, 10 barrios, municipio en la costa oeste, FamilySearch."
 lang: es
 ref: municipality-rincon
 muni_id: rincon
