@@ -12,11 +12,18 @@
 #
 # Maintenance: add new entries at the top. Move old featured to non-featured.
 # To archive: move entries older than ~12 months to _data/news_archive_YYYY.yml
-- date: 2026-11-09
+- date: 2026-11-13
   category: features
   featured: true
-  title: "Upcoming: December 2026 Meeting, César Zapata-Lozada on His Upcoming Book"
-  body: "Our December meeting is now open for registration. Join us on Monday, December 14 as César Zapata-Lozada discusses his upcoming book on the families and records of southwestern Puerto Rico."
+  title: "Upcoming: January 2027 Meeting, Members' Sharing Night"
+  body: "Our January meeting is open for registration. Join us on Monday, January 11 for an open evening of member discoveries, brick walls, and research goals for the new year."
+  link: /meeting-january-2027/
+
+- date: 2026-11-09
+  category: features
+  featured: false
+  title: "Upcoming: December 2026 Meeting, César A. Zapata Lozada on Cabo Rojo Death Records (1833 to 1838)"
+  body: "Our December meeting is now open for registration. Join us on Monday, December 14 as César A. Zapata Lozada discusses his new book on the death records of the San Miguel Arcángel parish in Cabo Rojo."
   link: /meeting-december-2026/
 
 - date: 2026-10-05

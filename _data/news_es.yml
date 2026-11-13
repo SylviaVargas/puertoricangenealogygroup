@@ -13,11 +13,18 @@
 # Mantenimiento: agregar entradas nuevas al inicio. Cambiar featured anterior a false.
 # Para archivar: mover entradas con más de ~12 meses a _data/news_es_archive_YYYY.yml
 
-- date: 2026-11-09
+- date: 2026-11-13
   category: funciones
   featured: true
-  title: "Próxima Reunión: Diciembre 2026, César Zapata-Lozada sobre su Próximo Libro"
-  body: "Nuestra reunión de diciembre ya está abierta para registro. Únete a nosotros el lunes 14 de diciembre para escuchar a César Zapata-Lozada hablar sobre su próximo libro acerca de las familias y los documentos del suroeste de Puerto Rico."
+  title: "Próxima Reunión: Enero 2027, Noche de Intercambio entre Miembros"
+  body: "Nuestra reunión de enero ya está abierta para registro. Únete a nosotros el lunes 11 de enero para una noche abierta de descubrimientos, obstáculos y metas de investigación del nuevo año."
+  link: /es/reunion-enero-2027/
+
+- date: 2026-11-09
+  category: funciones
+  featured: false
+  title: "Próxima Reunión: Diciembre 2026, César A. Zapata Lozada sobre los Registros de Defunción de Cabo Rojo (1833 a 1838)"
+  body: "Nuestra reunión de diciembre ya está abierta para registro. Únete a nosotros el lunes 14 de diciembre para escuchar a César A. Zapata Lozada hablar sobre su nuevo libro acerca de los registros de defunción de la parroquia San Miguel Arcángel de Cabo Rojo."
   link: /es/reunion-diciembre-2026/
 
 - date: 2026-10-05

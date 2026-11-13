@@ -4,11 +4,11 @@ title: Reunión de Diciembre 2026
 lang: es
 permalink: /es/reunion-diciembre-2026/
 ref: meeting-december-2026
-last_modified_at: 2026-11-09
+last_modified_at: 2026-11-13
 parent_title: Reuniones
 parent_url: /es/reuniones/
-event_name: "Reunión de Diciembre 2026: César Zapata-Lozada sobre su Próximo Libro"
-event_description: "Reunión mensual de genealogía puertorriqueña por Zoom con César Zapata-Lozada, quien hablará sobre su próximo libro."
+event_name: "Reunión de Diciembre 2026: César A. Zapata Lozada sobre los Registros de Defunción de Cabo Rojo (1833 a 1838)"
+event_description: "Reunión mensual de genealogía puertorriqueña por Zoom con César A. Zapata Lozada, quien hablará sobre su nuevo libro sobre los registros de defunción de la parroquia San Miguel Arcángel de Cabo Rojo, 1833 a 1838."
 event_start: "2026-12-14T16:00:00-08:00"
 event_end: "2026-12-14T18:00:00-08:00"
 event_url: "https://us06web.zoom.us/meeting/register/chSyaQqxRzSxOaeXxJmM0Q"
@@ -19,16 +19,18 @@ event_status: "EventScheduled"
 
 **Lunes, 14 de diciembre de 2026**
 
-### César Zapata-Lozada sobre su Próximo Libro
+### César A. Zapata Lozada sobre los Registros de Defunción de Cabo Rojo (1833 a 1838)
 
-Únete a nosotros mientras César Zapata-Lozada habla sobre su próximo libro, basado en su investigación sobre las familias y los documentos del suroeste de Puerto Rico. El título y los detalles de publicación se anunciarán aquí.
+Únete a nosotros mientras César A. Zapata Lozada habla sobre su nuevo libro, <em>Parroquia San Miguel Arcángel de Cabo Rojo: Libro Noveno de Defunciones (1833–1838). Transcripción y Análisis</em>. El libro transcribe y analiza los registros de defunción de la parroquia San Miguel Arcángel de Cabo Rojo de 1833 a 1838.
 
 ### Presentación Especial
 
-**César Zapata-Lozada** regresa después de su presentación de febrero de 2026 sobre las actas de cabildo. Lee más sobre esa sesión en la <a href="{{ '/es/reunion-febrero-2026/' | relative_url }}">página de la reunión de febrero de 2026</a>.
+**César A. Zapata Lozada** regresa después de su presentación de febrero de 2026 sobre las actas de cabildo. Lee más sobre esa sesión en la <a href="{{ '/es/reunion-febrero-2026/' | relative_url }}">página de la reunión de febrero de 2026</a>.
 
 **Antes de la reunión, quizás quieras explorar:**
 
+- <a href="https://www.amazon.com/Und%C3%A9cimo-Bautismos-1820-1824-Parroquia-Arc%C3%A1ngel/dp/1660855179/" target="_blank" rel="noopener noreferrer"><em>Un tomo anterior de la serie en Amazon</em></a>, una transcripción de los bautismos de la parroquia de Cabo Rojo (1820 a 1824)
+- <a href="https://genus-meridiem-pr.blogspot.com/2026/11/proximamente-libro-noveno-de.html" target="_blank" rel="noopener noreferrer"><em>Su anuncio en el blog</em></a>, que presenta el libro y su contenido, incluidas 2,187 actas de defunción transcritas
 - <a href="https://genus-meridiem-pr.blogspot.com/" target="_blank" rel="noopener noreferrer"><em>Genus Meridiem PR</em></a>, su blog sobre investigación genealógica e historia local del suroeste de Puerto Rico
 
 ---
@@ -47,7 +49,7 @@ event_status: "EventScheduled"
 
 ### Temas a Tratar
 
-- **Su próximo libro**: De qué trata y cómo se desarrolló
+- **Su nuevo libro**: Los registros de defunción de Cabo Rojo de 1833 a 1838 y cómo se desarrolló el volumen
 - **Investigación y fuentes**: Los documentos y métodos detrás de la obra
 - **Preguntas del grupo**: Pregúntale a César sobre tu propia investigación
 

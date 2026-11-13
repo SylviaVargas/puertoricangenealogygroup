@@ -5,7 +5,7 @@ description: "Free monthly virtual meetings for Puerto Rican genealogy researche
 lang: en
 permalink: /meetings/
 ref: meetings
-last_modified_at: 2026-11-09
+last_modified_at: 2026-11-13
 ---
 
 ## Join Our Virtual Meetings
@@ -21,6 +21,7 @@ PuertoRicanGenealogy.org hosts regular virtual meetings where members can learn,
     <li><a href="#member-poll">Member Poll</a></li>
     <li><a href="#what-to-expect">Why Join Our Meetings?</a></li>
     <li><a href="#how-to-register">How to Register</a></li>
+    <li><a href="#schedule-2027">2027 Schedule</a></li>
     <li><a href="#past-meeting-topics">Past Meeting Topics</a></li>
     <li><a href="#suggest-a-topic">Suggest a Topic</a></li>
   </ul>
@@ -30,10 +31,10 @@ PuertoRicanGenealogy.org hosts regular virtual meetings where members can learn,
 
 <div id="upcoming-meeting" class="meeting-card">
   <div class="meeting-card-label">Upcoming Meeting</div>
-  <h3><a href="{{ '/meeting-november-2026/' | relative_url }}">November 2026 Meeting: A Conversation with Dr. Antonio Sotomayor</a></h3>
-  <p>An informal interview with historian and genealogist Dr. Antonio Sotomayor, followed by questions from the group.</p>
+  <h3><a href="{{ '/meeting-december-2026/' | relative_url }}">December 2026 Meeting: César A. Zapata Lozada on Cabo Rojo Death Records (1833 to 1838)</a></h3>
+  <p>César A. Zapata Lozada discusses his new book on the death records of the San Miguel Arcángel parish in Cabo Rojo.</p>
   <div class="meeting-card-details">
-    <span>Monday, November 9, 2026</span>
+    <span>Monday, December 14, 2026</span>
     <span>7:00 PM EST / 8:00 PM PR / 4:00 PM PST</span>
   </div>
   <a href="https://us06web.zoom.us/meeting/register/chSyaQqxRzSxOaeXxJmM0Q" class="btn btn-primary" target="_blank" rel="noopener noreferrer">Register Now</a>
@@ -41,10 +42,10 @@ PuertoRicanGenealogy.org hosts regular virtual meetings where members can learn,
 
 <div id="next-meeting" class="meeting-card">
   <div class="meeting-card-label">Next Meeting</div>
-  <h3><a href="{{ '/meeting-december-2026/' | relative_url }}">December 2026 Meeting: César Zapata-Lozada on His Upcoming Book</a></h3>
-  <p>César Zapata-Lozada discusses his upcoming book on the families and records of southwestern Puerto Rico.</p>
+  <h3><a href="{{ '/meeting-january-2027/' | relative_url }}">January 2027 Meeting: Members' Sharing Night</a></h3>
+  <p>An open evening for members to share discoveries, brick walls, and research goals for the new year. No guest speaker.</p>
   <div class="meeting-card-details">
-    <span>Monday, December 14, 2026</span>
+    <span>Monday, January 11, 2027</span>
     <span>7:00 PM EST / 8:00 PM PR / 4:00 PM PST</span>
   </div>
   <a href="https://us06web.zoom.us/meeting/register/chSyaQqxRzSxOaeXxJmM0Q" class="btn btn-primary" target="_blank" rel="noopener noreferrer">Register Now</a>
@@ -83,10 +84,30 @@ Our meetings are hosted on Zoom. <a href="https://us06web.zoom.us/meeting/regist
 <div class="tip-callout"><strong>Tip:</strong> Check your Spam folder if the email does not arrive within a few minutes.</div>
 </details>
 
+### 2027 Schedule {#schedule-2027}
+
+We meet on the second Monday of the month. Topics and speakers will be announced as they are confirmed.
+
+| Date (Monday) | Eastern | Puerto Rico (AST) | Pacific | Topic |
+|---------------|---------|-------------------|---------|-------|
+| January 11 | 7:00 PM EST | 8:00 PM | 4:00 PM PST | [Members' Sharing Night](/meeting-january-2027/) |
+| February 8 | 7:00 PM EST | 8:00 PM | 4:00 PM PST | To be announced |
+| March 8 | 7:00 PM EST | 8:00 PM | 4:00 PM PST | To be announced |
+| April 12 | 7:00 PM EDT | 7:00 PM | 4:00 PM PDT | To be announced |
+| May 10 | 7:00 PM EDT | 7:00 PM | 4:00 PM PDT | To be announced |
+| June 14 | 7:00 PM EDT | 7:00 PM | 4:00 PM PDT | To be decided |
+| July 12 | 7:00 PM EDT | 7:00 PM | 4:00 PM PDT | To be announced |
+| August 9 | 7:00 PM EDT | 7:00 PM | 4:00 PM PDT | To be announced |
+| September 13 | 7:00 PM EDT | 7:00 PM | 4:00 PM PDT | To be announced |
+| October 11 | 7:00 PM EDT | 7:00 PM | 4:00 PM PDT | To be announced |
+| November 8 | 7:00 PM EST | 8:00 PM | 4:00 PM PST | To be announced |
+| December 13 | 7:00 PM EST | 8:00 PM | 4:00 PM PST | To be announced |
+
 ### Past Meeting Topics {#past-meeting-topics}
 
 #### 2026
 
+- November 2026: "A Conversation with Dr. Antonio Sotomayor," an informal interview followed by questions from the group
 - October 2026: "DNA and Puerto Rican Genealogy, Part 2" with Cary Bright
 - September 2026: "DNA and Puerto Rican Genealogy, Part 1" with Cary Bright
 - August 2026: "Hiding in Plain Sight" with María Silva Rivera, plus "Spain, Puerto Ricans, and the American Revolution" with Joe Maldonado, rescheduled from July

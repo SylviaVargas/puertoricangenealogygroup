@@ -5,7 +5,7 @@ description: "Reuniones virtuales mensuales gratuitas para investigadores de gen
 lang: es
 permalink: /es/reuniones/
 ref: meetings
-last_modified_at: 2026-11-09
+last_modified_at: 2026-11-13
 ---
 
 ## Únete a Nuestras Reuniones Virtuales
@@ -21,6 +21,7 @@ El PuertoRicanGenealogy.org organiza reuniones virtuales regulares donde los mie
     <li><a href="#encuesta-miembros">Encuesta de Miembros</a></li>
     <li><a href="#que-esperar">¿Por Qué Unirte?</a></li>
     <li><a href="#como-registrarse">Cómo Registrarse</a></li>
+    <li><a href="#calendario-2027">Calendario 2027</a></li>
     <li><a href="#temas-anteriores">Temas de Reuniones Anteriores</a></li>
     <li><a href="#sugiere-tema">Sugiere un Tema</a></li>
   </ul>
@@ -30,10 +31,10 @@ El PuertoRicanGenealogy.org organiza reuniones virtuales regulares donde los mie
 
 <div id="proxima-reunion" class="meeting-card">
   <div class="meeting-card-label">Próxima Reunión</div>
-  <h3><a href="{{ '/es/reunion-noviembre-2026/' | relative_url }}">Reunión de Noviembre 2026: Una Conversación con el Dr. Antonio Sotomayor</a></h3>
-  <p>Una entrevista informal con el historiador y genealogista Dr. Antonio Sotomayor, seguida de preguntas del grupo.</p>
+  <h3><a href="{{ '/es/reunion-diciembre-2026/' | relative_url }}">Reunión de Diciembre 2026: César A. Zapata Lozada sobre los Registros de Defunción de Cabo Rojo (1833 a 1838)</a></h3>
+  <p>César A. Zapata Lozada habla sobre su nuevo libro acerca de los registros de defunción de la parroquia San Miguel Arcángel de Cabo Rojo.</p>
   <div class="meeting-card-details">
-    <span>Lunes, 9 de noviembre de 2026</span>
+    <span>Lunes, 14 de diciembre de 2026</span>
     <span>7:00 PM EST / 8:00 PM PR / 4:00 PM PST</span>
   </div>
   <a href="https://us06web.zoom.us/meeting/register/chSyaQqxRzSxOaeXxJmM0Q" class="btn btn-primary" target="_blank" rel="noopener noreferrer">Regístrate Ahora</a>
@@ -41,10 +42,10 @@ El PuertoRicanGenealogy.org organiza reuniones virtuales regulares donde los mie
 
 <div id="siguiente-reunion" class="meeting-card">
   <div class="meeting-card-label">Siguiente Reunión</div>
-  <h3><a href="{{ '/es/reunion-diciembre-2026/' | relative_url }}">Reunión de Diciembre 2026: César Zapata-Lozada sobre su Próximo Libro</a></h3>
-  <p>César Zapata-Lozada habla sobre su próximo libro acerca de las familias y los documentos del suroeste de Puerto Rico.</p>
+  <h3><a href="{{ '/es/reunion-enero-2027/' | relative_url }}">Reunión de Enero 2027: Noche de Intercambio entre Miembros</a></h3>
+  <p>Una noche abierta para que los miembros compartan descubrimientos, obstáculos y metas de investigación del nuevo año. Sin orador invitado.</p>
   <div class="meeting-card-details">
-    <span>Lunes, 14 de diciembre de 2026</span>
+    <span>Lunes, 11 de enero de 2027</span>
     <span>7:00 PM EST / 8:00 PM PR / 4:00 PM PST</span>
   </div>
   <a href="https://us06web.zoom.us/meeting/register/chSyaQqxRzSxOaeXxJmM0Q" class="btn btn-primary" target="_blank" rel="noopener noreferrer">Regístrate Ahora</a>
@@ -83,10 +84,30 @@ Nuestras reuniones se realizan a través de Zoom. <a href="https://us06web.zoom.
 <div class="tip-callout"><strong>Consejo:</strong> Revisa tu carpeta de Spam si el correo no llega dentro de unos minutos.</div>
 </details>
 
+### Calendario 2027 {#calendario-2027}
+
+Nos reunimos el segundo lunes de cada mes. Los temas y oradores se anunciarán a medida que se confirmen.
+
+| Fecha (lunes) | Este | Puerto Rico (AST) | Pacífico | Tema |
+|---------------|------|-------------------|----------|------|
+| 11 de enero | 7:00 PM EST | 8:00 PM | 4:00 PM PST | [Noche de Intercambio entre Miembros](/es/reunion-enero-2027/) |
+| 8 de febrero | 7:00 PM EST | 8:00 PM | 4:00 PM PST | Por anunciar |
+| 8 de marzo | 7:00 PM EST | 8:00 PM | 4:00 PM PST | Por anunciar |
+| 12 de abril | 7:00 PM EDT | 7:00 PM | 4:00 PM PDT | Por anunciar |
+| 10 de mayo | 7:00 PM EDT | 7:00 PM | 4:00 PM PDT | Por anunciar |
+| 14 de junio | 7:00 PM EDT | 7:00 PM | 4:00 PM PDT | Por decidir |
+| 12 de julio | 7:00 PM EDT | 7:00 PM | 4:00 PM PDT | Por anunciar |
+| 9 de agosto | 7:00 PM EDT | 7:00 PM | 4:00 PM PDT | Por anunciar |
+| 13 de septiembre | 7:00 PM EDT | 7:00 PM | 4:00 PM PDT | Por anunciar |
+| 11 de octubre | 7:00 PM EDT | 7:00 PM | 4:00 PM PDT | Por anunciar |
+| 8 de noviembre | 7:00 PM EST | 8:00 PM | 4:00 PM PST | Por anunciar |
+| 13 de diciembre | 7:00 PM EST | 8:00 PM | 4:00 PM PST | Por anunciar |
+
 ### Temas de Reuniones Anteriores {#temas-anteriores}
 
 #### 2026
 
+- Noviembre 2026: "Una Conversación con el Dr. Antonio Sotomayor," una entrevista informal seguida de preguntas del grupo
 - Octubre 2026: "ADN y Genealogía Puertorriqueña, Parte 2" con Cary Bright
 - Septiembre 2026: "ADN y Genealogía Puertorriqueña, Parte 1" con Cary Bright
 - Agosto 2026: "Escondido a Plena Vista" con María Silva Rivera, más "España, los Puertorriqueños y la Revolución Americana" con Joe Maldonado, reprogramada desde julio
